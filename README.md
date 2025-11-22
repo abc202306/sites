@@ -11,6 +11,7 @@
 | **Academy** | |
 | [Encyclopedia Websites](#encyclopedia-websites) | <img src="assets/Wikipedia-logo-v2.svg.webp" width=32> <img src="assets/baidu-baike-icon.png" width=32> <img src="assets/moegirl-encyclopedia-icon.png" width=32> <img src="assets/hmoegirl-encyclopedia-icon.png" width=32> <img src="assets/wikihow-icon.png" width=32> <img src="assets/mbalib-wiki.png" width=32> <img src="assets/noteapps-info-icon.png" width=32> |
 | [Note-taking App Websites](#note-taking-app-websites) | <img src="assets/obsidian.png" width=32> <img src="assets/notion-icon.png" width=32> <img src="assets/anytype-icon.png" width=32> <img src="assets/tiddly-wiki-icon.png" width=32> <img src="assets/logseq-icon.png" width=32> <img src="assets/siyuan-note-icon.png" width=32> |
+| [Search Engine Websites](#search-engine-websites) | <img src="assets/google-search-icon.png" width=32> <img src="assets/bing-search-icon.png" width=32> <img src="assets/yandex-search-icon.png" width=32> <img src="assets/baidu-search-icon.png" width=32> <img src="assets/chongbuluo-search-icon.png" width=32> <img src="assets/saurcenao-search-icon.png" width=32> <img src="assets/soutubot-moe-icon.png" width=32> |
 ## Anime Websites
 
 | Name | Link | Description |
@@ -87,7 +88,7 @@
 | **Obsidian** | | |
 | <img src="assets/obsidian.png" width=50> | [Obsidian - Sharpen your thinking](https://obsidian.md/) | The free and flexible app for your private thoughts. |
 | **Notion** | | |
-| <img src="assets/notion-icon.png" width=50> | [Why we built Notion – About](https://notion.so) | A story of tools, the future of work, and how we want to blend your workflow into an all-in-one workspace. |
+| <img src="assets/notion-icon.png" width=50> | [Why we built Notion – About](https://notion.so/about) | A story of tools, the future of work, and how we want to blend your workflow into an all-in-one workspace. |
 | **Anytype** | | |
 | <img src="assets/anytype-icon.png" width=50> | [anytype — the everything app](https://anytype.io/) | for those who celebrate trust & autonomy. |
 | **TiddlyWiki** | | |
@@ -96,3 +97,25 @@
 | <img src="assets/logseq-icon.png" width=50> | [Logseq: A privacy-first, open-source knowledge base](https://logseq.com/) | A privacy-first, open-source platform for knowledge management and collaboration. |
 | **SiYuan** | | |
 | <img src="assets/siyuan-note-icon.png" width=50> | [SiYuan - Privacy-first personal knowledge management system that supports Markdown, block-level ref, and bidirectional links](https://b3log.org/siyuan/en/) | SiYuan - Privacy-first personal knowledge management system that supports Markdown, block-level ref, and bidirectional links |
+
+## Search Engine Websites
+
+| Name | Link | Description |
+| --- | --- | --- |
+| **Google Search** | | |
+| <img src="assets/google-search-icon.png" width=50> | [Google](https://www.google.com/) | Google Search (also known simply as Google or Google.com) is a search engine operated by Google. It allows users to search for information on the Internet by entering keywords or phrases. Google Search uses algorithms to analyze and rank websites based on their relevance to the search query. It is the most popular search engine worldwide. |
+| **Bing Search** | | |
+| <img src="assets/bing-search-icon.png" width=50> | [Search - Microsoft Bing](https://www.bing.com/) | Search with Microsoft Bing and use the power of AI to find information, explore webpages, images, videos, maps, and more. A smart search engine for the forever curious. |
+| **Yandex Search** | | |
+| <img src="assets/yandex-search-icon.png" width=50> | [Yandex — fast Internet search](https://yandex.com) | Yandex is a technology company that builds intelligent products and services powered by machine learning. |
+| **百度搜索** | | |
+| <img src="assets/baidu-search-icon.png" width=50> | [百度一下，你就知道](https://www.baidu.com/) | 全球领先的中文搜索引擎、致力于让网民更便捷地获取信息，找到所求。百度超过千亿的中文网页数据库，可以瞬间找到相关的搜索结果。 |
+| **虫部落** | | |
+| <img src="assets/chongbuluo-search-icon.png" width=50> | [虫部落 - 让搜索更简单](https://www.chongbuluo.com/) | 虫部落是一个纯粹的搜索知识、技术和经验分享平台，虫部落快搜、虫部落学术搜索等搜索聚合工具均为虫部落原创出品，搜索世界的乐趣，就在虫部落！|
+| **SauceNAO** | | |
+| <img src="assets/saurcenao-search-icon.png" width=50> | [About SauceNAO](https://saucenao.com/about.html) | SauceNAO is a reverse image search engine. The name 'SauceNAO' is derived from a slang form of "Need to know the source of this Now!" which has found common usage on image boards and other similar sites. |
+| **SoutuBot.moe** | | |
+| <img src="assets/soutubot-moe-icon.png" width=50> | [搜图Bot酱](https://soutubot.moe/) | 大家好（ﾉ>ω<)ﾉ这里是搜图bot酱网页版~ 可局部搜图NH内的本子，欢迎大家来测试~<br><br>如果大家觉得好用的话就请麻烦宣传和赞助一下吧~ |
+
+
+
