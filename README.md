@@ -12,6 +12,10 @@
 | [Encyclopedia Websites](#encyclopedia-websites) | <img src="assets/Wikipedia-logo-v2.svg.webp" width=32> <img src="assets/baidu-baike-icon.png" width=32> <img src="assets/moegirl-encyclopedia-icon.png" width=32> <img src="assets/hmoegirl-encyclopedia-icon.png" width=32> <img src="assets/wikihow-icon.png" width=32> <img src="assets/mbalib-wiki.png" width=32> <img src="assets/noteapps-info-icon.png" width=32> |
 | [Note-taking App Websites](#note-taking-app-websites) | <img src="assets/obsidian.png" width=32> <img src="assets/notion-icon.png" width=32> <img src="assets/anytype-icon.png" width=32> <img src="assets/tiddly-wiki-icon.png" width=32> <img src="assets/logseq-icon.png" width=32> <img src="assets/siyuan-note-icon.png" width=32> |
 | [Search Engine Websites](#search-engine-websites) | <img src="assets/google-search-icon.png" width=32> <img src="assets/bing-search-icon.png" width=32> <img src="assets/yandex-search-icon.png" width=32> <img src="assets/baidu-search-icon.png" width=32> <img src="assets/chongbuluo-search-icon.png" width=32> <img src="assets/saurcenao-search-icon.png" width=32> <img src="assets/soutubot-moe-icon.png" width=32> |
+| **DigitalLife** | |
+| [Password Manager](#password-manager) | <img src="assets/1password-icon.png" width=32> <img src="assets/bitwardon-icon.png" width=32> <img src="assets/keepass-icon.png" width=32> |
+| [Authenticator Software](#authenticator-software) | <img src="assets/google-authenticator-icon.png" width=32> <img src="assets/microsoft-authenticator-icon.png" width=32> |
+
 ## Anime Websites
 
 | Name | Link | Description |
@@ -117,5 +121,24 @@
 | **SoutuBot.moe** | | |
 | <img src="assets/soutubot-moe-icon.png" width=50> | [搜图Bot酱](https://soutubot.moe/) | 大家好（ﾉ>ω<)ﾉ这里是搜图bot酱网页版~ 可局部搜图NH内的本子，欢迎大家来测试~<br><br>如果大家觉得好用的话就请麻烦宣传和赞助一下吧~ |
 
+## Password Manager
 
+| Name | Link | Description |
+| --- | --- | --- |
+| **1Password** | | |
+| <img src="assets/1password-icon.png" width=50> | [Password Manager & Extended Access Management - 1Password - 1Password](https://1password.com/) | More than a password manager and leader in Extended Access Management. Secure all sign-ins to every application from any device with 1Password. |
+| **BitWardon** | | |
+| <img src="assets/bitwardon-icon.png" width=50> | [Best Password Manager for Business, Enterprise & Personall - Bitwarden](https://bitwarden.com/) | Bitwarden is the most trusted password manager for passwords and passkeys at home or at work, on any browser or device. Start with a free trial. |
+| **KeePass** | | |
+| <img src="assets/keepass-icon.png" width=50> | [KeePass Password Safe](https://keepass.info/) | KeePass is a free open source password manager. Passwords can be stored in an encrypted database, which can be unlocked with one master key. |
 
+## Authenticator Software
+
+| Name | Link | Description |
+| --- | --- | --- |
+| **Google Authenticator** | | |
+| <img src="assets/google-authenticator-icon.png" width=50> | [Google Authenticator - Apps on Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US) | Google Authenticator adds an extra layer of security to your online accounts by adding a second step of verification when you sign in. |
+| **Microsoft Authenticator** | | |
+| <img src="assets/microsoft-authenticator-icon.png" width=50> | [Microsoft Authenticator - Apps on Google Play](https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=en_US) | Safety starts with understanding how developers collect and share your data. Data privacy and security practices may vary based on your use, region, and age. The developer provided this information and may update it over time. |
+
+## Browser software
