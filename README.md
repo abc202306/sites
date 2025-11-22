@@ -58,7 +58,7 @@
 | **Mihon** | | |
 | <img src="assets/mihon.png" width=50> | [Home \| Mihon](https://mihon.app/) | Discover and read manga, webtoons, comics, and more – easier than ever on your Android device. |
 | **LANraragi** | | |
-| <img src="assets/lanraragi-icon.png" width=50> | [Difegue/LANraragi: Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.](https://github.com/Difegue/LANraragi) application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.<br><br>`{"link":"lrr.tvc-16.science","Topics": "docker server perl management manga comics reader mojolicious opds doujinshi nas hacktoberfest sadpanda"}` |
+| <img src="assets/lanraragi-icon.png" width=50> | [Difegue/LANraragi: Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.](https://github.com/Difegue/LANraragi) |  application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.<br><br>`{"link":"lrr.tvc-16.science","Topics": "docker server perl management manga comics reader mojolicious opds doujinshi nas hacktoberfest sadpanda"}` |
 
 
 ## Encyclopedia Websites
