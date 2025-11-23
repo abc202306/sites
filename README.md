@@ -1,29 +1,31 @@
 # Websites
 
-| 🟢 Name | 🖼️ Image |
+| 🟢 Name | ℹ️ Description |
 | :--- | :--- |
-| **📦ACG** | |
-| [📁Anime Websites](#anime-websites) | <img src="assets/jcyapp-org-icon.png" width=25> |
-| [📁Anime Database Websites](#anime-database-websites) | <img src="assets/myanimelist.png" width=25> <img src="assets/anidb-icon.png" width=25> |
-| [📁Hentai Comic Websites](#hentai-comic-websites) | <img src="assets/e-hentai-seeklogo.svg" width=25> <img src="assets/nhentai.png" width=25> <img src="assets/jmcomic.png" width=25> <img src="assets/picaacg.png" width=25> |
-| [📁Normal Comic Websites](#normal-comic-websites) | <img src="assets/manhuaren.png" width=25> |
-| [📁Comic Reader Websites](#comic-reader-websites) | <img src="assets/mihon.png" width=25> <img src="assets/lanraragi-icon.png" width=25> |
-| **📦Academy** | |
-| [📁Encyclopedia Websites](#encyclopedia-websites) | <img src="assets/Wikipedia-logo-v2.svg.webp" width=25> <img src="assets/baidu-baike-icon.png" width=25> <img src="assets/moegirl-encyclopedia-icon.png" width=25> <img src="assets/hmoegirl-encyclopedia-icon.png" width=25> <img src="assets/wikihow-icon.png" width=25> <img src="assets/mbalib-wiki.png" width=25> <img src="assets/noteapps-info-icon.png" width=25> |
-| [📁Note-taking App Websites](#note-taking-app-websites) | <img src="assets/obsidian.png" width=25> <img src="assets/notion-icon.png" width=25> <img src="assets/anytype-icon.png" width=25> <img src="assets/tiddly-wiki-icon.png" width=25> <img src="assets/logseq-icon.png" width=25> <img src="assets/siyuan-note-icon.png" width=25> |
-| [📁Search Engine Websites](#search-engine-websites) | <img src="assets/google-search-icon.png" width=25> <img src="assets/bing-search-icon.png" width=25> <img src="assets/yandex-search-icon.png" width=25> <img src="assets/baidu-search-icon.png" width=25> <img src="assets/chongbuluo-search-icon.png" width=25> <img src="assets/saurcenao-search-icon.png" width=25> <img src="assets/soutubot-moe-icon.png" width=25> |
-| **📦DigitalLife** | |
-| [📁Password Manager](#password-manager) | <img src="assets/1password-icon.png" width=25> <img src="assets/bitwardon-icon.png" width=25> <img src="assets/keepass-icon.png" width=25> |
-| [📁Authenticator Software](#authenticator-software) | <img src="assets/google-authenticator-icon.png" width=25> <img src="assets/microsoft-authenticator-icon.png" width=25> |
+| **[📦ACG](#📦acg)** | |
+| [📁Anime Websites](#📁anime-websites) | <img src="assets/jcyapp-org-icon.png" width=25> |
+| [📁Anime Database Websites](#📁anime-database-websites) | <img src="assets/myanimelist.png" width=25> <img src="assets/anidb-icon.png" width=25> |
+| [📁Hentai Comic Websites](#📁hentai-comic-websites) | <img src="assets/e-hentai-seeklogo.svg" width=25> <img src="assets/nhentai.png" width=25> <img src="assets/jmcomic.png" width=25> <img src="assets/picaacg.png" width=25> |
+| [📁Normal Comic Websites](#📁normal-comic-websites) | <img src="assets/manhuaren.png" width=25> |
+| [📁Comic Reader Websites](#📁comic-reader-websites) | <img src="assets/mihon.png" width=25> <img src="assets/lanraragi-icon.png" width=25> |
+| **[📦Academy](#📦academy)** | |
+| [📁Encyclopedia Websites](#📁encyclopedia-websites) | <img src="assets/Wikipedia-logo-v2.svg.webp" width=25> <img src="assets/baidu-baike-icon.png" width=25> <img src="assets/moegirl-encyclopedia-icon.png" width=25> <img src="assets/hmoegirl-encyclopedia-icon.png" width=25> <img src="assets/wikihow-icon.png" width=25> <img src="assets/mbalib-wiki.png" width=25> <img src="assets/noteapps-info-icon.png" width=25> |
+| [📁Note-taking App Websites](#📁note-taking-app-websites) | <img src="assets/obsidian.png" width=25> <img src="assets/notion-icon.png" width=25> <img src="assets/anytype-icon.png" width=25> <img src="assets/tiddly-wiki-icon.png" width=25> <img src="assets/logseq-icon.png" width=25> <img src="assets/siyuan-note-icon.png" width=25> |
+| [📁Search Engine Websites](#📁search-engine-websites) | <img src="assets/google-search-icon.png" width=25> <img src="assets/bing-search-icon.png" width=25> <img src="assets/yandex-search-icon.png" width=25> <img src="assets/baidu-search-icon.png" width=25> <img src="assets/chongbuluo-search-icon.png" width=25> <img src="assets/saurcenao-search-icon.png" width=25> <img src="assets/soutubot-moe-icon.png" width=25> |
+| **[📦DigitalLife](#📦digitallife)** | |
+| [📁Password Manager](#📁password-manager) | <img src="assets/keepass-icon.png" width=25> <img src="assets/1password-icon.png" width=25> <img src="assets/bitwardon-icon.png" width=25> |
+| [📁Authenticator Software](#📁authenticator-software) | <img src="assets/microsoft-authenticator-icon.png" width=25> <img src="assets/google-authenticator-icon.png" width=25> |
 
-## 📁Anime Websites
+## 📦ACG
+
+### 📁Anime Websites
 
 | 🟢 Name | 🔗 Link | ℹ️ Description |
 | :--- | :--- | :--- |
 | **囧次元** | | |
 | <img src="assets/jcyapp-org-icon.png" width=50> | [囧次元](https://jcyapp.org/) | 我只想安安静静的追个番(ㄒoㄒ) |
 
-## 📁Anime Database Websites
+### 📁Anime Database Websites
 
 | 🟢 Name | 🔗 Link | ℹ️ Description |
 | :--- | :--- | :--- |
@@ -32,7 +34,7 @@
 | **AniDB** | | |
 | <img src="assets/anidb-icon.png" width=50> | [AniDB](https://anidb.net/) | Looking for information about Anime? AniDB is the right place for you. AniDB is a not-for-profit anime database providing you with all information reg... |
 
-## 📁Hentai Comic Websites
+### 📁Hentai Comic Websites
 
 | 🟢 Name | 🔗 Link | ℹ️ Description |
 | :--- | :--- | :--- |
@@ -49,14 +51,14 @@
 | **嗶咔漫畫** | | |
 | <img src="assets/picaacg.png" width=50> | [嗶咔漫畫 (@picapicacomic) / X](https://x.com/picapicacomic) | 嗶咔漫畫讓你可以輕鬆看到不同的本子，介面美觀易用，分類齊全，每天更新，紳士必備！ <br>https://picacomic.com<br>https://picacomic.xyz<br><br>`{"category":"移动应用程序","link":"picacomic.com","joined":"2025-01"}` |
 
-## 📁Normal Comic Websites
+### 📁Normal Comic Websites
 
 | | |
 | :--- | :--- |
 | **漫画人** | |
 | <img src="assets/manhuaren.png" width=50> | [漫画人 - 为爱漫画的人而生](https://www.manhuaren.com/) | 漫画人：给你最好的掌上漫画应用体验，速度最快、最专业的漫画应用。<br><br>`{"author":"漫画人:为爱漫画的人而生、manhuaren.com","keywords":"漫画人：最好的掌上漫画应用"}` |
 
-## 📁Comic Reader Websites
+### 📁Comic Reader Websites
 
 | 🟢 Name | 🔗 Link | ℹ️ Description |
 | :--- | :--- | :--- |
@@ -65,8 +67,9 @@
 | **LANraragi** | | |
 | <img src="assets/lanraragi-icon.png" width=50> | [Difegue/LANraragi: Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.](https://github.com/Difegue/LANraragi) |  application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.<br><br>`{"link":"lrr.tvc-16.science","Topics": "docker server perl management manga comics reader mojolicious opds doujinshi nas hacktoberfest sadpanda"}` |
 
+## **📦Academy**
 
-## 📁Encyclopedia Websites
+### 📁Encyclopedia Websites
 
 | 🟢 Name | 🔗 Link | ℹ️ Description |
 | :--- | :--- | :--- |
@@ -85,7 +88,7 @@
 | **NoteApps.info** | | |
 | <img src="assets/noteapps-info-icon.png" width=50> | [NoteApps.info: 41 best note taking apps analyzed over 343 features](https://noteapps.info/) | Encyclopedia of note taking apps: Screenshots, feature lists, and pricing for popular note taking apps.
 
-## 📁Note-taking App Websites
+### 📁Note-taking App Websites
 
 | 🟢 Name | 🔗 Link | ℹ️ Description |
 | :--- | :--- | :--- |
@@ -102,7 +105,7 @@
 | **SiYuan** | | |
 | <img src="assets/siyuan-note-icon.png" width=50> | [SiYuan - Privacy-first personal knowledge management system that supports Markdown, block-level ref, and bidirectional links](https://b3log.org/siyuan/en/) | SiYuan - Privacy-first personal knowledge management system that supports Markdown, block-level ref, and bidirectional links |
 
-## 📁Search Engine Websites
+### 📁Search Engine Websites
 
 | 🟢 Name | 🔗 Link | ℹ️ Description |
 | :--- | :--- | :--- |
@@ -121,24 +124,26 @@
 | **SoutuBot.moe** | | |
 | <img src="assets/soutubot-moe-icon.png" width=50> | [搜图Bot酱](https://soutubot.moe/) | 大家好（ﾉ>ω<)ﾉ这里是搜图bot酱网页版~ 可局部搜图NH内的本子，欢迎大家来测试~<br><br>如果大家觉得好用的话就请麻烦宣传和赞助一下吧~ |
 
-## 📁Password Manager
+## 📦DigitalLife
+
+### 📁Password Manager
 
 | 🟢 Name | 🔗 Link | ℹ️ Description |
 | :--- | :--- | :--- |
+| **KeePass** | | |
+| <img src="assets/keepass-icon.png" width=50> | [KeePass Password Safe](https://keepass.info/) | KeePass is a free open source password manager. Passwords can be stored in an encrypted database, which can be unlocked with one master key. |
 | **1Password** | | |
 | <img src="assets/1password-icon.png" width=50> | [Password Manager & Extended Access Management - 1Password - 1Password](https://1password.com/) | More than a password manager and leader in Extended Access Management. Secure all sign-ins to every application from any device with 1Password. |
 | **BitWardon** | | |
 | <img src="assets/bitwardon-icon.png" width=50> | [Best Password Manager for Business, Enterprise & Personall - Bitwarden](https://bitwarden.com/) | Bitwarden is the most trusted password manager for passwords and passkeys at home or at work, on any browser or device. Start with a free trial. |
-| **KeePass** | | |
-| <img src="assets/keepass-icon.png" width=50> | [KeePass Password Safe](https://keepass.info/) | KeePass is a free open source password manager. Passwords can be stored in an encrypted database, which can be unlocked with one master key. |
 
-## 📁Authenticator Software
+### 📁Authenticator Software
 
 | 🟢 Name | 🔗 Link | ℹ️ Description |
 | :--- | :--- | :--- |
-| **Google Authenticator** | | |
-| <img src="assets/google-authenticator-icon.png" width=50> | [Google Authenticator - Apps on Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US) | Google Authenticator adds an extra layer of security to your online accounts by adding a second step of verification when you sign in. |
 | **Microsoft Authenticator** | | |
 | <img src="assets/microsoft-authenticator-icon.png" width=50> | [Microsoft Authenticator - Apps on Google Play](https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=en_US) | Safety starts with understanding how developers collect and share your data. Data privacy and security practices may vary based on your use, region, and age. The developer provided this information and may update it over time. |
+| **Google Authenticator** | | |
+| <img src="assets/google-authenticator-icon.png" width=50> | [Google Authenticator - Apps on Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US) | Google Authenticator adds an extra layer of security to your online accounts by adding a second step of verification when you sign in. |
 
-## 📁Browser software
+### 📁Browser software
