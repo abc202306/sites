@@ -3,18 +3,18 @@
 | CategoryName | Image |
 | --- | --- |
 | **ACG** | |
-| [Anime Websites](#anime-websites) | <img src="assets/jcyapp-org-icon.png" width=32> |
-| [Anime Database Websites](#anime-database-websites) | <img src="assets/myanimelist.png" width=32> <img src="assets/anidb-icon.png" width=32> |
-| [Hentai Comic Websites](#hentai-comic-websites) | <img src="assets/e-hentai-seeklogo.svg" width=32> <img src="assets/nhentai.png" width=32> <img src="assets/jmcomic.png" width=32> <img src="assets/picaacg.png" width=32> |
-| [Normal Comic Websites](#normal-comic-websites) | <img src="assets/manhuaren.png" width=32> |
-| [Comic Reader Websites](#comic-reader-websites) | <img src="assets/mihon.png" width=32> <img src="assets/lanraragi-icon.png" width=32> |
+| [Anime Websites](#anime-websites) | <img src="assets/jcyapp-org-icon.png" width=30> |
+| [Anime Database Websites](#anime-database-websites) | <img src="assets/myanimelist.png" width=30> <img src="assets/anidb-icon.png" width=30> |
+| [Hentai Comic Websites](#hentai-comic-websites) | <img src="assets/e-hentai-seeklogo.svg" width=30> <img src="assets/nhentai.png" width=30> <img src="assets/jmcomic.png" width=30> <img src="assets/picaacg.png" width=30> |
+| [Normal Comic Websites](#normal-comic-websites) | <img src="assets/manhuaren.png" width=30> |
+| [Comic Reader Websites](#comic-reader-websites) | <img src="assets/mihon.png" width=30> <img src="assets/lanraragi-icon.png" width=30> |
 | **Academy** | |
-| [Encyclopedia Websites](#encyclopedia-websites) | <img src="assets/Wikipedia-logo-v2.svg.webp" width=32> <img src="assets/baidu-baike-icon.png" width=32> <img src="assets/moegirl-encyclopedia-icon.png" width=32> <img src="assets/hmoegirl-encyclopedia-icon.png" width=32> <img src="assets/wikihow-icon.png" width=32> <img src="assets/mbalib-wiki.png" width=32> <img src="assets/noteapps-info-icon.png" width=32> |
-| [Note-taking App Websites](#note-taking-app-websites) | <img src="assets/obsidian.png" width=32> <img src="assets/notion-icon.png" width=32> <img src="assets/anytype-icon.png" width=32> <img src="assets/tiddly-wiki-icon.png" width=32> <img src="assets/logseq-icon.png" width=32> <img src="assets/siyuan-note-icon.png" width=32> |
-| [Search Engine Websites](#search-engine-websites) | <img src="assets/google-search-icon.png" width=32> <img src="assets/bing-search-icon.png" width=32> <img src="assets/yandex-search-icon.png" width=32> <img src="assets/baidu-search-icon.png" width=32> <img src="assets/chongbuluo-search-icon.png" width=32> <img src="assets/saurcenao-search-icon.png" width=32> <img src="assets/soutubot-moe-icon.png" width=32> |
+| [Encyclopedia Websites](#encyclopedia-websites) | <img src="assets/Wikipedia-logo-v2.svg.webp" width=30> <img src="assets/baidu-baike-icon.png" width=30> <img src="assets/moegirl-encyclopedia-icon.png" width=30> <img src="assets/hmoegirl-encyclopedia-icon.png" width=30> <img src="assets/wikihow-icon.png" width=30> <img src="assets/mbalib-wiki.png" width=30> <img src="assets/noteapps-info-icon.png" width=30> |
+| [Note-taking App Websites](#note-taking-app-websites) | <img src="assets/obsidian.png" width=30> <img src="assets/notion-icon.png" width=30> <img src="assets/anytype-icon.png" width=30> <img src="assets/tiddly-wiki-icon.png" width=30> <img src="assets/logseq-icon.png" width=30> <img src="assets/siyuan-note-icon.png" width=30> |
+| [Search Engine Websites](#search-engine-websites) | <img src="assets/google-search-icon.png" width=30> <img src="assets/bing-search-icon.png" width=30> <img src="assets/yandex-search-icon.png" width=30> <img src="assets/baidu-search-icon.png" width=30> <img src="assets/chongbuluo-search-icon.png" width=30> <img src="assets/saurcenao-search-icon.png" width=30> <img src="assets/soutubot-moe-icon.png" width=30> |
 | **DigitalLife** | |
-| [Password Manager](#password-manager) | <img src="assets/1password-icon.png" width=32> <img src="assets/bitwardon-icon.png" width=32> <img src="assets/keepass-icon.png" width=32> |
-| [Authenticator Software](#authenticator-software) | <img src="assets/google-authenticator-icon.png" width=32> <img src="assets/microsoft-authenticator-icon.png" width=32> |
+| [Password Manager](#password-manager) | <img src="assets/1password-icon.png" width=30> <img src="assets/bitwardon-icon.png" width=30> <img src="assets/keepass-icon.png" width=30> |
+| [Authenticator Software](#authenticator-software) | <img src="assets/google-authenticator-icon.png" width=30> <img src="assets/microsoft-authenticator-icon.png" width=30> |
 
 ## Anime Websites
 
