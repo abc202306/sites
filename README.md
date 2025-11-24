@@ -2,17 +2,17 @@
 
 | 🟢 Name | ℹ️ Description |
 | :--- | :--- |
-| **[📦ACG](#acg)** | |
+| **[📦ACG](#acg)** | Anime, Comic & Game |
 | [📁Anime Websites](#anime-websites) | <img src="assets/jcyapp-org-icon.png" width=25> |
 | [📁Anime Database Websites](#anime-database-websites) | <img src="assets/myanimelist.png" width=25> <img src="assets/anidb-icon.png" width=25> |
 | [📁Hentai Comic Websites](#hentai-comic-websites) | <img src="assets/e-hentai-seeklogo.svg" width=25> <img src="assets/nhentai.png" width=25> <img src="assets/jmcomic.png" width=25> <img src="assets/picaacg.png" width=25> |
 | [📁Normal Comic Websites](#normal-comic-websites) | <img src="assets/manhuaren.png" width=25> |
 | [📁Comic Reader Websites](#comic-reader-websites) | <img src="assets/mihon.png" width=25> <img src="assets/lanraragi-icon.png" width=25> |
-| **[📦Academy](#academy)** | |
+| **[📦Academy](#academy)** | Education & Research |
 | [📁Encyclopedia Websites](#encyclopedia-websites) | <img src="assets/Wikipedia-logo-v2.svg.webp" width=25> <img src="assets/baidu-baike-icon.png" width=25> <img src="assets/moegirl-encyclopedia-icon.png" width=25> <img src="assets/hmoegirl-encyclopedia-icon.png" width=25> <img src="assets/wikihow-icon.png" width=25> <img src="assets/mbalib-wiki.png" width=25> <img src="assets/noteapps-info-icon.png" width=25> |
 | [📁Note-taking App Websites](#note-taking-app-websites) | <img src="assets/obsidian.png" width=25> <img src="assets/notion-icon.png" width=25> <img src="assets/anytype-icon.png" width=25> <img src="assets/tiddly-wiki-icon.png" width=25> <img src="assets/logseq-icon.png" width=25> <img src="assets/siyuan-note-icon.png" width=25> |
 | [📁Search Engine Websites](#search-engine-websites) | <img src="assets/google-search-icon.png" width=25> <img src="assets/bing-search-icon.png" width=25> <img src="assets/yandex-search-icon.png" width=25> <img src="assets/baidu-search-icon.png" width=25> <img src="assets/chongbuluo-search-icon.png" width=25> <img src="assets/saurcenao-search-icon.png" width=25> <img src="assets/soutubot-moe-icon.png" width=25> |
-| **[📦DigitalLife](#digitallife)** | |
+| **[📦DigitalLife](#digitallife)** | Useful Tools |
 | [📁Password Manager](#password-manager) | <img src="assets/keepass-icon.png" width=25> <img src="assets/1password-icon.png" width=25> <img src="assets/bitwardon-icon.png" width=25> |
 | [📁Authenticator Software](#authenticator-software) | <img src="assets/microsoft-authenticator-icon.png" width=25> <img src="assets/google-authenticator-icon.png" width=25> |
 
@@ -36,6 +36,12 @@
 
 ### 📁Hentai Comic Websites
 
+> | | |
+> | --- | --- |
+> | **Region** | |
+> | Western Region | e-hentai, nhentai |
+> | Eastern Region | 禁漫天堂, 嗶咔漫畫 |
+
 | 🟢 Name | 🔗 Link | ℹ️ Description |
 | :--- | :--- | :--- |
 | **e-hentai** | | |
@@ -53,10 +59,10 @@
 
 ### 📁Normal Comic Websites
 
-| | |
-| :--- | :--- |
-| **漫画人** | |
-| <img src="assets/manhuaren.png" width=50> | [漫画人 - 为爱漫画的人而生](https://www.manhuaren.com/) | 漫画人：给你最好的掌上漫画应用体验，速度最快、最专业的漫画应用。<br><br>`{"author":"漫画人:为爱漫画的人而生、manhuaren.com","keywords":"漫画人：最好的掌上漫画应用"}` |
+| 🟢 Name | 🔗 Link | ℹ️ Description |
+| :--- | :--- | :--- |
+| **漫画人** | | |
+| <img src="assets/manhuaren.png" width=50> | [漫画人 - 为爱漫画的人而生](https://www.manhuaren.com/) | 漫画人：给你最好的掌上漫画应用体验，速度最快、最专业的漫画应用。<br><br>`{"author":"漫画人:为爱漫画的人而生、manhuaren.com","keywords":"漫画人：最好的掌上漫画应用"}` | |
 
 ### 📁Comic Reader Websites
 
@@ -70,6 +76,13 @@
 ## **📦Academy**
 
 ### 📁Encyclopedia Websites
+
+> | | |
+> | --- | --- |
+> | **Encyclopedia Type** | |
+> | General Encyclopedia | Wikipedia, 百度百科 |
+> | ACG Encyclopedia | 萌娘百科, H萌娘百科 |
+> | Encyclopedia of Vertical Domains | WikiHow, NoteApps.info, MBA智库百科 |
 
 | 🟢 Name | 🔗 Link | ℹ️ Description |
 | :--- | :--- | :--- |
@@ -90,6 +103,15 @@
 
 ### 📁Note-taking App Websites
 
+> | | |
+> | --- | --- |
+> | **Text Type** | |
+> | Pure Text | Obsidian, Logseq, TiddlyWiki |
+> | Rich Text | Notion, AnyType, SiYuan |
+> | **Storage Type** | |
+> | Local First | Obsidian, Logseq, TiddlyWiki, AnyType, SiYuan |
+> | Cloud First | Notion |
+
 | 🟢 Name | 🔗 Link | ℹ️ Description |
 | :--- | :--- | :--- |
 | **Obsidian** | | |
@@ -106,6 +128,13 @@
 | <img src="assets/siyuan-note-icon.png" width=50> | [SiYuan - Privacy-first personal knowledge management system that supports Markdown, block-level ref, and bidirectional links](https://b3log.org/siyuan/en/) | SiYuan - Privacy-first personal knowledge management system that supports Markdown, block-level ref, and bidirectional links |
 
 ### 📁Search Engine Websites
+
+> | | |
+> | --- | --- |
+> | **Search Type** | |
+> | General Search | Google Search, Bing Search, Yandex Search, 百度搜索 |
+> | Aggregated Search | 虫部落 |
+> | Image Search | SauceNAO, SoutuBot.moe |
 
 | 🟢 Name | 🔗 Link | ℹ️ Description |
 | :--- | :--- | :--- |
@@ -145,5 +174,3 @@
 | <img src="assets/microsoft-authenticator-icon.png" width=50> | [Microsoft Authenticator - Apps on Google Play](https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=en_US) | Safety starts with understanding how developers collect and share your data. Data privacy and security practices may vary based on your use, region, and age. The developer provided this information and may update it over time. |
 | **Google Authenticator** | | |
 | <img src="assets/google-authenticator-icon.png" width=50> | [Google Authenticator - Apps on Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US) | Google Authenticator adds an extra layer of security to your online accounts by adding a second step of verification when you sign in. |
-
-### 📁Browser software
