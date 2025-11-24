@@ -2,23 +2,28 @@
 
 | 🟢 Name | ℹ️ Description |
 | :--- | :--- |
-| **[📦ACG](#acg)** | Anime, Comic & Game |
+| **[📦ACG](#acg)** | **Anime, Comic & Game** <br>see [ACG (subculture) - Wikipedia](https://en.wikipedia.org/wiki/ACG_(subculture)) |
 | [📁Anime Websites](#anime-websites) | <img src="assets/jcyapp-org-icon.png" width=25> |
 | [📁Anime Database Websites](#anime-database-websites) | <img src="assets/myanimelist.png" width=25> <img src="assets/anidb-icon.png" width=25> |
 | [📁Hentai Comic Websites](#hentai-comic-websites) | <img src="assets/e-hentai-seeklogo.svg" width=25> <img src="assets/nhentai.png" width=25> <img src="assets/jmcomic.png" width=25> <img src="assets/picaacg.png" width=25> |
 | [📁Normal Comic Websites](#normal-comic-websites) | <img src="assets/manhuaren.png" width=25> |
 | [📁Comic Reader Websites](#comic-reader-websites) | <img src="assets/mihon.png" width=25> <img src="assets/lanraragi-icon.png" width=25> |
-| **[📦Academy](#academy)** | Education & Research |
+| **[📦Academy](#academy)** | **Education & Research**<br>see [Academy - Wikipedia](https://en.wikipedia.org/wiki/Academy) |
 | [📁Encyclopedia Websites](#encyclopedia-websites) | <img src="assets/Wikipedia-logo-v2.svg.webp" width=25> <img src="assets/baidu-baike-icon.png" width=25> <img src="assets/moegirl-encyclopedia-icon.png" width=25> <img src="assets/hmoegirl-encyclopedia-icon.png" width=25> <img src="assets/wikihow-icon.png" width=25> <img src="assets/mbalib-wiki.png" width=25> <img src="assets/noteapps-info-icon.png" width=25> |
 | [📁Note-taking App Websites](#note-taking-app-websites) | <img src="assets/obsidian.png" width=25> <img src="assets/notion-icon.png" width=25> <img src="assets/anytype-icon.png" width=25> <img src="assets/tiddly-wiki-icon.png" width=25> <img src="assets/logseq-icon.png" width=25> <img src="assets/siyuan-note-icon.png" width=25> |
 | [📁Search Engine Websites](#search-engine-websites) | <img src="assets/google-search-icon.png" width=25> <img src="assets/bing-search-icon.png" width=25> <img src="assets/yandex-search-icon.png" width=25> <img src="assets/baidu-search-icon.png" width=25> <img src="assets/chongbuluo-search-icon.png" width=25> <img src="assets/saurcenao-search-icon.png" width=25> <img src="assets/soutubot-moe-icon.png" width=25> |
-| **[📦DigitalLife](#digitallife)** | Useful Tools |
+| **[📦DigitalLife](#digitallife)** | **Useful Tools**<br>see [Information Age - Wikipedia](https://en.wikipedia.org/wiki/Information_Age) |
 | [📁Password Manager](#password-manager) | <img src="assets/keepass-icon.png" width=25> <img src="assets/1password-icon.png" width=25> <img src="assets/bitwardon-icon.png" width=25> |
 | [📁Authenticator Software](#authenticator-software) | <img src="assets/microsoft-authenticator-icon.png" width=25> <img src="assets/google-authenticator-icon.png" width=25> |
 
-## 📦ACG
+## **📦ACG**
+
+> **Anime, Comic & Game**<br>
+> see [ACG (subculture) - Wikipedia](https://en.wikipedia.org/wiki/ACG_(subculture))
 
 ### 📁Anime Websites
+
+> see [Streaming media - Wikipedia](https://en.wikipedia.org/wiki/Streaming_media)
 
 | 🟢 Name | 🔗 Link | ℹ️ Description |
 | :--- | :--- | :--- |
@@ -26,6 +31,8 @@
 | <img src="assets/jcyapp-org-icon.png" width=50> | [囧次元](https://jcyapp.org/) | 我只想安安静静的追个番(ㄒoㄒ) |
 
 ### 📁Anime Database Websites
+
+> see [Database - Wikipedia](https://en.wikipedia.org/wiki/Database)
 
 | 🟢 Name | 🔗 Link | ℹ️ Description |
 | :--- | :--- | :--- |
@@ -35,6 +42,8 @@
 | <img src="assets/anidb-icon.png" width=50> | [AniDB](https://anidb.net/) | Looking for information about Anime? AniDB is the right place for you. AniDB is a not-for-profit anime database providing you with all information reg... |
 
 ### 📁Hentai Comic Websites
+
+> see [Hentai - Wikipedia](https://en.wikipedia.org/wiki/Hentai)
 
 > | | |
 > | --- | --- |
@@ -59,12 +68,16 @@
 
 ### 📁Normal Comic Websites
 
+> see [Comics - Wikipedia](https://en.wikipedia.org/wiki/Comics)
+
 | 🟢 Name | 🔗 Link | ℹ️ Description |
 | :--- | :--- | :--- |
 | **漫画人** | | |
 | <img src="assets/manhuaren.png" width=50> | [漫画人 - 为爱漫画的人而生](https://www.manhuaren.com/) | 漫画人：给你最好的掌上漫画应用体验，速度最快、最专业的漫画应用。<br><br>`{"author":"漫画人:为爱漫画的人而生、manhuaren.com","keywords":"漫画人：最好的掌上漫画应用"}` | |
 
 ### 📁Comic Reader Websites
+
+> see [Digital asset management - Wikipedia](https://en.wikipedia.org/wiki/Digital_asset_management)
 
 | 🟢 Name | 🔗 Link | ℹ️ Description |
 | :--- | :--- | :--- |
@@ -75,7 +88,12 @@
 
 ## **📦Academy**
 
+> **Education & Research**<br>
+> see [Academy - Wikipedia](https://en.wikipedia.org/wiki/Academy)
+
 ### 📁Encyclopedia Websites
+
+> see [Encyclopedia - Wikipedia](https://en.wikipedia.org/wiki/Encyclopedia)
 
 > | | |
 > | --- | --- |
@@ -103,6 +121,8 @@
 
 ### 📁Note-taking App Websites
 
+> see [Note-taking - Wikipedia](https://en.wikipedia.org/wiki/Note-taking)
+
 > | | |
 > | --- | --- |
 > | **Text Type** | |
@@ -129,6 +149,8 @@
 
 ### 📁Search Engine Websites
 
+> see [Search engine - Wikipedia](https://en.wikipedia.org/wiki/Search_engine)
+
 > | | |
 > | --- | --- |
 > | **Search Type** | |
@@ -153,9 +175,14 @@
 | **SoutuBot.moe** | | |
 | <img src="assets/soutubot-moe-icon.png" width=50> | [搜图Bot酱](https://soutubot.moe/) | 大家好（ﾉ>ω<)ﾉ这里是搜图bot酱网页版~ 可局部搜图NH内的本子，欢迎大家来测试~<br><br>如果大家觉得好用的话就请麻烦宣传和赞助一下吧~ |
 
-## 📦DigitalLife
+## **📦DigitalLife**
+
+> **Useful Tools**<br>
+> see [Information Age - Wikipedia](https://en.wikipedia.org/wiki/Information_Age)
 
 ### 📁Password Manager
+
+> see [Password manager - Wikipedia](https://en.wikipedia.org/wiki/Password_manager)
 
 | 🟢 Name | 🔗 Link | ℹ️ Description |
 | :--- | :--- | :--- |
@@ -167,6 +194,8 @@
 | <img src="assets/bitwardon-icon.png" width=50> | [Best Password Manager for Business, Enterprise & Personall - Bitwarden](https://bitwarden.com/) | Bitwarden is the most trusted password manager for passwords and passkeys at home or at work, on any browser or device. Start with a free trial. |
 
 ### 📁Authenticator Software
+
+> see [Authenticator - Wikipedia](https://en.wikipedia.org/wiki/Authenticator)
 
 | 🟢 Name | 🔗 Link | ℹ️ Description |
 | :--- | :--- | :--- |
