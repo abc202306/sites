@@ -15,6 +15,19 @@
 | **[📦DigitalLife](#digitallife)** | **Useful Tools**<br>see [Information Age - Wikipedia](https://en.wikipedia.org/wiki/Information_Age) |
 | [📁Password Manager](#password-manager) | <img src="assets/keepass-icon.png" width=25> <img src="assets/1password-icon.png" width=25> <img src="assets/bitwardon-icon.png" width=25> |
 | [📁Authenticator Software](#authenticator-software) | <img src="assets/microsoft-authenticator-icon.png" width=25> <img src="assets/google-authenticator-icon.png" width=25> |
+| [📁Browser software](#browser-software) | <img src="assets/google-chrome-icon.png" width=25> <img src="assets/microsoft-edge-icon.png" width=25> <img src="assets/mozilla-firefox-icon.png" width=25> <img src="assets/tor-browser-icon.png" width=25> <img src="assets/uc-browser-icon.png" width=25> <img src="assets/quark-browser-icon.png" width=25> |
+| **[📦SocialMedia](#digitallife)** | **Communication**<br>see [Social media - Wikipedia](https://en.wikipedia.org/wiki/Social_media) |
+| [📁Instant Messaging](#instant-messaging) | <img src="assets/telegram-icon.png" width=25> <img src="assets/tencent-qq-icon.png" width=25> <img src="assets/tencent-wechat-icon.png" width=25> |
+| [📁Microblogging](#microblogging) | <img src="assets/large-x-logo.png.twimg.1920.png" width=25> <img src="assets/misskey-icon.png" width=25> <img src="assets/nijimiss-icon.png" width=25> |
+| [📁Email service](#email-service) | <img src="assets/gmail-icon.png" width=25> <img src="assets/outlook-com-email-icon.png" width=25> <img src="assets/mail-ru-icon.png" width=25> <img src="assets/qq-mail-icon.png" width=25> <img src="assets/netease-mail-icon.png" width=25> |
+| [📁Q&A software](#qa-software) | <img src="assets/quora-icon.png" width=25> <img src="assets/zhihu-icon.png" width=25> |
+| [📁Forum](#forum) | <img src="assets/reddit-icon.png" width=25> <img src="assets/baidu-tieba-icon.png" width=25> |
+| [📁Virtual Community](#virtual-community) | <img src="assets/pixiv-icon.png" width=25> |
+| **[📦FileHostingService](#filehostingservice)** | **File sharing**<br>see [File-hosting service - Wikipedia](https://en.wikipedia.org/wiki/File-hosting_service) |
+| [📁Online Video Platform](#online-video-platform) | <img src="assets/youtube-icon.png" width=25> <img src="assets/bilibili-icon.png" width=25> |
+| [📁Cloud Disk](#cloud-disk) | <img src="assets/onedrive-icon.png" width=25> |
+| [📁Net Disk](#net-disk) | <img src="assets/baidu-netdisk-icon.png" width=25> |
+
 
 ## **📦ACG**
 
@@ -203,3 +216,131 @@
 | <img src="assets/microsoft-authenticator-icon.png" width=50> | [Microsoft Authenticator - Apps on Google Play](https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=en_US) | Safety starts with understanding how developers collect and share your data. Data privacy and security practices may vary based on your use, region, and age. The developer provided this information and may update it over time. |
 | **Google Authenticator** | | |
 | <img src="assets/google-authenticator-icon.png" width=50> | [Google Authenticator - Apps on Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US) | Google Authenticator adds an extra layer of security to your online accounts by adding a second step of verification when you sign in. |
+
+### 📁Browser software
+
+> see [Web browser - Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
+
+| 🟢 Name | 🔗 Link | ℹ️ Description |
+| :--- | :--- | :--- |
+| **Google Chrome** | | |
+| <img src="assets/google-chrome-icon.png" width=50> | [Google Chrome – Download the fast, secure browser from Google](https://www.google.com/intl/en_uk/chrome/) | Get more done with the new Google Chrome. A more simple, secure and faster web browser than ever, with Google’s smarts built in. Download now. |
+| **Microsoft Edge** | | |
+| <img src="assets/microsoft-edge-icon.png" width=50> | [Download Microsoft Edge: Windows, macOS, iOS & Android](https://www.microsoft.com/en-us/edge/download?form=MA13FJ) | Download Microsoft Edge for your computer or smartphone. Experience the cutting-edge AI Edge browser on your Windows, macOS, iOS, and Android device. |
+| **Mozilla Firefox** | | |
+| <img src="assets/mozilla-firefox-icon.png" width=50> | [Get Firefox for desktop — Firefox (US)](https://www.firefox.com/en-US/) | Mozilla Firefox, or simply Firefox, is a free and open source[12] web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation. |
+| **Tor Browser** | | |
+| <img src="assets/tor-browser-icon.png" width=50> | [Tor Project \| Download](https://www.torproject.la/en/download/) | Download \| Defend yourself against tracking and surveillance. Circumvent censorship. |
+| **UC Browser** | | |
+| <img src="assets/uc-browser-icon.png" width=50> | [UC Browser](https://www.ucweb.com/index.shtml) | Download UC Browser today and enjoy a faster, safer, and more private online experience. With built-in VPN protection and advanced ad blocking, we set a new standard for secure browsing. |
+| **Quark Browser** | | |
+| <img src="assets/quark-browser-icon.png" width=50> | [夸克_阿里AI旗舰应用官网](https://www.quark.cn/) | 夸克pc/app为你带来极速、智能、安全、高效的搜索体验,找答案,找资料,找工具,办公,学习,工作必备应用。夸克提供浏览器搜索引擎、网盘、AI扫描王工具及小说阅读等高效功能，为你提供稳定,安全,流畅的浏览环境和优质的产品服务体验 |
+
+## 📦SocialMedia
+
+> **Communication**<br>
+> see [Social media - Wikipedia](https://en.wikipedia.org/wiki/Social_media)
+
+### 📁Instant Messaging
+
+> see [Instant messaging - Wikipedia](https://en.wikipedia.org/wiki/Instant_messaging)
+
+| 🟢 Name | 🔗 Link | ℹ️ Description |
+| :--- | :--- | :--- |
+| **Telegram** | | |
+| <img src="assets/telegram-icon.png" width=50> | [Telegram Messenger](https://telegram.org/) | Fast. Secure. Powerful. |
+| **Tencent QQ** | | |
+| <img src="assets/tencent-qq-icon.png" width=50> | [QQ-轻松做自己](https://im.qq.com/index/) | 腾讯QQ，全新版本QQ9上线了！ QQ9，不仅是轻松聊天，更是兴趣社区的聚集地。欢迎下载体验最新版本QQ，体验最新功能！欢迎访问QQ官网，下载新版QQ，了解QQ最新功能就在im.qq.com。 |
+| **Tencent WeChat** | | |
+| <img src="assets/tencent-wechat-icon.png" width=50> | [WeChat - Free messaging and calling app](https://www.wechat.com/) | Available for all kinds of platforms; enjoy group chat; support voice, photo, video and text messages. | 
+
+### 📁Microblogging
+
+> see [Microblogging - Wikipedia](https://en.wikipedia.org/wiki/Microblogging)
+
+| 🟢 Name | 🔗 Link | ℹ️ Description |
+| :--- | :--- | :--- |
+| **Twitter** | | |
+| <img src="assets/large-x-logo.png.twimg.1920.png" width=50> | [About X \| Our company and priorities](https://about.x.com/en) | We serve the public conversation. Learn more about X the company, and how we ensure people have a free and safe place to talk. |
+| **Misskey** | | |
+| <img src="assets/misskey-icon.png" width=50> | [Misskey Hub – Official website of the Misskey Project](https://misskey-hub.net/en/) | This is the official site for Misskey, a decentralized social networking software. Find out how to get started, a list of servers, and lots more information about Misskey! |
+| **Nijimiss** | | |
+| <img src="assets/nijimiss-icon.png" width=50> | [にじみす.moe](https://nijimiss.moe/) | 💞あらゆる好きが交差する💞<br> 好きを語れるオープンコミュニティ<br><br>好きなことを堂々と胸を張って好きといえる空間を作りたい。<br>そういった思いから生まれたSNSです。 |
+
+### 📁Email service
+
+> see [Email - Wikipedia](https://en.wikipedia.org/wiki/Email)
+
+| 🟢 Name | 🔗 Link | ℹ️ Description |
+| :--- | :--- | :--- |
+| **Gmail** | | |
+| <img src="assets/gmail-icon.png" width=50> | [Gmail: Private and secure email at no cost \| Google Workspace](https://workspace.google.com/gmail/) | Discover how Gmail keeps your account & emails encrypted, private and under your control with the largest secure email service in the world. |
+| **Outlook.com** | | |
+| <img src="assets/outlook-com-email-icon.png" width=50> | [What is Outlook? - Microsoft Support](https://support.microsoft.com/en-us/office/what-is-outlook-10f1fa35-f33a-4cb7-838c-a7f3e6228b20) | With Outlook on your PC, Mac or mobile device, you can:<ul><li>Organize email to let you focus on the messages that matter most.</li><li>Manage and share your calendar to schedule meetings with ease.</li><li>Share files from the cloud so recipients always have the latest version.</li><li>Stay connected and productive wherever you are.</li></ul> |
+| **Mail.ru** | | |
+| <img src="assets/mail-ru-icon.png" width=50> | [Mail: Почта, Облако, Календарь, Заметки, Покупки — сервисы для работы и жизни](https://mail.ru/) | Mail — безопасные сервисы для жизни и работы: бесплатная Почта, память для всего в Облаке, лёгкое планирование в Календаре и быстрые записи в Заметках. Мобильная версия и приложение — используйте, как удобно |
+| **QQ Mail** | | |
+| <img src="assets/qq-mail-icon.png" width=50> | [登录QQ邮箱](https://wx.mail.qq.com/) | QQ邮箱，提供qq.com、foxmail.com后缀的安全、稳定、快速、便捷的免费电子邮箱。强大的反垃圾邮件过滤，10G超大附件发送，便捷记事和日历功能，轻松管理所有电子发票，尽在QQ邮箱。 |
+| **NetEase Mail** | | |
+| <img src="assets/netease-mail-icon.png" width=50> | [网易免费邮箱 - 你的专业电子邮局](https://email.163.com/) | 网易免费邮箱，你的专业电子邮局，提供以 @163.com、@126.com和@yeah.net 为后缀的免费邮箱。超过20年邮箱运营经验，系统快速稳定安全，支持超大附件和网盘服务。网易邮箱官方App“邮箱大师”帮您高效处理邮件，支持所有邮箱，并可在手机、Windows和Mac上多端协同使用。 |
+
+### 📁Q&A software
+
+> see [Question and answer system - Wikipedia](https://en.wikipedia.org/wiki/Question_and_answer_system)
+
+| 🟢 Name | 🔗 Link | ℹ️ Description |
+| :--- | :--- | :--- |
+| **Quora** | | |
+| <img src="assets/quora-icon.png" width=50> | [Quora](https://www.quora.com/) | Quora is an American social question-and-answer website and online knowledge market headquartered in Mountain View, California. It was founded on June 25, 2009, and made available to the public on June 21, 2010. Users can post questions, answer questions, and comment on answers that have been submitted by other users. As of 2020, the website was visited by 300 million users a month. |
+| **Zhihu** | | |
+| <img src="assets/zhihu-icon.png" width=50> | [知乎 - 有问题，就会有答案](https://www.zhihu.com/) | 知乎，中文互联网高质量的问答社区和创作者聚集的原创内容平台，于 2011 年 1 月正式上线，以「让人们更好的分享知识、经验和见解，找到自己的解答」为品牌使命。知乎凭借认真、专业、友善的社区氛围、独特的产品机制以及结构化和易获得的优质内容，聚集了中文互联网科技、商业、影视、时尚、文化等领域最具创造力的人群，已成为综合性、全品类、在诸多领域具有关键影响力的知识分享社区和创作者聚集的原创内容平台，建立起了以社区驱动的内容变现商业模式。 |
+
+### 📁Forum
+
+> see [Internet forum - Wikipedia](https://en.wikipedia.org/wiki/Internet_forum)
+
+| 🟢 Name | 🔗 Link | ℹ️ Description |
+| :--- | :--- | :--- |
+| **Reddit** | | |
+| <img src="assets/reddit-icon.png" width=50> | [Reddit - The heart of the internet](https://www.reddit.com/) | Reddit is where millions of people gather for conversations about the things they care about, in over 100,000 subreddit communities. |
+| **Baidu Tieba** | | |
+| <img src="assets/baidu-tieba-icon.png" width=50> | [百度贴吧——全球领先的中文社区](https://tieba.baidu.com/) | 百度贴吧——全球领先的中文社区。贴吧的使命是让志同道合的人相聚。不论是大众话题还是小众话题，都能精准地聚集大批同好网友，展示自我风采，结交知音，搭建别具特色的“兴趣主题“互动平台。贴吧目录涵盖游戏、地区、文学、动漫、娱乐明星、生活、体育、电脑数码等方方面面，是全球领先的中文交流平台，它为人们提供一个表达和交流思想的自由网络空间，并以此汇集志同道合的网友。 |
+
+### 📁Virtual Community
+
+> see [Virtual community - Wikipedia](https://en.wikipedia.org/wiki/Virtual_community)
+
+| 🟢 Name | 🔗 Link | ℹ️ Description |
+| :--- | :--- | :--- |
+| **Pixiv** | | |
+| <img src="assets/pixiv-icon.png" width=50> | [插畫、漫畫、小說作品交流服務 [pixiv]](https://www.pixiv.net/) | Pixiv[a] (Japanese: ピクシブ, Hepburn: Pikushibu) is a Japanese online community for artists. |
+
+## 📦FileHostingService
+
+> **File sharing**<br>
+> see [File-hosting service - Wikipedia](https://en.wikipedia.org/wiki/File-hosting_service)
+
+### 📁Online Video Platform
+
+> see [Online video platform - Wikipedia](https://en.wikipedia.org/wiki/Online_video_platform)
+
+| 🟢 Name | 🔗 Link | ℹ️ Description |
+| :--- | :--- | :--- |
+| **YouTube** | | |
+| <img src="assets/youtube-icon.png" width=50> | [YouTube](https://www.youtube.com/) | Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube. |
+| **Bilibili** | | |
+| <img src="assets/bilibili-icon.png" width=50> | [哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/) | 哔哩哔哩（bilibili.com)是国内知名的视频弹幕网站，这里有及时的动漫新番，活跃的ACG氛围，有创意的Up主。大家可以在这里找到许多欢乐。 |
+
+### 📁Cloud Disk
+
+| 🟢 Name | 🔗 Link | ℹ️ Description |
+| :--- | :--- | :--- |
+| **OneDrive** | | |
+| <img src="assets/onedrive-icon.png" width=50> | [Home - OneDrive](https://onedrive.live.com/?view=1) | Microsoft OneDrive is a file-hosting service operated by Microsoft. First released as SkyDrive in August 2007, it allows registered users to store, share, back-up and synchronize their files. OneDrive also works as the storage backend of the web version of Microsoft 365. OneDrive offers 5 gigabytes of storage space free of charge, with 100 GB, 1 TB, and 6 TB storage options available, either separately or with Microsoft 365 subscriptions. |
+
+### 📁Net Disk
+
+| 🟢 Name | 🔗 Link | ℹ️ Description |
+| :--- | :--- | :--- |
+| **Baidu NetDisk** | | |
+| <img src="assets/baidu-netdisk-icon.png" width=50> | [百度网盘](https://pan.baidu.com/disk/main#/index?category=all) | 百度网盘为您提供文件的网络备份、同步和分享服务。空间大、速度快、安全稳固，支持教育网加速，支持手机端。注册使用百度网盘即可享受免费存储空间 |
