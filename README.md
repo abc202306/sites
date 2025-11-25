@@ -1,5 +1,7 @@
 # Websites
 
+> **[📦ACG](#acg), [📦Academy](#academy), [📦DigitalLife](#digitallife), [📦SocialMedia](#socialmedia), [📦FileHostingService](#filehostingservice)**
+
 | 🟢 Name | ℹ️ Description |
 | :--- | :--- |
 | **[📦ACG](#acg)** | **Anime, Comic & Game** <br>see [ACG (subculture) - Wikipedia](https://en.wikipedia.org/wiki/ACG_(subculture)) |
@@ -16,7 +18,7 @@
 | [📁Password Manager](#password-manager) | <img src="assets/keepass-icon.png" width=25> <img src="assets/1password-icon.png" width=25> <img src="assets/bitwardon-icon.png" width=25> |
 | [📁Authenticator Software](#authenticator-software) | <img src="assets/microsoft-authenticator-icon.png" width=25> <img src="assets/google-authenticator-icon.png" width=25> |
 | [📁Browser software](#browser-software) | <img src="assets/google-chrome-icon.png" width=25> <img src="assets/microsoft-edge-icon.png" width=25> <img src="assets/mozilla-firefox-icon.png" width=25> <img src="assets/tor-browser-icon.png" width=25> <img src="assets/uc-browser-icon.png" width=25> <img src="assets/quark-browser-icon.png" width=25> |
-| **[📦SocialMedia](#digitallife)** | **Communication**<br>see [Social media - Wikipedia](https://en.wikipedia.org/wiki/Social_media) |
+| **[📦SocialMedia](#socialmedia)** | **Communication**<br>see [Social media - Wikipedia](https://en.wikipedia.org/wiki/Social_media) |
 | [📁Instant Messaging](#instant-messaging) | <img src="assets/telegram-icon.png" width=25> <img src="assets/tencent-qq-icon.png" width=25> <img src="assets/tencent-wechat-icon.png" width=25> |
 | [📁Microblogging](#microblogging) | <img src="assets/large-x-logo.png.twimg.1920.png" width=25> <img src="assets/misskey-icon.png" width=25> <img src="assets/nijimiss-icon.png" width=25> |
 | [📁Email service](#email-service) | <img src="assets/gmail-icon.png" width=25> <img src="assets/outlook-com-email-icon.png" width=25> <img src="assets/mail-ru-icon.png" width=25> <img src="assets/qq-mail-icon.png" width=25> <img src="assets/netease-mail-icon.png" width=25> |
