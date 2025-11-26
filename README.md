@@ -3,30 +3,30 @@
 | 🟢 Name | ℹ️ Description |
 | :--- | :--- |
 | **[1 📦ACG](#1-acg)** | **Anime, Comic & Game** <br>see [ACG (subculture) - Wikipedia](https://en.wikipedia.org/wiki/ACG_(subculture)) |
-| &emsp;[1.1 📁Anime Websites](#11-anime-websites) | <img src="assets/jcyapp-org-icon.png" width=25> |
-| &emsp;[1.2 📁Anime Database Websites](#12-anime-database-websites) | <img src="assets/myanimelist.png" width=25> <img src="assets/anidb-icon.png" width=25> |
-| &emsp;[1.3 📁Hentai Comic Websites](#13-hentai-comic-websites) | <img src="assets/e-hentai-seeklogo.svg" width=25> <img src="assets/nhentai.png" width=25> <img src="assets/jmcomic.png" width=25> <img src="assets/picaacg.png" width=25> |
-| &emsp;[1.4 📁Normal Comic Websites](#14-normal-comic-websites) | <img src="assets/manhuaren.png" width=25> |
-| &emsp;[1.5 📁Comic Reader Websites](#15-comic-reader-websites) | <img src="assets/mihon.png" width=25> <img src="assets/lanraragi-icon.png" width=25> |
+| [1.1 📁Anime Websites](#11-anime-websites) | <img src="assets/jcyapp-org-icon.png" width=25> |
+| [1.2 📁Anime Database Websites](#12-anime-database-websites) | <img src="assets/myanimelist.png" width=25> <img src="assets/anidb-icon.png" width=25> |
+| [1.3 📁Hentai Comic Websites](#13-hentai-comic-websites) | <img src="assets/e-hentai-seeklogo.svg" width=25> <img src="assets/nhentai.png" width=25> <img src="assets/jmcomic.png" width=25> <img src="assets/picaacg.png" width=25> |
+| [1.4 📁Normal Comic Websites](#14-normal-comic-websites) | <img src="assets/manhuaren.png" width=25> |
+| [1.5 📁Comic Reader Websites](#15-comic-reader-websites) | <img src="assets/mihon.png" width=25> <img src="assets/lanraragi-icon.png" width=25> |
 | **[2 📦Academy](#2-academy)** | **Education & Research**<br>see [Academy - Wikipedia](https://en.wikipedia.org/wiki/Academy) |
-| &emsp;[2.1 📁Encyclopedia Websites](#21-encyclopedia-websites) | <img src="assets/Wikipedia-logo-v2.svg.webp" width=25> <img src="assets/baidu-baike-icon.png" width=25> <img src="assets/moegirl-encyclopedia-icon.png" width=25> <img src="assets/hmoegirl-encyclopedia-icon.png" width=25> <img src="assets/wikihow-icon.png" width=25> <img src="assets/mbalib-wiki.png" width=25> <img src="assets/noteapps-info-icon.png" width=25> |
-| &emsp;[2.2 📁Note-taking App Websites](#22-note-taking-app-websites) | <img src="assets/obsidian.png" width=25> <img src="assets/notion-icon.png" width=25> <img src="assets/anytype-icon.png" width=25> <img src="assets/tiddly-wiki-icon.png" width=25> <img src="assets/logseq-icon.png" width=25> <img src="assets/siyuan-note-icon.png" width=25> |
-| &emsp;[2.3 📁Search Engine Websites](#23-search-engine-websites) | <img src="assets/google-search-icon.png" width=25> <img src="assets/bing-search-icon.png" width=25> <img src="assets/yandex-search-icon.png" width=25> <img src="assets/baidu-search-icon.png" width=25> <img src="assets/chongbuluo-search-icon.png" width=25> <img src="assets/saurcenao-search-icon.png" width=25> <img src="assets/soutubot-moe-icon.png" width=25> |
+| [2.1 📁Encyclopedia Websites](#21-encyclopedia-websites) | <img src="assets/Wikipedia-logo-v2.svg.webp" width=25> <img src="assets/baidu-baike-icon.png" width=25> <img src="assets/moegirl-encyclopedia-icon.png" width=25> <img src="assets/hmoegirl-encyclopedia-icon.png" width=25> <img src="assets/wikihow-icon.png" width=25> <img src="assets/mbalib-wiki.png" width=25> <img src="assets/noteapps-info-icon.png" width=25> |
+| [2.2 📁Note-taking App Websites](#22-note-taking-app-websites) | <img src="assets/obsidian.png" width=25> <img src="assets/notion-icon.png" width=25> <img src="assets/anytype-icon.png" width=25> <img src="assets/tiddly-wiki-icon.png" width=25> <img src="assets/logseq-icon.png" width=25> <img src="assets/siyuan-note-icon.png" width=25> |
+| [2.3 📁Search Engine Websites](#23-search-engine-websites) | <img src="assets/google-search-icon.png" width=25> <img src="assets/bing-search-icon.png" width=25> <img src="assets/yandex-search-icon.png" width=25> <img src="assets/baidu-search-icon.png" width=25> <img src="assets/chongbuluo-search-icon.png" width=25> <img src="assets/saurcenao-search-icon.png" width=25> <img src="assets/soutubot-moe-icon.png" width=25> |
 | **[3 📦 DigitalLife](#3-digitallife)** | **Useful Tools**<br>see [Information Age - Wikipedia](https://en.wikipedia.org/wiki/Information_Age) |
-| &emsp;[3.1 📁Password Manager](#31-password-manager) | <img src="assets/keepass-icon.png" width=25> <img src="assets/1password-icon.png" width=25> <img src="assets/bitwardon-icon.png" width=25> |
-| &emsp;[3.2 📁Authenticator Software](#32-authenticator-software) | <img src="assets/microsoft-authenticator-icon.png" width=25> <img src="assets/google-authenticator-icon.png" width=25> |
-| &emsp;[3.3 📁Browser software](#33-browser-software) | <img src="assets/google-chrome-icon.png" width=25> <img src="assets/microsoft-edge-icon.png" width=25> <img src="assets/mozilla-firefox-icon.png" width=25> <img src="assets/tor-browser-icon.png" width=25> <img src="assets/uc-browser-icon.png" width=25> <img src="assets/quark-browser-icon.png" width=25> |
+| [3.1 📁Password Manager](#31-password-manager) | <img src="assets/keepass-icon.png" width=25> <img src="assets/1password-icon.png" width=25> <img src="assets/bitwardon-icon.png" width=25> |
+| [3.2 📁Authenticator Software](#32-authenticator-software) | <img src="assets/microsoft-authenticator-icon.png" width=25> <img src="assets/google-authenticator-icon.png" width=25> |
+| [3.3 📁Browser software](#33-browser-software) | <img src="assets/google-chrome-icon.png" width=25> <img src="assets/microsoft-edge-icon.png" width=25> <img src="assets/mozilla-firefox-icon.png" width=25> <img src="assets/tor-browser-icon.png" width=25> <img src="assets/uc-browser-icon.png" width=25> <img src="assets/quark-browser-icon.png" width=25> |
 | **[4 📦SocialMedia](#4-socialmedia)** | **Communication**<br>see [Social media - Wikipedia](https://en.wikipedia.org/wiki/Social_media) |
-| &emsp;[4.1 📁Instant Messaging](#41-instant-messaging) | <img src="assets/telegram-icon.png" width=25> <img src="assets/tencent-qq-icon.png" width=25> <img src="assets/tencent-wechat-icon.png" width=25> |
-| &emsp;[4.2 📁Microblogging](#42-microblogging) | <img src="assets/large-x-logo.png.twimg.1920.png" width=25> <img src="assets/misskey-icon.png" width=25> <img src="assets/nijimiss-icon.png" width=25> |
-| &emsp;[4.3 📁Email service](#43-email-service) | <img src="assets/gmail-icon.png" width=25> <img src="assets/outlook-com-email-icon.png" width=25> <img src="assets/mail-ru-icon.png" width=25> <img src="assets/qq-mail-icon.png" width=25> <img src="assets/netease-mail-icon.png" width=25> |
-| &emsp;[4.4 📁Q&A software](#44-qa-software) | <img src="assets/quora-icon.png" width=25> <img src="assets/zhihu-icon.png" width=25> |
-| &emsp;[4.5 📁Forum](#45-forum) | <img src="assets/reddit-icon.png" width=25> <img src="assets/baidu-tieba-icon.png" width=25> |
-| &emsp;[4.6 📁Virtual Community](#46-virtual-community) | <img src="assets/pixiv-icon.png" width=25> |
+| [4.1 📁Instant Messaging](#41-instant-messaging) | <img src="assets/telegram-icon.png" width=25> <img src="assets/tencent-qq-icon.png" width=25> <img src="assets/tencent-wechat-icon.png" width=25> |
+| [4.2 📁Microblogging](#42-microblogging) | <img src="assets/large-x-logo.png.twimg.1920.png" width=25> <img src="assets/misskey-icon.png" width=25> <img src="assets/nijimiss-icon.png" width=25> |
+| [4.3 📁Email service](#43-email-service) | <img src="assets/gmail-icon.png" width=25> <img src="assets/outlook-com-email-icon.png" width=25> <img src="assets/mail-ru-icon.png" width=25> <img src="assets/qq-mail-icon.png" width=25> <img src="assets/netease-mail-icon.png" width=25> |
+| [4.4 📁Q&A software](#44-qa-software) | <img src="assets/quora-icon.png" width=25> <img src="assets/zhihu-icon.png" width=25> |
+| [4.5 📁Forum](#45-forum) | <img src="assets/reddit-icon.png" width=25> <img src="assets/baidu-tieba-icon.png" width=25> |
+| [4.6 📁Virtual Community](#46-virtual-community) | <img src="assets/pixiv-icon.png" width=25> |
 | **[5 📦FileHostingService](#5-filehostingservice)** | **File sharing**<br>see [File-hosting service - Wikipedia](https://en.wikipedia.org/wiki/File-hosting_service) |
-| &emsp;[5.1 📁Online Video Platform](#51-online-video-platform) | <img src="assets/youtube-icon.png" width=25> <img src="assets/bilibili-icon.png" width=25> |
-| &emsp;[5.2 📁Cloud Disk](#52-cloud-disk) | <img src="assets/onedrive-icon.png" width=25> |
-| &emsp;[5.3 📁Net Disk](#53-net-disk) | <img src="assets/baidu-netdisk-icon.png" width=25> |
+| [5.1 📁Online Video Platform](#51-online-video-platform) | <img src="assets/youtube-icon.png" width=25> <img src="assets/bilibili-icon.png" width=25> |
+| [5.2 📁Cloud Disk](#52-cloud-disk) | <img src="assets/onedrive-icon.png" width=25> |
+| [5.3 📁Net Disk](#53-net-disk) | <img src="assets/baidu-netdisk-icon.png" width=25> |
 
 
 ## 1 📦ACG
