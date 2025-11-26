@@ -1,42 +1,40 @@
 # Websites
 
-> **[📦ACG](#acg), [📦Academy](#academy), [📦DigitalLife](#digitallife), [📦SocialMedia](#socialmedia), [📦FileHostingService](#filehostingservice)**
-
 | 🟢 Name | ℹ️ Description |
 | :--- | :--- |
-| **[📦ACG](#acg)** | **Anime, Comic & Game** <br>see [ACG (subculture) - Wikipedia](https://en.wikipedia.org/wiki/ACG_(subculture)) |
-| [📁Anime Websites](#anime-websites) | <img src="assets/jcyapp-org-icon.png" width=25> |
-| [📁Anime Database Websites](#anime-database-websites) | <img src="assets/myanimelist.png" width=25> <img src="assets/anidb-icon.png" width=25> |
-| [📁Hentai Comic Websites](#hentai-comic-websites) | <img src="assets/e-hentai-seeklogo.svg" width=25> <img src="assets/nhentai.png" width=25> <img src="assets/jmcomic.png" width=25> <img src="assets/picaacg.png" width=25> |
-| [📁Normal Comic Websites](#normal-comic-websites) | <img src="assets/manhuaren.png" width=25> |
-| [📁Comic Reader Websites](#comic-reader-websites) | <img src="assets/mihon.png" width=25> <img src="assets/lanraragi-icon.png" width=25> |
-| **[📦Academy](#academy)** | **Education & Research**<br>see [Academy - Wikipedia](https://en.wikipedia.org/wiki/Academy) |
-| [📁Encyclopedia Websites](#encyclopedia-websites) | <img src="assets/Wikipedia-logo-v2.svg.webp" width=25> <img src="assets/baidu-baike-icon.png" width=25> <img src="assets/moegirl-encyclopedia-icon.png" width=25> <img src="assets/hmoegirl-encyclopedia-icon.png" width=25> <img src="assets/wikihow-icon.png" width=25> <img src="assets/mbalib-wiki.png" width=25> <img src="assets/noteapps-info-icon.png" width=25> |
-| [📁Note-taking App Websites](#note-taking-app-websites) | <img src="assets/obsidian.png" width=25> <img src="assets/notion-icon.png" width=25> <img src="assets/anytype-icon.png" width=25> <img src="assets/tiddly-wiki-icon.png" width=25> <img src="assets/logseq-icon.png" width=25> <img src="assets/siyuan-note-icon.png" width=25> |
-| [📁Search Engine Websites](#search-engine-websites) | <img src="assets/google-search-icon.png" width=25> <img src="assets/bing-search-icon.png" width=25> <img src="assets/yandex-search-icon.png" width=25> <img src="assets/baidu-search-icon.png" width=25> <img src="assets/chongbuluo-search-icon.png" width=25> <img src="assets/saurcenao-search-icon.png" width=25> <img src="assets/soutubot-moe-icon.png" width=25> |
-| **[📦DigitalLife](#digitallife)** | **Useful Tools**<br>see [Information Age - Wikipedia](https://en.wikipedia.org/wiki/Information_Age) |
-| [📁Password Manager](#password-manager) | <img src="assets/keepass-icon.png" width=25> <img src="assets/1password-icon.png" width=25> <img src="assets/bitwardon-icon.png" width=25> |
-| [📁Authenticator Software](#authenticator-software) | <img src="assets/microsoft-authenticator-icon.png" width=25> <img src="assets/google-authenticator-icon.png" width=25> |
-| [📁Browser software](#browser-software) | <img src="assets/google-chrome-icon.png" width=25> <img src="assets/microsoft-edge-icon.png" width=25> <img src="assets/mozilla-firefox-icon.png" width=25> <img src="assets/tor-browser-icon.png" width=25> <img src="assets/uc-browser-icon.png" width=25> <img src="assets/quark-browser-icon.png" width=25> |
-| **[📦SocialMedia](#socialmedia)** | **Communication**<br>see [Social media - Wikipedia](https://en.wikipedia.org/wiki/Social_media) |
-| [📁Instant Messaging](#instant-messaging) | <img src="assets/telegram-icon.png" width=25> <img src="assets/tencent-qq-icon.png" width=25> <img src="assets/tencent-wechat-icon.png" width=25> |
-| [📁Microblogging](#microblogging) | <img src="assets/large-x-logo.png.twimg.1920.png" width=25> <img src="assets/misskey-icon.png" width=25> <img src="assets/nijimiss-icon.png" width=25> |
-| [📁Email service](#email-service) | <img src="assets/gmail-icon.png" width=25> <img src="assets/outlook-com-email-icon.png" width=25> <img src="assets/mail-ru-icon.png" width=25> <img src="assets/qq-mail-icon.png" width=25> <img src="assets/netease-mail-icon.png" width=25> |
-| [📁Q&A software](#qa-software) | <img src="assets/quora-icon.png" width=25> <img src="assets/zhihu-icon.png" width=25> |
-| [📁Forum](#forum) | <img src="assets/reddit-icon.png" width=25> <img src="assets/baidu-tieba-icon.png" width=25> |
-| [📁Virtual Community](#virtual-community) | <img src="assets/pixiv-icon.png" width=25> |
-| **[📦FileHostingService](#filehostingservice)** | **File sharing**<br>see [File-hosting service - Wikipedia](https://en.wikipedia.org/wiki/File-hosting_service) |
-| [📁Online Video Platform](#online-video-platform) | <img src="assets/youtube-icon.png" width=25> <img src="assets/bilibili-icon.png" width=25> |
-| [📁Cloud Disk](#cloud-disk) | <img src="assets/onedrive-icon.png" width=25> |
-| [📁Net Disk](#net-disk) | <img src="assets/baidu-netdisk-icon.png" width=25> |
+| **[1 📦ACG](#1-acg)** | **Anime, Comic & Game** <br>see [ACG (subculture) - Wikipedia](https://en.wikipedia.org/wiki/ACG_(subculture)) |
+| &emsp;[1.1 📁Anime Websites](#11-anime-websites) | <img src="assets/jcyapp-org-icon.png" width=25> |
+| &emsp;[1.2 📁Anime Database Websites](#12-anime-database-websites) | <img src="assets/myanimelist.png" width=25> <img src="assets/anidb-icon.png" width=25> |
+| &emsp;[1.3 📁Hentai Comic Websites](#13-hentai-comic-websites) | <img src="assets/e-hentai-seeklogo.svg" width=25> <img src="assets/nhentai.png" width=25> <img src="assets/jmcomic.png" width=25> <img src="assets/picaacg.png" width=25> |
+| &emsp;[1.4 📁Normal Comic Websites](#14-normal-comic-websites) | <img src="assets/manhuaren.png" width=25> |
+| &emsp;[1.5 📁Comic Reader Websites](#15-comic-reader-websites) | <img src="assets/mihon.png" width=25> <img src="assets/lanraragi-icon.png" width=25> |
+| **[2 📦Academy](#2-academy)** | **Education & Research**<br>see [Academy - Wikipedia](https://en.wikipedia.org/wiki/Academy) |
+| &emsp;[2.1 📁Encyclopedia Websites](#21-encyclopedia-websites) | <img src="assets/Wikipedia-logo-v2.svg.webp" width=25> <img src="assets/baidu-baike-icon.png" width=25> <img src="assets/moegirl-encyclopedia-icon.png" width=25> <img src="assets/hmoegirl-encyclopedia-icon.png" width=25> <img src="assets/wikihow-icon.png" width=25> <img src="assets/mbalib-wiki.png" width=25> <img src="assets/noteapps-info-icon.png" width=25> |
+| &emsp;[2.2 📁Note-taking App Websites](#22-note-taking-app-websites) | <img src="assets/obsidian.png" width=25> <img src="assets/notion-icon.png" width=25> <img src="assets/anytype-icon.png" width=25> <img src="assets/tiddly-wiki-icon.png" width=25> <img src="assets/logseq-icon.png" width=25> <img src="assets/siyuan-note-icon.png" width=25> |
+| &emsp;[2.3 📁Search Engine Websites](#23-search-engine-websites) | <img src="assets/google-search-icon.png" width=25> <img src="assets/bing-search-icon.png" width=25> <img src="assets/yandex-search-icon.png" width=25> <img src="assets/baidu-search-icon.png" width=25> <img src="assets/chongbuluo-search-icon.png" width=25> <img src="assets/saurcenao-search-icon.png" width=25> <img src="assets/soutubot-moe-icon.png" width=25> |
+| **[3 📦 DigitalLife](#3-digitallife)** | **Useful Tools**<br>see [Information Age - Wikipedia](https://en.wikipedia.org/wiki/Information_Age) |
+| &emsp;[3.1 📁Password Manager](#31-password-manager) | <img src="assets/keepass-icon.png" width=25> <img src="assets/1password-icon.png" width=25> <img src="assets/bitwardon-icon.png" width=25> |
+| &emsp;[3.2 📁Authenticator Software](#32-authenticator-software) | <img src="assets/microsoft-authenticator-icon.png" width=25> <img src="assets/google-authenticator-icon.png" width=25> |
+| &emsp;[3.3 📁Browser software](#33-browser-software) | <img src="assets/google-chrome-icon.png" width=25> <img src="assets/microsoft-edge-icon.png" width=25> <img src="assets/mozilla-firefox-icon.png" width=25> <img src="assets/tor-browser-icon.png" width=25> <img src="assets/uc-browser-icon.png" width=25> <img src="assets/quark-browser-icon.png" width=25> |
+| **[4 📦SocialMedia](#4-socialmedia)** | **Communication**<br>see [Social media - Wikipedia](https://en.wikipedia.org/wiki/Social_media) |
+| &emsp;[4.1 📁Instant Messaging](#41-instant-messaging) | <img src="assets/telegram-icon.png" width=25> <img src="assets/tencent-qq-icon.png" width=25> <img src="assets/tencent-wechat-icon.png" width=25> |
+| &emsp;[4.2 📁Microblogging](#42-microblogging) | <img src="assets/large-x-logo.png.twimg.1920.png" width=25> <img src="assets/misskey-icon.png" width=25> <img src="assets/nijimiss-icon.png" width=25> |
+| &emsp;[4.3 📁Email service](#43-email-service) | <img src="assets/gmail-icon.png" width=25> <img src="assets/outlook-com-email-icon.png" width=25> <img src="assets/mail-ru-icon.png" width=25> <img src="assets/qq-mail-icon.png" width=25> <img src="assets/netease-mail-icon.png" width=25> |
+| &emsp;[4.4 📁Q&A software](#44-qa-software) | <img src="assets/quora-icon.png" width=25> <img src="assets/zhihu-icon.png" width=25> |
+| &emsp;[4.5 📁Forum](#45-forum) | <img src="assets/reddit-icon.png" width=25> <img src="assets/baidu-tieba-icon.png" width=25> |
+| &emsp;[4.6 📁Virtual Community](#46-virtual-community) | <img src="assets/pixiv-icon.png" width=25> |
+| **[5 📦FileHostingService](#5-filehostingservice)** | **File sharing**<br>see [File-hosting service - Wikipedia](https://en.wikipedia.org/wiki/File-hosting_service) |
+| &emsp;[5.1 📁Online Video Platform](#51-online-video-platform) | <img src="assets/youtube-icon.png" width=25> <img src="assets/bilibili-icon.png" width=25> |
+| &emsp;[5.2 📁Cloud Disk](#52-cloud-disk) | <img src="assets/onedrive-icon.png" width=25> |
+| &emsp;[5.3 📁Net Disk](#53-net-disk) | <img src="assets/baidu-netdisk-icon.png" width=25> |
 
 
-## **📦ACG**
+## 1 📦ACG
 
 > **Anime, Comic & Game**<br>
 > see [ACG (subculture) - Wikipedia](https://en.wikipedia.org/wiki/ACG_(subculture))
 
-### 📁Anime Websites
+### 1.1 📁Anime Websites
 
 > see [Streaming media - Wikipedia](https://en.wikipedia.org/wiki/Streaming_media)
 
@@ -45,7 +43,7 @@
 | **囧次元** | | |
 | <img src="assets/jcyapp-org-icon.png" width=50> | [囧次元](https://jcyapp.org/) | 我只想安安静静的追个番(ㄒoㄒ) |
 
-### 📁Anime Database Websites
+### 1.2 📁Anime Database Websites
 
 > see [Database - Wikipedia](https://en.wikipedia.org/wiki/Database)
 
@@ -56,10 +54,12 @@
 | **AniDB** | | |
 | <img src="assets/anidb-icon.png" width=50> | [AniDB](https://anidb.net/) | Looking for information about Anime? AniDB is the right place for you. AniDB is a not-for-profit anime database providing you with all information reg... |
 
-### 📁Hentai Comic Websites
+### 1.3 📁Hentai Comic Websites
 
 > see [Hentai - Wikipedia](https://en.wikipedia.org/wiki/Hentai)
 
+> [!Note]
+> 
 > | | |
 > | --- | --- |
 > | **Region** | |
@@ -81,7 +81,7 @@
 | **嗶咔漫畫** | | |
 | <img src="assets/picaacg.png" width=50> | [嗶咔漫畫 (@picapicacomic) / X](https://x.com/picapicacomic) | 嗶咔漫畫讓你可以輕鬆看到不同的本子，介面美觀易用，分類齊全，每天更新，紳士必備！ <br>https://picacomic.com<br>https://picacomic.xyz<br><br>`{"category":"移动应用程序","link":"picacomic.com","joined":"2025-01"}` |
 
-### 📁Normal Comic Websites
+### 1.4 📁Normal Comic Websites
 
 > see [Comics - Wikipedia](https://en.wikipedia.org/wiki/Comics)
 
@@ -90,7 +90,7 @@
 | **漫画人** | | |
 | <img src="assets/manhuaren.png" width=50> | [漫画人 - 为爱漫画的人而生](https://www.manhuaren.com/) | 漫画人：给你最好的掌上漫画应用体验，速度最快、最专业的漫画应用。<br><br>`{"author":"漫画人:为爱漫画的人而生、manhuaren.com","keywords":"漫画人：最好的掌上漫画应用"}` | |
 
-### 📁Comic Reader Websites
+### 1.5 📁Comic Reader Websites
 
 > see [Digital asset management - Wikipedia](https://en.wikipedia.org/wiki/Digital_asset_management)
 
@@ -101,15 +101,17 @@
 | **LANraragi** | | |
 | <img src="assets/lanraragi-icon.png" width=50> | [Difegue/LANraragi: Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.](https://github.com/Difegue/LANraragi) |  application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.<br><br>`{"link":"lrr.tvc-16.science","Topics": "docker server perl management manga comics reader mojolicious opds doujinshi nas hacktoberfest sadpanda"}` |
 
-## **📦Academy**
+## 2 📦Academy
 
 > **Education & Research**<br>
 > see [Academy - Wikipedia](https://en.wikipedia.org/wiki/Academy)
 
-### 📁Encyclopedia Websites
+### 2.1 📁Encyclopedia Websites
 
 > see [Encyclopedia - Wikipedia](https://en.wikipedia.org/wiki/Encyclopedia)
 
+> [!Note]
+> 
 > | | |
 > | --- | --- |
 > | **Encyclopedia Type** | |
@@ -134,10 +136,12 @@
 | **NoteApps.info** | | |
 | <img src="assets/noteapps-info-icon.png" width=50> | [NoteApps.info: 41 best note taking apps analyzed over 343 features](https://noteapps.info/) | Encyclopedia of note taking apps: Screenshots, feature lists, and pricing for popular note taking apps.
 
-### 📁Note-taking App Websites
+### 2.2 📁Note-taking App Websites
 
 > see [Note-taking - Wikipedia](https://en.wikipedia.org/wiki/Note-taking)
 
+> [!Note]
+> 
 > | | |
 > | --- | --- |
 > | **Text Type** | |
@@ -162,10 +166,12 @@
 | **SiYuan** | | |
 | <img src="assets/siyuan-note-icon.png" width=50> | [SiYuan - Privacy-first personal knowledge management system that supports Markdown, block-level ref, and bidirectional links](https://b3log.org/siyuan/en/) | SiYuan - Privacy-first personal knowledge management system that supports Markdown, block-level ref, and bidirectional links |
 
-### 📁Search Engine Websites
+### 2.3 📁Search Engine Websites
 
 > see [Search engine - Wikipedia](https://en.wikipedia.org/wiki/Search_engine)
 
+> [!Note]
+> 
 > | | |
 > | --- | --- |
 > | **Search Type** | |
@@ -190,12 +196,12 @@
 | **SoutuBot.moe** | | |
 | <img src="assets/soutubot-moe-icon.png" width=50> | [搜图Bot酱](https://soutubot.moe/) | 大家好（ﾉ>ω<)ﾉ这里是搜图bot酱网页版~ 可局部搜图NH内的本子，欢迎大家来测试~<br><br>如果大家觉得好用的话就请麻烦宣传和赞助一下吧~ |
 
-## **📦DigitalLife**
+## 3 📦DigitalLife
 
 > **Useful Tools**<br>
 > see [Information Age - Wikipedia](https://en.wikipedia.org/wiki/Information_Age)
 
-### 📁Password Manager
+### 3.1 📁Password Manager
 
 > see [Password manager - Wikipedia](https://en.wikipedia.org/wiki/Password_manager)
 
@@ -208,7 +214,7 @@
 | **BitWardon** | | |
 | <img src="assets/bitwardon-icon.png" width=50> | [Best Password Manager for Business, Enterprise & Personall - Bitwarden](https://bitwarden.com/) | Bitwarden is the most trusted password manager for passwords and passkeys at home or at work, on any browser or device. Start with a free trial. |
 
-### 📁Authenticator Software
+### 3.2 📁Authenticator Software
 
 > see [Authenticator - Wikipedia](https://en.wikipedia.org/wiki/Authenticator)
 
@@ -219,7 +225,7 @@
 | **Google Authenticator** | | |
 | <img src="assets/google-authenticator-icon.png" width=50> | [Google Authenticator - Apps on Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US) | Google Authenticator adds an extra layer of security to your online accounts by adding a second step of verification when you sign in. |
 
-### 📁Browser software
+### 3.3 📁Browser software
 
 > see [Web browser - Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
 
@@ -238,12 +244,12 @@
 | **Quark Browser** | | |
 | <img src="assets/quark-browser-icon.png" width=50> | [夸克_阿里AI旗舰应用官网](https://www.quark.cn/) | 夸克pc/app为你带来极速、智能、安全、高效的搜索体验,找答案,找资料,找工具,办公,学习,工作必备应用。夸克提供浏览器搜索引擎、网盘、AI扫描王工具及小说阅读等高效功能，为你提供稳定,安全,流畅的浏览环境和优质的产品服务体验 |
 
-## 📦SocialMedia
+## 4 📦SocialMedia
 
 > **Communication**<br>
 > see [Social media - Wikipedia](https://en.wikipedia.org/wiki/Social_media)
 
-### 📁Instant Messaging
+### 4.1 📁Instant Messaging
 
 > see [Instant messaging - Wikipedia](https://en.wikipedia.org/wiki/Instant_messaging)
 
@@ -256,7 +262,7 @@
 | **Tencent WeChat** | | |
 | <img src="assets/tencent-wechat-icon.png" width=50> | [WeChat - Free messaging and calling app](https://www.wechat.com/) | Available for all kinds of platforms; enjoy group chat; support voice, photo, video and text messages. | 
 
-### 📁Microblogging
+### 4.2 📁Microblogging
 
 > see [Microblogging - Wikipedia](https://en.wikipedia.org/wiki/Microblogging)
 
@@ -269,7 +275,7 @@
 | **Nijimiss** | | |
 | <img src="assets/nijimiss-icon.png" width=50> | [にじみす.moe](https://nijimiss.moe/) | 💞あらゆる好きが交差する💞<br> 好きを語れるオープンコミュニティ<br><br>好きなことを堂々と胸を張って好きといえる空間を作りたい。<br>そういった思いから生まれたSNSです。 |
 
-### 📁Email service
+### 4.3 📁Email service
 
 > see [Email - Wikipedia](https://en.wikipedia.org/wiki/Email)
 
@@ -286,7 +292,7 @@
 | **NetEase Mail** | | |
 | <img src="assets/netease-mail-icon.png" width=50> | [网易免费邮箱 - 你的专业电子邮局](https://email.163.com/) | 网易免费邮箱，你的专业电子邮局，提供以 @163.com、@126.com和@yeah.net 为后缀的免费邮箱。超过20年邮箱运营经验，系统快速稳定安全，支持超大附件和网盘服务。网易邮箱官方App“邮箱大师”帮您高效处理邮件，支持所有邮箱，并可在手机、Windows和Mac上多端协同使用。 |
 
-### 📁Q&A software
+### 4.4 📁Q&A software
 
 > see [Question and answer system - Wikipedia](https://en.wikipedia.org/wiki/Question_and_answer_system)
 
@@ -297,7 +303,7 @@
 | **Zhihu** | | |
 | <img src="assets/zhihu-icon.png" width=50> | [知乎 - 有问题，就会有答案](https://www.zhihu.com/) | 知乎，中文互联网高质量的问答社区和创作者聚集的原创内容平台，于 2011 年 1 月正式上线，以「让人们更好的分享知识、经验和见解，找到自己的解答」为品牌使命。知乎凭借认真、专业、友善的社区氛围、独特的产品机制以及结构化和易获得的优质内容，聚集了中文互联网科技、商业、影视、时尚、文化等领域最具创造力的人群，已成为综合性、全品类、在诸多领域具有关键影响力的知识分享社区和创作者聚集的原创内容平台，建立起了以社区驱动的内容变现商业模式。 |
 
-### 📁Forum
+### 4.5 📁Forum
 
 > see [Internet forum - Wikipedia](https://en.wikipedia.org/wiki/Internet_forum)
 
@@ -308,7 +314,7 @@
 | **Baidu Tieba** | | |
 | <img src="assets/baidu-tieba-icon.png" width=50> | [百度贴吧——全球领先的中文社区](https://tieba.baidu.com/) | 百度贴吧——全球领先的中文社区。贴吧的使命是让志同道合的人相聚。不论是大众话题还是小众话题，都能精准地聚集大批同好网友，展示自我风采，结交知音，搭建别具特色的“兴趣主题“互动平台。贴吧目录涵盖游戏、地区、文学、动漫、娱乐明星、生活、体育、电脑数码等方方面面，是全球领先的中文交流平台，它为人们提供一个表达和交流思想的自由网络空间，并以此汇集志同道合的网友。 |
 
-### 📁Virtual Community
+### 4.6 📁Virtual Community
 
 > see [Virtual community - Wikipedia](https://en.wikipedia.org/wiki/Virtual_community)
 
@@ -317,12 +323,12 @@
 | **Pixiv** | | |
 | <img src="assets/pixiv-icon.png" width=50> | [插畫、漫畫、小說作品交流服務 [pixiv]](https://www.pixiv.net/) | Pixiv[a] (Japanese: ピクシブ, Hepburn: Pikushibu) is a Japanese online community for artists. |
 
-## 📦FileHostingService
+## 5 📦FileHostingService
 
 > **File sharing**<br>
 > see [File-hosting service - Wikipedia](https://en.wikipedia.org/wiki/File-hosting_service)
 
-### 📁Online Video Platform
+### 5.1 📁Online Video Platform
 
 > see [Online video platform - Wikipedia](https://en.wikipedia.org/wiki/Online_video_platform)
 
@@ -333,14 +339,14 @@
 | **Bilibili** | | |
 | <img src="assets/bilibili-icon.png" width=50> | [哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/) | 哔哩哔哩（bilibili.com)是国内知名的视频弹幕网站，这里有及时的动漫新番，活跃的ACG氛围，有创意的Up主。大家可以在这里找到许多欢乐。 |
 
-### 📁Cloud Disk
+### 5.2 📁Cloud Disk
 
 | 🟢 Name | 🔗 Link | ℹ️ Description |
 | :--- | :--- | :--- |
 | **OneDrive** | | |
 | <img src="assets/onedrive-icon.png" width=50> | [Home - OneDrive](https://onedrive.live.com/?view=1) | Microsoft OneDrive is a file-hosting service operated by Microsoft. First released as SkyDrive in August 2007, it allows registered users to store, share, back-up and synchronize their files. OneDrive also works as the storage backend of the web version of Microsoft 365. OneDrive offers 5 gigabytes of storage space free of charge, with 100 GB, 1 TB, and 6 TB storage options available, either separately or with Microsoft 365 subscriptions. |
 
-### 📁Net Disk
+### 5.3 📁Net Disk
 
 | 🟢 Name | 🔗 Link | ℹ️ Description |
 | :--- | :--- | :--- |
