@@ -4,13 +4,13 @@
 | :--- | :--- |
 | **[1 📦ACG](#1-acg)** | **Anime, Comic & Game** <br>see [ACG (subculture) - Wikipedia](https://en.wikipedia.org/wiki/ACG_(subculture)) |
 | [1.1 📁Anime Websites](#11-anime-websites) | <img src="assets/jcyapp-org-icon.png" width=25> |
-| [1.2 📁Anime Database Websites](#12-anime-database-websites) | <img src="assets/myanimelist.png" width=25> <img src="assets/anidb-icon.png" width=25> |
-| [1.3 📁Hentai Comic Websites](#13-hentai-comic-websites) | <img src="assets/e-hentai-seeklogo.svg" width=25> <img src="assets/nhentai.png" width=25> <img src="assets/jmcomic.png" width=25> <img src="assets/picaacg.png" width=25> |
-| [1.4 📁Normal Comic Websites](#14-normal-comic-websites) | <img src="assets/manhuaren.png" width=25> |
-| [1.5 📁Comic Reader Websites](#15-comic-reader-websites) | <img src="assets/mihon.png" width=25> <img src="assets/lanraragi-icon.png" width=25> |
+| [1.2 📁Anime Database Websites](#12-anime-database-websites) | <img src="assets/myanimelist-icon.png" width=25> <img src="assets/anidb-icon.png" width=25> |
+| [1.3 📁Hentai Comic Websites](#13-hentai-comic-websites) | <img src="assets/e-hentai-icon.svg" width=25> <img src="assets/nhentai-icon.png" width=25> <img src="assets/jmcomic-icon.png" width=25> <img src="assets/picaacg-icon.png" width=25> |
+| [1.4 📁Normal Comic Websites](#14-normal-comic-websites) | <img src="assets/manhuaren-icon.png" width=25> |
+| [1.5 📁Comic Reader Websites](#15-comic-reader-websites) | <img src="assets/mihon-icon.png" width=25> <img src="assets/lanraragi-icon.png" width=25> |
 | **[2 📦Academy](#2-academy)** | **Education & Research**<br>see [Academy - Wikipedia](https://en.wikipedia.org/wiki/Academy) |
-| [2.1 📁Encyclopedia Websites](#21-encyclopedia-websites) | <img src="assets/Wikipedia-logo-v2.svg.webp" width=25> <img src="assets/baidu-baike-icon.png" width=25> <img src="assets/moegirl-encyclopedia-icon.png" width=25> <img src="assets/hmoegirl-encyclopedia-icon.png" width=25> <img src="assets/wikihow-icon.png" width=25> <img src="assets/mbalib-wiki.png" width=25> <img src="assets/noteapps-info-icon.png" width=25> |
-| [2.2 📁Note-taking App Websites](#22-note-taking-app-websites) | <img src="assets/obsidian.png" width=25> <img src="assets/notion-icon.png" width=25> <img src="assets/anytype-icon.png" width=25> <img src="assets/tiddly-wiki-icon.png" width=25> <img src="assets/logseq-icon.png" width=25> <img src="assets/siyuan-note-icon.png" width=25> |
+| [2.1 📁Encyclopedia Websites](#21-encyclopedia-websites) | <img src="assets/wikipedia-icon.png" width=25> <img src="assets/baidu-baike-icon.png" width=25> <img src="assets/moegirl-encyclopedia-icon.png" width=25> <img src="assets/hmoegirl-encyclopedia-icon.png" width=25> <img src="assets/wikihow-icon.png" width=25> <img src="assets/mbalib-wiki-icon.png" width=25> <img src="assets/noteapps-info-icon.png" width=25> |
+| [2.2 📁Note-taking App Websites](#22-note-taking-app-websites) | <img src="assets/obsidian-icon.png" width=25> <img src="assets/notion-icon.png" width=25> <img src="assets/anytype-icon.png" width=25> <img src="assets/tiddly-wiki-icon.png" width=25> <img src="assets/logseq-icon.png" width=25> <img src="assets/siyuan-note-icon.png" width=25> |
 | [2.3 📁Search Engine Websites](#23-search-engine-websites) | <img src="assets/google-search-icon.png" width=25> <img src="assets/bing-search-icon.png" width=25> <img src="assets/yandex-search-icon.png" width=25> <img src="assets/baidu-search-icon.png" width=25> <img src="assets/chongbuluo-search-icon.png" width=25> <img src="assets/saurcenao-search-icon.png" width=25> <img src="assets/soutubot-moe-icon.png" width=25> |
 | **[3 📦 DigitalLife](#3-digitallife)** | **Useful Tools**<br>see [Information Age - Wikipedia](https://en.wikipedia.org/wiki/Information_Age) |
 | [3.1 📁Password Manager](#31-password-manager) | <img src="assets/keepass-icon.png" width=25> <img src="assets/1password-icon.png" width=25> <img src="assets/bitwardon-icon.png" width=25> |
@@ -18,7 +18,7 @@
 | [3.3 📁Browser software](#33-browser-software) | <img src="assets/google-chrome-icon.png" width=25> <img src="assets/microsoft-edge-icon.png" width=25> <img src="assets/mozilla-firefox-icon.png" width=25> <img src="assets/tor-browser-icon.png" width=25> <img src="assets/uc-browser-icon.png" width=25> <img src="assets/quark-browser-icon.png" width=25> |
 | **[4 📦SocialMedia](#4-socialmedia)** | **Communication**<br>see [Social media - Wikipedia](https://en.wikipedia.org/wiki/Social_media) |
 | [4.1 📁Instant Messaging](#41-instant-messaging) | <img src="assets/telegram-icon.png" width=25> <img src="assets/tencent-qq-icon.png" width=25> <img src="assets/tencent-wechat-icon.png" width=25> |
-| [4.2 📁Microblogging](#42-microblogging) | <img src="assets/large-x-logo.png.twimg.1920.png" width=25> <img src="assets/misskey-icon.png" width=25> <img src="assets/nijimiss-icon.png" width=25> |
+| [4.2 📁Microblogging](#42-microblogging) | <img src="assets/x-icon.png" width=25> <img src="assets/misskey-icon.png" width=25> <img src="assets/nijimiss-icon.png" width=25> |
 | [4.3 📁Email service](#43-email-service) | <img src="assets/gmail-icon.png" width=25> <img src="assets/outlook-com-email-icon.png" width=25> <img src="assets/mail-ru-icon.png" width=25> <img src="assets/qq-mail-icon.png" width=25> <img src="assets/netease-mail-icon.png" width=25> |
 | [4.4 📁Q&A software](#44-qa-software) | <img src="assets/quora-icon.png" width=25> <img src="assets/zhihu-icon.png" width=25> |
 | [4.5 📁Forum](#45-forum) | <img src="assets/reddit-icon.png" width=25> <img src="assets/baidu-tieba-icon.png" width=25> |
@@ -50,7 +50,7 @@
 | 🟢 Name | 🔗 Link | ℹ️ Description |
 | :--- | :--- | :--- |
 | **MyAnimeList** | | |
-| <img src="assets/myanimelist.png" width=50> | [MyAnimeList.net - Panel ](https://myanimelist.net/) | Welcome to MyAnimeList, the world's most active online anime and manga community and database. Join the online community, create your anime and manga list, read reviews, explore the forums, follow news, and so much more! <br><br>`{"keywords":"anime, myanimelist, anime news, manga"}` |
+| <img src="assets/myanimelist-icon.png" width=50> | [MyAnimeList.net - Panel ](https://myanimelist.net/) | Welcome to MyAnimeList, the world's most active online anime and manga community and database. Join the online community, create your anime and manga list, read reviews, explore the forums, follow news, and so much more! <br><br>`{"keywords":"anime, myanimelist, anime news, manga"}` |
 | **AniDB** | | |
 | <img src="assets/anidb-icon.png" width=50> | [AniDB](https://anidb.net/) | Looking for information about Anime? AniDB is the right place for you. AniDB is a not-for-profit anime database providing you with all information reg... |
 
@@ -69,17 +69,17 @@
 | 🟢 Name | 🔗 Link | ℹ️ Description |
 | :--- | :--- | :--- |
 | **e-hentai** | | |
-| <img src="assets/e-hentai-seeklogo.svg" width=50> | [E-Hentai Galleries - The Free Hentai Doujinshi, Manga and Image Gallery System](https://e-hentai.org/) | With more than a million absolutely free hentai doujinshi, manga, cosplay and CG galleries, E-Hentai Galleries is the world's largest free Hentai archive. |
-| <img src="assets/e-hentai-seeklogo.svg" width=50> | [ExHentai.org](https://exhentai.org/) | |
+| <img src="assets/e-hentai-icon.svg" width=50> | [E-Hentai Galleries - The Free Hentai Doujinshi, Manga and Image Gallery System](https://e-hentai.org/) | With more than a million absolutely free hentai doujinshi, manga, cosplay and CG galleries, E-Hentai Galleries is the world's largest free Hentai archive. |
+| <img src="assets/e-hentai-icon.svg" width=50> | [ExHentai.org](https://exhentai.org/) | |
 | **nhentai** | | |
-| <img src="assets/nhentai.png" width=50> | [nhentai (@nhentaiOfficial) / X](https://x.com/nhentaiOfficial) | nhentais goal is to organize the world’s hentai and make it universally accessible and goonable<br><br>`{"location":"The 9th Circle of Hell","link":"nhentai.net","joined":"2014-06"}` |
-| <img src="assets/nhentai.png" width=50> | [nhentai: hentai doujinshi and manga](https://nhentai.net/) | nhentai is a free hentai manga and doujinshi reader with over 575,000 galleries to read and download. |
+| <img src="assets/nhentai-icon.png" width=50> | [nhentai (@nhentaiOfficial) / X](https://x.com/nhentaiOfficial) | nhentais goal is to organize the world’s hentai and make it universally accessible and goonable<br><br>`{"location":"The 9th Circle of Hell","link":"nhentai.net","joined":"2014-06"}` |
+| <img src="assets/nhentai-icon.png" width=50> | [nhentai: hentai doujinshi and manga](https://nhentai.net/) | nhentai is a free hentai manga and doujinshi reader with over 575,000 galleries to read and download. |
 | **禁漫天堂** | | |
-| <img src="assets/jmcomic.png" width=50> | [免費A漫 - 禁漫天堂](https://18comic.vip/) | 免費A漫 - 免費成人H漫線上看 |
-| <img src="assets/jmcomic.png" width=50> | [禁漫天堂發布頁 \| Android iOS APP軟件下載](https://jmcmomic.github.io/)<br> | |
-| <img src="assets/jmcomic.png" width=50> | [禁漫天堂發布頁-APP下載 回家的路](https://jmcomicws.cc/) | |
+| <img src="assets/jmcomic-icon.png" width=50> | [免費A漫 - 禁漫天堂](https://18comic.vip/) | 免費A漫 - 免費成人H漫線上看 |
+| <img src="assets/jmcomic-icon.png" width=50> | [禁漫天堂發布頁 \| Android iOS APP軟件下載](https://jmcmomic.github.io/)<br> | |
+| <img src="assets/jmcomic-icon.png" width=50> | [禁漫天堂發布頁-APP下載 回家的路](https://jmcomicws.cc/) | |
 | **嗶咔漫畫** | | |
-| <img src="assets/picaacg.png" width=50> | [嗶咔漫畫 (@picapicacomic) / X](https://x.com/picapicacomic) | 嗶咔漫畫讓你可以輕鬆看到不同的本子，介面美觀易用，分類齊全，每天更新，紳士必備！ <br>https://picacomic.com<br>https://picacomic.xyz<br><br>`{"category":"移动应用程序","link":"picacomic.com","joined":"2025-01"}` |
+| <img src="assets/picaacg-icon.png" width=50> | [嗶咔漫畫 (@picapicacomic) / X](https://x.com/picapicacomic) | 嗶咔漫畫讓你可以輕鬆看到不同的本子，介面美觀易用，分類齊全，每天更新，紳士必備！ <br>https://picacomic.com<br>https://picacomic.xyz<br><br>`{"category":"移动应用程序","link":"picacomic.com","joined":"2025-01"}` |
 
 ### 1.4 📁Normal Comic Websites
 
@@ -88,7 +88,7 @@
 | 🟢 Name | 🔗 Link | ℹ️ Description |
 | :--- | :--- | :--- |
 | **漫画人** | | |
-| <img src="assets/manhuaren.png" width=50> | [漫画人 - 为爱漫画的人而生](https://www.manhuaren.com/) | 漫画人：给你最好的掌上漫画应用体验，速度最快、最专业的漫画应用。<br><br>`{"author":"漫画人:为爱漫画的人而生、manhuaren.com","keywords":"漫画人：最好的掌上漫画应用"}` | |
+| <img src="assets/manhuaren-icon.png" width=50> | [漫画人 - 为爱漫画的人而生](https://www.manhuaren.com/) | 漫画人：给你最好的掌上漫画应用体验，速度最快、最专业的漫画应用。<br><br>`{"author":"漫画人:为爱漫画的人而生、manhuaren.com","keywords":"漫画人：最好的掌上漫画应用"}` | |
 
 ### 1.5 📁Comic Reader Websites
 
@@ -97,7 +97,7 @@
 | 🟢 Name | 🔗 Link | ℹ️ Description |
 | :--- | :--- | :--- |
 | **Mihon** | | |
-| <img src="assets/mihon.png" width=50> | [Home \| Mihon](https://mihon.app/) | Discover and read manga, webtoons, comics, and more – easier than ever on your Android device. |
+| <img src="assets/mihon-icon.png" width=50> | [Home \| Mihon](https://mihon.app/) | Discover and read manga, webtoons, comics, and more – easier than ever on your Android device. |
 | **LANraragi** | | |
 | <img src="assets/lanraragi-icon.png" width=50> | [Difegue/LANraragi: Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.](https://github.com/Difegue/LANraragi) |  application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.<br><br>`{"link":"lrr.tvc-16.science","Topics": "docker server perl management manga comics reader mojolicious opds doujinshi nas hacktoberfest sadpanda"}` |
 
@@ -122,7 +122,7 @@
 | 🟢 Name | 🔗 Link | ℹ️ Description |
 | :--- | :--- | :--- |
 | **Wikipedia** | | |
-| <img src="assets/Wikipedia-logo-v2.svg.webp" width=50> | [Wikipedia](https://www.wikipedia.org/) | Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation. |
+| <img src="assets/wikipedia-icon.png" width=50> | [Wikipedia](https://www.wikipedia.org/) | Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation. |
 | **百度百科** | | |
 | <img src="assets/baidu-baike-icon.png" width=50> | [百度百科_全球领先的中文百科全书](https://baike.baidu.com/) | 百度百科是一部内容开放、自由的网络百科全书，旨在创造一个涵盖所有领域知识，服务所有互联网用户的中文知识性百科全书。在这里你可以参与词条编辑，分享贡献你的知识。<br><br>`{"keywords":"百科, 百度百科, 中文百科, 百科全书"}` |
 | **萌娘百科** | | |
@@ -132,7 +132,7 @@
 | **WikiHow** | | |
 | <img src="assets/wikihow-icon.png" width=50> | [wikiHow: How-to instructions you can trust.](https://www.wikihow.com/Main-Page) | Learn how to do anything with wikiHow, the world's most popular how-to website. Easy, well-researched, and trustworthy instructions for everything you want to know. |
 | **MBA智库百科** | | |
-| <img src="assets/mbalib-wiki.png" width=50> | [MBA智库百科，全球专业中文经管百科](https://wiki.mbalib.com/wiki/%E9%A6%96%E9%A1%B5) | MBA智库百科，专注于经济管理领域知识的创建与分享。包括企业管理、市场营销、管理咨询、人力资源、战略管理、MBA案例、财务会计、广告、品牌、经济、金融、法律、博弈论、证券、股票以及公司企业、商学院、经管人物等介绍。<br><br>`{"keywords":"首页,2023年诺贝尔经济学奖,2024年《福布斯》全球亿万富豪排行榜,5W2H分析法,GTD,INFJ,Warren Buffett,东方甄选“小作文”事件,乔尔·莫基尔,价值共创,传统能源,MBA,MBA智库,管理,营销,经济,金融,人力资源,管理咨询,广告,财务,会计,品牌,证券,股票,物流,贸易,商学院,法律,人物"}` |
+| <img src="assets/mbalib-wiki-icon.png" width=50> | [MBA智库百科，全球专业中文经管百科](https://wiki.mbalib.com/wiki/%E9%A6%96%E9%A1%B5) | MBA智库百科，专注于经济管理领域知识的创建与分享。包括企业管理、市场营销、管理咨询、人力资源、战略管理、MBA案例、财务会计、广告、品牌、经济、金融、法律、博弈论、证券、股票以及公司企业、商学院、经管人物等介绍。<br><br>`{"keywords":"首页,2023年诺贝尔经济学奖,2024年《福布斯》全球亿万富豪排行榜,5W2H分析法,GTD,INFJ,Warren Buffett,东方甄选“小作文”事件,乔尔·莫基尔,价值共创,传统能源,MBA,MBA智库,管理,营销,经济,金融,人力资源,管理咨询,广告,财务,会计,品牌,证券,股票,物流,贸易,商学院,法律,人物"}` |
 | **NoteApps.info** | | |
 | <img src="assets/noteapps-info-icon.png" width=50> | [NoteApps.info: 41 best note taking apps analyzed over 343 features](https://noteapps.info/) | Encyclopedia of note taking apps: Screenshots, feature lists, and pricing for popular note taking apps.
 
@@ -154,7 +154,7 @@
 | 🟢 Name | 🔗 Link | ℹ️ Description |
 | :--- | :--- | :--- |
 | **Obsidian** | | |
-| <img src="assets/obsidian.png" width=50> | [Obsidian - Sharpen your thinking](https://obsidian.md/) | The free and flexible app for your private thoughts. |
+| <img src="assets/obsidian-icon.png" width=50> | [Obsidian - Sharpen your thinking](https://obsidian.md/) | The free and flexible app for your private thoughts. |
 | **Notion** | | |
 | <img src="assets/notion-icon.png" width=50> | [Why we built Notion – About](https://notion.so/about) | A story of tools, the future of work, and how we want to blend your workflow into an all-in-one workspace. |
 | **Anytype** | | |
@@ -269,7 +269,7 @@
 | 🟢 Name | 🔗 Link | ℹ️ Description |
 | :--- | :--- | :--- |
 | **Twitter** | | |
-| <img src="assets/large-x-logo.png.twimg.1920.png" width=50> | [About X \| Our company and priorities](https://about.x.com/en) | We serve the public conversation. Learn more about X the company, and how we ensure people have a free and safe place to talk. |
+| <img src="assets/x-icon.png" width=50> | [About X \| Our company and priorities](https://about.x.com/en) | We serve the public conversation. Learn more about X the company, and how we ensure people have a free and safe place to talk. |
 | **Misskey** | | |
 | <img src="assets/misskey-icon.png" width=50> | [Misskey Hub – Official website of the Misskey Project](https://misskey-hub.net/en/) | This is the official site for Misskey, a decentralized social networking software. Find out how to get started, a list of servers, and lots more information about Misskey! |
 | **Nijimiss** | | |
