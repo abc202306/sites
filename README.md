@@ -1,7 +1,18 @@
 # Websites
 
+## ℹ️Abstract
+
+This article showcases some websites bookmarked by abc202306.
+
+Keywords: awesome list, website, github repo
+
+## 📇Contents
+
 | 🟢 Name | ℹ️ Description |
 | :--- | :--- |
+| [ℹ️Abstract](#abstract) | |
+| [📇Contents](#contents) | |
+| [📦Introduction](#introduction) | |
 | **[1 📦ACG](#1-acg)** | **Anime, Comic & Game** <br>see [ACG (subculture) - Wikipedia](https://en.wikipedia.org/wiki/ACG_(subculture)) |
 | [1.1 📁Anime Websites](#11-anime-websites) | <img src="assets/jcyapp-org-icon.png" width=25> |
 | [1.2 📁Anime Database Websites](#12-anime-database-websites) | <img src="assets/myanimelist-icon.png" width=25> <img src="assets/anidb-icon.png" width=25> |
@@ -12,7 +23,7 @@
 | [2.1 📁Encyclopedia Websites](#21-encyclopedia-websites) | <img src="assets/wikipedia-icon.png" width=25> <img src="assets/baidu-baike-icon.png" width=25> <img src="assets/moegirl-encyclopedia-icon.png" width=25> <img src="assets/hmoegirl-encyclopedia-icon.png" width=25> <img src="assets/wikihow-icon.png" width=25> <img src="assets/mbalib-wiki-icon.png" width=25> <img src="assets/noteapps-info-icon.png" width=25> |
 | [2.2 📁Note-taking App Websites](#22-note-taking-app-websites) | <img src="assets/obsidian-icon.png" width=25> <img src="assets/notion-icon.png" width=25> <img src="assets/anytype-icon.png" width=25> <img src="assets/tiddly-wiki-icon.png" width=25> <img src="assets/logseq-icon.png" width=25> <img src="assets/siyuan-note-icon.png" width=25> |
 | [2.3 📁Search Engine Websites](#23-search-engine-websites) | <img src="assets/google-search-icon.png" width=25> <img src="assets/bing-search-icon.png" width=25> <img src="assets/yandex-search-icon.png" width=25> <img src="assets/baidu-search-icon.png" width=25> <img src="assets/chongbuluo-search-icon.png" width=25> <img src="assets/saurcenao-search-icon.png" width=25> <img src="assets/soutubot-moe-icon.png" width=25> |
-| **[3 📦 DigitalLife](#3-digitallife)** | **Useful Tools**<br>see [Information Age - Wikipedia](https://en.wikipedia.org/wiki/Information_Age) |
+| **[3 📦DigitalLife](#3-digitallife)** | **Useful Tools**<br>see [Information Age - Wikipedia](https://en.wikipedia.org/wiki/Information_Age) |
 | [3.1 📁Password Manager](#31-password-manager) | <img src="assets/keepass-icon.png" width=25> <img src="assets/1password-icon.png" width=25> <img src="assets/bitwardon-icon.png" width=25> |
 | [3.2 📁Authenticator Software](#32-authenticator-software) | <img src="assets/microsoft-authenticator-icon.png" width=25> <img src="assets/google-authenticator-icon.png" width=25> |
 | [3.3 📁Browser software](#33-browser-software) | <img src="assets/google-chrome-icon.png" width=25> <img src="assets/microsoft-edge-icon.png" width=25> <img src="assets/mozilla-firefox-icon.png" width=25> <img src="assets/tor-browser-icon.png" width=25> <img src="assets/uc-browser-icon.png" width=25> <img src="assets/quark-browser-icon.png" width=25> |
@@ -27,7 +38,18 @@
 | [5.1 📁Online Video Platform](#51-online-video-platform) | <img src="assets/youtube-icon.png" width=25> <img src="assets/bilibili-icon.png" width=25> |
 | [5.2 📁Cloud Disk](#52-cloud-disk) | <img src="assets/onedrive-icon.png" width=25> |
 | [5.3 📁Net Disk](#53-net-disk) | <img src="assets/baidu-netdisk-icon.png" width=25> |
+| [📦Conclusion](#conclusion) | |
+| [📇Appendix A Topic Index](#appendix-a-topic-index) | |
 
+## 📦Introduction
+
+The article now have 5 top-level categories
+
+[1 📦ACG](#1-acg)<br>
+[2 📦Academy](#2-academy)<br>
+[3 📦DigitalLife](#3-digitallife)<br>
+[4 📦SocialMedia](#4-socialmedia)<br>
+[5 📦FileHostingService](#5-filehostingservice)
 
 ## 1 📦ACG
 
@@ -352,3 +374,8 @@
 | :--- | :--- | :--- |
 | **Baidu NetDisk** | | |
 | <img src="assets/baidu-netdisk-icon.png" width=50> | [百度网盘](https://pan.baidu.com/disk/main#/index?category=all) | 百度网盘为您提供文件的网络备份、同步和分享服务。空间大、速度快、安全稳固，支持教育网加速，支持手机端。注册使用百度网盘即可享受免费存储空间 |
+
+
+## 📦Conclusion
+
+## 📇Appendix A Topic Index
