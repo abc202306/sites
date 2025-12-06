@@ -63,7 +63,7 @@ The article now have 5 top-level categories
 | 🟢 Name | 🔗 Link | ℹ️ Description |
 | :--- | :--- | :--- |
 | **囧次元** | | |
-| <img src="assets/jcyapp-org-icon.png" width=50> | [囧次元](https://jcyapp.org/) | 我只想安安静静的追个番(ㄒoㄒ) |
+| <img src="assets/jcyapp-org-icon.png" width=50> | [囧次元](https://jcyapp.org/) | Jiongciyuan (囧次元) is an Android video streaming app focused on Japanese animation, allowing for real-time comments and interaction.  You can avoid frequent ads by watching free advertisements to earn temporary membership. |
 
 ### 1.2 📁Anime Database Websites
 
