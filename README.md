@@ -40,6 +40,7 @@ Keywords: awesome list, website, github repo
 | [5.3 📁Net Disk](#53-net-disk) | <img src="assets/baidu-netdisk-icon.png" width=25> |
 | [📦Conclusion](#conclusion) | |
 | [📇Appendix A Topic Index](#appendix-a-topic-index) | |
+| [📇Appendix B Exercises](#appendix-b-exercises) | |
 
 ## 📦Introduction
 
@@ -379,3 +380,24 @@ The article now have 5 top-level categories
 ## 📦Conclusion
 
 ## 📇Appendix A Topic Index
+
+## 📇Appendix B Exercises
+
+1. About ACG
+    1. What software should I use to watch anime?
+    2. What are some anime rating websites?
+    3. What software should I use to read comics?
+    4. What software should I use to read hentai comics?
+    5. Which comic book reader should I use?
+2. About Academy
+    1. Which encyclopedia website should I use?
+    2. Which search engine should I use?
+    3. Which note-taking software should I use?
+3. About Digital Life
+    1. Which Password Manager should I use?
+    2. What is Authenticator? Give some examples.
+    3. Which browser software should I use?
+4. About Social Media
+    1. What is IM, Microblogging, Email, Q&A, Forum and Virtual Community? Give some examples.
+5. About file hosting service
+    1. What is online video platform, cloud disk and net disk? Give some examples.
