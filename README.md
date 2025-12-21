@@ -125,7 +125,7 @@ Keywords: awesome list, website, github repo
 | 📦 | **[4 SocialMedia](#4-socialmedia)** | **Communication**<br>see [Social media - Wikipedia](https://en.wikipedia.org/wiki/Social_media) |
 | 📁 | [4.1 Instant Messaging](#41-instant-messaging) | <img src="assets/telegram.png" width=25> <img src="assets/tencent-qq.png" width=25> <img src="assets/tencent-wechat.png" width=25> |
 | 📁 | [4.2 Microblogging](#42-microblogging) | <img src="assets/x-com.png" width=25> <img src="assets/misskey.png" width=25> <img src="assets/nijimiss.png" width=25> |
-| 📁 | [4.3 Email service](#43-email-service) | <img src="assets/gmail.png" width=25> <img src="assets/outlook-com-email.png" width=25> <img src="assets/mail-ru.png" width=25> <img src="assets/qq-mail.png" width=25> <img src="assets/netease-mail.png" width=25> |
+| 📁 | [4.3 Email service](#43-email-service) | <img src="assets/gmail.png" width=25> <img src="assets/outlook-com.png" width=25> <img src="assets/mail-ru.png" width=25> <img src="assets/qq-mail.png" width=25> <img src="assets/netease-mail.png" width=25> |
 | 📁 | [4.4 Q&A software](#44-qa-software) | <img src="assets/quora.png" width=25> <img src="assets/zhihu.png" width=25> |
 | 📁 | [4.5 Forum](#45-forum) | <img src="assets/reddit.png" width=25> <img src="assets/baidu-tieba.png" width=25> |
 | 📁 | [4.6 Virtual Community](#46-virtual-community) | <img src="assets/pixiv.png" width=25> |
@@ -582,7 +582,7 @@ Keywords: awesome list, website, github repo
 
 | Icon | Link | Description |
 | :--- | :--- | :--- |
-| <img src="assets/outlook-com-email.png" width=50> | [What is Outlook? - Microsoft Support](https://support.microsoft.com/en-us/office/what-is-outlook-10f1fa35-f33a-4cb7-838c-a7f3e6228b20) | With Outlook on your PC, Mac or mobile device, you can:<ul><li>Organize email to let you focus on the messages that matter most.</li><li>Manage and share your calendar to schedule meetings with ease.</li><li>Share files from the cloud so recipients always have the latest version.</li><li>Stay connected and productive wherever you are.</li></ul> |
+| <img src="assets/outlook-com.png" width=50> | [What is Outlook? - Microsoft Support](https://support.microsoft.com/en-us/office/what-is-outlook-10f1fa35-f33a-4cb7-838c-a7f3e6228b20) | With Outlook on your PC, Mac or mobile device, you can:<ul><li>Organize email to let you focus on the messages that matter most.</li><li>Manage and share your calendar to schedule meetings with ease.</li><li>Share files from the cloud so recipients always have the latest version.</li><li>Stay connected and productive wherever you are.</li></ul> |
 
 #### 4.3.3 Mail.ru
 
