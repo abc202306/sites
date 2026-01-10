@@ -20,4 +20,4 @@ mtime: 2026-01-09T23:33:54+08:00
 
 Download | Defend yourself against tracking and surveillance. Circumvent censorship.
 
-<img src="assets/tor-browser.png" width=200>
+<img src="../assets/tor-browser.png" width=200>

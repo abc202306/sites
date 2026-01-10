@@ -20,4 +20,4 @@ mtime: 2026-01-09T23:17:12+08:00
 
 KeePass is a free open source password manager. Passwords can be stored in an encrypted database, which can be unlocked with one master key.
 
-<img src="assets/keepass.png" width=200>
+<img src="../assets/keepass.png" width=200>

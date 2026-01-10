@@ -20,4 +20,4 @@ mtime: 2026-01-10T14:52:01+08:00
 
 Available for all kinds of platforms; enjoy group chat; support voice, photo, video and text messages.
 
-<img src="assets/tencent-wechat.png" width=200>
+<img src="../assets/tencent-wechat.png" width=200>

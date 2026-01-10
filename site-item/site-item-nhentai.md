@@ -23,4 +23,4 @@ mtime: 2026-01-09T21:55:33+08:00
 
 nhentai is a free hentai manga and doujinshi reader with over 575,000 galleries to read and download. 
 
-<img src="assets/nhentai.png" width=200> 
+<img src="../assets/nhentai.png" width=200> 

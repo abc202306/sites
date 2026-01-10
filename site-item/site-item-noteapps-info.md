@@ -20,4 +20,4 @@ mtime: 2026-01-09T22:38:00+08:00
 
 Encyclopedia of note taking apps: Screenshots, feature lists, and pricing for popular note taking apps.
 
-<img src="assets/noteapps-info.png" width=200>
+<img src="../assets/noteapps-info.png" width=200>

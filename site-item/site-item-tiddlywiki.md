@@ -20,4 +20,4 @@ mtime: 2026-01-09T22:49:25+08:00
 
 a non-linear personal web notebook
 
-<img src="assets/tiddly-wiki.png" width=200>
+<img src="../assets/tiddly-wiki.png" width=200>

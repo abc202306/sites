@@ -21,4 +21,4 @@ mtime: 2026-01-10T14:26:53+08:00
 
 Pixiv[a] (Japanese: ピクシブ, Hepburn: Pikushibu) is a Japanese online community for artists.
 
-<img src="assets/pixiv.png" width=200>
+<img src="../assets/pixiv.png" width=200>

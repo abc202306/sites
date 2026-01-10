@@ -20,4 +20,4 @@ mtime: 2026-01-10T13:58:48+08:00
 
 We serve the public conversation. Learn more about X the company, and how we ensure people have a free and safe place to talk.
 
-<img src="assets/x-com.png" width=200>
+<img src="../assets/x-com.png" width=200>

@@ -21,4 +21,4 @@ mtime: 2026-01-09T22:55:08+08:00
 Build custom agents, search across all your apps, and automate busywork. The AI workspace where teams get 
 more done, faster.
 
-<img src="assets/notion.png" width=200>
+<img src="../assets/notion.png" width=200>

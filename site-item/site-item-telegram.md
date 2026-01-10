@@ -20,4 +20,4 @@ Fast. Secure. Powerful.
 
 > see: [Telegram Messenger](https://telegram.org/)
 
-<img src="assets/telegram.png" width=200>
+<img src="../assets/telegram.png" width=200>

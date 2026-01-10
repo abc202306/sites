@@ -20,4 +20,4 @@ mtime: 2026-01-10T14:21:46+08:00
 
 Reddit is where millions of people gather for conversations about the things they care about, in over 100,000 subreddit communities.
 
-<img src="assets/reddit.png" width=200>
+<img src="../assets/reddit.png" width=200>

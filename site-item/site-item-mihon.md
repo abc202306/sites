@@ -21,4 +21,4 @@ mtime: 2026-01-09T22:16:32+08:00
 
 Discover and read manga, webtoons, comics, and more – easier than ever on your Android device.
 
-<img src="assets/mihon.png" width=200>
+<img src="../assets/mihon.png" width=200>

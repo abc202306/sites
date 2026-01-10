@@ -20,4 +20,4 @@ mtime: 2026-01-09T22:34:15+08:00
 
 Learn how to do anything with wikiHow, the world's most popular how-to website. Easy, well-researched, and trustworthy instructions for everything you want to know.
 
-<img src="assets/wikihow.png" width=200>
+<img src="../assets/wikihow.png" width=200>

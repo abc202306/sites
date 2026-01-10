@@ -21,4 +21,4 @@ mtime: 2026-01-09T21:42:14+08:00
 
 Welcome to MyAnimeList, the world's most active online anime and manga community and database. Join the online community, create your anime and manga list, read reviews, explore the forums, follow news, and so much more! <br><br>`{"keywords":"anime, myanimelist, anime news, manga"}`
 
-<img src="assets/myanimelist.png" width=200>
+<img src="../assets/myanimelist.png" width=200>

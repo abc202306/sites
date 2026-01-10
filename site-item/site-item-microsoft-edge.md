@@ -20,4 +20,4 @@ mtime: 2026-01-09T23:30:45+08:00
 
 Download Microsoft Edge for your computer or smartphone. Experience the cutting-edge AI Edge browser on your Windows, macOS, iOS, and Android device.
 
-<img src="assets/microsoft-edge.png" width=200>
+<img src="../assets/microsoft-edge.png" width=200>

@@ -20,4 +20,4 @@ mtime: 2026-01-10T14:02:21+08:00
 
 This is the official site for Misskey, a decentralized social networking software. Find out how to get started, a list of servers, and lots more information about Misskey!
 
-<img src="assets/misskey.png" width=200>
+<img src="../assets/misskey.png" width=200>

@@ -20,4 +20,4 @@ mtime: 2026-01-09T23:11:58+08:00
 
 SauceNAO is a reverse image search engine. The name 'SauceNAO' is derived from a slang form of "Need to know the source of this Now!" which has found common usage on image boards and other similar sites.
 
-<img src="assets/saurcenao-search.png" width=200>
+<img src="../assets/saurcenao-search.png" width=200>

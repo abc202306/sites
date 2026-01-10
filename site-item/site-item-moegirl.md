@@ -21,4 +21,4 @@ mtime: 2026-01-09T22:31:10+08:00
 
 `{"keywords":"萌娘,百科,wiki,梗,娘化,萝莉,动画,漫画,动漫,游戏,音乐,宅腐,ACG,anime,comic,game,GalGame"}`
 
-<img src="assets/moegirl-encyclopedia.png" width=200>
+<img src="../assets/moegirl-encyclopedia.png" width=200>

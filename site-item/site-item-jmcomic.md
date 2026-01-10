@@ -23,4 +23,4 @@ mtime: 2026-01-09T22:00:52+08:00
 
 免費A漫 - 免費成人H漫線上看
 
-<img src="assets/jmcomic.png" width=200>
+<img src="../assets/jmcomic.png" width=200>

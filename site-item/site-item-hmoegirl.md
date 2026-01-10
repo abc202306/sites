@@ -21,4 +21,4 @@ mtime: 2026-01-09T22:32:42+08:00
 
 H萌娘是一个关于H萌的wiki。 <br>H萌娘的收录的条目要满足两点：既属于**H**（hentai/エロ）又属于**萌**（二次元）。 <br>目前主要由 User:BakeWater 为H萌娘提供服务器方面的支持。
 
-<img src="assets/hmoegirl-encyclopedia.png" width=200>
+<img src="../assets/hmoegirl-encyclopedia.png" width=200>

@@ -20,4 +20,4 @@ mtime: 2026-01-09T22:47:14+08:00
 
 A privacy-first, open-source platform for knowledge management and collaboration.
 
-<img src="assets/logseq.png" width=200>
+<img src="../assets/logseq.png" width=200>

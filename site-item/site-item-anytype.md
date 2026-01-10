@@ -19,4 +19,4 @@ mtime: 2026-01-09T22:53:27+08:00
 > see: [anytype — the everything app](https://anytype.io/)
 
 for those who celebrate trust & autonomy.
-<img src="assets/anytype.png" width=200>
+<img src="../assets/anytype.png" width=200>

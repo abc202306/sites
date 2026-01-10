@@ -20,4 +20,4 @@ mtime: 2026-01-09T23:32:23+08:00
 
 Mozilla Firefox, or simply Firefox, is a free and open source[12] web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation.
 
-<img src="assets/mozilla-firefox.png" width=200>
+<img src="../assets/mozilla-firefox.png" width=200>

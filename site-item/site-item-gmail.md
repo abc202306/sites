@@ -20,4 +20,4 @@ mtime: 2026-01-10T14:06:52+08:00
 
 Discover how Gmail keeps your account & emails encrypted, private and under your control with the largest secure email service in the world.
 
-<img src="assets/gmail.png" width=200>
+<img src="../assets/gmail.png" width=200>

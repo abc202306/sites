@@ -21,4 +21,4 @@ mtime: 2026-01-09T21:34:12+08:00
 
 Looking for information about Anime? AniDB is the right place for you. AniDB is a not-for-profit anime database providing you with all information reg...
 
-<img src="assets/anidb.png" width=200>
+<img src="../assets/anidb.png" width=200>

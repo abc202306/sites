@@ -24,4 +24,4 @@ mtime: 2026-01-09T21:48:40+08:00
 
 With more than a million absolutely free hentai doujinshi, manga, cosplay and CG galleries, E-Hentai Galleries is the world's largest free Hentai archive.
 
-<img src="assets/e-hentai.svg" width=200>
+<img src="../assets/e-hentai.svg" width=200>

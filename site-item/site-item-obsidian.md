@@ -20,4 +20,4 @@ mtime: 2026-01-09T22:43:34+08:00
 
 The free and flexible app for your private thoughts.
 
-<img src="assets/obsidian.png" width=200>
+<img src="../assets/obsidian.png" width=200>

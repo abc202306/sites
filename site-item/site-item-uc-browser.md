@@ -20,4 +20,4 @@ mtime: 2026-01-09T23:36:00+08:00
 
 Download UC Browser today and enjoy a faster, safer, and more private online experience. With built-in VPN protection and advanced ad blocking, we set a new standard for secure browsing.
 
-<img src="assets/uc-browser.png" width=200>
+<img src="../assets/uc-browser.png" width=200>

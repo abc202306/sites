@@ -20,4 +20,4 @@ mtime: 2026-01-09T23:28:26+08:00
 
 Get more done with the new Google Chrome. A more simple, secure and faster web browser than ever, with Google’s smarts built in. Download now.
 
-<img src="assets/google-chrome.png" width=200>
+<img src="../assets/google-chrome.png" width=200>

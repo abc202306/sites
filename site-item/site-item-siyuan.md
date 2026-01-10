@@ -20,4 +20,4 @@ mtime: 2026-01-09T22:51:20+08:00
 
 SiYuan - Privacy-first personal knowledge management system that supports Markdown, block-level ref, and bidirectional links
 
-<img src="assets/siyuan-note.png" width=200>
+<img src="../assets/siyuan-note.png" width=200>

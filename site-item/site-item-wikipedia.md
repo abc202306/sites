@@ -20,4 +20,4 @@ mtime: 2026-01-09T22:25:54+08:00
 
 Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.
 
-<img src="assets/wikipedia.png" width=200>
+<img src="../assets/wikipedia.png" width=200>

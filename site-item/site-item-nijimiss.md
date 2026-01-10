@@ -20,4 +20,4 @@ mtime: 2026-01-10T14:04:08+08:00
 
 💞あらゆる好きが交差する💞<br> 好きを語れるオープンコミュニティ<br><br>好きなことを堂々と胸を張って好きといえる空間を作りたい。<br>そういった思いから生まれたSNSです。
 
-<img src="assets/nijimiss.png" width=200>
+<img src="../assets/nijimiss.png" width=200>
