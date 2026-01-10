@@ -15,6 +15,8 @@ subpages:
   - "[[site-item-moegirl|moegirl]]"
   - "[[site-item-hmoegirl|hmoegirl]]"
   - "[[site-item-pixiv|pixiv]]"
+  - "[[site-item-iwara|iwara]]"
+  - "[[site-item-hanime|hanime]]"
 aliases:
   - acg
 ctime: 2026-01-09T21:30:33+08:00
@@ -36,3 +38,5 @@ mtime: 2026-01-09T21:30:33+08:00
 - [[site-item-moegirl|moegirl]]
 - [[site-item-hmoegirl|hmoegirl]]
 - [[site-item-pixiv|pixiv]]
+- [[site-item-iwara|iwara]]
+- [[site-item-hanime|hanime]]

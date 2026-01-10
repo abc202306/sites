@@ -24,6 +24,9 @@ down:
   - "[[site-category-instant-messaging|instant-messaging]]"
   - "[[site-category-ai-chatbot|ai-chatbot]]"
   - "[[site-category-editor|editor]]"
+  - "[[site-category-operating-system|operating-system]]"
+  - "[[site-category-gamestore|gamestore]]"
+  - "[[site-category-appstore|appstore]]"
 ctime: 2026-01-09T21:38:39+08:00
 mtime: 2026-01-09T21:38:39+08:00
 ---
@@ -52,3 +55,6 @@ mtime: 2026-01-09T21:38:39+08:00
 - [[site-category-instant-messaging|instant-messaging]]
 - [[site-category-ai-chatbot|ai-chatbot]]
 - [[site-category-editor|editor]]
+- [[site-category-operating-system|operating-system]]
+- [[site-category-gamestore|gamestore]]
+- [[site-category-appstore|appstore]]

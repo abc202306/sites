@@ -6,6 +6,8 @@ subpages:
   - "[[site-item-nhentai|nhentai]]"
   - "[[site-item-jmcomic|jmcomic]]"
   - "[[site-item-picaacg|picaacg]]"
+  - "[[site-item-iwara|iwara]]"
+  - "[[site-item-hanime|hanime]]"
 aliases:
   - hentai
 ctime: 2026-01-09T21:51:00+08:00
@@ -18,3 +20,5 @@ mtime: 2026-01-09T21:51:00+08:00
 - [[site-item-nhentai|nhentai]]
 - [[site-item-jmcomic|jmcomic]]
 - [[site-item-picaacg|picaacg]]
+- [[site-item-iwara|iwara]]
+- [[site-item-hanime|hanime]]
