@@ -12,7 +12,7 @@ function getImageElem(wikilink) {
 	return `<img src="${file.path}" width=200>`;
 }
 function getSiteItemSection(file, m, n) {
-	let title = `${m}-${n}-`+/^site-item-(.*)/.exec(file.basename)[1];
+	const title = `${m}-${n}-`+/^site-item-(.*)/.exec(file.basename)[1];
 	const fileCache = app.metadataCache.getFileCache(file);
 	const fm = fileCache.frontmatter;
 	
@@ -44,5 +44,6 @@ function getSiteCategorySection(file,m) {
 const mdfiles = app.vault.getMarkdownFiles();
 const siteitems = mdfiles.filter(f=>f.path.startsWith("site-item/")).sort();
 const sitecategories = mdfiles.filter(f=>f.path.startsWith("site-category/")).sort();
-console.log(`## category\n\n${sitecategories.map((f,i)=>getSiteCategorySection(f,i+1)).join("\n\n")}\n\n## site-items\n\n${siteitems.map((f,j)=>getSiteItemSection(f,0,j+1)).join("\n\n")}\n`)
+console.log(`## category\n\n${sitecategories.map((f,i)=>{const m = i + 1; const title = m+"-"+/^site-category-(.*)/.exec(f.basename)[1]; return `1. [${title}](#${title})`}).join("\n")}\n\n${sitecategories.map((f,i)=>getSiteCategorySection(f,i+1)).join("\n\n")}\n\n## site-items\n\n${siteitems.map((f,j)=>{const n = j + 1; const title = `0-${n}-`+/^site-item-(.*)/.exec(f.basename)[1]; return `1. [${title}](#${title})`;}).join("\n")}\n\n${siteitems.map((f,j)=>getSiteItemSection(f,0,j+1)).join("\n\n")}\n`)
+
 ```
