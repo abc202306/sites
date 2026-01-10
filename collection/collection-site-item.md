@@ -83,6 +83,20 @@ down:
   - "[[site-item-hbuilder|hbuilder]]"
   - "[[site-item-cursor|cursor]]"
   - "[[site-item-trae|trae]]"
+  - "[[site-item-simplex|simplex]]"
+  - "[[site-item-session|session]]"
+  - "[[site-item-tamtam|tamtam]]"
+  - "[[site-item-potato|potato]]"
+  - "[[site-item-discord|discord]]"
+  - "[[site-item-slack|slack]]"
+  - "[[site-item-dingtalk|dingtalk]]"
+  - "[[site-item-tencent-meeting|tencent-meeting]]"
+  - "[[site-item-nekogram|nekogram]]"
+  - "[[site-item-windows-os|windows-os]]"
+  - "[[site-item-macos|macos]]"
+  - "[[site-item-linux|linux]]"
+  - "[[site-item-ios|ios]]"
+  - "[[site-item-android|android]]"
 ctime: 2026-01-09T21:38:41+08:00
 mtime: 2026-01-09T21:38:41+08:00
 ---
@@ -170,3 +184,17 @@ mtime: 2026-01-09T21:38:41+08:00
 - [[site-item-hbuilder|hbuilder]]
 - [[site-item-cursor|cursor]]
 - [[site-item-trae|trae]]
+- [[site-item-simplex|simplex]]
+- [[site-item-session|session]]
+- [[site-item-tamtam|tamtam]]
+- [[site-item-potato|potato]]
+- [[site-item-discord|discord]]
+- [[site-item-slack|slack]]
+- [[site-item-dingtalk|dingtalk]]
+- [[site-item-tencent-meeting|tencent-meeting]]
+- [[site-item-nekogram|nekogram]]
+- [[site-item-windows-os|windows-os]]
+- [[site-item-macos|macos]]
+- [[site-item-linux|linux]]
+- [[site-item-ios|ios]]
+- [[site-item-android|android]]
