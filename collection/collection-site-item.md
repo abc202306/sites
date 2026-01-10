@@ -61,6 +61,28 @@ down:
   - "[[site-item-youtube|youtube]]"
   - "[[site-item-onedrive|onedrive]]"
   - "[[site-item-baidu-netdisk|baidu-netdisk]]"
+  - "[[site-item-deepseek|deepseek]]"
+  - "[[site-item-microsoft-copilot|microsoft-copilot]]"
+  - "[[site-item-chatgpt|chatgpt]]"
+  - "[[site-item-gemini|gemini]]"
+  - "[[site-item-claude|claude]]"
+  - "[[site-item-github-copilot|github-copilot]]"
+  - "[[site-item-tencent-yuanbao|tencent-yuanbao]]"
+  - "[[site-item-doubao|doubao]]"
+  - "[[site-item-qianwen|qianwen]]"
+  - "[[site-item-bohrium|bohrium]]"
+  - "[[site-item-kimi|kimi]]"
+  - "[[site-item-typora|typora]]"
+  - "[[site-item-visual-studio-code|vscode]]"
+  - "[[site-item-visual-studio|visual-studio]]"
+  - "[[site-item-vim|vim]]"
+  - "[[site-item-intellij-idea|intellij-idea]]"
+  - "[[site-item-pycharm|pycharm]]"
+  - "[[site-item-webstorm|webstorm]]"
+  - "[[site-item-android-studio|android-studio]]"
+  - "[[site-item-hbuilder|hbuilder]]"
+  - "[[site-item-cursor|cursor]]"
+  - "[[site-item-trae|trae]]"
 ctime: 2026-01-09T21:38:41+08:00
 mtime: 2026-01-09T21:38:41+08:00
 ---
@@ -126,3 +148,25 @@ mtime: 2026-01-09T21:38:41+08:00
 - [[site-item-youtube|youtube]]
 - [[site-item-onedrive|onedrive]]
 - [[site-item-baidu-netdisk|baidu-netdisk]]
+- [[site-item-deepseek|deepseek]]
+- [[site-item-microsoft-copilot|microsoft-copilot]]
+- [[site-item-chatgpt|chatgpt]]
+- [[site-item-gemini|gemini]]
+- [[site-item-claude|claude]]
+- [[site-item-github-copilot|github-copilot]]
+- [[site-item-tencent-yuanbao|tencent-yuanbao]]
+- [[site-item-doubao|doubao]]
+- [[site-item-qianwen|qianwen]]
+- [[site-item-bohrium|bohrium]]
+- [[site-item-kimi|kimi]]
+- [[site-item-typora|typora]]
+- [[site-item-visual-studio-code|vscode]]
+- [[site-item-visual-studio|visual-studio]]
+- [[site-item-vim|vim]]
+- [[site-item-intellij-idea|intellij-idea]]
+- [[site-item-pycharm|pycharm]]
+- [[site-item-webstorm|webstorm]]
+- [[site-item-android-studio|android-studio]]
+- [[site-item-hbuilder|hbuilder]]
+- [[site-item-cursor|cursor]]
+- [[site-item-trae|trae]]

@@ -57,11 +57,11 @@ function getSiteCategorySection(file, m) {
 
 	const subpages = Array.isArray(fm.subpages) ? fm.subpages : [];
 
-	const ol = subpages.map((link, j) => {
+	const ol = "> [!Note]\n"+subpages.map((link, j) => {
 		const n = j + 1;
 		const linkTarget = parseWikiLink(link) || link;
 		const mangaitemsectionid = slugFromBasename(linkTarget, 'site-item-');
-		return `1. [${m}-${n}-${mangaitemsectionid}](#${m}-${n}-${mangaitemsectionid})`;
+		return `> 1. [${m}-${n}-${mangaitemsectionid}](#${m}-${n}-${mangaitemsectionid})`;
 	}).join('\n');
 
 	const relatedSiteItems = subpages.map(link => {
@@ -83,20 +83,20 @@ try {
 
 	// Category index
 	parts.push('## category\n');
-	parts.push(sitecategories.map((f, i) => {
+	parts.push("> [!Note]\n"+sitecategories.map((f, i) => {
 		const m = i + 1;
 		const t = `${m}-${slugFromBasename(f.basename, 'site-category-')}`;
-		return `1. [${t}](#${t})`;
+		return `> 1. [${t}](#${t})`;
 	}).join('\n'));
 	parts.push('\n');
 	parts.push(sitecategories.map((f, i) => getSiteCategorySection(f, i + 1)).join('\n\n'));
 
 	// Site items index and sections
 	parts.push('\n## site-items\n\n');
-	parts.push(siteitems.map((f, j) => {
+	parts.push("> [!Note]\n"+siteitems.map((f, j) => {
 		const n = j + 1;
 		const title = `0-${n}-${slugFromBasename(f.basename, 'site-item-')}`;
-		return `1. [${title}](#${title})`;
+		return `> 1. [${title}](#${title})`;
 	}).join('\n'));
 	parts.push('\n\n');
 	parts.push(siteitems.map((f, j) => getSiteItemSection(f, 0, j + 1)).join('\n\n'));

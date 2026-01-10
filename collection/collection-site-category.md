@@ -22,6 +22,8 @@ down:
   - "[[site-category-hentai|hentai]]"
   - "[[site-category-archive|archive]]"
   - "[[site-category-instant-messaging|instant-messaging]]"
+  - "[[site-category-ai-chatbot|ai-chatbot]]"
+  - "[[site-category-editor|editor]]"
 ctime: 2026-01-09T21:38:39+08:00
 mtime: 2026-01-09T21:38:39+08:00
 ---
@@ -48,3 +50,5 @@ mtime: 2026-01-09T21:38:39+08:00
 - [[site-category-hentai|hentai]]
 - [[site-category-archive|archive]]
 - [[site-category-instant-messaging|instant-messaging]]
+- [[site-category-ai-chatbot|ai-chatbot]]
+- [[site-category-editor|editor]]
