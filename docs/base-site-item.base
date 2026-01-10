@@ -20,3 +20,6 @@ views:
       formula.iconembed: 47
       note.title: 98
       note.url: 250
+  - type: cards
+    name: Cards
+    image: note.icon
