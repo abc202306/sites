@@ -216,7 +216,7 @@ Keywords: awesome list, website, github repo
 
 Jiongciyuan (囧次元) is an Android video streaming app focused on Japanese animation, allowing for real-time comments and interaction.  You can avoid frequent ads by watching free advertisements to earn temporary membership.
 
-categories: acg, video-streaming
+Categories: acg, video-streaming
 
 <img src="assets/jcyapp-org.png" width=200>
 
@@ -226,7 +226,7 @@ categories: acg, video-streaming
 
 Looking for information about Anime? AniDB is the right place for you. AniDB is a not-for-profit anime database providing you with all information reg...
 
-categories: acg, database
+Categories: acg, database
 
 <img src="assets/anidb.png" width=200>
 
@@ -236,7 +236,7 @@ categories: acg, database
 
 Welcome to MyAnimeList, the world's most active online anime and manga community and database. Join the online community, create your anime and manga list, read reviews, explore the forums, follow news, and so much more! <br><br>`{"keywords":"anime, myanimelist, anime news, manga"}`
 
-categories: acg, database
+Categories: acg, database
 
 <img src="assets/myanimelist.png" width=200>
 
@@ -246,7 +246,7 @@ categories: acg, database
 
 With more than a million absolutely free hentai doujinshi, manga, cosplay and CG galleries, E-Hentai Galleries is the world's largest free Hentai archive.
 
-categories: acg, archive, gallery, hentai
+Categories: acg, archive, gallery, hentai
 
 <img src="assets/e-hentai.svg" width=200>
 
@@ -256,7 +256,7 @@ categories: acg, archive, gallery, hentai
 
 nhentai is a free hentai manga and doujinshi reader with over 575,000 galleries to read and download. 
 
-categories: acg, archive, gallery, hentai
+Categories: acg, archive, gallery, hentai
 
 <img src="assets/nhentai.png" width=200>
 
@@ -266,7 +266,7 @@ categories: acg, archive, gallery, hentai
 
 免費A漫 - 免費成人H漫線上看
 
-categories: acg, archive, gallery, hentai
+Categories: acg, archive, gallery, hentai
 
 <img src="assets/jmcomic.png" width=200>
 
@@ -276,7 +276,7 @@ categories: acg, archive, gallery, hentai
 
 嗶咔漫畫讓你可以輕鬆看到不同的本子，介面美觀易用，分類齊全，每天更新，紳士必備！
 
-categories: acg, archive, gallery, hentai
+Categories: acg, archive, gallery, hentai
 
 <img src="assets/picaacg.png" width=200>
 
@@ -286,7 +286,7 @@ categories: acg, archive, gallery, hentai
 
 漫画人：给你最好的掌上漫画应用体验，速度最快、最专业的漫画应用。<br><br>`{"author":"漫画人:为爱漫画的人而生、manhuaren.com","keywords":"漫画人：最好的掌上漫画应用"}`
 
-categories: acg, gallery
+Categories: acg, gallery
 
 <img src="assets/manhuaren.png" width=200>
 
@@ -296,7 +296,7 @@ categories: acg, gallery
 
 Discover and read manga, webtoons, comics, and more – easier than ever on your Android device.
 
-categories: acg, reader
+Categories: acg, reader
 
 <img src="assets/mihon.png" width=200>
 
@@ -306,7 +306,7 @@ categories: acg, reader
 
 application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.<br><br>`{"link":"lrr.tvc-16.science","Topics": "docker server perl management manga comics reader mojolicious opds doujinshi nas hacktoberfest sadpanda"}`
 
-categories: acg, reader
+Categories: acg, reader
 
 <img src="assets/lanraragi.png" width=200>
 
@@ -316,7 +316,7 @@ categories: acg, reader
 
 `{"keywords":"萌娘,百科,wiki,梗,娘化,萝莉,动画,漫画,动漫,游戏,音乐,宅腐,ACG,anime,comic,game,GalGame"}`
 
-categories: encyclopedia, acg
+Categories: encyclopedia, acg
 
 <img src="assets/moegirl-encyclopedia.png" width=200>
 
@@ -326,7 +326,7 @@ categories: encyclopedia, acg
 
 H萌娘是一个关于H萌的wiki。 <br>H萌娘的收录的条目要满足两点：既属于**H**（hentai/エロ）又属于**萌**（二次元）。 <br>目前主要由 User:BakeWater 为H萌娘提供服务器方面的支持。
 
-categories: encyclopedia, acg
+Categories: encyclopedia, acg
 
 <img src="assets/hmoegirl-encyclopedia.png" width=200>
 
@@ -336,7 +336,7 @@ categories: encyclopedia, acg
 
 Pixiv[a] (Japanese: ピクシブ, Hepburn: Pikushibu) is a Japanese online community for artists.
 
-categories: acg, community
+Categories: acg, community
 
 <img src="assets/pixiv.png" width=200>
 
@@ -353,7 +353,7 @@ categories: acg, community
 
 With more than a million absolutely free hentai doujinshi, manga, cosplay and CG galleries, E-Hentai Galleries is the world's largest free Hentai archive.
 
-categories: acg, archive, gallery, hentai
+Categories: acg, archive, gallery, hentai
 
 <img src="assets/e-hentai.svg" width=200>
 
@@ -363,7 +363,7 @@ categories: acg, archive, gallery, hentai
 
 nhentai is a free hentai manga and doujinshi reader with over 575,000 galleries to read and download. 
 
-categories: acg, archive, gallery, hentai
+Categories: acg, archive, gallery, hentai
 
 <img src="assets/nhentai.png" width=200>
 
@@ -373,7 +373,7 @@ categories: acg, archive, gallery, hentai
 
 免費A漫 - 免費成人H漫線上看
 
-categories: acg, archive, gallery, hentai
+Categories: acg, archive, gallery, hentai
 
 <img src="assets/jmcomic.png" width=200>
 
@@ -383,7 +383,7 @@ categories: acg, archive, gallery, hentai
 
 嗶咔漫畫讓你可以輕鬆看到不同的本子，介面美觀易用，分類齊全，每天更新，紳士必備！
 
-categories: acg, archive, gallery, hentai
+Categories: acg, archive, gallery, hentai
 
 <img src="assets/picaacg.png" width=200>
 
@@ -398,7 +398,7 @@ categories: acg, archive, gallery, hentai
 
 Safety starts with understanding how developers collect and share your data. Data privacy and security practices may vary based on your use, region, and age. The developer provided this information and may update it over time.
 
-categories: authenticator
+Categories: authenticator
 
 <img src="assets/microsoft-authenticator.png" width=200>
 
@@ -408,7 +408,7 @@ categories: authenticator
 
 Safety starts with understanding how developers collect and share your data. Data privacy and security practices may vary based on your use, region, and age. The developer provided this information and may update it over time.
 
-categories: authenticator
+Categories: authenticator
 
 <img src="assets/google-authenticator.png" width=200>
 
@@ -427,7 +427,7 @@ categories: authenticator
 
 Get more done with the new Google Chrome. A more simple, secure and faster web browser than ever, with Google’s smarts built in. Download now.
 
-categories: browser
+Categories: browser
 
 <img src="assets/google-chrome.png" width=200>
 
@@ -437,7 +437,7 @@ categories: browser
 
 Download Microsoft Edge for your computer or smartphone. Experience the cutting-edge AI Edge browser on your Windows, macOS, iOS, and Android device.
 
-categories: browser
+Categories: browser
 
 <img src="assets/microsoft-edge.png" width=200>
 
@@ -447,7 +447,7 @@ categories: browser
 
 Mozilla Firefox, or simply Firefox, is a free and open source[12] web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation.
 
-categories: browser
+Categories: browser
 
 <img src="assets/mozilla-firefox.png" width=200>
 
@@ -457,7 +457,7 @@ categories: browser
 
 Download | Defend yourself against tracking and surveillance. Circumvent censorship.
 
-categories: browser
+Categories: browser
 
 <img src="assets/tor-browser.png" width=200>
 
@@ -467,7 +467,7 @@ categories: browser
 
 Download UC Browser today and enjoy a faster, safer, and more private online experience. With built-in VPN protection and advanced ad blocking, we set a new standard for secure browsing.
 
-categories: browser
+Categories: browser
 
 <img src="assets/uc-browser.png" width=200>
 
@@ -477,7 +477,7 @@ categories: browser
 
 夸克pc/app为你带来极速、智能、安全、高效的搜索体验,找答案,找资料,找工具,办公,学习,工作必备应用。夸克提供浏览器搜索引擎、网盘、AI扫描王工具及小说阅读等高效功能，为你提供稳定,安全,流畅的浏览环境和优质的产品服务体验
 
-categories: browser
+Categories: browser
 
 <img src="assets/quark-browser.png" width=200>
 
@@ -492,7 +492,7 @@ categories: browser
 
 Microsoft OneDrive is a file-hosting service operated by Microsoft. First released as SkyDrive in August 2007, it allows registered users to store, share, back-up and synchronize their files. OneDrive also works as the storage backend of the web version of Microsoft 365. OneDrive offers 5 gigabytes of storage space free of charge, with 100 GB, 1 TB, and 6 TB storage options available, either separately or with Microsoft 365 subscriptions.
 
-categories: cloud-disk
+Categories: cloud-disk
 
 <img src="assets/onedrive.png" width=200>
 
@@ -502,7 +502,7 @@ categories: cloud-disk
 
 百度网盘为您提供文件的网络备份、同步和分享服务。空间大、速度快、安全稳固，支持教育网加速，支持手机端。注册使用百度网盘即可享受免费存储空间
 
-categories: cloud-disk
+Categories: cloud-disk
 
 <img src="assets/baidu-netdisk.png" width=200>
 
@@ -516,7 +516,7 @@ categories: cloud-disk
 
 Pixiv[a] (Japanese: ピクシブ, Hepburn: Pikushibu) is a Japanese online community for artists.
 
-categories: acg, community
+Categories: acg, community
 
 <img src="assets/pixiv.png" width=200>
 
@@ -531,7 +531,7 @@ categories: acg, community
 
 Looking for information about Anime? AniDB is the right place for you. AniDB is a not-for-profit anime database providing you with all information reg...
 
-categories: acg, database
+Categories: acg, database
 
 <img src="assets/anidb.png" width=200>
 
@@ -541,7 +541,7 @@ categories: acg, database
 
 Welcome to MyAnimeList, the world's most active online anime and manga community and database. Join the online community, create your anime and manga list, read reviews, explore the forums, follow news, and so much more! <br><br>`{"keywords":"anime, myanimelist, anime news, manga"}`
 
-categories: acg, database
+Categories: acg, database
 
 <img src="assets/myanimelist.png" width=200>
 
@@ -559,7 +559,7 @@ categories: acg, database
 
 Discover how Gmail keeps your account & emails encrypted, private and under your control with the largest secure email service in the world.
 
-categories: email
+Categories: email
 
 <img src="assets/gmail.png" width=200>
 
@@ -569,7 +569,7 @@ categories: email
 
 With Outlook on your PC, Mac or mobile device, you can:<ul><li>Organize email to let you focus on the messages that matter most.</li><li>Manage and share your calendar to schedule meetings with ease.</li><li>Share files from the cloud so recipients always have the latest version.</li><li>Stay connected and productive wherever you are.</li></ul>
 
-categories: email
+Categories: email
 
 <img src="assets/outlook-com.png" width=200>
 
@@ -579,7 +579,7 @@ categories: email
 
 Mail — безопасные сервисы для жизни и работы: бесплатная Почта, память для всего в Облаке, лёгкое планирование в Календаре и быстрые записи в Заметках. Мобильная версия и приложение — используйте, как удобно
 
-categories: email
+Categories: email
 
 <img src="assets/mail-ru.png" width=200>
 
@@ -589,7 +589,7 @@ categories: email
 
 QQ邮箱，提供qq.com、foxmail.com后缀的安全、稳定、快速、便捷的免费电子邮箱。强大的反垃圾邮件过滤，10G超大附件发送，便捷记事和日历功能，轻松管理所有电子发票，尽在QQ邮箱。
 
-categories: email
+Categories: email
 
 <img src="assets/qq-mail.png" width=200>
 
@@ -599,7 +599,7 @@ categories: email
 
 网易免费邮箱，你的专业电子邮局，提供以 @163.com、@126.com和@yeah.net 为后缀的免费邮箱。超过20年邮箱运营经验，系统快速稳定安全，支持超大附件和网盘服务。网易邮箱官方App“邮箱大师”帮您高效处理邮件，支持所有邮箱，并可在手机、Windows和Mac上多端协同使用。
 
-categories: email
+Categories: email
 
 <img src="assets/netease-mail.png" width=200>
 
@@ -619,7 +619,7 @@ categories: email
 
 Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.
 
-categories: encyclopedia
+Categories: encyclopedia
 
 <img src="assets/wikipedia.png" width=200>
 
@@ -629,7 +629,7 @@ categories: encyclopedia
 
 百度百科是一部内容开放、自由的网络百科全书，旨在创造一个涵盖所有领域知识，服务所有互联网用户的中文知识性百科全书。在这里你可以参与词条编辑，分享贡献你的知识。<br><br>`{"keywords":"百科, 百度百科, 中文百科, 百科全书"}`
 
-categories: encyclopedia
+Categories: encyclopedia
 
 <img src="assets/baidu-baike.png" width=200>
 
@@ -639,7 +639,7 @@ categories: encyclopedia
 
 `{"keywords":"萌娘,百科,wiki,梗,娘化,萝莉,动画,漫画,动漫,游戏,音乐,宅腐,ACG,anime,comic,game,GalGame"}`
 
-categories: encyclopedia, acg
+Categories: encyclopedia, acg
 
 <img src="assets/moegirl-encyclopedia.png" width=200>
 
@@ -649,7 +649,7 @@ categories: encyclopedia, acg
 
 H萌娘是一个关于H萌的wiki。 <br>H萌娘的收录的条目要满足两点：既属于**H**（hentai/エロ）又属于**萌**（二次元）。 <br>目前主要由 User:BakeWater 为H萌娘提供服务器方面的支持。
 
-categories: encyclopedia, acg
+Categories: encyclopedia, acg
 
 <img src="assets/hmoegirl-encyclopedia.png" width=200>
 
@@ -659,7 +659,7 @@ categories: encyclopedia, acg
 
 Learn how to do anything with wikiHow, the world's most popular how-to website. Easy, well-researched, and trustworthy instructions for everything you want to know.
 
-categories: encyclopedia
+Categories: encyclopedia
 
 <img src="assets/wikihow.png" width=200>
 
@@ -669,7 +669,7 @@ categories: encyclopedia
 
 MBA智库百科，专注于经济管理领域知识的创建与分享。包括企业管理、市场营销、管理咨询、人力资源、战略管理、MBA案例、财务会计、广告、品牌、经济、金融、法律、博弈论、证券、股票以及公司企业、商学院、经管人物等介绍。<br><br>`{"keywords":"首页,2023年诺贝尔经济学奖,2024年《福布斯》全球亿万富豪排行榜,5W2H分析法,GTD,INFJ,Warren Buffett,东方甄选“小作文”事件,乔尔·莫基尔,价值共创,传统能源,MBA,MBA智库,管理,营销,经济,金融,人力资源,管理咨询,广告,财务,会计,品牌,证券,股票,物流,贸易,商学院,法律,人物"}`
 
-categories: encyclopedia
+Categories: encyclopedia
 
 <img src="assets/mbalib-wiki.png" width=200>
 
@@ -679,7 +679,7 @@ categories: encyclopedia
 
 Encyclopedia of note taking apps: Screenshots, feature lists, and pricing for popular note taking apps.
 
-categories: encyclopedia
+Categories: encyclopedia
 
 <img src="assets/noteapps-info.png" width=200>
 
@@ -694,7 +694,7 @@ categories: encyclopedia
 
 Reddit is where millions of people gather for conversations about the things they care about, in over 100,000 subreddit communities.
 
-categories: forum
+Categories: forum
 
 <img src="assets/reddit.png" width=200>
 
@@ -704,7 +704,7 @@ categories: forum
 
 百度贴吧——全球领先的中文社区。贴吧的使命是让志同道合的人相聚。不论是大众话题还是小众话题，都能精准地聚集大批同好网友，展示自我风采，结交知音，搭建别具特色的“兴趣主题“互动平台。贴吧目录涵盖游戏、地区、文学、动漫、娱乐明星、生活、体育、电脑数码等方方面面，是全球领先的中文交流平台，它为人们提供一个表达和交流思想的自由网络空间，并以此汇集志同道合的网友。
 
-categories: forum
+Categories: forum
 
 <img src="assets/baidu-tieba.png" width=200>
 
@@ -722,7 +722,7 @@ categories: forum
 
 With more than a million absolutely free hentai doujinshi, manga, cosplay and CG galleries, E-Hentai Galleries is the world's largest free Hentai archive.
 
-categories: acg, archive, gallery, hentai
+Categories: acg, archive, gallery, hentai
 
 <img src="assets/e-hentai.svg" width=200>
 
@@ -732,7 +732,7 @@ categories: acg, archive, gallery, hentai
 
 nhentai is a free hentai manga and doujinshi reader with over 575,000 galleries to read and download. 
 
-categories: acg, archive, gallery, hentai
+Categories: acg, archive, gallery, hentai
 
 <img src="assets/nhentai.png" width=200>
 
@@ -742,7 +742,7 @@ categories: acg, archive, gallery, hentai
 
 免費A漫 - 免費成人H漫線上看
 
-categories: acg, archive, gallery, hentai
+Categories: acg, archive, gallery, hentai
 
 <img src="assets/jmcomic.png" width=200>
 
@@ -752,7 +752,7 @@ categories: acg, archive, gallery, hentai
 
 嗶咔漫畫讓你可以輕鬆看到不同的本子，介面美觀易用，分類齊全，每天更新，紳士必備！
 
-categories: acg, archive, gallery, hentai
+Categories: acg, archive, gallery, hentai
 
 <img src="assets/picaacg.png" width=200>
 
@@ -762,7 +762,7 @@ categories: acg, archive, gallery, hentai
 
 漫画人：给你最好的掌上漫画应用体验，速度最快、最专业的漫画应用。<br><br>`{"author":"漫画人:为爱漫画的人而生、manhuaren.com","keywords":"漫画人：最好的掌上漫画应用"}`
 
-categories: acg, gallery
+Categories: acg, gallery
 
 <img src="assets/manhuaren.png" width=200>
 
@@ -779,7 +779,7 @@ categories: acg, gallery
 
 With more than a million absolutely free hentai doujinshi, manga, cosplay and CG galleries, E-Hentai Galleries is the world's largest free Hentai archive.
 
-categories: acg, archive, gallery, hentai
+Categories: acg, archive, gallery, hentai
 
 <img src="assets/e-hentai.svg" width=200>
 
@@ -789,7 +789,7 @@ categories: acg, archive, gallery, hentai
 
 nhentai is a free hentai manga and doujinshi reader with over 575,000 galleries to read and download. 
 
-categories: acg, archive, gallery, hentai
+Categories: acg, archive, gallery, hentai
 
 <img src="assets/nhentai.png" width=200>
 
@@ -799,7 +799,7 @@ categories: acg, archive, gallery, hentai
 
 免費A漫 - 免費成人H漫線上看
 
-categories: acg, archive, gallery, hentai
+Categories: acg, archive, gallery, hentai
 
 <img src="assets/jmcomic.png" width=200>
 
@@ -809,7 +809,7 @@ categories: acg, archive, gallery, hentai
 
 嗶咔漫畫讓你可以輕鬆看到不同的本子，介面美觀易用，分類齊全，每天更新，紳士必備！
 
-categories: acg, archive, gallery, hentai
+Categories: acg, archive, gallery, hentai
 
 <img src="assets/picaacg.png" width=200>
 
@@ -825,7 +825,7 @@ categories: acg, archive, gallery, hentai
 
 Fast. Secure. Powerful.
 
-categories: instant-messaging
+Categories: instant-messaging
 
 <img src="assets/telegram.png" width=200>
 
@@ -835,7 +835,7 @@ categories: instant-messaging
 
 腾讯QQ，全新版本QQ9上线了！ QQ9，不仅是轻松聊天，更是兴趣社区的聚集地。欢迎下载体验最新版本QQ，体验最新功能！欢迎访问QQ官网，下载新版QQ，了解QQ最新功能就在im.qq.com。
 
-categories: instant-messaging
+Categories: instant-messaging
 
 <img src="assets/tencent-qq.png" width=200>
 
@@ -845,7 +845,7 @@ categories: instant-messaging
 
 Available for all kinds of platforms; enjoy group chat; support voice, photo, video and text messages.
 
-categories: instant-messaging
+Categories: instant-messaging
 
 <img src="assets/tencent-wechat.png" width=200>
 
@@ -861,7 +861,7 @@ categories: instant-messaging
 
 We serve the public conversation. Learn more about X the company, and how we ensure people have a free and safe place to talk.
 
-categories: microblogging
+Categories: microblogging
 
 <img src="assets/x-com.png" width=200>
 
@@ -871,7 +871,7 @@ categories: microblogging
 
 This is the official site for Misskey, a decentralized social networking software. Find out how to get started, a list of servers, and lots more information about Misskey!
 
-categories: microblogging
+Categories: microblogging
 
 <img src="assets/misskey.png" width=200>
 
@@ -881,7 +881,7 @@ categories: microblogging
 
 💞あらゆる好きが交差する💞<br> 好きを語れるオープンコミュニティ<br><br>好きなことを堂々と胸を張って好きといえる空間を作りたい。<br>そういった思いから生まれたSNSです。
 
-categories: microblogging
+Categories: microblogging
 
 <img src="assets/nijimiss.png" width=200>
 
@@ -900,7 +900,7 @@ categories: microblogging
 
 The free and flexible app for your private thoughts.
 
-categories: note-taking
+Categories: note-taking
 
 <img src="assets/obsidian.png" width=200>
 
@@ -910,7 +910,7 @@ categories: note-taking
 
 A privacy-first, open-source platform for knowledge management and collaboration.
 
-categories: note-taking
+Categories: note-taking
 
 <img src="assets/logseq.png" width=200>
 
@@ -920,7 +920,7 @@ categories: note-taking
 
 a non-linear personal web notebook
 
-categories: note-taking
+Categories: note-taking
 
 <img src="assets/tiddly-wiki.png" width=200>
 
@@ -930,7 +930,7 @@ categories: note-taking
 
 SiYuan - Privacy-first personal knowledge management system that supports Markdown, block-level ref, and bidirectional links
 
-categories: note-taking
+Categories: note-taking
 
 <img src="assets/siyuan-note.png" width=200>
 
@@ -940,7 +940,7 @@ categories: note-taking
 
 for those who celebrate trust & autonomy.
 
-categories: note-taking
+Categories: note-taking
 
 <img src="assets/anytype.png" width=200>
 
@@ -950,7 +950,7 @@ categories: note-taking
 
 Build custom agents, search across all your apps, and automate busywork. The AI workspace where teams get more done, faster.
 
-categories: note-taking
+Categories: note-taking
 
 <img src="assets/notion.png" width=200>
 
@@ -966,7 +966,7 @@ categories: note-taking
 
 KeePass is a free open source password manager. Passwords can be stored in an encrypted database, which can be unlocked with one master key.
 
-categories: password-manager
+Categories: password-manager
 
 <img src="assets/keepass.png" width=200>
 
@@ -976,7 +976,7 @@ categories: password-manager
 
 More than a password manager and leader in Extended Access Management. Secure all sign-ins to every application from any device with 1Password.
 
-categories: password-manager
+Categories: password-manager
 
 <img src="assets/1password.png" width=200>
 
@@ -986,7 +986,7 @@ categories: password-manager
 
 Bitwarden is the most trusted password manager for passwords and passkeys at home or at work, on any browser or device. Start with a free trial.
 
-categories: password-manager
+Categories: password-manager
 
 <img src="assets/bitwardon.png" width=200>
 
@@ -1001,7 +1001,7 @@ categories: password-manager
 
 Quora is an American social question-and-answer website and online knowledge market headquartered in Mountain View, California. It was founded on June 25, 2009, and made available to the public on June 21, 2010. Users can post questions, answer questions, and comment on answers that have been submitted by other users. As of 2020, the website was visited by 300 million users a month.
 
-categories: qa-system
+Categories: qa-system
 
 <img src="assets/quora.png" width=200>
 
@@ -1011,7 +1011,7 @@ categories: qa-system
 
 知乎，中文互联网高质量的问答社区和创作者聚集的原创内容平台，于 2011 年 1 月正式上线，以「让人们更好的分享知识、经验和见解，找到自己的解答」为品牌使命。知乎凭借认真、专业、友善的社区氛围、独特的产品机制以及结构化和易获得的优质内容，聚集了中文互联网科技、商业、影视、时尚、文化等领域最具创造力的人群，已成为综合性、全品类、在诸多领域具有关键影响力的知识分享社区和创作者聚集的原创内容平台，建立起了以社区驱动的内容变现商业模式。
 
-categories: qa-system
+Categories: qa-system
 
 <img src="assets/zhihu.png" width=200>
 
@@ -1026,7 +1026,7 @@ categories: qa-system
 
 Discover and read manga, webtoons, comics, and more – easier than ever on your Android device.
 
-categories: acg, reader
+Categories: acg, reader
 
 <img src="assets/mihon.png" width=200>
 
@@ -1036,7 +1036,7 @@ categories: acg, reader
 
 application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.<br><br>`{"link":"lrr.tvc-16.science","Topics": "docker server perl management manga comics reader mojolicious opds doujinshi nas hacktoberfest sadpanda"}`
 
-categories: acg, reader
+Categories: acg, reader
 
 <img src="assets/lanraragi.png" width=200>
 
@@ -1056,7 +1056,7 @@ categories: acg, reader
 
 Google Search (also known simply as Google or Google.com) is a search engine operated by Google. It allows users to search for information on the Internet by entering keywords or phrases. Google Search uses algorithms to analyze and rank websites based on their relevance to the search query. It is the most popular search engine worldwide.
 
-categories: search-engine
+Categories: search-engine
 
 <img src="assets/google-search.png" width=200>
 
@@ -1066,7 +1066,7 @@ categories: search-engine
 
 全球领先的中文搜索引擎、致力于让网民更便捷地获取信息，找到所求。百度超过千亿的中文网页数据库，可以瞬间找到相关的搜索结果。
 
-categories: search-engine
+Categories: search-engine
 
 <img src="assets/baidu-search.png" width=200>
 
@@ -1076,7 +1076,7 @@ categories: search-engine
 
 Search with Microsoft Bing and use the power of AI to find information, explore webpages, images, videos, maps, and more. A smart search engine for the forever curious.
 
-categories: search-engine
+Categories: search-engine
 
 <img src="assets/bing-search.png" width=200>
 
@@ -1086,7 +1086,7 @@ categories: search-engine
 
 Yandex is a technology company that builds intelligent products and services powered by machine learning.
 
-categories: search-engine
+Categories: search-engine
 
 <img src="assets/yandex-search.png" width=200>
 
@@ -1096,7 +1096,7 @@ categories: search-engine
 
 虫部落是一个纯粹的搜索知识、技术和经验分享平台，虫部落快搜、虫部落学术搜索等搜索聚合工具均为虫部落原创出品，搜索世界的乐趣，就在虫部落！
 
-categories: search-engine
+Categories: search-engine
 
 <img src="assets/chongbuluo-search.png" width=200>
 
@@ -1106,7 +1106,7 @@ categories: search-engine
 
 SauceNAO is a reverse image search engine. The name 'SauceNAO' is derived from a slang form of "Need to know the source of this Now!" which has found common usage on image boards and other similar sites.
 
-categories: search-engine
+Categories: search-engine
 
 <img src="assets/saurcenao-search.png" width=200>
 
@@ -1116,7 +1116,7 @@ categories: search-engine
 
 大家好（ﾉ>ω<)ﾉ这里是搜图bot酱网页版~ 可局部搜图NH内的本子，欢迎大家来测试~<br><br>如果大家觉得好用的话就请麻烦宣传和赞助一下吧~
 
-categories: search-engine
+Categories: search-engine
 
 <img src="assets/soutubot-moe.png" width=200>
 
@@ -1132,7 +1132,7 @@ categories: search-engine
 
 Jiongciyuan (囧次元) is an Android video streaming app focused on Japanese animation, allowing for real-time comments and interaction.  You can avoid frequent ads by watching free advertisements to earn temporary membership.
 
-categories: acg, video-streaming
+Categories: acg, video-streaming
 
 <img src="assets/jcyapp-org.png" width=200>
 
@@ -1142,7 +1142,7 @@ categories: acg, video-streaming
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-categories: video-streaming
+Categories: video-streaming
 
 <img src="assets/youtube.png" width=200>
 
@@ -1152,7 +1152,7 @@ categories: video-streaming
 
 哔哩哔哩（bilibili.com)是国内知名的视频弹幕网站，这里有及时的动漫新番，活跃的ACG氛围，有创意的Up主。大家可以在这里找到许多欢乐。
 
-categories: video-streaming
+Categories: video-streaming
 
 <img src="assets/bilibili.png" width=200>
 
@@ -1226,7 +1226,7 @@ categories: video-streaming
 
 More than a password manager and leader in Extended Access Management. Secure all sign-ins to every application from any device with 1Password.
 
-categories: password-manager
+Categories: password-manager
 
 <img src="assets/1password.png" width=200>
 
@@ -1236,7 +1236,7 @@ categories: password-manager
 
 Looking for information about Anime? AniDB is the right place for you. AniDB is a not-for-profit anime database providing you with all information reg...
 
-categories: acg, database
+Categories: acg, database
 
 <img src="assets/anidb.png" width=200>
 
@@ -1246,7 +1246,7 @@ categories: acg, database
 
 for those who celebrate trust & autonomy.
 
-categories: note-taking
+Categories: note-taking
 
 <img src="assets/anytype.png" width=200>
 
@@ -1256,7 +1256,7 @@ categories: note-taking
 
 百度百科是一部内容开放、自由的网络百科全书，旨在创造一个涵盖所有领域知识，服务所有互联网用户的中文知识性百科全书。在这里你可以参与词条编辑，分享贡献你的知识。<br><br>`{"keywords":"百科, 百度百科, 中文百科, 百科全书"}`
 
-categories: encyclopedia
+Categories: encyclopedia
 
 <img src="assets/baidu-baike.png" width=200>
 
@@ -1266,7 +1266,7 @@ categories: encyclopedia
 
 百度网盘为您提供文件的网络备份、同步和分享服务。空间大、速度快、安全稳固，支持教育网加速，支持手机端。注册使用百度网盘即可享受免费存储空间
 
-categories: cloud-disk
+Categories: cloud-disk
 
 <img src="assets/baidu-netdisk.png" width=200>
 
@@ -1276,7 +1276,7 @@ categories: cloud-disk
 
 全球领先的中文搜索引擎、致力于让网民更便捷地获取信息，找到所求。百度超过千亿的中文网页数据库，可以瞬间找到相关的搜索结果。
 
-categories: search-engine
+Categories: search-engine
 
 <img src="assets/baidu-search.png" width=200>
 
@@ -1286,7 +1286,7 @@ categories: search-engine
 
 哔哩哔哩（bilibili.com)是国内知名的视频弹幕网站，这里有及时的动漫新番，活跃的ACG氛围，有创意的Up主。大家可以在这里找到许多欢乐。
 
-categories: video-streaming
+Categories: video-streaming
 
 <img src="assets/bilibili.png" width=200>
 
@@ -1296,7 +1296,7 @@ categories: video-streaming
 
 Search with Microsoft Bing and use the power of AI to find information, explore webpages, images, videos, maps, and more. A smart search engine for the forever curious.
 
-categories: search-engine
+Categories: search-engine
 
 <img src="assets/bing-search.png" width=200>
 
@@ -1306,7 +1306,7 @@ categories: search-engine
 
 Bitwarden is the most trusted password manager for passwords and passkeys at home or at work, on any browser or device. Start with a free trial.
 
-categories: password-manager
+Categories: password-manager
 
 <img src="assets/bitwardon.png" width=200>
 
@@ -1316,7 +1316,7 @@ categories: password-manager
 
 虫部落是一个纯粹的搜索知识、技术和经验分享平台，虫部落快搜、虫部落学术搜索等搜索聚合工具均为虫部落原创出品，搜索世界的乐趣，就在虫部落！
 
-categories: search-engine
+Categories: search-engine
 
 <img src="assets/chongbuluo-search.png" width=200>
 
@@ -1326,7 +1326,7 @@ categories: search-engine
 
 With more than a million absolutely free hentai doujinshi, manga, cosplay and CG galleries, E-Hentai Galleries is the world's largest free Hentai archive.
 
-categories: acg, archive, gallery, hentai
+Categories: acg, archive, gallery, hentai
 
 <img src="assets/e-hentai.svg" width=200>
 
@@ -1336,7 +1336,7 @@ categories: acg, archive, gallery, hentai
 
 Discover how Gmail keeps your account & emails encrypted, private and under your control with the largest secure email service in the world.
 
-categories: email
+Categories: email
 
 <img src="assets/gmail.png" width=200>
 
@@ -1346,7 +1346,7 @@ categories: email
 
 Safety starts with understanding how developers collect and share your data. Data privacy and security practices may vary based on your use, region, and age. The developer provided this information and may update it over time.
 
-categories: authenticator
+Categories: authenticator
 
 <img src="assets/google-authenticator.png" width=200>
 
@@ -1356,7 +1356,7 @@ categories: authenticator
 
 Get more done with the new Google Chrome. A more simple, secure and faster web browser than ever, with Google’s smarts built in. Download now.
 
-categories: browser
+Categories: browser
 
 <img src="assets/google-chrome.png" width=200>
 
@@ -1366,7 +1366,7 @@ categories: browser
 
 Google Search (also known simply as Google or Google.com) is a search engine operated by Google. It allows users to search for information on the Internet by entering keywords or phrases. Google Search uses algorithms to analyze and rank websites based on their relevance to the search query. It is the most popular search engine worldwide.
 
-categories: search-engine
+Categories: search-engine
 
 <img src="assets/google-search.png" width=200>
 
@@ -1376,7 +1376,7 @@ categories: search-engine
 
 H萌娘是一个关于H萌的wiki。 <br>H萌娘的收录的条目要满足两点：既属于**H**（hentai/エロ）又属于**萌**（二次元）。 <br>目前主要由 User:BakeWater 为H萌娘提供服务器方面的支持。
 
-categories: encyclopedia, acg
+Categories: encyclopedia, acg
 
 <img src="assets/hmoegirl-encyclopedia.png" width=200>
 
@@ -1386,7 +1386,7 @@ categories: encyclopedia, acg
 
 Jiongciyuan (囧次元) is an Android video streaming app focused on Japanese animation, allowing for real-time comments and interaction.  You can avoid frequent ads by watching free advertisements to earn temporary membership.
 
-categories: acg, video-streaming
+Categories: acg, video-streaming
 
 <img src="assets/jcyapp-org.png" width=200>
 
@@ -1396,7 +1396,7 @@ categories: acg, video-streaming
 
 免費A漫 - 免費成人H漫線上看
 
-categories: acg, archive, gallery, hentai
+Categories: acg, archive, gallery, hentai
 
 <img src="assets/jmcomic.png" width=200>
 
@@ -1406,7 +1406,7 @@ categories: acg, archive, gallery, hentai
 
 KeePass is a free open source password manager. Passwords can be stored in an encrypted database, which can be unlocked with one master key.
 
-categories: password-manager
+Categories: password-manager
 
 <img src="assets/keepass.png" width=200>
 
@@ -1416,7 +1416,7 @@ categories: password-manager
 
 application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.<br><br>`{"link":"lrr.tvc-16.science","Topics": "docker server perl management manga comics reader mojolicious opds doujinshi nas hacktoberfest sadpanda"}`
 
-categories: acg, reader
+Categories: acg, reader
 
 <img src="assets/lanraragi.png" width=200>
 
@@ -1426,7 +1426,7 @@ categories: acg, reader
 
 A privacy-first, open-source platform for knowledge management and collaboration.
 
-categories: note-taking
+Categories: note-taking
 
 <img src="assets/logseq.png" width=200>
 
@@ -1436,7 +1436,7 @@ categories: note-taking
 
 Mail — безопасные сервисы для жизни и работы: бесплатная Почта, память для всего в Облаке, лёгкое планирование в Календаре и быстрые записи в Заметках. Мобильная версия и приложение — используйте, как удобно
 
-categories: email
+Categories: email
 
 <img src="assets/mail-ru.png" width=200>
 
@@ -1446,7 +1446,7 @@ categories: email
 
 漫画人：给你最好的掌上漫画应用体验，速度最快、最专业的漫画应用。<br><br>`{"author":"漫画人:为爱漫画的人而生、manhuaren.com","keywords":"漫画人：最好的掌上漫画应用"}`
 
-categories: acg, gallery
+Categories: acg, gallery
 
 <img src="assets/manhuaren.png" width=200>
 
@@ -1456,7 +1456,7 @@ categories: acg, gallery
 
 MBA智库百科，专注于经济管理领域知识的创建与分享。包括企业管理、市场营销、管理咨询、人力资源、战略管理、MBA案例、财务会计、广告、品牌、经济、金融、法律、博弈论、证券、股票以及公司企业、商学院、经管人物等介绍。<br><br>`{"keywords":"首页,2023年诺贝尔经济学奖,2024年《福布斯》全球亿万富豪排行榜,5W2H分析法,GTD,INFJ,Warren Buffett,东方甄选“小作文”事件,乔尔·莫基尔,价值共创,传统能源,MBA,MBA智库,管理,营销,经济,金融,人力资源,管理咨询,广告,财务,会计,品牌,证券,股票,物流,贸易,商学院,法律,人物"}`
 
-categories: encyclopedia
+Categories: encyclopedia
 
 <img src="assets/mbalib-wiki.png" width=200>
 
@@ -1466,7 +1466,7 @@ categories: encyclopedia
 
 Safety starts with understanding how developers collect and share your data. Data privacy and security practices may vary based on your use, region, and age. The developer provided this information and may update it over time.
 
-categories: authenticator
+Categories: authenticator
 
 <img src="assets/microsoft-authenticator.png" width=200>
 
@@ -1476,7 +1476,7 @@ categories: authenticator
 
 Download Microsoft Edge for your computer or smartphone. Experience the cutting-edge AI Edge browser on your Windows, macOS, iOS, and Android device.
 
-categories: browser
+Categories: browser
 
 <img src="assets/microsoft-edge.png" width=200>
 
@@ -1486,7 +1486,7 @@ categories: browser
 
 Discover and read manga, webtoons, comics, and more – easier than ever on your Android device.
 
-categories: acg, reader
+Categories: acg, reader
 
 <img src="assets/mihon.png" width=200>
 
@@ -1496,7 +1496,7 @@ categories: acg, reader
 
 This is the official site for Misskey, a decentralized social networking software. Find out how to get started, a list of servers, and lots more information about Misskey!
 
-categories: microblogging
+Categories: microblogging
 
 <img src="assets/misskey.png" width=200>
 
@@ -1506,7 +1506,7 @@ categories: microblogging
 
 `{"keywords":"萌娘,百科,wiki,梗,娘化,萝莉,动画,漫画,动漫,游戏,音乐,宅腐,ACG,anime,comic,game,GalGame"}`
 
-categories: encyclopedia, acg
+Categories: encyclopedia, acg
 
 <img src="assets/moegirl-encyclopedia.png" width=200>
 
@@ -1516,7 +1516,7 @@ categories: encyclopedia, acg
 
 Mozilla Firefox, or simply Firefox, is a free and open source[12] web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation.
 
-categories: browser
+Categories: browser
 
 <img src="assets/mozilla-firefox.png" width=200>
 
@@ -1526,7 +1526,7 @@ categories: browser
 
 Welcome to MyAnimeList, the world's most active online anime and manga community and database. Join the online community, create your anime and manga list, read reviews, explore the forums, follow news, and so much more! <br><br>`{"keywords":"anime, myanimelist, anime news, manga"}`
 
-categories: acg, database
+Categories: acg, database
 
 <img src="assets/myanimelist.png" width=200>
 
@@ -1536,7 +1536,7 @@ categories: acg, database
 
 网易免费邮箱，你的专业电子邮局，提供以 @163.com、@126.com和@yeah.net 为后缀的免费邮箱。超过20年邮箱运营经验，系统快速稳定安全，支持超大附件和网盘服务。网易邮箱官方App“邮箱大师”帮您高效处理邮件，支持所有邮箱，并可在手机、Windows和Mac上多端协同使用。
 
-categories: email
+Categories: email
 
 <img src="assets/netease-mail.png" width=200>
 
@@ -1546,7 +1546,7 @@ categories: email
 
 nhentai is a free hentai manga and doujinshi reader with over 575,000 galleries to read and download. 
 
-categories: acg, archive, gallery, hentai
+Categories: acg, archive, gallery, hentai
 
 <img src="assets/nhentai.png" width=200>
 
@@ -1556,7 +1556,7 @@ categories: acg, archive, gallery, hentai
 
 💞あらゆる好きが交差する💞<br> 好きを語れるオープンコミュニティ<br><br>好きなことを堂々と胸を張って好きといえる空間を作りたい。<br>そういった思いから生まれたSNSです。
 
-categories: microblogging
+Categories: microblogging
 
 <img src="assets/nijimiss.png" width=200>
 
@@ -1566,7 +1566,7 @@ categories: microblogging
 
 Encyclopedia of note taking apps: Screenshots, feature lists, and pricing for popular note taking apps.
 
-categories: encyclopedia
+Categories: encyclopedia
 
 <img src="assets/noteapps-info.png" width=200>
 
@@ -1576,7 +1576,7 @@ categories: encyclopedia
 
 Build custom agents, search across all your apps, and automate busywork. The AI workspace where teams get more done, faster.
 
-categories: note-taking
+Categories: note-taking
 
 <img src="assets/notion.png" width=200>
 
@@ -1586,7 +1586,7 @@ categories: note-taking
 
 The free and flexible app for your private thoughts.
 
-categories: note-taking
+Categories: note-taking
 
 <img src="assets/obsidian.png" width=200>
 
@@ -1596,7 +1596,7 @@ categories: note-taking
 
 Microsoft OneDrive is a file-hosting service operated by Microsoft. First released as SkyDrive in August 2007, it allows registered users to store, share, back-up and synchronize their files. OneDrive also works as the storage backend of the web version of Microsoft 365. OneDrive offers 5 gigabytes of storage space free of charge, with 100 GB, 1 TB, and 6 TB storage options available, either separately or with Microsoft 365 subscriptions.
 
-categories: cloud-disk
+Categories: cloud-disk
 
 <img src="assets/onedrive.png" width=200>
 
@@ -1606,7 +1606,7 @@ categories: cloud-disk
 
 With Outlook on your PC, Mac or mobile device, you can:<ul><li>Organize email to let you focus on the messages that matter most.</li><li>Manage and share your calendar to schedule meetings with ease.</li><li>Share files from the cloud so recipients always have the latest version.</li><li>Stay connected and productive wherever you are.</li></ul>
 
-categories: email
+Categories: email
 
 <img src="assets/outlook-com.png" width=200>
 
@@ -1616,7 +1616,7 @@ categories: email
 
 嗶咔漫畫讓你可以輕鬆看到不同的本子，介面美觀易用，分類齊全，每天更新，紳士必備！
 
-categories: acg, archive, gallery, hentai
+Categories: acg, archive, gallery, hentai
 
 <img src="assets/picaacg.png" width=200>
 
@@ -1626,7 +1626,7 @@ categories: acg, archive, gallery, hentai
 
 Pixiv[a] (Japanese: ピクシブ, Hepburn: Pikushibu) is a Japanese online community for artists.
 
-categories: acg, community
+Categories: acg, community
 
 <img src="assets/pixiv.png" width=200>
 
@@ -1636,7 +1636,7 @@ categories: acg, community
 
 QQ邮箱，提供qq.com、foxmail.com后缀的安全、稳定、快速、便捷的免费电子邮箱。强大的反垃圾邮件过滤，10G超大附件发送，便捷记事和日历功能，轻松管理所有电子发票，尽在QQ邮箱。
 
-categories: email
+Categories: email
 
 <img src="assets/qq-mail.png" width=200>
 
@@ -1646,7 +1646,7 @@ categories: email
 
 夸克pc/app为你带来极速、智能、安全、高效的搜索体验,找答案,找资料,找工具,办公,学习,工作必备应用。夸克提供浏览器搜索引擎、网盘、AI扫描王工具及小说阅读等高效功能，为你提供稳定,安全,流畅的浏览环境和优质的产品服务体验
 
-categories: browser
+Categories: browser
 
 <img src="assets/quark-browser.png" width=200>
 
@@ -1656,7 +1656,7 @@ categories: browser
 
 Quora is an American social question-and-answer website and online knowledge market headquartered in Mountain View, California. It was founded on June 25, 2009, and made available to the public on June 21, 2010. Users can post questions, answer questions, and comment on answers that have been submitted by other users. As of 2020, the website was visited by 300 million users a month.
 
-categories: qa-system
+Categories: qa-system
 
 <img src="assets/quora.png" width=200>
 
@@ -1666,7 +1666,7 @@ categories: qa-system
 
 Reddit is where millions of people gather for conversations about the things they care about, in over 100,000 subreddit communities.
 
-categories: forum
+Categories: forum
 
 <img src="assets/reddit.png" width=200>
 
@@ -1676,7 +1676,7 @@ categories: forum
 
 SauceNAO is a reverse image search engine. The name 'SauceNAO' is derived from a slang form of "Need to know the source of this Now!" which has found common usage on image boards and other similar sites.
 
-categories: search-engine
+Categories: search-engine
 
 <img src="assets/saurcenao-search.png" width=200>
 
@@ -1686,7 +1686,7 @@ categories: search-engine
 
 SiYuan - Privacy-first personal knowledge management system that supports Markdown, block-level ref, and bidirectional links
 
-categories: note-taking
+Categories: note-taking
 
 <img src="assets/siyuan-note.png" width=200>
 
@@ -1696,7 +1696,7 @@ categories: note-taking
 
 大家好（ﾉ>ω<)ﾉ这里是搜图bot酱网页版~ 可局部搜图NH内的本子，欢迎大家来测试~<br><br>如果大家觉得好用的话就请麻烦宣传和赞助一下吧~
 
-categories: search-engine
+Categories: search-engine
 
 <img src="assets/soutubot-moe.png" width=200>
 
@@ -1706,7 +1706,7 @@ categories: search-engine
 
 Fast. Secure. Powerful.
 
-categories: instant-messaging
+Categories: instant-messaging
 
 <img src="assets/telegram.png" width=200>
 
@@ -1716,7 +1716,7 @@ categories: instant-messaging
 
 腾讯QQ，全新版本QQ9上线了！ QQ9，不仅是轻松聊天，更是兴趣社区的聚集地。欢迎下载体验最新版本QQ，体验最新功能！欢迎访问QQ官网，下载新版QQ，了解QQ最新功能就在im.qq.com。
 
-categories: instant-messaging
+Categories: instant-messaging
 
 <img src="assets/tencent-qq.png" width=200>
 
@@ -1726,7 +1726,7 @@ categories: instant-messaging
 
 Available for all kinds of platforms; enjoy group chat; support voice, photo, video and text messages.
 
-categories: instant-messaging
+Categories: instant-messaging
 
 <img src="assets/tencent-wechat.png" width=200>
 
@@ -1736,7 +1736,7 @@ categories: instant-messaging
 
 a non-linear personal web notebook
 
-categories: note-taking
+Categories: note-taking
 
 <img src="assets/tiddly-wiki.png" width=200>
 
@@ -1746,7 +1746,7 @@ categories: note-taking
 
 百度贴吧——全球领先的中文社区。贴吧的使命是让志同道合的人相聚。不论是大众话题还是小众话题，都能精准地聚集大批同好网友，展示自我风采，结交知音，搭建别具特色的“兴趣主题“互动平台。贴吧目录涵盖游戏、地区、文学、动漫、娱乐明星、生活、体育、电脑数码等方方面面，是全球领先的中文交流平台，它为人们提供一个表达和交流思想的自由网络空间，并以此汇集志同道合的网友。
 
-categories: forum
+Categories: forum
 
 <img src="assets/baidu-tieba.png" width=200>
 
@@ -1756,7 +1756,7 @@ categories: forum
 
 Download | Defend yourself against tracking and surveillance. Circumvent censorship.
 
-categories: browser
+Categories: browser
 
 <img src="assets/tor-browser.png" width=200>
 
@@ -1766,7 +1766,7 @@ categories: browser
 
 We serve the public conversation. Learn more about X the company, and how we ensure people have a free and safe place to talk.
 
-categories: microblogging
+Categories: microblogging
 
 <img src="assets/x-com.png" width=200>
 
@@ -1776,7 +1776,7 @@ categories: microblogging
 
 Download UC Browser today and enjoy a faster, safer, and more private online experience. With built-in VPN protection and advanced ad blocking, we set a new standard for secure browsing.
 
-categories: browser
+Categories: browser
 
 <img src="assets/uc-browser.png" width=200>
 
@@ -1786,7 +1786,7 @@ categories: browser
 
 Learn how to do anything with wikiHow, the world's most popular how-to website. Easy, well-researched, and trustworthy instructions for everything you want to know.
 
-categories: encyclopedia
+Categories: encyclopedia
 
 <img src="assets/wikihow.png" width=200>
 
@@ -1796,7 +1796,7 @@ categories: encyclopedia
 
 Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.
 
-categories: encyclopedia
+Categories: encyclopedia
 
 <img src="assets/wikipedia.png" width=200>
 
@@ -1806,7 +1806,7 @@ categories: encyclopedia
 
 Yandex is a technology company that builds intelligent products and services powered by machine learning.
 
-categories: search-engine
+Categories: search-engine
 
 <img src="assets/yandex-search.png" width=200>
 
@@ -1816,7 +1816,7 @@ categories: search-engine
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-categories: video-streaming
+Categories: video-streaming
 
 <img src="assets/youtube.png" width=200>
 
@@ -1826,6 +1826,6 @@ categories: video-streaming
 
 知乎，中文互联网高质量的问答社区和创作者聚集的原创内容平台，于 2011 年 1 月正式上线，以「让人们更好的分享知识、经验和见解，找到自己的解答」为品牌使命。知乎凭借认真、专业、友善的社区氛围、独特的产品机制以及结构化和易获得的优质内容，聚集了中文互联网科技、商业、影视、时尚、文化等领域最具创造力的人群，已成为综合性、全品类、在诸多领域具有关键影响力的知识分享社区和创作者聚集的原创内容平台，建立起了以社区驱动的内容变现商业模式。
 
-categories: qa-system
+Categories: qa-system
 
 <img src="assets/zhihu.png" width=200>

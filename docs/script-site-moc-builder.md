@@ -21,7 +21,7 @@ function getSiteItemSection(file, m, n) {
 		headerMarker = "####";
 	}
 	
-	return `${headerMarker} ${title}\n\n> see: [${fm['title']}](${fm['url']})\n\n${fm['description']}\n\ncategories: ${fm['categories'].map(l=>/^\[\[(site-category-)?(?<value>.*?)(\\?\|.*)?\]\]$/.exec(l).groups['value']).join(", ")}\n\n${getImageElem(fm['icon'])}`
+	return `${headerMarker} ${title}\n\n> see: [${fm['title']}](${fm['url']})\n\n${fm['description']}\n\nCategories: ${fm['categories'].map(l=>/^\[\[(site-category-)?(?<value>.*?)(\\?\|.*)?\]\]$/.exec(l).groups['value']).join(", ")}\n\n${getImageElem(fm['icon'])}`
 }
 function getSiteCategorySection(file,m) {
 	const title = m+"-"+/^site-category-(.*)/.exec(file.basename)[1];
