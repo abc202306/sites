@@ -1,0 +1,22 @@
+filters:
+  and:
+    - file.inFolder("site-item")
+formulas:
+  iconembed: image(icon)
+views:
+  - type: table
+    name: Table
+    order:
+      - categories
+      - file.name
+      - title-slugified
+      - formula.iconembed
+      - title
+      - url
+      - description
+    columnSize:
+      note.categories: 255
+      file.name: 14
+      formula.iconembed: 47
+      note.title: 98
+      note.url: 250
