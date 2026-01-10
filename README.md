@@ -1,7 +1,7 @@
 
 # Websites
 
-This article showcases 111 websites bookmarked by abc202306.
+This article showcases 113 websites bookmarked by abc202306.
 
 Keywords: awesome list, website, github repo
 
