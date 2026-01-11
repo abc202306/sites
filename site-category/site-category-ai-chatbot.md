@@ -14,6 +14,7 @@ subpages:
   - "[[site-item-qianwen|qianwen]]"
   - "[[site-item-bohrium|bohrium]]"
   - "[[site-item-kimi|kimi]]"
+  - "[[site-item-bohrium|bohrium]]"
 aliases:
   - ai-chatbot
 ctime: 2026-01-10T19:47:09+08:00

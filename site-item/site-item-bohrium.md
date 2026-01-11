@@ -7,6 +7,7 @@ url: https://www.bohrium.com/
 icon: "[[bohrium.png]]"
 description: Bohrium — AI for Science with global scientists. An AI-powered all-in-one research hub offering powerful academic search, comprehensive resources, and collaborative tools for reproducible research.
 categories:
+  - "[[site-category-ai-chatbot|ai-chatbot]]"
 aliases:
   - bohrium
 ctime: 2026-01-10T20:55:29+08:00
