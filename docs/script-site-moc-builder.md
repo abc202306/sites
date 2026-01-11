@@ -82,16 +82,18 @@ function getSiteCategorySection(file, m, categoryFiles) {
 	const title = `${m}-${slug}`;
 	const fm = safeFrontmatter(file);
 
-	const subpages = Array.isArray(fm.subpages) ? fm.subpages : [];
+	const subpages = safeArray(fm.subpages);
 
-	const ol = `> [!Note]\n> \n> #### Filter: [Category](#category): **${slug}**\n> \n> | \\# | [Site-Items](#site-items) | [Category](#category) | Icon |\n> | --- | --- | --- | --- |\n`+subpages.map((link, j) => {
+	const ol = `> [!Note]\n> \n> #### [site-items](#site-items)/[category](#category)/**${slug}**/\n> \n> | \\# | [Site-Items](#site-items) | [Category](#category) | Icon | Description |\n> | --- | --- | --- | --- | --- |\n`+subpages.map((link, j) => {
 		const n = j + 1;
 		const linkTarget = parseWikiLink(link) || link;
 		const file = app.metadataCache.getFirstLinkpathDest(linkTarget)
 		const slug = slugFromBasename(linkTarget, 'site-item-');
-		const icon = getImageElem(safeFrontmatter(file).icon,tableImageWidth);
+		const fm = safeFrontmatter(file);
+		const icon = getImageElem(fm.icon,tableImageWidth);
 		const target = `#${m}-${n}-${slug}`;
-		return `> | ${n} | [${slug}](${target}) | ${getCategoryArrStr(file, categoryFiles)} | [${icon}](${target}) |`;
+		const description = fm.description;
+		return `> | ${n} | [${slug}](${target}) | ${getCategoryArrStr(file, categoryFiles)} | [${icon}](${target}) | ${description} |`;
 	}).join('\n');
 
 	const relatedSiteItems = subpages.map(link => {
@@ -113,7 +115,7 @@ try {
 
 	// Category index
 	parts.push('## category\n');
-	parts.push("> [!Note]\n> \n> | \\# | [Category](#category) | [Site-Items](#site-items) | Icon |\n> | --- | --- | --- | --- |\n"+sitecategories.map((f, i) => {
+	parts.push("> [!Note]\n> \n> #### [site-items](#site-items)/category/\n> \n> | \\# | [Category](#category) | [Site-Items](#site-items) | Icon |\n> | --- | --- | --- | --- |\n"+sitecategories.map((f, i) => {
 		const m = i + 1;
 		const slug = slugFromBasename(f.basename, 'site-category-');
 		const target = `#${m}-${slug}`;
@@ -135,12 +137,14 @@ try {
 
 	// Site items index and sections
 	parts.push('\n## site-items\n\n');
-	parts.push("> [!Note]\n> \n> | \\# | [Site-Items](#site-items) | [Category](#category) | Icon |\n> | --- | --- | --- | --- |\n"+siteitems.map((f, j) => {
+	parts.push("> [!Note]\n> \n> #### site-items/\n> \n> | \\# | [Site-Items](#site-items) | [Category](#category) | Icon | Description |\n> | --- | --- | --- | --- | --- |\n"+siteitems.map((f, j) => {
 		const n = j + 1;
 		const slug = slugFromBasename(f.basename, 'site-item-');
 		const target = `#0-${n}-${slug}`;
-		const icon = getImageElem(safeFrontmatter(f).icon,tableImageWidth);
-		return `> | ${n} | [${slug}](${target}) | ${getCategoryArrStr(f, sitecategories)} | [${icon}](${target}) |`;
+		const fm = safeFrontmatter(f);
+		const icon = getImageElem(fm.icon,tableImageWidth);
+		const description = fm.description;
+		return `> | ${n} | [${slug}](${target}) | ${getCategoryArrStr(f, sitecategories)} | [${icon}](${target}) | ${description} |`;
 	}).join('\n'));
 	parts.push('\n\n');
 	parts.push(siteitems.map((f, j) => getSiteItemSection(f, 0, j + 1, sitecategories)).join('\n\n'));
