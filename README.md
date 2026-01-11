@@ -12,7 +12,7 @@ Keywords: awesome list, website, github repo
 > | \# | [Category](#category) | [Site-Items](#site-items) | Icon |
 > | --- | --- | --- | --- |
 > | 1 | [acg](#1-acg) | [jiong-ci-yuan](#1-1-jiong-ci-yuan), [anidb](#1-2-anidb), [myanimelist](#1-3-myanimelist), [e-hentai](#1-4-e-hentai), [nhentai](#1-5-nhentai), [jmcomic](#1-6-jmcomic), [picaacg](#1-7-picaacg), [manhuaren](#1-8-manhuaren), [mihon](#1-9-mihon), [lanraragi](#1-10-lanraragi), [moegirl](#1-11-moegirl), [hmoegirl](#1-12-hmoegirl), [pixiv](#1-13-pixiv), [iwara](#1-14-iwara), [hanime](#1-15-hanime) | [<img src="assets/jcyapp-org.png" width="50">](#1-1-jiong-ci-yuan)[<img src="assets/anidb.png" width="50">](#1-2-anidb)[<img src="assets/myanimelist.png" width="50">](#1-3-myanimelist)[<img src="assets/e-hentai.svg" width="50">](#1-4-e-hentai)[<img src="assets/nhentai.png" width="50">](#1-5-nhentai)[<img src="assets/jmcomic.png" width="50">](#1-6-jmcomic)[<img src="assets/picaacg.png" width="50">](#1-7-picaacg)[<img src="assets/manhuaren.png" width="50">](#1-8-manhuaren)[<img src="assets/mihon.png" width="50">](#1-9-mihon)[<img src="assets/lanraragi.png" width="50">](#1-10-lanraragi)[<img src="assets/moegirl-encyclopedia.png" width="50">](#1-11-moegirl)[<img src="assets/hmoegirl-encyclopedia.png" width="50">](#1-12-hmoegirl)[<img src="assets/pixiv.png" width="50">](#1-13-pixiv)[<img src="assets/iwara.png" width="50">](#1-14-iwara)[<img src="assets/hanime.png" width="50">](#1-15-hanime) |
-> | 2 | [ai-chatbot](#2-ai-chatbot) | [deepseek](#2-1-deepseek), [microsoft-copilot](#2-2-microsoft-copilot), [chatgpt](#2-3-chatgpt), [gemini](#2-4-gemini), [claude](#2-5-claude), [github-copilot](#2-6-github-copilot), [quark-browser](#2-7-quark-browser), [tencent-yuanbao](#2-8-tencent-yuanbao), [doubao](#2-9-doubao), [qianwen](#2-10-qianwen), [bohrium](#2-11-bohrium), [kimi](#2-12-kimi), [bohrium](#2-13-bohrium) | [<img src="assets/deepseek.png" width="50">](#2-1-deepseek)[<img src="assets/microsoft-copilot.png" width="50">](#2-2-microsoft-copilot)[<img src="assets/chatgpt.png" width="50">](#2-3-chatgpt)[<img src="assets/gemini.png" width="50">](#2-4-gemini)[<img src="assets/claude.png" width="50">](#2-5-claude)[<img src="assets/github-copilot-icon.svg" width="50">](#2-6-github-copilot)[<img src="assets/quark-browser.png" width="50">](#2-7-quark-browser)[<img src="assets/tencent-yuanbao.png" width="50">](#2-8-tencent-yuanbao)[<img src="assets/doubao.png" width="50">](#2-9-doubao)[<img src="assets/qianwen.png" width="50">](#2-10-qianwen)[<img src="assets/bohrium.png" width="50">](#2-11-bohrium)[<img src="assets/kimi.png" width="50">](#2-12-kimi)[<img src="assets/bohrium.png" width="50">](#2-13-bohrium) |
+> | 2 | [ai-chatbot](#2-ai-chatbot) | [deepseek](#2-1-deepseek), [microsoft-copilot](#2-2-microsoft-copilot), [chatgpt](#2-3-chatgpt), [gemini](#2-4-gemini), [claude](#2-5-claude), [github-copilot](#2-6-github-copilot), [quark-browser](#2-7-quark-browser), [tencent-yuanbao](#2-8-tencent-yuanbao), [doubao](#2-9-doubao), [qianwen](#2-10-qianwen), [bohrium](#2-11-bohrium), [kimi](#2-12-kimi) | [<img src="assets/deepseek.png" width="50">](#2-1-deepseek)[<img src="assets/microsoft-copilot.png" width="50">](#2-2-microsoft-copilot)[<img src="assets/chatgpt.png" width="50">](#2-3-chatgpt)[<img src="assets/gemini.png" width="50">](#2-4-gemini)[<img src="assets/claude.png" width="50">](#2-5-claude)[<img src="assets/github-copilot-icon.svg" width="50">](#2-6-github-copilot)[<img src="assets/quark-browser.png" width="50">](#2-7-quark-browser)[<img src="assets/tencent-yuanbao.png" width="50">](#2-8-tencent-yuanbao)[<img src="assets/doubao.png" width="50">](#2-9-doubao)[<img src="assets/qianwen.png" width="50">](#2-10-qianwen)[<img src="assets/bohrium.png" width="50">](#2-11-bohrium)[<img src="assets/kimi.png" width="50">](#2-12-kimi) |
 > | 3 | [appstore](#3-appstore) | [microsoft-store](#3-1-microsoft-store), [huorong-app-store](#3-2-huorong-app-store), [apkpure](#3-3-apkpure), [arora-store](#3-4-arora-store), [google-play](#3-5-google-play), [f-driod](#3-6-f-driod), [tencent-appstore](#3-7-tencent-appstore), [360-appstore](#3-8-360-appstore) | [<img src="assets/microsoft-store.png" width="50">](#3-1-microsoft-store)[<img src="assets/huorong-app-store.png" width="50">](#3-2-huorong-app-store)[<img src="assets/apkpure.png" width="50">](#3-3-apkpure)[<img src="assets/arora-store.png" width="50">](#3-4-arora-store)[<img src="assets/google-play.png" width="50">](#3-5-google-play)[<img src="assets/f-droid.png" width="50">](#3-6-f-driod)[<img src="assets/tencent-appstore.png" width="50">](#3-7-tencent-appstore)[<img src="assets/360-appstore.png" width="50">](#3-8-360-appstore) |
 > | 4 | [archive](#4-archive) | [e-hentai](#4-1-e-hentai), [nhentai](#4-2-nhentai), [jmcomic](#4-3-jmcomic), [picaacg](#4-4-picaacg) | [<img src="assets/e-hentai.svg" width="50">](#4-1-e-hentai)[<img src="assets/nhentai.png" width="50">](#4-2-nhentai)[<img src="assets/jmcomic.png" width="50">](#4-3-jmcomic)[<img src="assets/picaacg.png" width="50">](#4-4-picaacg) |
 > | 5 | [authenticator](#5-authenticator) | [microsoft-authenticator](#5-1-microsoft-authenticator), [google-authenticator](#5-2-google-authenticator) | [<img src="assets/microsoft-authenticator.png" width="50">](#5-1-microsoft-authenticator)[<img src="assets/google-authenticator.png" width="50">](#5-2-google-authenticator) |
@@ -234,7 +234,6 @@ Categories: [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-
 > | 10 | [qianwen](#2-10-qianwen) | [ai-chatbot](#2-ai-chatbot) | [<img src="assets/qianwen.png" width="50">](#2-10-qianwen) |
 > | 11 | [bohrium](#2-11-bohrium) | [ai-chatbot](#2-ai-chatbot) | [<img src="assets/bohrium.png" width="50">](#2-11-bohrium) |
 > | 12 | [kimi](#2-12-kimi) | [ai-chatbot](#2-ai-chatbot) | [<img src="assets/kimi.png" width="50">](#2-12-kimi) |
-> | 13 | [bohrium](#2-13-bohrium) | [ai-chatbot](#2-ai-chatbot) | [<img src="assets/bohrium.png" width="50">](#2-13-bohrium) |
 
 #### 2-1-deepseek
 
@@ -355,16 +354,6 @@ Kimi K2长思考模式来了！支持多轮工具调用与思考，擅长数理�
 Categories: [ai-chatbot](#2-ai-chatbot)
 
 <img src="assets/kimi.png" width="200">
-
-#### 2-13-bohrium
-
-> see: [Bohrium | AI for Science with Global Scientists](https://www.bohrium.com/)
-
-Bohrium — AI for Science with global scientists. An AI-powered all-in-one research hub offering powerful academic search, comprehensive resources, and collaborative tools for reproducible research.
-
-Categories: [ai-chatbot](#2-ai-chatbot)
-
-<img src="assets/bohrium.png" width="200">
 
 ### 3-appstore
 
