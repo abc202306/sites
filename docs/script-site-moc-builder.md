@@ -89,7 +89,9 @@ function getSiteCategorySection(file, m, categoryFiles) {
 		const linkTarget = parseWikiLink(link) || link;
 		const file = app.metadataCache.getFirstLinkpathDest(linkTarget)
 		const slug = slugFromBasename(linkTarget, 'site-item-');
-		return `> | ${n} | [${slug}](#${m}-${n}-${slug}) | ${getCategoryArrStr(file, categoryFiles)} | ${getImageElem(safeFrontmatter(file).icon,tableImageWidth)} |`;
+		const icon = getImageElem(safeFrontmatter(file).icon,tableImageWidth);
+		const target = `#${m}-${n}-${slug}`;
+		return `> | ${n} | [${slug}](${target}) | ${getCategoryArrStr(file, categoryFiles)} | [${icon}](${target}) |`;
 	}).join('\n');
 
 	const relatedSiteItems = subpages.map(link => {
@@ -114,14 +116,19 @@ try {
 	parts.push("> [!Note]\n> \n> | \\# | [Category](#category) | [Site-Items](#site-items) | Icon |\n> | --- | --- | --- | --- |\n"+sitecategories.map((f, i) => {
 		const m = i + 1;
 		const slug = slugFromBasename(f.basename, 'site-category-');
-		const t = `${m}-${slug}`;
+		const target = `#${m}-${slug}`;
 		
-		const iconArrStr = safeFrontmatter(f).subpages.map(l=>{
+		const iconArrStr = safeFrontmatter(f).subpages.map((l,j)=>{
+			const n = j + 1;
 			const itemFile = app.metadataCache.getFirstLinkpathDest(parseWikiLink(l) || l);
-			return getImageElem(safeFrontmatter(itemFile).icon,tableImageWidth);
+			const linkTarget = parseWikiLink(l) || l;
+			const slug = slugFromBasename(linkTarget, 'site-item-');
+			const icon = getImageElem(safeFrontmatter(itemFile).icon,tableImageWidth);
+			const targetToItem = `#${m}-${n}-${slug}`;
+			return `[${icon}](${targetToItem})`;
 		}).join("");
 		
-		return `> | ${m} | [${slug}](#${t}) | ${getItemArrStr(f,m)} | ${iconArrStr} |`;
+		return `> | ${m} | [${slug}](${target}) | ${getItemArrStr(f,m)} | ${iconArrStr} |`;
 	}).join('\n'));
 	parts.push('\n');
 	parts.push(sitecategories.map((f, i) => getSiteCategorySection(f, i + 1, sitecategories)).join('\n\n'));
@@ -131,8 +138,9 @@ try {
 	parts.push("> [!Note]\n> \n> | \\# | [Site-Items](#site-items) | [Category](#category) | Icon |\n> | --- | --- | --- | --- |\n"+siteitems.map((f, j) => {
 		const n = j + 1;
 		const slug = slugFromBasename(f.basename, 'site-item-');
-		const title = `0-${n}-${slug}`;
-		return `> | ${n} | [${slug}](#${title}) | ${getCategoryArrStr(f, sitecategories)} | ${getImageElem(safeFrontmatter(f).icon,tableImageWidth)} |`;
+		const target = `#0-${n}-${slug}`;
+		const icon = getImageElem(safeFrontmatter(f).icon,tableImageWidth);
+		return `> | ${n} | [${slug}](${target}) | ${getCategoryArrStr(f, sitecategories)} | [${icon}](${target}) |`;
 	}).join('\n'));
 	parts.push('\n\n');
 	parts.push(siteitems.map((f, j) => getSiteItemSection(f, 0, j + 1, sitecategories)).join('\n\n'));
