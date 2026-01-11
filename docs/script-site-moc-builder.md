@@ -6,18 +6,21 @@ mtime: "2026-01-10T14:38:05+08:00"
 # script-site-moc-builder
 
 ```js
+
+const tableImageWidth = 50;
+
 function parseWikiLink(wikilink) {
 	if (!wikilink || typeof wikilink !== 'string') return null;
 	const m = /^\[\[([^\|\]]+)(?:\|.*)?\]\]$/.exec(wikilink.trim());
 	return m ? m[1] : null;
 }
 
-function getImageElem(wikilink) {
+function getImageElem(wikilink, width=200) {
 	const linktext = parseWikiLink(wikilink);
 	if (!linktext) return '';
 	const file = app.metadataCache.getFirstLinkpathDest(linktext);
 	if (!file || !file.path) return '';
-	return `<img src="${encodeURI(file.path)}" width="200">`;
+	return `<img src="${encodeURI(file.path)}" width="${width}">`;
 }
 
 function slugFromBasename(basename, prefix) {
@@ -81,12 +84,12 @@ function getSiteCategorySection(file, m, categoryFiles) {
 
 	const subpages = Array.isArray(fm.subpages) ? fm.subpages : [];
 
-	const ol = `> [!Note]\n> \n> #### Filter: [Category](#category): **${slug}**\n> \n> | \\# | [Site-Items](#site-items) | [Category](#category) |\n> | --- | --- | --- |\n`+subpages.map((link, j) => {
+	const ol = `> [!Note]\n> \n> #### Filter: [Category](#category): **${slug}**\n> \n> | \\# | [Site-Items](#site-items) | [Category](#category) | Icon |\n> | --- | --- | --- | --- |\n`+subpages.map((link, j) => {
 		const n = j + 1;
 		const linkTarget = parseWikiLink(link) || link;
 		const file = app.metadataCache.getFirstLinkpathDest(linkTarget)
 		const slug = slugFromBasename(linkTarget, 'site-item-');
-		return `> | ${n} | [${slug}](#${m}-${n}-${slug}) | ${getCategoryArrStr(file, categoryFiles)} |`;
+		return `> | ${n} | [${slug}](#${m}-${n}-${slug}) | ${getCategoryArrStr(file, categoryFiles)} | ${getImageElem(safeFrontmatter(file).icon,tableImageWidth)} |`;
 	}).join('\n');
 
 	const relatedSiteItems = subpages.map(link => {
@@ -108,22 +111,28 @@ try {
 
 	// Category index
 	parts.push('## category\n');
-	parts.push("> [!Note]\n> \n> | \\# | [Category](#category) | [Site-Items](#site-items) |\n> | --- | --- | --- |\n"+sitecategories.map((f, i) => {
+	parts.push("> [!Note]\n> \n> | \\# | [Category](#category) | [Site-Items](#site-items) | Icon |\n> | --- | --- | --- | --- |\n"+sitecategories.map((f, i) => {
 		const m = i + 1;
 		const slug = slugFromBasename(f.basename, 'site-category-');
 		const t = `${m}-${slug}`;
-		return `> | ${m} | [${slug}](#${t}) | ${getItemArrStr(f,m)} |`;
+		
+		const iconArrStr = safeFrontmatter(f).subpages.map(l=>{
+			const itemFile = app.metadataCache.getFirstLinkpathDest(parseWikiLink(l) || l);
+			return getImageElem(safeFrontmatter(itemFile).icon,tableImageWidth);
+		}).join("");
+		
+		return `> | ${m} | [${slug}](#${t}) | ${getItemArrStr(f,m)} | ${iconArrStr} |`;
 	}).join('\n'));
 	parts.push('\n');
 	parts.push(sitecategories.map((f, i) => getSiteCategorySection(f, i + 1, sitecategories)).join('\n\n'));
 
 	// Site items index and sections
 	parts.push('\n## site-items\n\n');
-	parts.push("> [!Note]\n> \n> | \\# | [Site-Items](#site-items) | [Category](#category) |\n> | --- | --- | --- |\n"+siteitems.map((f, j) => {
+	parts.push("> [!Note]\n> \n> | \\# | [Site-Items](#site-items) | [Category](#category) | Icon |\n> | --- | --- | --- | --- |\n"+siteitems.map((f, j) => {
 		const n = j + 1;
 		const slug = slugFromBasename(f.basename, 'site-item-');
 		const title = `0-${n}-${slug}`;
-		return `> | ${n} | [${slug}](#${title}) | ${getCategoryArrStr(f, sitecategories)} |`;
+		return `> | ${n} | [${slug}](#${title}) | ${getCategoryArrStr(f, sitecategories)} | ${getImageElem(safeFrontmatter(f).icon,tableImageWidth)} |`;
 	}).join('\n'));
 	parts.push('\n\n');
 	parts.push(siteitems.map((f, j) => getSiteItemSection(f, 0, j + 1, sitecategories)).join('\n\n'));

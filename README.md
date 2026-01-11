@@ -9,35 +9,35 @@ Keywords: awesome list, website, github repo
 
 > [!Note]
 > 
-> | \# | [Category](#category) | [Site-Items](#site-items) |
-> | --- | --- | --- |
-> | 1 | [acg](#1-acg) | [jiong-ci-yuan](#1-1-jiong-ci-yuan), [anidb](#1-2-anidb), [myanimelist](#1-3-myanimelist), [e-hentai](#1-4-e-hentai), [nhentai](#1-5-nhentai), [jmcomic](#1-6-jmcomic), [picaacg](#1-7-picaacg), [manhuaren](#1-8-manhuaren), [mihon](#1-9-mihon), [lanraragi](#1-10-lanraragi), [moegirl](#1-11-moegirl), [hmoegirl](#1-12-hmoegirl), [pixiv](#1-13-pixiv), [iwara](#1-14-iwara), [hanime](#1-15-hanime) |
-> | 2 | [ai-chatbot](#2-ai-chatbot) | [deepseek](#2-1-deepseek), [microsoft-copilot](#2-2-microsoft-copilot), [chatgpt](#2-3-chatgpt), [gemini](#2-4-gemini), [claude](#2-5-claude), [github-copilot](#2-6-github-copilot), [quark-browser](#2-7-quark-browser), [tencent-yuanbao](#2-8-tencent-yuanbao), [doubao](#2-9-doubao), [qianwen](#2-10-qianwen), [bohrium](#2-11-bohrium), [kimi](#2-12-kimi), [bohrium](#2-13-bohrium) |
-> | 3 | [appstore](#3-appstore) | [microsoft-store](#3-1-microsoft-store), [huorong-app-store](#3-2-huorong-app-store), [apkpure](#3-3-apkpure), [arora-store](#3-4-arora-store), [google-play](#3-5-google-play), [f-driod](#3-6-f-driod), [tencent-appstore](#3-7-tencent-appstore), [360-appstore](#3-8-360-appstore) |
-> | 4 | [archive](#4-archive) | [e-hentai](#4-1-e-hentai), [nhentai](#4-2-nhentai), [jmcomic](#4-3-jmcomic), [picaacg](#4-4-picaacg) |
-> | 5 | [authenticator](#5-authenticator) | [microsoft-authenticator](#5-1-microsoft-authenticator), [google-authenticator](#5-2-google-authenticator) |
-> | 6 | [browser](#6-browser) | [google-chrome](#6-1-google-chrome), [microsoft-edge](#6-2-microsoft-edge), [mozilla-firefox](#6-3-mozilla-firefox), [tor-browser](#6-4-tor-browser), [uc-browser](#6-5-uc-browser), [quark-browser](#6-6-quark-browser) |
-> | 7 | [cloud-disk](#7-cloud-disk) | [onedrive](#7-1-onedrive), [baidu-netdisk](#7-2-baidu-netdisk) |
-> | 8 | [community](#8-community) | [pixiv](#8-1-pixiv) |
-> | 9 | [database](#9-database) | [anidb](#9-1-anidb), [myanimelist](#9-2-myanimelist) |
-> | 10 | [editor](#10-editor) | [typora](#10-1-typora), [visual-studio-code](#10-2-visual-studio-code), [visual-studio](#10-3-visual-studio), [vim](#10-4-vim), [intellij-idea](#10-5-intellij-idea), [pycharm](#10-6-pycharm), [webstorm](#10-7-webstorm), [android-studio](#10-8-android-studio), [hbuilder](#10-9-hbuilder), [cursor](#10-10-cursor), [trae](#10-11-trae), [emacs](#10-12-emacs) |
-> | 11 | [email](#11-email) | [gmail](#11-1-gmail), [outlook-com](#11-2-outlook-com), [mail-ru](#11-3-mail-ru), [qq-mail](#11-4-qq-mail), [netease-mail](#11-5-netease-mail) |
-> | 12 | [encyclopedia](#12-encyclopedia) | [wikipedia](#12-1-wikipedia), [baidu-baike](#12-2-baidu-baike), [moegirl](#12-3-moegirl), [hmoegirl](#12-4-hmoegirl), [wikihow](#12-5-wikihow), [mbalib-wiki](#12-6-mbalib-wiki), [noteapps-info](#12-7-noteapps-info) |
-> | 13 | [forum](#13-forum) | [reddit](#13-1-reddit), [tieba](#13-2-tieba) |
-> | 14 | [gallery](#14-gallery) | [e-hentai](#14-1-e-hentai), [nhentai](#14-2-nhentai), [jmcomic](#14-3-jmcomic), [picaacg](#14-4-picaacg), [manhuaren](#14-5-manhuaren) |
-> | 15 | [gamestore](#15-gamestore) | [taptap](#15-1-taptap), [steam](#15-2-steam), [qqgame](#15-3-qqgame), [kuaiwan](#15-4-kuaiwan) |
-> | 16 | [hentai](#16-hentai) | [e-hentai](#16-1-e-hentai), [nhentai](#16-2-nhentai), [jmcomic](#16-3-jmcomic), [picaacg](#16-4-picaacg), [iwara](#16-5-iwara), [hanime](#16-6-hanime) |
-> | 17 | [instant-messaging](#17-instant-messaging) | [telegram](#17-1-telegram), [tencent-qq](#17-2-tencent-qq), [tencent-wechat](#17-3-tencent-wechat), [simplex](#17-4-simplex), [session](#17-5-session), [tamtam](#17-6-tamtam), [potato](#17-7-potato), [discord](#17-8-discord), [slack](#17-9-slack), [dingtalk](#17-10-dingtalk), [tencent-meeting](#17-11-tencent-meeting), [nekogram](#17-12-nekogram) |
-> | 18 | [microblogging](#18-microblogging) | [twitter](#18-1-twitter), [misskey](#18-2-misskey), [nijimiss](#18-3-nijimiss) |
-> | 19 | [note-taking](#19-note-taking) | [obsidian](#19-1-obsidian), [logseq](#19-2-logseq), [tiddlywiki](#19-3-tiddlywiki), [siyuan](#19-4-siyuan), [anytype](#19-5-anytype), [notion](#19-6-notion) |
-> | 20 | [operating-system](#20-operating-system) | [windows-os](#20-1-windows-os), [macos](#20-2-macos), [linux](#20-3-linux), [ios](#20-4-ios), [android](#20-5-android) |
-> | 21 | [password-manager](#21-password-manager) | [keepass](#21-1-keepass), [1password](#21-2-1password), [bitwardon](#21-3-bitwardon) |
-> | 22 | [qa-system](#22-qa-system) | [quora](#22-1-quora), [zhihu](#22-2-zhihu) |
-> | 23 | [reader](#23-reader) | [mihon](#23-1-mihon), [lanraragi](#23-2-lanraragi) |
-> | 24 | [search-engine](#24-search-engine) | [google-search](#24-1-google-search), [baidu-search](#24-2-baidu-search), [bing-search](#24-3-bing-search), [yandex-search](#24-4-yandex-search), [chongbuluo-search](#24-5-chongbuluo-search), [saucenao-search](#24-6-saucenao-search), [soutubot-search](#24-7-soutubot-search) |
-> | 25 | [version-control](#25-version-control) | [github](#25-1-github) |
-> | 26 | [video-streaming](#26-video-streaming) | [jiong-ci-yuan](#26-1-jiong-ci-yuan), [youtube](#26-2-youtube), [bilibili](#26-3-bilibili), [iwara](#26-4-iwara), [hanime](#26-5-hanime), [douyin](#26-6-douyin), [kuaishou](#26-7-kuaishou) |
-> | 27 | [web-hosting](#27-web-hosting) | [github](#27-1-github) |
+> | \# | [Category](#category) | [Site-Items](#site-items) | Icon |
+> | --- | --- | --- | --- |
+> | 1 | [acg](#1-acg) | [jiong-ci-yuan](#1-1-jiong-ci-yuan), [anidb](#1-2-anidb), [myanimelist](#1-3-myanimelist), [e-hentai](#1-4-e-hentai), [nhentai](#1-5-nhentai), [jmcomic](#1-6-jmcomic), [picaacg](#1-7-picaacg), [manhuaren](#1-8-manhuaren), [mihon](#1-9-mihon), [lanraragi](#1-10-lanraragi), [moegirl](#1-11-moegirl), [hmoegirl](#1-12-hmoegirl), [pixiv](#1-13-pixiv), [iwara](#1-14-iwara), [hanime](#1-15-hanime) | <img src="assets/jcyapp-org.png" width="50"><img src="assets/anidb.png" width="50"><img src="assets/myanimelist.png" width="50"><img src="assets/e-hentai.svg" width="50"><img src="assets/nhentai.png" width="50"><img src="assets/jmcomic.png" width="50"><img src="assets/picaacg.png" width="50"><img src="assets/manhuaren.png" width="50"><img src="assets/mihon.png" width="50"><img src="assets/lanraragi.png" width="50"><img src="assets/moegirl-encyclopedia.png" width="50"><img src="assets/hmoegirl-encyclopedia.png" width="50"><img src="assets/pixiv.png" width="50"><img src="assets/iwara.png" width="50"><img src="assets/hanime.png" width="50"> |
+> | 2 | [ai-chatbot](#2-ai-chatbot) | [deepseek](#2-1-deepseek), [microsoft-copilot](#2-2-microsoft-copilot), [chatgpt](#2-3-chatgpt), [gemini](#2-4-gemini), [claude](#2-5-claude), [github-copilot](#2-6-github-copilot), [quark-browser](#2-7-quark-browser), [tencent-yuanbao](#2-8-tencent-yuanbao), [doubao](#2-9-doubao), [qianwen](#2-10-qianwen), [bohrium](#2-11-bohrium), [kimi](#2-12-kimi), [bohrium](#2-13-bohrium) | <img src="assets/deepseek.png" width="50"><img src="assets/microsoft-copilot.png" width="50"><img src="assets/chatgpt.png" width="50"><img src="assets/gemini.png" width="50"><img src="assets/claude.png" width="50"><img src="assets/github-copilot-icon.svg" width="50"><img src="assets/quark-browser.png" width="50"><img src="assets/tencent-yuanbao.png" width="50"><img src="assets/doubao.png" width="50"><img src="assets/qianwen.png" width="50"><img src="assets/bohrium.png" width="50"><img src="assets/kimi.png" width="50"><img src="assets/bohrium.png" width="50"> |
+> | 3 | [appstore](#3-appstore) | [microsoft-store](#3-1-microsoft-store), [huorong-app-store](#3-2-huorong-app-store), [apkpure](#3-3-apkpure), [arora-store](#3-4-arora-store), [google-play](#3-5-google-play), [f-driod](#3-6-f-driod), [tencent-appstore](#3-7-tencent-appstore), [360-appstore](#3-8-360-appstore) | <img src="assets/microsoft-store.png" width="50"><img src="assets/huorong-app-store.png" width="50"><img src="assets/apkpure.png" width="50"><img src="assets/arora-store.png" width="50"><img src="assets/google-play.png" width="50"><img src="assets/f-droid.png" width="50"><img src="assets/tencent-appstore.png" width="50"><img src="assets/360-appstore.png" width="50"> |
+> | 4 | [archive](#4-archive) | [e-hentai](#4-1-e-hentai), [nhentai](#4-2-nhentai), [jmcomic](#4-3-jmcomic), [picaacg](#4-4-picaacg) | <img src="assets/e-hentai.svg" width="50"><img src="assets/nhentai.png" width="50"><img src="assets/jmcomic.png" width="50"><img src="assets/picaacg.png" width="50"> |
+> | 5 | [authenticator](#5-authenticator) | [microsoft-authenticator](#5-1-microsoft-authenticator), [google-authenticator](#5-2-google-authenticator) | <img src="assets/microsoft-authenticator.png" width="50"><img src="assets/google-authenticator.png" width="50"> |
+> | 6 | [browser](#6-browser) | [google-chrome](#6-1-google-chrome), [microsoft-edge](#6-2-microsoft-edge), [mozilla-firefox](#6-3-mozilla-firefox), [tor-browser](#6-4-tor-browser), [uc-browser](#6-5-uc-browser), [quark-browser](#6-6-quark-browser) | <img src="assets/google-chrome.png" width="50"><img src="assets/microsoft-edge.png" width="50"><img src="assets/mozilla-firefox.png" width="50"><img src="assets/tor-browser.png" width="50"><img src="assets/uc-browser.png" width="50"><img src="assets/quark-browser.png" width="50"> |
+> | 7 | [cloud-disk](#7-cloud-disk) | [onedrive](#7-1-onedrive), [baidu-netdisk](#7-2-baidu-netdisk) | <img src="assets/onedrive.png" width="50"><img src="assets/baidu-netdisk.png" width="50"> |
+> | 8 | [community](#8-community) | [pixiv](#8-1-pixiv) | <img src="assets/pixiv.png" width="50"> |
+> | 9 | [database](#9-database) | [anidb](#9-1-anidb), [myanimelist](#9-2-myanimelist) | <img src="assets/anidb.png" width="50"><img src="assets/myanimelist.png" width="50"> |
+> | 10 | [editor](#10-editor) | [typora](#10-1-typora), [visual-studio-code](#10-2-visual-studio-code), [visual-studio](#10-3-visual-studio), [vim](#10-4-vim), [intellij-idea](#10-5-intellij-idea), [pycharm](#10-6-pycharm), [webstorm](#10-7-webstorm), [android-studio](#10-8-android-studio), [hbuilder](#10-9-hbuilder), [cursor](#10-10-cursor), [trae](#10-11-trae), [emacs](#10-12-emacs) | <img src="assets/typora.png" width="50"><img src="assets/vscode.png" width="50"><img src="assets/visual-studio.png" width="50"><img src="assets/vim.png" width="50"><img src="assets/intellij-idea.png" width="50"><img src="assets/pycharm.png" width="50"><img src="assets/webstorm.png" width="50"><img src="assets/android-studio.png" width="50"><img src="assets/hbuilder.png" width="50"><img src="assets/cursor-ai.png" width="50"><img src="assets/trae.png" width="50"><img src="assets/emacs.png" width="50"> |
+> | 11 | [email](#11-email) | [gmail](#11-1-gmail), [outlook-com](#11-2-outlook-com), [mail-ru](#11-3-mail-ru), [qq-mail](#11-4-qq-mail), [netease-mail](#11-5-netease-mail) | <img src="assets/gmail.png" width="50"><img src="assets/outlook-com.png" width="50"><img src="assets/mail-ru.png" width="50"><img src="assets/qq-mail.png" width="50"><img src="assets/netease-mail.png" width="50"> |
+> | 12 | [encyclopedia](#12-encyclopedia) | [wikipedia](#12-1-wikipedia), [baidu-baike](#12-2-baidu-baike), [moegirl](#12-3-moegirl), [hmoegirl](#12-4-hmoegirl), [wikihow](#12-5-wikihow), [mbalib-wiki](#12-6-mbalib-wiki), [noteapps-info](#12-7-noteapps-info) | <img src="assets/wikipedia.png" width="50"><img src="assets/baidu-baike.png" width="50"><img src="assets/moegirl-encyclopedia.png" width="50"><img src="assets/hmoegirl-encyclopedia.png" width="50"><img src="assets/wikihow.png" width="50"><img src="assets/mbalib-wiki.png" width="50"><img src="assets/noteapps-info.png" width="50"> |
+> | 13 | [forum](#13-forum) | [reddit](#13-1-reddit), [tieba](#13-2-tieba) | <img src="assets/reddit.png" width="50"><img src="assets/baidu-tieba.png" width="50"> |
+> | 14 | [gallery](#14-gallery) | [e-hentai](#14-1-e-hentai), [nhentai](#14-2-nhentai), [jmcomic](#14-3-jmcomic), [picaacg](#14-4-picaacg), [manhuaren](#14-5-manhuaren) | <img src="assets/e-hentai.svg" width="50"><img src="assets/nhentai.png" width="50"><img src="assets/jmcomic.png" width="50"><img src="assets/picaacg.png" width="50"><img src="assets/manhuaren.png" width="50"> |
+> | 15 | [gamestore](#15-gamestore) | [taptap](#15-1-taptap), [steam](#15-2-steam), [qqgame](#15-3-qqgame), [kuaiwan](#15-4-kuaiwan) | <img src="assets/taptap.png" width="50"><img src="assets/steam.png" width="50"><img src="assets/qqgame.png" width="50"><img src="assets/kuaiwan.png" width="50"> |
+> | 16 | [hentai](#16-hentai) | [e-hentai](#16-1-e-hentai), [nhentai](#16-2-nhentai), [jmcomic](#16-3-jmcomic), [picaacg](#16-4-picaacg), [iwara](#16-5-iwara), [hanime](#16-6-hanime) | <img src="assets/e-hentai.svg" width="50"><img src="assets/nhentai.png" width="50"><img src="assets/jmcomic.png" width="50"><img src="assets/picaacg.png" width="50"><img src="assets/iwara.png" width="50"><img src="assets/hanime.png" width="50"> |
+> | 17 | [instant-messaging](#17-instant-messaging) | [telegram](#17-1-telegram), [tencent-qq](#17-2-tencent-qq), [tencent-wechat](#17-3-tencent-wechat), [simplex](#17-4-simplex), [session](#17-5-session), [tamtam](#17-6-tamtam), [potato](#17-7-potato), [discord](#17-8-discord), [slack](#17-9-slack), [dingtalk](#17-10-dingtalk), [tencent-meeting](#17-11-tencent-meeting), [nekogram](#17-12-nekogram) | <img src="assets/telegram.png" width="50"><img src="assets/tencent-qq.png" width="50"><img src="assets/tencent-wechat.png" width="50"><img src="assets/simplex.png" width="50"><img src="assets/session.png" width="50"><img src="assets/tamtam.png" width="50"><img src="assets/potato.png" width="50"><img src="assets/discord.png" width="50"><img src="assets/slack.png" width="50"><img src="assets/dingtalk.png" width="50"><img src="assets/tencent-meeting.png" width="50"><img src="assets/nekogram.png" width="50"> |
+> | 18 | [microblogging](#18-microblogging) | [twitter](#18-1-twitter), [misskey](#18-2-misskey), [nijimiss](#18-3-nijimiss) | <img src="assets/x-com.png" width="50"><img src="assets/misskey.png" width="50"><img src="assets/nijimiss.png" width="50"> |
+> | 19 | [note-taking](#19-note-taking) | [obsidian](#19-1-obsidian), [logseq](#19-2-logseq), [tiddlywiki](#19-3-tiddlywiki), [siyuan](#19-4-siyuan), [anytype](#19-5-anytype), [notion](#19-6-notion) | <img src="assets/obsidian.png" width="50"><img src="assets/logseq.png" width="50"><img src="assets/tiddly-wiki.png" width="50"><img src="assets/siyuan-note.png" width="50"><img src="assets/anytype.png" width="50"><img src="assets/notion.png" width="50"> |
+> | 20 | [operating-system](#20-operating-system) | [windows-os](#20-1-windows-os), [macos](#20-2-macos), [linux](#20-3-linux), [ios](#20-4-ios), [android](#20-5-android) | <img src="assets/windows-os.png" width="50"><img src="assets/macos.png" width="50"><img src="assets/linux-os.png" width="50"><img src="assets/ios.png" width="50"><img src="assets/android.png" width="50"> |
+> | 21 | [password-manager](#21-password-manager) | [keepass](#21-1-keepass), [1password](#21-2-1password), [bitwardon](#21-3-bitwardon) | <img src="assets/keepass.png" width="50"><img src="assets/1password.png" width="50"><img src="assets/bitwardon.png" width="50"> |
+> | 22 | [qa-system](#22-qa-system) | [quora](#22-1-quora), [zhihu](#22-2-zhihu) | <img src="assets/quora.png" width="50"><img src="assets/zhihu.png" width="50"> |
+> | 23 | [reader](#23-reader) | [mihon](#23-1-mihon), [lanraragi](#23-2-lanraragi) | <img src="assets/mihon.png" width="50"><img src="assets/lanraragi.png" width="50"> |
+> | 24 | [search-engine](#24-search-engine) | [google-search](#24-1-google-search), [baidu-search](#24-2-baidu-search), [bing-search](#24-3-bing-search), [yandex-search](#24-4-yandex-search), [chongbuluo-search](#24-5-chongbuluo-search), [saucenao-search](#24-6-saucenao-search), [soutubot-search](#24-7-soutubot-search) | <img src="assets/google-search.png" width="50"><img src="assets/baidu-search.png" width="50"><img src="assets/bing-search.png" width="50"><img src="assets/yandex-search.png" width="50"><img src="assets/chongbuluo-search.png" width="50"><img src="assets/saurcenao-search.png" width="50"><img src="assets/soutubot-moe.png" width="50"> |
+> | 25 | [version-control](#25-version-control) | [github](#25-1-github) | <img src="assets/github.png" width="50"> |
+> | 26 | [video-streaming](#26-video-streaming) | [jiong-ci-yuan](#26-1-jiong-ci-yuan), [youtube](#26-2-youtube), [bilibili](#26-3-bilibili), [iwara](#26-4-iwara), [hanime](#26-5-hanime), [douyin](#26-6-douyin), [kuaishou](#26-7-kuaishou) | <img src="assets/jcyapp-org.png" width="50"><img src="assets/youtube.png" width="50"><img src="assets/bilibili.png" width="50"><img src="assets/iwara.png" width="50"><img src="assets/hanime.png" width="50"><img src="assets/douyin.png" width="50"><img src="assets/kuaishou.png" width="50"> |
+> | 27 | [web-hosting](#27-web-hosting) | [github](#27-1-github) | <img src="assets/github.png" width="50"> |
 
 
 ### 1-acg
@@ -46,23 +46,23 @@ Keywords: awesome list, website, github repo
 > 
 > #### Filter: [Category](#category): **acg**
 > 
-> | \# | [Site-Items](#site-items) | [Category](#category) |
-> | --- | --- | --- |
-> | 1 | [jiong-ci-yuan](#1-1-jiong-ci-yuan) | [acg](#1-acg), [video-streaming](#26-video-streaming) |
-> | 2 | [anidb](#1-2-anidb) | [acg](#1-acg), [database](#9-database) |
-> | 3 | [myanimelist](#1-3-myanimelist) | [acg](#1-acg), [database](#9-database) |
-> | 4 | [e-hentai](#1-4-e-hentai) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
-> | 5 | [nhentai](#1-5-nhentai) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
-> | 6 | [jmcomic](#1-6-jmcomic) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
-> | 7 | [picaacg](#1-7-picaacg) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
-> | 8 | [manhuaren](#1-8-manhuaren) | [acg](#1-acg), [gallery](#14-gallery) |
-> | 9 | [mihon](#1-9-mihon) | [acg](#1-acg), [reader](#23-reader) |
-> | 10 | [lanraragi](#1-10-lanraragi) | [acg](#1-acg), [reader](#23-reader) |
-> | 11 | [moegirl](#1-11-moegirl) | [encyclopedia](#12-encyclopedia), [acg](#1-acg) |
-> | 12 | [hmoegirl](#1-12-hmoegirl) | [encyclopedia](#12-encyclopedia), [acg](#1-acg) |
-> | 13 | [pixiv](#1-13-pixiv) | [acg](#1-acg), [community](#8-community) |
-> | 14 | [iwara](#1-14-iwara) | [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) |
-> | 15 | [hanime](#1-15-hanime) | [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) |
+> | \# | [Site-Items](#site-items) | [Category](#category) | Icon |
+> | --- | --- | --- | --- |
+> | 1 | [jiong-ci-yuan](#1-1-jiong-ci-yuan) | [acg](#1-acg), [video-streaming](#26-video-streaming) | <img src="assets/jcyapp-org.png" width="50"> |
+> | 2 | [anidb](#1-2-anidb) | [acg](#1-acg), [database](#9-database) | <img src="assets/anidb.png" width="50"> |
+> | 3 | [myanimelist](#1-3-myanimelist) | [acg](#1-acg), [database](#9-database) | <img src="assets/myanimelist.png" width="50"> |
+> | 4 | [e-hentai](#1-4-e-hentai) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) | <img src="assets/e-hentai.svg" width="50"> |
+> | 5 | [nhentai](#1-5-nhentai) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) | <img src="assets/nhentai.png" width="50"> |
+> | 6 | [jmcomic](#1-6-jmcomic) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) | <img src="assets/jmcomic.png" width="50"> |
+> | 7 | [picaacg](#1-7-picaacg) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) | <img src="assets/picaacg.png" width="50"> |
+> | 8 | [manhuaren](#1-8-manhuaren) | [acg](#1-acg), [gallery](#14-gallery) | <img src="assets/manhuaren.png" width="50"> |
+> | 9 | [mihon](#1-9-mihon) | [acg](#1-acg), [reader](#23-reader) | <img src="assets/mihon.png" width="50"> |
+> | 10 | [lanraragi](#1-10-lanraragi) | [acg](#1-acg), [reader](#23-reader) | <img src="assets/lanraragi.png" width="50"> |
+> | 11 | [moegirl](#1-11-moegirl) | [encyclopedia](#12-encyclopedia), [acg](#1-acg) | <img src="assets/moegirl-encyclopedia.png" width="50"> |
+> | 12 | [hmoegirl](#1-12-hmoegirl) | [encyclopedia](#12-encyclopedia), [acg](#1-acg) | <img src="assets/hmoegirl-encyclopedia.png" width="50"> |
+> | 13 | [pixiv](#1-13-pixiv) | [acg](#1-acg), [community](#8-community) | <img src="assets/pixiv.png" width="50"> |
+> | 14 | [iwara](#1-14-iwara) | [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) | <img src="assets/iwara.png" width="50"> |
+> | 15 | [hanime](#1-15-hanime) | [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) | <img src="assets/hanime.png" width="50"> |
 
 #### 1-1-jiong-ci-yuan
 
@@ -220,21 +220,21 @@ Categories: [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-
 > 
 > #### Filter: [Category](#category): **ai-chatbot**
 > 
-> | \# | [Site-Items](#site-items) | [Category](#category) |
-> | --- | --- | --- |
-> | 1 | [deepseek](#2-1-deepseek) | [ai-chatbot](#2-ai-chatbot) |
-> | 2 | [microsoft-copilot](#2-2-microsoft-copilot) | [ai-chatbot](#2-ai-chatbot) |
-> | 3 | [chatgpt](#2-3-chatgpt) | [ai-chatbot](#2-ai-chatbot) |
-> | 4 | [gemini](#2-4-gemini) | [ai-chatbot](#2-ai-chatbot) |
-> | 5 | [claude](#2-5-claude) | [ai-chatbot](#2-ai-chatbot) |
-> | 6 | [github-copilot](#2-6-github-copilot) | [ai-chatbot](#2-ai-chatbot) |
-> | 7 | [quark-browser](#2-7-quark-browser) | [browser](#6-browser), [ai-chatbot](#2-ai-chatbot) |
-> | 8 | [tencent-yuanbao](#2-8-tencent-yuanbao) | [ai-chatbot](#2-ai-chatbot) |
-> | 9 | [doubao](#2-9-doubao) | [ai-chatbot](#2-ai-chatbot) |
-> | 10 | [qianwen](#2-10-qianwen) | [ai-chatbot](#2-ai-chatbot) |
-> | 11 | [bohrium](#2-11-bohrium) | [ai-chatbot](#2-ai-chatbot) |
-> | 12 | [kimi](#2-12-kimi) | [ai-chatbot](#2-ai-chatbot) |
-> | 13 | [bohrium](#2-13-bohrium) | [ai-chatbot](#2-ai-chatbot) |
+> | \# | [Site-Items](#site-items) | [Category](#category) | Icon |
+> | --- | --- | --- | --- |
+> | 1 | [deepseek](#2-1-deepseek) | [ai-chatbot](#2-ai-chatbot) | <img src="assets/deepseek.png" width="50"> |
+> | 2 | [microsoft-copilot](#2-2-microsoft-copilot) | [ai-chatbot](#2-ai-chatbot) | <img src="assets/microsoft-copilot.png" width="50"> |
+> | 3 | [chatgpt](#2-3-chatgpt) | [ai-chatbot](#2-ai-chatbot) | <img src="assets/chatgpt.png" width="50"> |
+> | 4 | [gemini](#2-4-gemini) | [ai-chatbot](#2-ai-chatbot) | <img src="assets/gemini.png" width="50"> |
+> | 5 | [claude](#2-5-claude) | [ai-chatbot](#2-ai-chatbot) | <img src="assets/claude.png" width="50"> |
+> | 6 | [github-copilot](#2-6-github-copilot) | [ai-chatbot](#2-ai-chatbot) | <img src="assets/github-copilot-icon.svg" width="50"> |
+> | 7 | [quark-browser](#2-7-quark-browser) | [browser](#6-browser), [ai-chatbot](#2-ai-chatbot) | <img src="assets/quark-browser.png" width="50"> |
+> | 8 | [tencent-yuanbao](#2-8-tencent-yuanbao) | [ai-chatbot](#2-ai-chatbot) | <img src="assets/tencent-yuanbao.png" width="50"> |
+> | 9 | [doubao](#2-9-doubao) | [ai-chatbot](#2-ai-chatbot) | <img src="assets/doubao.png" width="50"> |
+> | 10 | [qianwen](#2-10-qianwen) | [ai-chatbot](#2-ai-chatbot) | <img src="assets/qianwen.png" width="50"> |
+> | 11 | [bohrium](#2-11-bohrium) | [ai-chatbot](#2-ai-chatbot) | <img src="assets/bohrium.png" width="50"> |
+> | 12 | [kimi](#2-12-kimi) | [ai-chatbot](#2-ai-chatbot) | <img src="assets/kimi.png" width="50"> |
+> | 13 | [bohrium](#2-13-bohrium) | [ai-chatbot](#2-ai-chatbot) | <img src="assets/bohrium.png" width="50"> |
 
 #### 2-1-deepseek
 
@@ -372,16 +372,16 @@ Categories: [ai-chatbot](#2-ai-chatbot)
 > 
 > #### Filter: [Category](#category): **appstore**
 > 
-> | \# | [Site-Items](#site-items) | [Category](#category) |
-> | --- | --- | --- |
-> | 1 | [microsoft-store](#3-1-microsoft-store) | [appstore](#3-appstore) |
-> | 2 | [huorong-app-store](#3-2-huorong-app-store) | [appstore](#3-appstore) |
-> | 3 | [apkpure](#3-3-apkpure) | [appstore](#3-appstore) |
-> | 4 | [arora-store](#3-4-arora-store) | [appstore](#3-appstore) |
-> | 5 | [google-play](#3-5-google-play) | [appstore](#3-appstore) |
-> | 6 | [f-driod](#3-6-f-driod) | [appstore](#3-appstore) |
-> | 7 | [tencent-appstore](#3-7-tencent-appstore) | [appstore](#3-appstore) |
-> | 8 | [360-appstore](#3-8-360-appstore) | [appstore](#3-appstore) |
+> | \# | [Site-Items](#site-items) | [Category](#category) | Icon |
+> | --- | --- | --- | --- |
+> | 1 | [microsoft-store](#3-1-microsoft-store) | [appstore](#3-appstore) | <img src="assets/microsoft-store.png" width="50"> |
+> | 2 | [huorong-app-store](#3-2-huorong-app-store) | [appstore](#3-appstore) | <img src="assets/huorong-app-store.png" width="50"> |
+> | 3 | [apkpure](#3-3-apkpure) | [appstore](#3-appstore) | <img src="assets/apkpure.png" width="50"> |
+> | 4 | [arora-store](#3-4-arora-store) | [appstore](#3-appstore) | <img src="assets/arora-store.png" width="50"> |
+> | 5 | [google-play](#3-5-google-play) | [appstore](#3-appstore) | <img src="assets/google-play.png" width="50"> |
+> | 6 | [f-driod](#3-6-f-driod) | [appstore](#3-appstore) | <img src="assets/f-droid.png" width="50"> |
+> | 7 | [tencent-appstore](#3-7-tencent-appstore) | [appstore](#3-appstore) | <img src="assets/tencent-appstore.png" width="50"> |
+> | 8 | [360-appstore](#3-8-360-appstore) | [appstore](#3-appstore) | <img src="assets/360-appstore.png" width="50"> |
 
 #### 3-1-microsoft-store
 
@@ -469,12 +469,12 @@ Categories: [appstore](#3-appstore)
 > 
 > #### Filter: [Category](#category): **archive**
 > 
-> | \# | [Site-Items](#site-items) | [Category](#category) |
-> | --- | --- | --- |
-> | 1 | [e-hentai](#4-1-e-hentai) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
-> | 2 | [nhentai](#4-2-nhentai) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
-> | 3 | [jmcomic](#4-3-jmcomic) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
-> | 4 | [picaacg](#4-4-picaacg) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+> | \# | [Site-Items](#site-items) | [Category](#category) | Icon |
+> | --- | --- | --- | --- |
+> | 1 | [e-hentai](#4-1-e-hentai) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) | <img src="assets/e-hentai.svg" width="50"> |
+> | 2 | [nhentai](#4-2-nhentai) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) | <img src="assets/nhentai.png" width="50"> |
+> | 3 | [jmcomic](#4-3-jmcomic) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) | <img src="assets/jmcomic.png" width="50"> |
+> | 4 | [picaacg](#4-4-picaacg) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) | <img src="assets/picaacg.png" width="50"> |
 
 #### 4-1-e-hentai
 
@@ -522,10 +522,10 @@ Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [henta
 > 
 > #### Filter: [Category](#category): **authenticator**
 > 
-> | \# | [Site-Items](#site-items) | [Category](#category) |
-> | --- | --- | --- |
-> | 1 | [microsoft-authenticator](#5-1-microsoft-authenticator) | [authenticator](#5-authenticator) |
-> | 2 | [google-authenticator](#5-2-google-authenticator) | [authenticator](#5-authenticator) |
+> | \# | [Site-Items](#site-items) | [Category](#category) | Icon |
+> | --- | --- | --- | --- |
+> | 1 | [microsoft-authenticator](#5-1-microsoft-authenticator) | [authenticator](#5-authenticator) | <img src="assets/microsoft-authenticator.png" width="50"> |
+> | 2 | [google-authenticator](#5-2-google-authenticator) | [authenticator](#5-authenticator) | <img src="assets/google-authenticator.png" width="50"> |
 
 #### 5-1-microsoft-authenticator
 
@@ -553,14 +553,14 @@ Categories: [authenticator](#5-authenticator)
 > 
 > #### Filter: [Category](#category): **browser**
 > 
-> | \# | [Site-Items](#site-items) | [Category](#category) |
-> | --- | --- | --- |
-> | 1 | [google-chrome](#6-1-google-chrome) | [browser](#6-browser) |
-> | 2 | [microsoft-edge](#6-2-microsoft-edge) | [browser](#6-browser) |
-> | 3 | [mozilla-firefox](#6-3-mozilla-firefox) | [browser](#6-browser) |
-> | 4 | [tor-browser](#6-4-tor-browser) | [browser](#6-browser) |
-> | 5 | [uc-browser](#6-5-uc-browser) | [browser](#6-browser) |
-> | 6 | [quark-browser](#6-6-quark-browser) | [browser](#6-browser), [ai-chatbot](#2-ai-chatbot) |
+> | \# | [Site-Items](#site-items) | [Category](#category) | Icon |
+> | --- | --- | --- | --- |
+> | 1 | [google-chrome](#6-1-google-chrome) | [browser](#6-browser) | <img src="assets/google-chrome.png" width="50"> |
+> | 2 | [microsoft-edge](#6-2-microsoft-edge) | [browser](#6-browser) | <img src="assets/microsoft-edge.png" width="50"> |
+> | 3 | [mozilla-firefox](#6-3-mozilla-firefox) | [browser](#6-browser) | <img src="assets/mozilla-firefox.png" width="50"> |
+> | 4 | [tor-browser](#6-4-tor-browser) | [browser](#6-browser) | <img src="assets/tor-browser.png" width="50"> |
+> | 5 | [uc-browser](#6-5-uc-browser) | [browser](#6-browser) | <img src="assets/uc-browser.png" width="50"> |
+> | 6 | [quark-browser](#6-6-quark-browser) | [browser](#6-browser), [ai-chatbot](#2-ai-chatbot) | <img src="assets/quark-browser.png" width="50"> |
 
 #### 6-1-google-chrome
 
@@ -628,10 +628,10 @@ Categories: [browser](#6-browser), [ai-chatbot](#2-ai-chatbot)
 > 
 > #### Filter: [Category](#category): **cloud-disk**
 > 
-> | \# | [Site-Items](#site-items) | [Category](#category) |
-> | --- | --- | --- |
-> | 1 | [onedrive](#7-1-onedrive) | [cloud-disk](#7-cloud-disk) |
-> | 2 | [baidu-netdisk](#7-2-baidu-netdisk) | [cloud-disk](#7-cloud-disk) |
+> | \# | [Site-Items](#site-items) | [Category](#category) | Icon |
+> | --- | --- | --- | --- |
+> | 1 | [onedrive](#7-1-onedrive) | [cloud-disk](#7-cloud-disk) | <img src="assets/onedrive.png" width="50"> |
+> | 2 | [baidu-netdisk](#7-2-baidu-netdisk) | [cloud-disk](#7-cloud-disk) | <img src="assets/baidu-netdisk.png" width="50"> |
 
 #### 7-1-onedrive
 
@@ -659,9 +659,9 @@ Categories: [cloud-disk](#7-cloud-disk)
 > 
 > #### Filter: [Category](#category): **community**
 > 
-> | \# | [Site-Items](#site-items) | [Category](#category) |
-> | --- | --- | --- |
-> | 1 | [pixiv](#8-1-pixiv) | [acg](#1-acg), [community](#8-community) |
+> | \# | [Site-Items](#site-items) | [Category](#category) | Icon |
+> | --- | --- | --- | --- |
+> | 1 | [pixiv](#8-1-pixiv) | [acg](#1-acg), [community](#8-community) | <img src="assets/pixiv.png" width="50"> |
 
 #### 8-1-pixiv
 
@@ -679,10 +679,10 @@ Categories: [acg](#1-acg), [community](#8-community)
 > 
 > #### Filter: [Category](#category): **database**
 > 
-> | \# | [Site-Items](#site-items) | [Category](#category) |
-> | --- | --- | --- |
-> | 1 | [anidb](#9-1-anidb) | [acg](#1-acg), [database](#9-database) |
-> | 2 | [myanimelist](#9-2-myanimelist) | [acg](#1-acg), [database](#9-database) |
+> | \# | [Site-Items](#site-items) | [Category](#category) | Icon |
+> | --- | --- | --- | --- |
+> | 1 | [anidb](#9-1-anidb) | [acg](#1-acg), [database](#9-database) | <img src="assets/anidb.png" width="50"> |
+> | 2 | [myanimelist](#9-2-myanimelist) | [acg](#1-acg), [database](#9-database) | <img src="assets/myanimelist.png" width="50"> |
 
 #### 9-1-anidb
 
@@ -710,20 +710,20 @@ Categories: [acg](#1-acg), [database](#9-database)
 > 
 > #### Filter: [Category](#category): **editor**
 > 
-> | \# | [Site-Items](#site-items) | [Category](#category) |
-> | --- | --- | --- |
-> | 1 | [typora](#10-1-typora) | [editor](#10-editor) |
-> | 2 | [visual-studio-code](#10-2-visual-studio-code) | [editor](#10-editor) |
-> | 3 | [visual-studio](#10-3-visual-studio) | [editor](#10-editor) |
-> | 4 | [vim](#10-4-vim) | [editor](#10-editor) |
-> | 5 | [intellij-idea](#10-5-intellij-idea) | [editor](#10-editor) |
-> | 6 | [pycharm](#10-6-pycharm) | [editor](#10-editor) |
-> | 7 | [webstorm](#10-7-webstorm) | [editor](#10-editor) |
-> | 8 | [android-studio](#10-8-android-studio) | [editor](#10-editor) |
-> | 9 | [hbuilder](#10-9-hbuilder) | [editor](#10-editor) |
-> | 10 | [cursor](#10-10-cursor) | [editor](#10-editor) |
-> | 11 | [trae](#10-11-trae) | [editor](#10-editor) |
-> | 12 | [emacs](#10-12-emacs) | [editor](#10-editor) |
+> | \# | [Site-Items](#site-items) | [Category](#category) | Icon |
+> | --- | --- | --- | --- |
+> | 1 | [typora](#10-1-typora) | [editor](#10-editor) | <img src="assets/typora.png" width="50"> |
+> | 2 | [visual-studio-code](#10-2-visual-studio-code) | [editor](#10-editor) | <img src="assets/vscode.png" width="50"> |
+> | 3 | [visual-studio](#10-3-visual-studio) | [editor](#10-editor) | <img src="assets/visual-studio.png" width="50"> |
+> | 4 | [vim](#10-4-vim) | [editor](#10-editor) | <img src="assets/vim.png" width="50"> |
+> | 5 | [intellij-idea](#10-5-intellij-idea) | [editor](#10-editor) | <img src="assets/intellij-idea.png" width="50"> |
+> | 6 | [pycharm](#10-6-pycharm) | [editor](#10-editor) | <img src="assets/pycharm.png" width="50"> |
+> | 7 | [webstorm](#10-7-webstorm) | [editor](#10-editor) | <img src="assets/webstorm.png" width="50"> |
+> | 8 | [android-studio](#10-8-android-studio) | [editor](#10-editor) | <img src="assets/android-studio.png" width="50"> |
+> | 9 | [hbuilder](#10-9-hbuilder) | [editor](#10-editor) | <img src="assets/hbuilder.png" width="50"> |
+> | 10 | [cursor](#10-10-cursor) | [editor](#10-editor) | <img src="assets/cursor-ai.png" width="50"> |
+> | 11 | [trae](#10-11-trae) | [editor](#10-editor) | <img src="assets/trae.png" width="50"> |
+> | 12 | [emacs](#10-12-emacs) | [editor](#10-editor) | <img src="assets/emacs.png" width="50"> |
 
 #### 10-1-typora
 
@@ -851,13 +851,13 @@ Categories: [editor](#10-editor)
 > 
 > #### Filter: [Category](#category): **email**
 > 
-> | \# | [Site-Items](#site-items) | [Category](#category) |
-> | --- | --- | --- |
-> | 1 | [gmail](#11-1-gmail) | [email](#11-email) |
-> | 2 | [outlook-com](#11-2-outlook-com) | [email](#11-email) |
-> | 3 | [mail-ru](#11-3-mail-ru) | [email](#11-email) |
-> | 4 | [qq-mail](#11-4-qq-mail) | [email](#11-email) |
-> | 5 | [netease-mail](#11-5-netease-mail) | [email](#11-email) |
+> | \# | [Site-Items](#site-items) | [Category](#category) | Icon |
+> | --- | --- | --- | --- |
+> | 1 | [gmail](#11-1-gmail) | [email](#11-email) | <img src="assets/gmail.png" width="50"> |
+> | 2 | [outlook-com](#11-2-outlook-com) | [email](#11-email) | <img src="assets/outlook-com.png" width="50"> |
+> | 3 | [mail-ru](#11-3-mail-ru) | [email](#11-email) | <img src="assets/mail-ru.png" width="50"> |
+> | 4 | [qq-mail](#11-4-qq-mail) | [email](#11-email) | <img src="assets/qq-mail.png" width="50"> |
+> | 5 | [netease-mail](#11-5-netease-mail) | [email](#11-email) | <img src="assets/netease-mail.png" width="50"> |
 
 #### 11-1-gmail
 
@@ -915,15 +915,15 @@ Categories: [email](#11-email)
 > 
 > #### Filter: [Category](#category): **encyclopedia**
 > 
-> | \# | [Site-Items](#site-items) | [Category](#category) |
-> | --- | --- | --- |
-> | 1 | [wikipedia](#12-1-wikipedia) | [encyclopedia](#12-encyclopedia) |
-> | 2 | [baidu-baike](#12-2-baidu-baike) | [encyclopedia](#12-encyclopedia) |
-> | 3 | [moegirl](#12-3-moegirl) | [encyclopedia](#12-encyclopedia), [acg](#1-acg) |
-> | 4 | [hmoegirl](#12-4-hmoegirl) | [encyclopedia](#12-encyclopedia), [acg](#1-acg) |
-> | 5 | [wikihow](#12-5-wikihow) | [encyclopedia](#12-encyclopedia) |
-> | 6 | [mbalib-wiki](#12-6-mbalib-wiki) | [encyclopedia](#12-encyclopedia) |
-> | 7 | [noteapps-info](#12-7-noteapps-info) | [encyclopedia](#12-encyclopedia) |
+> | \# | [Site-Items](#site-items) | [Category](#category) | Icon |
+> | --- | --- | --- | --- |
+> | 1 | [wikipedia](#12-1-wikipedia) | [encyclopedia](#12-encyclopedia) | <img src="assets/wikipedia.png" width="50"> |
+> | 2 | [baidu-baike](#12-2-baidu-baike) | [encyclopedia](#12-encyclopedia) | <img src="assets/baidu-baike.png" width="50"> |
+> | 3 | [moegirl](#12-3-moegirl) | [encyclopedia](#12-encyclopedia), [acg](#1-acg) | <img src="assets/moegirl-encyclopedia.png" width="50"> |
+> | 4 | [hmoegirl](#12-4-hmoegirl) | [encyclopedia](#12-encyclopedia), [acg](#1-acg) | <img src="assets/hmoegirl-encyclopedia.png" width="50"> |
+> | 5 | [wikihow](#12-5-wikihow) | [encyclopedia](#12-encyclopedia) | <img src="assets/wikihow.png" width="50"> |
+> | 6 | [mbalib-wiki](#12-6-mbalib-wiki) | [encyclopedia](#12-encyclopedia) | <img src="assets/mbalib-wiki.png" width="50"> |
+> | 7 | [noteapps-info](#12-7-noteapps-info) | [encyclopedia](#12-encyclopedia) | <img src="assets/noteapps-info.png" width="50"> |
 
 #### 12-1-wikipedia
 
@@ -1001,10 +1001,10 @@ Categories: [encyclopedia](#12-encyclopedia)
 > 
 > #### Filter: [Category](#category): **forum**
 > 
-> | \# | [Site-Items](#site-items) | [Category](#category) |
-> | --- | --- | --- |
-> | 1 | [reddit](#13-1-reddit) | [forum](#13-forum) |
-> | 2 | [tieba](#13-2-tieba) | [forum](#13-forum) |
+> | \# | [Site-Items](#site-items) | [Category](#category) | Icon |
+> | --- | --- | --- | --- |
+> | 1 | [reddit](#13-1-reddit) | [forum](#13-forum) | <img src="assets/reddit.png" width="50"> |
+> | 2 | [tieba](#13-2-tieba) | [forum](#13-forum) | <img src="assets/baidu-tieba.png" width="50"> |
 
 #### 13-1-reddit
 
@@ -1032,13 +1032,13 @@ Categories: [forum](#13-forum)
 > 
 > #### Filter: [Category](#category): **gallery**
 > 
-> | \# | [Site-Items](#site-items) | [Category](#category) |
-> | --- | --- | --- |
-> | 1 | [e-hentai](#14-1-e-hentai) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
-> | 2 | [nhentai](#14-2-nhentai) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
-> | 3 | [jmcomic](#14-3-jmcomic) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
-> | 4 | [picaacg](#14-4-picaacg) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
-> | 5 | [manhuaren](#14-5-manhuaren) | [acg](#1-acg), [gallery](#14-gallery) |
+> | \# | [Site-Items](#site-items) | [Category](#category) | Icon |
+> | --- | --- | --- | --- |
+> | 1 | [e-hentai](#14-1-e-hentai) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) | <img src="assets/e-hentai.svg" width="50"> |
+> | 2 | [nhentai](#14-2-nhentai) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) | <img src="assets/nhentai.png" width="50"> |
+> | 3 | [jmcomic](#14-3-jmcomic) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) | <img src="assets/jmcomic.png" width="50"> |
+> | 4 | [picaacg](#14-4-picaacg) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) | <img src="assets/picaacg.png" width="50"> |
+> | 5 | [manhuaren](#14-5-manhuaren) | [acg](#1-acg), [gallery](#14-gallery) | <img src="assets/manhuaren.png" width="50"> |
 
 #### 14-1-e-hentai
 
@@ -1096,12 +1096,12 @@ Categories: [acg](#1-acg), [gallery](#14-gallery)
 > 
 > #### Filter: [Category](#category): **gamestore**
 > 
-> | \# | [Site-Items](#site-items) | [Category](#category) |
-> | --- | --- | --- |
-> | 1 | [taptap](#15-1-taptap) | [gamestore](#15-gamestore) |
-> | 2 | [steam](#15-2-steam) | [gamestore](#15-gamestore) |
-> | 3 | [qqgame](#15-3-qqgame) | [gamestore](#15-gamestore) |
-> | 4 | [kuaiwan](#15-4-kuaiwan) | [gamestore](#15-gamestore) |
+> | \# | [Site-Items](#site-items) | [Category](#category) | Icon |
+> | --- | --- | --- | --- |
+> | 1 | [taptap](#15-1-taptap) | [gamestore](#15-gamestore) | <img src="assets/taptap.png" width="50"> |
+> | 2 | [steam](#15-2-steam) | [gamestore](#15-gamestore) | <img src="assets/steam.png" width="50"> |
+> | 3 | [qqgame](#15-3-qqgame) | [gamestore](#15-gamestore) | <img src="assets/qqgame.png" width="50"> |
+> | 4 | [kuaiwan](#15-4-kuaiwan) | [gamestore](#15-gamestore) | <img src="assets/kuaiwan.png" width="50"> |
 
 #### 15-1-taptap
 
@@ -1149,14 +1149,14 @@ Categories: [gamestore](#15-gamestore)
 > 
 > #### Filter: [Category](#category): **hentai**
 > 
-> | \# | [Site-Items](#site-items) | [Category](#category) |
-> | --- | --- | --- |
-> | 1 | [e-hentai](#16-1-e-hentai) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
-> | 2 | [nhentai](#16-2-nhentai) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
-> | 3 | [jmcomic](#16-3-jmcomic) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
-> | 4 | [picaacg](#16-4-picaacg) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
-> | 5 | [iwara](#16-5-iwara) | [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) |
-> | 6 | [hanime](#16-6-hanime) | [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) |
+> | \# | [Site-Items](#site-items) | [Category](#category) | Icon |
+> | --- | --- | --- | --- |
+> | 1 | [e-hentai](#16-1-e-hentai) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) | <img src="assets/e-hentai.svg" width="50"> |
+> | 2 | [nhentai](#16-2-nhentai) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) | <img src="assets/nhentai.png" width="50"> |
+> | 3 | [jmcomic](#16-3-jmcomic) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) | <img src="assets/jmcomic.png" width="50"> |
+> | 4 | [picaacg](#16-4-picaacg) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) | <img src="assets/picaacg.png" width="50"> |
+> | 5 | [iwara](#16-5-iwara) | [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) | <img src="assets/iwara.png" width="50"> |
+> | 6 | [hanime](#16-6-hanime) | [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) | <img src="assets/hanime.png" width="50"> |
 
 #### 16-1-e-hentai
 
@@ -1224,20 +1224,20 @@ Categories: [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-
 > 
 > #### Filter: [Category](#category): **instant-messaging**
 > 
-> | \# | [Site-Items](#site-items) | [Category](#category) |
-> | --- | --- | --- |
-> | 1 | [telegram](#17-1-telegram) | [instant-messaging](#17-instant-messaging) |
-> | 2 | [tencent-qq](#17-2-tencent-qq) | [instant-messaging](#17-instant-messaging) |
-> | 3 | [tencent-wechat](#17-3-tencent-wechat) | [instant-messaging](#17-instant-messaging) |
-> | 4 | [simplex](#17-4-simplex) | [instant-messaging](#17-instant-messaging) |
-> | 5 | [session](#17-5-session) | [instant-messaging](#17-instant-messaging) |
-> | 6 | [tamtam](#17-6-tamtam) | [instant-messaging](#17-instant-messaging) |
-> | 7 | [potato](#17-7-potato) | [instant-messaging](#17-instant-messaging) |
-> | 8 | [discord](#17-8-discord) | [instant-messaging](#17-instant-messaging) |
-> | 9 | [slack](#17-9-slack) | [instant-messaging](#17-instant-messaging) |
-> | 10 | [dingtalk](#17-10-dingtalk) | [instant-messaging](#17-instant-messaging) |
-> | 11 | [tencent-meeting](#17-11-tencent-meeting) | [instant-messaging](#17-instant-messaging) |
-> | 12 | [nekogram](#17-12-nekogram) | [instant-messaging](#17-instant-messaging) |
+> | \# | [Site-Items](#site-items) | [Category](#category) | Icon |
+> | --- | --- | --- | --- |
+> | 1 | [telegram](#17-1-telegram) | [instant-messaging](#17-instant-messaging) | <img src="assets/telegram.png" width="50"> |
+> | 2 | [tencent-qq](#17-2-tencent-qq) | [instant-messaging](#17-instant-messaging) | <img src="assets/tencent-qq.png" width="50"> |
+> | 3 | [tencent-wechat](#17-3-tencent-wechat) | [instant-messaging](#17-instant-messaging) | <img src="assets/tencent-wechat.png" width="50"> |
+> | 4 | [simplex](#17-4-simplex) | [instant-messaging](#17-instant-messaging) | <img src="assets/simplex.png" width="50"> |
+> | 5 | [session](#17-5-session) | [instant-messaging](#17-instant-messaging) | <img src="assets/session.png" width="50"> |
+> | 6 | [tamtam](#17-6-tamtam) | [instant-messaging](#17-instant-messaging) | <img src="assets/tamtam.png" width="50"> |
+> | 7 | [potato](#17-7-potato) | [instant-messaging](#17-instant-messaging) | <img src="assets/potato.png" width="50"> |
+> | 8 | [discord](#17-8-discord) | [instant-messaging](#17-instant-messaging) | <img src="assets/discord.png" width="50"> |
+> | 9 | [slack](#17-9-slack) | [instant-messaging](#17-instant-messaging) | <img src="assets/slack.png" width="50"> |
+> | 10 | [dingtalk](#17-10-dingtalk) | [instant-messaging](#17-instant-messaging) | <img src="assets/dingtalk.png" width="50"> |
+> | 11 | [tencent-meeting](#17-11-tencent-meeting) | [instant-messaging](#17-instant-messaging) | <img src="assets/tencent-meeting.png" width="50"> |
+> | 12 | [nekogram](#17-12-nekogram) | [instant-messaging](#17-instant-messaging) | <img src="assets/nekogram.png" width="50"> |
 
 #### 17-1-telegram
 
@@ -1365,11 +1365,11 @@ Categories: [instant-messaging](#17-instant-messaging)
 > 
 > #### Filter: [Category](#category): **microblogging**
 > 
-> | \# | [Site-Items](#site-items) | [Category](#category) |
-> | --- | --- | --- |
-> | 1 | [twitter](#18-1-twitter) | [microblogging](#18-microblogging) |
-> | 2 | [misskey](#18-2-misskey) | [microblogging](#18-microblogging) |
-> | 3 | [nijimiss](#18-3-nijimiss) | [microblogging](#18-microblogging) |
+> | \# | [Site-Items](#site-items) | [Category](#category) | Icon |
+> | --- | --- | --- | --- |
+> | 1 | [twitter](#18-1-twitter) | [microblogging](#18-microblogging) | <img src="assets/x-com.png" width="50"> |
+> | 2 | [misskey](#18-2-misskey) | [microblogging](#18-microblogging) | <img src="assets/misskey.png" width="50"> |
+> | 3 | [nijimiss](#18-3-nijimiss) | [microblogging](#18-microblogging) | <img src="assets/nijimiss.png" width="50"> |
 
 #### 18-1-twitter
 
@@ -1407,14 +1407,14 @@ Categories: [microblogging](#18-microblogging)
 > 
 > #### Filter: [Category](#category): **note-taking**
 > 
-> | \# | [Site-Items](#site-items) | [Category](#category) |
-> | --- | --- | --- |
-> | 1 | [obsidian](#19-1-obsidian) | [note-taking](#19-note-taking) |
-> | 2 | [logseq](#19-2-logseq) | [note-taking](#19-note-taking) |
-> | 3 | [tiddlywiki](#19-3-tiddlywiki) | [note-taking](#19-note-taking) |
-> | 4 | [siyuan](#19-4-siyuan) | [note-taking](#19-note-taking) |
-> | 5 | [anytype](#19-5-anytype) | [note-taking](#19-note-taking) |
-> | 6 | [notion](#19-6-notion) | [note-taking](#19-note-taking) |
+> | \# | [Site-Items](#site-items) | [Category](#category) | Icon |
+> | --- | --- | --- | --- |
+> | 1 | [obsidian](#19-1-obsidian) | [note-taking](#19-note-taking) | <img src="assets/obsidian.png" width="50"> |
+> | 2 | [logseq](#19-2-logseq) | [note-taking](#19-note-taking) | <img src="assets/logseq.png" width="50"> |
+> | 3 | [tiddlywiki](#19-3-tiddlywiki) | [note-taking](#19-note-taking) | <img src="assets/tiddly-wiki.png" width="50"> |
+> | 4 | [siyuan](#19-4-siyuan) | [note-taking](#19-note-taking) | <img src="assets/siyuan-note.png" width="50"> |
+> | 5 | [anytype](#19-5-anytype) | [note-taking](#19-note-taking) | <img src="assets/anytype.png" width="50"> |
+> | 6 | [notion](#19-6-notion) | [note-taking](#19-note-taking) | <img src="assets/notion.png" width="50"> |
 
 #### 19-1-obsidian
 
@@ -1482,13 +1482,13 @@ Categories: [note-taking](#19-note-taking)
 > 
 > #### Filter: [Category](#category): **operating-system**
 > 
-> | \# | [Site-Items](#site-items) | [Category](#category) |
-> | --- | --- | --- |
-> | 1 | [windows-os](#20-1-windows-os) | [operating-system](#20-operating-system) |
-> | 2 | [macos](#20-2-macos) | [operating-system](#20-operating-system) |
-> | 3 | [linux](#20-3-linux) | [operating-system](#20-operating-system) |
-> | 4 | [ios](#20-4-ios) | [operating-system](#20-operating-system) |
-> | 5 | [android](#20-5-android) | [operating-system](#20-operating-system) |
+> | \# | [Site-Items](#site-items) | [Category](#category) | Icon |
+> | --- | --- | --- | --- |
+> | 1 | [windows-os](#20-1-windows-os) | [operating-system](#20-operating-system) | <img src="assets/windows-os.png" width="50"> |
+> | 2 | [macos](#20-2-macos) | [operating-system](#20-operating-system) | <img src="assets/macos.png" width="50"> |
+> | 3 | [linux](#20-3-linux) | [operating-system](#20-operating-system) | <img src="assets/linux-os.png" width="50"> |
+> | 4 | [ios](#20-4-ios) | [operating-system](#20-operating-system) | <img src="assets/ios.png" width="50"> |
+> | 5 | [android](#20-5-android) | [operating-system](#20-operating-system) | <img src="assets/android.png" width="50"> |
 
 #### 20-1-windows-os
 
@@ -1546,11 +1546,11 @@ Categories: [operating-system](#20-operating-system)
 > 
 > #### Filter: [Category](#category): **password-manager**
 > 
-> | \# | [Site-Items](#site-items) | [Category](#category) |
-> | --- | --- | --- |
-> | 1 | [keepass](#21-1-keepass) | [password-manager](#21-password-manager) |
-> | 2 | [1password](#21-2-1password) | [password-manager](#21-password-manager) |
-> | 3 | [bitwardon](#21-3-bitwardon) | [password-manager](#21-password-manager) |
+> | \# | [Site-Items](#site-items) | [Category](#category) | Icon |
+> | --- | --- | --- | --- |
+> | 1 | [keepass](#21-1-keepass) | [password-manager](#21-password-manager) | <img src="assets/keepass.png" width="50"> |
+> | 2 | [1password](#21-2-1password) | [password-manager](#21-password-manager) | <img src="assets/1password.png" width="50"> |
+> | 3 | [bitwardon](#21-3-bitwardon) | [password-manager](#21-password-manager) | <img src="assets/bitwardon.png" width="50"> |
 
 #### 21-1-keepass
 
@@ -1588,10 +1588,10 @@ Categories: [password-manager](#21-password-manager)
 > 
 > #### Filter: [Category](#category): **qa-system**
 > 
-> | \# | [Site-Items](#site-items) | [Category](#category) |
-> | --- | --- | --- |
-> | 1 | [quora](#22-1-quora) | [qa-system](#22-qa-system) |
-> | 2 | [zhihu](#22-2-zhihu) | [qa-system](#22-qa-system) |
+> | \# | [Site-Items](#site-items) | [Category](#category) | Icon |
+> | --- | --- | --- | --- |
+> | 1 | [quora](#22-1-quora) | [qa-system](#22-qa-system) | <img src="assets/quora.png" width="50"> |
+> | 2 | [zhihu](#22-2-zhihu) | [qa-system](#22-qa-system) | <img src="assets/zhihu.png" width="50"> |
 
 #### 22-1-quora
 
@@ -1619,10 +1619,10 @@ Categories: [qa-system](#22-qa-system)
 > 
 > #### Filter: [Category](#category): **reader**
 > 
-> | \# | [Site-Items](#site-items) | [Category](#category) |
-> | --- | --- | --- |
-> | 1 | [mihon](#23-1-mihon) | [acg](#1-acg), [reader](#23-reader) |
-> | 2 | [lanraragi](#23-2-lanraragi) | [acg](#1-acg), [reader](#23-reader) |
+> | \# | [Site-Items](#site-items) | [Category](#category) | Icon |
+> | --- | --- | --- | --- |
+> | 1 | [mihon](#23-1-mihon) | [acg](#1-acg), [reader](#23-reader) | <img src="assets/mihon.png" width="50"> |
+> | 2 | [lanraragi](#23-2-lanraragi) | [acg](#1-acg), [reader](#23-reader) | <img src="assets/lanraragi.png" width="50"> |
 
 #### 23-1-mihon
 
@@ -1650,15 +1650,15 @@ Categories: [acg](#1-acg), [reader](#23-reader)
 > 
 > #### Filter: [Category](#category): **search-engine**
 > 
-> | \# | [Site-Items](#site-items) | [Category](#category) |
-> | --- | --- | --- |
-> | 1 | [google-search](#24-1-google-search) | [search-engine](#24-search-engine) |
-> | 2 | [baidu-search](#24-2-baidu-search) | [search-engine](#24-search-engine) |
-> | 3 | [bing-search](#24-3-bing-search) | [search-engine](#24-search-engine) |
-> | 4 | [yandex-search](#24-4-yandex-search) | [search-engine](#24-search-engine) |
-> | 5 | [chongbuluo-search](#24-5-chongbuluo-search) | [search-engine](#24-search-engine) |
-> | 6 | [saucenao-search](#24-6-saucenao-search) | [search-engine](#24-search-engine) |
-> | 7 | [soutubot-search](#24-7-soutubot-search) | [search-engine](#24-search-engine) |
+> | \# | [Site-Items](#site-items) | [Category](#category) | Icon |
+> | --- | --- | --- | --- |
+> | 1 | [google-search](#24-1-google-search) | [search-engine](#24-search-engine) | <img src="assets/google-search.png" width="50"> |
+> | 2 | [baidu-search](#24-2-baidu-search) | [search-engine](#24-search-engine) | <img src="assets/baidu-search.png" width="50"> |
+> | 3 | [bing-search](#24-3-bing-search) | [search-engine](#24-search-engine) | <img src="assets/bing-search.png" width="50"> |
+> | 4 | [yandex-search](#24-4-yandex-search) | [search-engine](#24-search-engine) | <img src="assets/yandex-search.png" width="50"> |
+> | 5 | [chongbuluo-search](#24-5-chongbuluo-search) | [search-engine](#24-search-engine) | <img src="assets/chongbuluo-search.png" width="50"> |
+> | 6 | [saucenao-search](#24-6-saucenao-search) | [search-engine](#24-search-engine) | <img src="assets/saurcenao-search.png" width="50"> |
+> | 7 | [soutubot-search](#24-7-soutubot-search) | [search-engine](#24-search-engine) | <img src="assets/soutubot-moe.png" width="50"> |
 
 #### 24-1-google-search
 
@@ -1736,9 +1736,9 @@ Categories: [search-engine](#24-search-engine)
 > 
 > #### Filter: [Category](#category): **version-control**
 > 
-> | \# | [Site-Items](#site-items) | [Category](#category) |
-> | --- | --- | --- |
-> | 1 | [github](#25-1-github) | [web-hosting](#27-web-hosting), [version-control](#25-version-control) |
+> | \# | [Site-Items](#site-items) | [Category](#category) | Icon |
+> | --- | --- | --- | --- |
+> | 1 | [github](#25-1-github) | [web-hosting](#27-web-hosting), [version-control](#25-version-control) | <img src="assets/github.png" width="50"> |
 
 #### 25-1-github
 
@@ -1756,15 +1756,15 @@ Categories: [web-hosting](#27-web-hosting), [version-control](#25-version-contro
 > 
 > #### Filter: [Category](#category): **video-streaming**
 > 
-> | \# | [Site-Items](#site-items) | [Category](#category) |
-> | --- | --- | --- |
-> | 1 | [jiong-ci-yuan](#26-1-jiong-ci-yuan) | [acg](#1-acg), [video-streaming](#26-video-streaming) |
-> | 2 | [youtube](#26-2-youtube) | [video-streaming](#26-video-streaming) |
-> | 3 | [bilibili](#26-3-bilibili) | [video-streaming](#26-video-streaming) |
-> | 4 | [iwara](#26-4-iwara) | [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) |
-> | 5 | [hanime](#26-5-hanime) | [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) |
-> | 6 | [douyin](#26-6-douyin) | [video-streaming](#26-video-streaming) |
-> | 7 | [kuaishou](#26-7-kuaishou) | [video-streaming](#26-video-streaming) |
+> | \# | [Site-Items](#site-items) | [Category](#category) | Icon |
+> | --- | --- | --- | --- |
+> | 1 | [jiong-ci-yuan](#26-1-jiong-ci-yuan) | [acg](#1-acg), [video-streaming](#26-video-streaming) | <img src="assets/jcyapp-org.png" width="50"> |
+> | 2 | [youtube](#26-2-youtube) | [video-streaming](#26-video-streaming) | <img src="assets/youtube.png" width="50"> |
+> | 3 | [bilibili](#26-3-bilibili) | [video-streaming](#26-video-streaming) | <img src="assets/bilibili.png" width="50"> |
+> | 4 | [iwara](#26-4-iwara) | [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) | <img src="assets/iwara.png" width="50"> |
+> | 5 | [hanime](#26-5-hanime) | [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) | <img src="assets/hanime.png" width="50"> |
+> | 6 | [douyin](#26-6-douyin) | [video-streaming](#26-video-streaming) | <img src="assets/douyin.png" width="50"> |
+> | 7 | [kuaishou](#26-7-kuaishou) | [video-streaming](#26-video-streaming) | <img src="assets/kuaishou.png" width="50"> |
 
 #### 26-1-jiong-ci-yuan
 
@@ -1842,9 +1842,9 @@ Categories: [video-streaming](#26-video-streaming)
 > 
 > #### Filter: [Category](#category): **web-hosting**
 > 
-> | \# | [Site-Items](#site-items) | [Category](#category) |
-> | --- | --- | --- |
-> | 1 | [github](#27-1-github) | [web-hosting](#27-web-hosting), [version-control](#25-version-control) |
+> | \# | [Site-Items](#site-items) | [Category](#category) | Icon |
+> | --- | --- | --- | --- |
+> | 1 | [github](#27-1-github) | [web-hosting](#27-web-hosting), [version-control](#25-version-control) | <img src="assets/github.png" width="50"> |
 
 #### 27-1-github
 
@@ -1861,123 +1861,123 @@ Categories: [web-hosting](#27-web-hosting), [version-control](#25-version-contro
 
 > [!Note]
 > 
-> | \# | [Site-Items](#site-items) | [Category](#category) |
-> | --- | --- | --- |
-> | 1 | [1password](#0-1-1password) | [password-manager](#21-password-manager) |
-> | 2 | [360-appstore](#0-2-360-appstore) | [appstore](#3-appstore) |
-> | 3 | [android](#0-3-android) | [operating-system](#20-operating-system) |
-> | 4 | [android-studio](#0-4-android-studio) | [editor](#10-editor) |
-> | 5 | [anidb](#0-5-anidb) | [acg](#1-acg), [database](#9-database) |
-> | 6 | [anytype](#0-6-anytype) | [note-taking](#19-note-taking) |
-> | 7 | [apkpure](#0-7-apkpure) | [appstore](#3-appstore) |
-> | 8 | [arora-store](#0-8-arora-store) | [appstore](#3-appstore) |
-> | 9 | [baidu-baike](#0-9-baidu-baike) | [encyclopedia](#12-encyclopedia) |
-> | 10 | [baidu-netdisk](#0-10-baidu-netdisk) | [cloud-disk](#7-cloud-disk) |
-> | 11 | [baidu-search](#0-11-baidu-search) | [search-engine](#24-search-engine) |
-> | 12 | [bilibili](#0-12-bilibili) | [video-streaming](#26-video-streaming) |
-> | 13 | [bing-search](#0-13-bing-search) | [search-engine](#24-search-engine) |
-> | 14 | [bitwardon](#0-14-bitwardon) | [password-manager](#21-password-manager) |
-> | 15 | [bohrium](#0-15-bohrium) | [ai-chatbot](#2-ai-chatbot) |
-> | 16 | [chatgpt](#0-16-chatgpt) | [ai-chatbot](#2-ai-chatbot) |
-> | 17 | [chongbuluo-search](#0-17-chongbuluo-search) | [search-engine](#24-search-engine) |
-> | 18 | [claude](#0-18-claude) | [ai-chatbot](#2-ai-chatbot) |
-> | 19 | [cursor](#0-19-cursor) | [editor](#10-editor) |
-> | 20 | [deepseek](#0-20-deepseek) | [ai-chatbot](#2-ai-chatbot) |
-> | 21 | [dingtalk](#0-21-dingtalk) | [instant-messaging](#17-instant-messaging) |
-> | 22 | [discord](#0-22-discord) | [instant-messaging](#17-instant-messaging) |
-> | 23 | [doubao](#0-23-doubao) | [ai-chatbot](#2-ai-chatbot) |
-> | 24 | [douyin](#0-24-douyin) | [video-streaming](#26-video-streaming) |
-> | 25 | [e-hentai](#0-25-e-hentai) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
-> | 26 | [emacs](#0-26-emacs) | [editor](#10-editor) |
-> | 27 | [f-driod](#0-27-f-driod) | [appstore](#3-appstore) |
-> | 28 | [gemini](#0-28-gemini) | [ai-chatbot](#2-ai-chatbot) |
-> | 29 | [github](#0-29-github) | [web-hosting](#27-web-hosting), [version-control](#25-version-control) |
-> | 30 | [github-copilot](#0-30-github-copilot) | [ai-chatbot](#2-ai-chatbot) |
-> | 31 | [gmail](#0-31-gmail) | [email](#11-email) |
-> | 32 | [google-authenticator](#0-32-google-authenticator) | [authenticator](#5-authenticator) |
-> | 33 | [google-chrome](#0-33-google-chrome) | [browser](#6-browser) |
-> | 34 | [google-play](#0-34-google-play) | [appstore](#3-appstore) |
-> | 35 | [google-search](#0-35-google-search) | [search-engine](#24-search-engine) |
-> | 36 | [hanime](#0-36-hanime) | [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) |
-> | 37 | [hbuilder](#0-37-hbuilder) | [editor](#10-editor) |
-> | 38 | [hmoegirl](#0-38-hmoegirl) | [encyclopedia](#12-encyclopedia), [acg](#1-acg) |
-> | 39 | [huorong-app-store](#0-39-huorong-app-store) | [appstore](#3-appstore) |
-> | 40 | [intellij-idea](#0-40-intellij-idea) | [editor](#10-editor) |
-> | 41 | [ios](#0-41-ios) | [operating-system](#20-operating-system) |
-> | 42 | [iwara](#0-42-iwara) | [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) |
-> | 43 | [jiong-ci-yuan](#0-43-jiong-ci-yuan) | [acg](#1-acg), [video-streaming](#26-video-streaming) |
-> | 44 | [jmcomic](#0-44-jmcomic) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
-> | 45 | [keepass](#0-45-keepass) | [password-manager](#21-password-manager) |
-> | 46 | [kimi](#0-46-kimi) | [ai-chatbot](#2-ai-chatbot) |
-> | 47 | [kuaishou](#0-47-kuaishou) | [video-streaming](#26-video-streaming) |
-> | 48 | [kuaiwan](#0-48-kuaiwan) | [gamestore](#15-gamestore) |
-> | 49 | [lanraragi](#0-49-lanraragi) | [acg](#1-acg), [reader](#23-reader) |
-> | 50 | [linux](#0-50-linux) | [operating-system](#20-operating-system) |
-> | 51 | [logseq](#0-51-logseq) | [note-taking](#19-note-taking) |
-> | 52 | [macos](#0-52-macos) | [operating-system](#20-operating-system) |
-> | 53 | [mail-ru](#0-53-mail-ru) | [email](#11-email) |
-> | 54 | [manhuaren](#0-54-manhuaren) | [acg](#1-acg), [gallery](#14-gallery) |
-> | 55 | [mbalib-wiki](#0-55-mbalib-wiki) | [encyclopedia](#12-encyclopedia) |
-> | 56 | [microsoft-authenticator](#0-56-microsoft-authenticator) | [authenticator](#5-authenticator) |
-> | 57 | [microsoft-copilot](#0-57-microsoft-copilot) | [ai-chatbot](#2-ai-chatbot) |
-> | 58 | [microsoft-edge](#0-58-microsoft-edge) | [browser](#6-browser) |
-> | 59 | [microsoft-store](#0-59-microsoft-store) | [appstore](#3-appstore) |
-> | 60 | [mihon](#0-60-mihon) | [acg](#1-acg), [reader](#23-reader) |
-> | 61 | [misskey](#0-61-misskey) | [microblogging](#18-microblogging) |
-> | 62 | [moegirl](#0-62-moegirl) | [encyclopedia](#12-encyclopedia), [acg](#1-acg) |
-> | 63 | [mozilla-firefox](#0-63-mozilla-firefox) | [browser](#6-browser) |
-> | 64 | [myanimelist](#0-64-myanimelist) | [acg](#1-acg), [database](#9-database) |
-> | 65 | [nekogram](#0-65-nekogram) | [instant-messaging](#17-instant-messaging) |
-> | 66 | [netease-mail](#0-66-netease-mail) | [email](#11-email) |
-> | 67 | [nhentai](#0-67-nhentai) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
-> | 68 | [nijimiss](#0-68-nijimiss) | [microblogging](#18-microblogging) |
-> | 69 | [noteapps-info](#0-69-noteapps-info) | [encyclopedia](#12-encyclopedia) |
-> | 70 | [notion](#0-70-notion) | [note-taking](#19-note-taking) |
-> | 71 | [obsidian](#0-71-obsidian) | [note-taking](#19-note-taking) |
-> | 72 | [onedrive](#0-72-onedrive) | [cloud-disk](#7-cloud-disk) |
-> | 73 | [outlook-com](#0-73-outlook-com) | [email](#11-email) |
-> | 74 | [picaacg](#0-74-picaacg) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
-> | 75 | [pixiv](#0-75-pixiv) | [acg](#1-acg), [community](#8-community) |
-> | 76 | [potato](#0-76-potato) | [instant-messaging](#17-instant-messaging) |
-> | 77 | [pycharm](#0-77-pycharm) | [editor](#10-editor) |
-> | 78 | [qianwen](#0-78-qianwen) | [ai-chatbot](#2-ai-chatbot) |
-> | 79 | [qq-mail](#0-79-qq-mail) | [email](#11-email) |
-> | 80 | [qqgame](#0-80-qqgame) | [gamestore](#15-gamestore) |
-> | 81 | [quark-browser](#0-81-quark-browser) | [browser](#6-browser), [ai-chatbot](#2-ai-chatbot) |
-> | 82 | [quora](#0-82-quora) | [qa-system](#22-qa-system) |
-> | 83 | [reddit](#0-83-reddit) | [forum](#13-forum) |
-> | 84 | [saucenao-search](#0-84-saucenao-search) | [search-engine](#24-search-engine) |
-> | 85 | [session](#0-85-session) | [instant-messaging](#17-instant-messaging) |
-> | 86 | [simplex](#0-86-simplex) | [instant-messaging](#17-instant-messaging) |
-> | 87 | [siyuan](#0-87-siyuan) | [note-taking](#19-note-taking) |
-> | 88 | [slack](#0-88-slack) | [instant-messaging](#17-instant-messaging) |
-> | 89 | [soutubot-search](#0-89-soutubot-search) | [search-engine](#24-search-engine) |
-> | 90 | [steam](#0-90-steam) | [gamestore](#15-gamestore) |
-> | 91 | [tamtam](#0-91-tamtam) | [instant-messaging](#17-instant-messaging) |
-> | 92 | [taptap](#0-92-taptap) | [gamestore](#15-gamestore) |
-> | 93 | [telegram](#0-93-telegram) | [instant-messaging](#17-instant-messaging) |
-> | 94 | [tencent-appstore](#0-94-tencent-appstore) | [appstore](#3-appstore) |
-> | 95 | [tencent-meeting](#0-95-tencent-meeting) | [instant-messaging](#17-instant-messaging) |
-> | 96 | [tencent-qq](#0-96-tencent-qq) | [instant-messaging](#17-instant-messaging) |
-> | 97 | [tencent-wechat](#0-97-tencent-wechat) | [instant-messaging](#17-instant-messaging) |
-> | 98 | [tencent-yuanbao](#0-98-tencent-yuanbao) | [ai-chatbot](#2-ai-chatbot) |
-> | 99 | [tiddlywiki](#0-99-tiddlywiki) | [note-taking](#19-note-taking) |
-> | 100 | [tieba](#0-100-tieba) | [forum](#13-forum) |
-> | 101 | [tor-browser](#0-101-tor-browser) | [browser](#6-browser) |
-> | 102 | [trae](#0-102-trae) | [editor](#10-editor) |
-> | 103 | [twitter](#0-103-twitter) | [microblogging](#18-microblogging) |
-> | 104 | [typora](#0-104-typora) | [editor](#10-editor) |
-> | 105 | [uc-browser](#0-105-uc-browser) | [browser](#6-browser) |
-> | 106 | [vim](#0-106-vim) | [editor](#10-editor) |
-> | 107 | [visual-studio](#0-107-visual-studio) | [editor](#10-editor) |
-> | 108 | [visual-studio-code](#0-108-visual-studio-code) | [editor](#10-editor) |
-> | 109 | [webstorm](#0-109-webstorm) | [editor](#10-editor) |
-> | 110 | [wikihow](#0-110-wikihow) | [encyclopedia](#12-encyclopedia) |
-> | 111 | [wikipedia](#0-111-wikipedia) | [encyclopedia](#12-encyclopedia) |
-> | 112 | [windows-os](#0-112-windows-os) | [operating-system](#20-operating-system) |
-> | 113 | [yandex-search](#0-113-yandex-search) | [search-engine](#24-search-engine) |
-> | 114 | [youtube](#0-114-youtube) | [video-streaming](#26-video-streaming) |
-> | 115 | [zhihu](#0-115-zhihu) | [qa-system](#22-qa-system) |
+> | \# | [Site-Items](#site-items) | [Category](#category) | Icon |
+> | --- | --- | --- | --- |
+> | 1 | [1password](#0-1-1password) | [password-manager](#21-password-manager) | <img src="assets/1password.png" width="50"> |
+> | 2 | [360-appstore](#0-2-360-appstore) | [appstore](#3-appstore) | <img src="assets/360-appstore.png" width="50"> |
+> | 3 | [android](#0-3-android) | [operating-system](#20-operating-system) | <img src="assets/android.png" width="50"> |
+> | 4 | [android-studio](#0-4-android-studio) | [editor](#10-editor) | <img src="assets/android-studio.png" width="50"> |
+> | 5 | [anidb](#0-5-anidb) | [acg](#1-acg), [database](#9-database) | <img src="assets/anidb.png" width="50"> |
+> | 6 | [anytype](#0-6-anytype) | [note-taking](#19-note-taking) | <img src="assets/anytype.png" width="50"> |
+> | 7 | [apkpure](#0-7-apkpure) | [appstore](#3-appstore) | <img src="assets/apkpure.png" width="50"> |
+> | 8 | [arora-store](#0-8-arora-store) | [appstore](#3-appstore) | <img src="assets/arora-store.png" width="50"> |
+> | 9 | [baidu-baike](#0-9-baidu-baike) | [encyclopedia](#12-encyclopedia) | <img src="assets/baidu-baike.png" width="50"> |
+> | 10 | [baidu-netdisk](#0-10-baidu-netdisk) | [cloud-disk](#7-cloud-disk) | <img src="assets/baidu-netdisk.png" width="50"> |
+> | 11 | [baidu-search](#0-11-baidu-search) | [search-engine](#24-search-engine) | <img src="assets/baidu-search.png" width="50"> |
+> | 12 | [bilibili](#0-12-bilibili) | [video-streaming](#26-video-streaming) | <img src="assets/bilibili.png" width="50"> |
+> | 13 | [bing-search](#0-13-bing-search) | [search-engine](#24-search-engine) | <img src="assets/bing-search.png" width="50"> |
+> | 14 | [bitwardon](#0-14-bitwardon) | [password-manager](#21-password-manager) | <img src="assets/bitwardon.png" width="50"> |
+> | 15 | [bohrium](#0-15-bohrium) | [ai-chatbot](#2-ai-chatbot) | <img src="assets/bohrium.png" width="50"> |
+> | 16 | [chatgpt](#0-16-chatgpt) | [ai-chatbot](#2-ai-chatbot) | <img src="assets/chatgpt.png" width="50"> |
+> | 17 | [chongbuluo-search](#0-17-chongbuluo-search) | [search-engine](#24-search-engine) | <img src="assets/chongbuluo-search.png" width="50"> |
+> | 18 | [claude](#0-18-claude) | [ai-chatbot](#2-ai-chatbot) | <img src="assets/claude.png" width="50"> |
+> | 19 | [cursor](#0-19-cursor) | [editor](#10-editor) | <img src="assets/cursor-ai.png" width="50"> |
+> | 20 | [deepseek](#0-20-deepseek) | [ai-chatbot](#2-ai-chatbot) | <img src="assets/deepseek.png" width="50"> |
+> | 21 | [dingtalk](#0-21-dingtalk) | [instant-messaging](#17-instant-messaging) | <img src="assets/dingtalk.png" width="50"> |
+> | 22 | [discord](#0-22-discord) | [instant-messaging](#17-instant-messaging) | <img src="assets/discord.png" width="50"> |
+> | 23 | [doubao](#0-23-doubao) | [ai-chatbot](#2-ai-chatbot) | <img src="assets/doubao.png" width="50"> |
+> | 24 | [douyin](#0-24-douyin) | [video-streaming](#26-video-streaming) | <img src="assets/douyin.png" width="50"> |
+> | 25 | [e-hentai](#0-25-e-hentai) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) | <img src="assets/e-hentai.svg" width="50"> |
+> | 26 | [emacs](#0-26-emacs) | [editor](#10-editor) | <img src="assets/emacs.png" width="50"> |
+> | 27 | [f-driod](#0-27-f-driod) | [appstore](#3-appstore) | <img src="assets/f-droid.png" width="50"> |
+> | 28 | [gemini](#0-28-gemini) | [ai-chatbot](#2-ai-chatbot) | <img src="assets/gemini.png" width="50"> |
+> | 29 | [github](#0-29-github) | [web-hosting](#27-web-hosting), [version-control](#25-version-control) | <img src="assets/github.png" width="50"> |
+> | 30 | [github-copilot](#0-30-github-copilot) | [ai-chatbot](#2-ai-chatbot) | <img src="assets/github-copilot-icon.svg" width="50"> |
+> | 31 | [gmail](#0-31-gmail) | [email](#11-email) | <img src="assets/gmail.png" width="50"> |
+> | 32 | [google-authenticator](#0-32-google-authenticator) | [authenticator](#5-authenticator) | <img src="assets/google-authenticator.png" width="50"> |
+> | 33 | [google-chrome](#0-33-google-chrome) | [browser](#6-browser) | <img src="assets/google-chrome.png" width="50"> |
+> | 34 | [google-play](#0-34-google-play) | [appstore](#3-appstore) | <img src="assets/google-play.png" width="50"> |
+> | 35 | [google-search](#0-35-google-search) | [search-engine](#24-search-engine) | <img src="assets/google-search.png" width="50"> |
+> | 36 | [hanime](#0-36-hanime) | [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) | <img src="assets/hanime.png" width="50"> |
+> | 37 | [hbuilder](#0-37-hbuilder) | [editor](#10-editor) | <img src="assets/hbuilder.png" width="50"> |
+> | 38 | [hmoegirl](#0-38-hmoegirl) | [encyclopedia](#12-encyclopedia), [acg](#1-acg) | <img src="assets/hmoegirl-encyclopedia.png" width="50"> |
+> | 39 | [huorong-app-store](#0-39-huorong-app-store) | [appstore](#3-appstore) | <img src="assets/huorong-app-store.png" width="50"> |
+> | 40 | [intellij-idea](#0-40-intellij-idea) | [editor](#10-editor) | <img src="assets/intellij-idea.png" width="50"> |
+> | 41 | [ios](#0-41-ios) | [operating-system](#20-operating-system) | <img src="assets/ios.png" width="50"> |
+> | 42 | [iwara](#0-42-iwara) | [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) | <img src="assets/iwara.png" width="50"> |
+> | 43 | [jiong-ci-yuan](#0-43-jiong-ci-yuan) | [acg](#1-acg), [video-streaming](#26-video-streaming) | <img src="assets/jcyapp-org.png" width="50"> |
+> | 44 | [jmcomic](#0-44-jmcomic) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) | <img src="assets/jmcomic.png" width="50"> |
+> | 45 | [keepass](#0-45-keepass) | [password-manager](#21-password-manager) | <img src="assets/keepass.png" width="50"> |
+> | 46 | [kimi](#0-46-kimi) | [ai-chatbot](#2-ai-chatbot) | <img src="assets/kimi.png" width="50"> |
+> | 47 | [kuaishou](#0-47-kuaishou) | [video-streaming](#26-video-streaming) | <img src="assets/kuaishou.png" width="50"> |
+> | 48 | [kuaiwan](#0-48-kuaiwan) | [gamestore](#15-gamestore) | <img src="assets/kuaiwan.png" width="50"> |
+> | 49 | [lanraragi](#0-49-lanraragi) | [acg](#1-acg), [reader](#23-reader) | <img src="assets/lanraragi.png" width="50"> |
+> | 50 | [linux](#0-50-linux) | [operating-system](#20-operating-system) | <img src="assets/linux-os.png" width="50"> |
+> | 51 | [logseq](#0-51-logseq) | [note-taking](#19-note-taking) | <img src="assets/logseq.png" width="50"> |
+> | 52 | [macos](#0-52-macos) | [operating-system](#20-operating-system) | <img src="assets/macos.png" width="50"> |
+> | 53 | [mail-ru](#0-53-mail-ru) | [email](#11-email) | <img src="assets/mail-ru.png" width="50"> |
+> | 54 | [manhuaren](#0-54-manhuaren) | [acg](#1-acg), [gallery](#14-gallery) | <img src="assets/manhuaren.png" width="50"> |
+> | 55 | [mbalib-wiki](#0-55-mbalib-wiki) | [encyclopedia](#12-encyclopedia) | <img src="assets/mbalib-wiki.png" width="50"> |
+> | 56 | [microsoft-authenticator](#0-56-microsoft-authenticator) | [authenticator](#5-authenticator) | <img src="assets/microsoft-authenticator.png" width="50"> |
+> | 57 | [microsoft-copilot](#0-57-microsoft-copilot) | [ai-chatbot](#2-ai-chatbot) | <img src="assets/microsoft-copilot.png" width="50"> |
+> | 58 | [microsoft-edge](#0-58-microsoft-edge) | [browser](#6-browser) | <img src="assets/microsoft-edge.png" width="50"> |
+> | 59 | [microsoft-store](#0-59-microsoft-store) | [appstore](#3-appstore) | <img src="assets/microsoft-store.png" width="50"> |
+> | 60 | [mihon](#0-60-mihon) | [acg](#1-acg), [reader](#23-reader) | <img src="assets/mihon.png" width="50"> |
+> | 61 | [misskey](#0-61-misskey) | [microblogging](#18-microblogging) | <img src="assets/misskey.png" width="50"> |
+> | 62 | [moegirl](#0-62-moegirl) | [encyclopedia](#12-encyclopedia), [acg](#1-acg) | <img src="assets/moegirl-encyclopedia.png" width="50"> |
+> | 63 | [mozilla-firefox](#0-63-mozilla-firefox) | [browser](#6-browser) | <img src="assets/mozilla-firefox.png" width="50"> |
+> | 64 | [myanimelist](#0-64-myanimelist) | [acg](#1-acg), [database](#9-database) | <img src="assets/myanimelist.png" width="50"> |
+> | 65 | [nekogram](#0-65-nekogram) | [instant-messaging](#17-instant-messaging) | <img src="assets/nekogram.png" width="50"> |
+> | 66 | [netease-mail](#0-66-netease-mail) | [email](#11-email) | <img src="assets/netease-mail.png" width="50"> |
+> | 67 | [nhentai](#0-67-nhentai) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) | <img src="assets/nhentai.png" width="50"> |
+> | 68 | [nijimiss](#0-68-nijimiss) | [microblogging](#18-microblogging) | <img src="assets/nijimiss.png" width="50"> |
+> | 69 | [noteapps-info](#0-69-noteapps-info) | [encyclopedia](#12-encyclopedia) | <img src="assets/noteapps-info.png" width="50"> |
+> | 70 | [notion](#0-70-notion) | [note-taking](#19-note-taking) | <img src="assets/notion.png" width="50"> |
+> | 71 | [obsidian](#0-71-obsidian) | [note-taking](#19-note-taking) | <img src="assets/obsidian.png" width="50"> |
+> | 72 | [onedrive](#0-72-onedrive) | [cloud-disk](#7-cloud-disk) | <img src="assets/onedrive.png" width="50"> |
+> | 73 | [outlook-com](#0-73-outlook-com) | [email](#11-email) | <img src="assets/outlook-com.png" width="50"> |
+> | 74 | [picaacg](#0-74-picaacg) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) | <img src="assets/picaacg.png" width="50"> |
+> | 75 | [pixiv](#0-75-pixiv) | [acg](#1-acg), [community](#8-community) | <img src="assets/pixiv.png" width="50"> |
+> | 76 | [potato](#0-76-potato) | [instant-messaging](#17-instant-messaging) | <img src="assets/potato.png" width="50"> |
+> | 77 | [pycharm](#0-77-pycharm) | [editor](#10-editor) | <img src="assets/pycharm.png" width="50"> |
+> | 78 | [qianwen](#0-78-qianwen) | [ai-chatbot](#2-ai-chatbot) | <img src="assets/qianwen.png" width="50"> |
+> | 79 | [qq-mail](#0-79-qq-mail) | [email](#11-email) | <img src="assets/qq-mail.png" width="50"> |
+> | 80 | [qqgame](#0-80-qqgame) | [gamestore](#15-gamestore) | <img src="assets/qqgame.png" width="50"> |
+> | 81 | [quark-browser](#0-81-quark-browser) | [browser](#6-browser), [ai-chatbot](#2-ai-chatbot) | <img src="assets/quark-browser.png" width="50"> |
+> | 82 | [quora](#0-82-quora) | [qa-system](#22-qa-system) | <img src="assets/quora.png" width="50"> |
+> | 83 | [reddit](#0-83-reddit) | [forum](#13-forum) | <img src="assets/reddit.png" width="50"> |
+> | 84 | [saucenao-search](#0-84-saucenao-search) | [search-engine](#24-search-engine) | <img src="assets/saurcenao-search.png" width="50"> |
+> | 85 | [session](#0-85-session) | [instant-messaging](#17-instant-messaging) | <img src="assets/session.png" width="50"> |
+> | 86 | [simplex](#0-86-simplex) | [instant-messaging](#17-instant-messaging) | <img src="assets/simplex.png" width="50"> |
+> | 87 | [siyuan](#0-87-siyuan) | [note-taking](#19-note-taking) | <img src="assets/siyuan-note.png" width="50"> |
+> | 88 | [slack](#0-88-slack) | [instant-messaging](#17-instant-messaging) | <img src="assets/slack.png" width="50"> |
+> | 89 | [soutubot-search](#0-89-soutubot-search) | [search-engine](#24-search-engine) | <img src="assets/soutubot-moe.png" width="50"> |
+> | 90 | [steam](#0-90-steam) | [gamestore](#15-gamestore) | <img src="assets/steam.png" width="50"> |
+> | 91 | [tamtam](#0-91-tamtam) | [instant-messaging](#17-instant-messaging) | <img src="assets/tamtam.png" width="50"> |
+> | 92 | [taptap](#0-92-taptap) | [gamestore](#15-gamestore) | <img src="assets/taptap.png" width="50"> |
+> | 93 | [telegram](#0-93-telegram) | [instant-messaging](#17-instant-messaging) | <img src="assets/telegram.png" width="50"> |
+> | 94 | [tencent-appstore](#0-94-tencent-appstore) | [appstore](#3-appstore) | <img src="assets/tencent-appstore.png" width="50"> |
+> | 95 | [tencent-meeting](#0-95-tencent-meeting) | [instant-messaging](#17-instant-messaging) | <img src="assets/tencent-meeting.png" width="50"> |
+> | 96 | [tencent-qq](#0-96-tencent-qq) | [instant-messaging](#17-instant-messaging) | <img src="assets/tencent-qq.png" width="50"> |
+> | 97 | [tencent-wechat](#0-97-tencent-wechat) | [instant-messaging](#17-instant-messaging) | <img src="assets/tencent-wechat.png" width="50"> |
+> | 98 | [tencent-yuanbao](#0-98-tencent-yuanbao) | [ai-chatbot](#2-ai-chatbot) | <img src="assets/tencent-yuanbao.png" width="50"> |
+> | 99 | [tiddlywiki](#0-99-tiddlywiki) | [note-taking](#19-note-taking) | <img src="assets/tiddly-wiki.png" width="50"> |
+> | 100 | [tieba](#0-100-tieba) | [forum](#13-forum) | <img src="assets/baidu-tieba.png" width="50"> |
+> | 101 | [tor-browser](#0-101-tor-browser) | [browser](#6-browser) | <img src="assets/tor-browser.png" width="50"> |
+> | 102 | [trae](#0-102-trae) | [editor](#10-editor) | <img src="assets/trae.png" width="50"> |
+> | 103 | [twitter](#0-103-twitter) | [microblogging](#18-microblogging) | <img src="assets/x-com.png" width="50"> |
+> | 104 | [typora](#0-104-typora) | [editor](#10-editor) | <img src="assets/typora.png" width="50"> |
+> | 105 | [uc-browser](#0-105-uc-browser) | [browser](#6-browser) | <img src="assets/uc-browser.png" width="50"> |
+> | 106 | [vim](#0-106-vim) | [editor](#10-editor) | <img src="assets/vim.png" width="50"> |
+> | 107 | [visual-studio](#0-107-visual-studio) | [editor](#10-editor) | <img src="assets/visual-studio.png" width="50"> |
+> | 108 | [visual-studio-code](#0-108-visual-studio-code) | [editor](#10-editor) | <img src="assets/vscode.png" width="50"> |
+> | 109 | [webstorm](#0-109-webstorm) | [editor](#10-editor) | <img src="assets/webstorm.png" width="50"> |
+> | 110 | [wikihow](#0-110-wikihow) | [encyclopedia](#12-encyclopedia) | <img src="assets/wikihow.png" width="50"> |
+> | 111 | [wikipedia](#0-111-wikipedia) | [encyclopedia](#12-encyclopedia) | <img src="assets/wikipedia.png" width="50"> |
+> | 112 | [windows-os](#0-112-windows-os) | [operating-system](#20-operating-system) | <img src="assets/windows-os.png" width="50"> |
+> | 113 | [yandex-search](#0-113-yandex-search) | [search-engine](#24-search-engine) | <img src="assets/yandex-search.png" width="50"> |
+> | 114 | [youtube](#0-114-youtube) | [video-streaming](#26-video-streaming) | <img src="assets/youtube.png" width="50"> |
+> | 115 | [zhihu](#0-115-zhihu) | [qa-system](#22-qa-system) | <img src="assets/zhihu.png" width="50"> |
 
 
 
