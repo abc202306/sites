@@ -27,6 +27,7 @@ down:
   - "[[site-category-operating-system|operating-system]]"
   - "[[site-category-gamestore|gamestore]]"
   - "[[site-category-appstore|appstore]]"
+  - "[[site-category-web-hosting|web-hosting]]"
 ctime: 2026-01-09T21:38:39+08:00
 mtime: 2026-01-09T21:38:39+08:00
 ---
@@ -58,3 +59,4 @@ mtime: 2026-01-09T21:38:39+08:00
 - [[site-category-operating-system|operating-system]]
 - [[site-category-gamestore|gamestore]]
 - [[site-category-appstore|appstore]]
+- [[site-category-web-hosting|web-hosting]]

@@ -10,6 +10,7 @@ mtime: "2026-01-09T22:05:20+08:00"
 - [[base-site-item.base]]
 - [[README_Legacy]]
 - [[README]]
+- [[site-vault-templates]]
 
 ## site-item-inbox
 

@@ -101,7 +101,7 @@ try {
 	parts.push('\n\n');
 	parts.push(siteitems.map((f, j) => getSiteItemSection(f, 0, j + 1)).join('\n\n'));
 
-	console.log(parts.join('\n'));
+	console.log(parts.join('\n')+'\n');
 } catch (err) {
 	console.error('Error building site MOC:', err);
 }

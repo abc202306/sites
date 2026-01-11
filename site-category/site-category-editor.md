@@ -13,6 +13,7 @@ subpages:
   - "[[site-item-hbuilder|hbuilder]]"
   - "[[site-item-cursor|cursor]]"
   - "[[site-item-trae|trae]]"
+  - "[[site-item-emacs|emacs]]"
 aliases:
   - editor
 ctime: 2026-01-10T19:47:53+08:00
@@ -32,3 +33,4 @@ mtime: 2026-01-10T19:47:53+08:00
 - [[site-item-hbuilder|hbuilder]]
 - [[site-item-cursor|cursor]]
 - [[site-item-trae|trae]]
+- [[site-item-emacs|emacs]]

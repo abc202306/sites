@@ -1,7 +1,7 @@
 
 # Websites
 
-This article showcases 113 websites bookmarked by abc202306.
+This article showcases 115 websites bookmarked by abc202306.
 
 Keywords: awesome list, website, github repo
 
@@ -79,6 +79,7 @@ Keywords: awesome list, website, github repo
     - [10-9-hbuilder](#10-9-hbuilder)
     - [10-10-cursor](#10-10-cursor)
     - [10-11-trae](#10-11-trae)
+    - [10-12-emacs](#10-12-emacs)
   - [11-email](#11-email)
     - [11-1-gmail](#11-1-gmail)
     - [11-2-outlook-com](#11-2-outlook-com)
@@ -162,14 +163,18 @@ Keywords: awesome list, website, github repo
     - [24-5-chongbuluo-search](#24-5-chongbuluo-search)
     - [24-6-saucenao-search](#24-6-saucenao-search)
     - [24-7-soutubot-search](#24-7-soutubot-search)
-  - [25-video-streaming](#25-video-streaming)
-    - [25-1-jiong-ci-yuan](#25-1-jiong-ci-yuan)
-    - [25-2-youtube](#25-2-youtube)
-    - [25-3-bilibili](#25-3-bilibili)
-    - [25-4-iwara](#25-4-iwara)
-    - [25-5-hanime](#25-5-hanime)
-    - [25-6-douyin](#25-6-douyin)
-    - [25-7-kuaishou](#25-7-kuaishou)
+  - [25-version-control](#25-version-control)
+    - [25-1-github](#25-1-github)
+  - [26-video-streaming](#26-video-streaming)
+    - [26-1-jiong-ci-yuan](#26-1-jiong-ci-yuan)
+    - [26-2-youtube](#26-2-youtube)
+    - [26-3-bilibili](#26-3-bilibili)
+    - [26-4-iwara](#26-4-iwara)
+    - [26-5-hanime](#26-5-hanime)
+    - [26-6-douyin](#26-6-douyin)
+    - [26-7-kuaishou](#26-7-kuaishou)
+  - [27-web-hosting](#27-web-hosting)
+    - [27-1-github](#27-1-github)
 - [site-items](#site-items)
   - [0-1-1password](#0-1-1password)
   - [0-2-360-appstore](#0-2-360-appstore)
@@ -196,94 +201,96 @@ Keywords: awesome list, website, github repo
   - [0-23-doubao](#0-23-doubao)
   - [0-24-douyin](#0-24-douyin)
   - [0-25-e-hentai](#0-25-e-hentai)
-  - [0-26-f-driod](#0-26-f-driod)
-  - [0-27-gemini](#0-27-gemini)
-  - [0-28-github-copilot](#0-28-github-copilot)
-  - [0-29-gmail](#0-29-gmail)
-  - [0-30-google-authenticator](#0-30-google-authenticator)
-  - [0-31-google-chrome](#0-31-google-chrome)
-  - [0-32-google-play](#0-32-google-play)
-  - [0-33-google-search](#0-33-google-search)
-  - [0-34-hanime](#0-34-hanime)
-  - [0-35-hbuilder](#0-35-hbuilder)
-  - [0-36-hmoegirl](#0-36-hmoegirl)
-  - [0-37-huorong-app-store](#0-37-huorong-app-store)
-  - [0-38-intellij-idea](#0-38-intellij-idea)
-  - [0-39-ios](#0-39-ios)
-  - [0-40-iwara](#0-40-iwara)
-  - [0-41-jiong-ci-yuan](#0-41-jiong-ci-yuan)
-  - [0-42-jmcomic](#0-42-jmcomic)
-  - [0-43-keepass](#0-43-keepass)
-  - [0-44-kimi](#0-44-kimi)
-  - [0-45-kuaishou](#0-45-kuaishou)
-  - [0-46-kuaiwan](#0-46-kuaiwan)
-  - [0-47-lanraragi](#0-47-lanraragi)
-  - [0-48-linux](#0-48-linux)
-  - [0-49-logseq](#0-49-logseq)
-  - [0-50-macos](#0-50-macos)
-  - [0-51-mail-ru](#0-51-mail-ru)
-  - [0-52-manhuaren](#0-52-manhuaren)
-  - [0-53-mbalib-wiki](#0-53-mbalib-wiki)
-  - [0-54-microsoft-authenticator](#0-54-microsoft-authenticator)
-  - [0-55-microsoft-copilot](#0-55-microsoft-copilot)
-  - [0-56-microsoft-edge](#0-56-microsoft-edge)
-  - [0-57-microsoft-store](#0-57-microsoft-store)
-  - [0-58-mihon](#0-58-mihon)
-  - [0-59-misskey](#0-59-misskey)
-  - [0-60-moegirl](#0-60-moegirl)
-  - [0-61-mozilla-firefox](#0-61-mozilla-firefox)
-  - [0-62-myanimelist](#0-62-myanimelist)
-  - [0-63-nekogram](#0-63-nekogram)
-  - [0-64-netease-mail](#0-64-netease-mail)
-  - [0-65-nhentai](#0-65-nhentai)
-  - [0-66-nijimiss](#0-66-nijimiss)
-  - [0-67-noteapps-info](#0-67-noteapps-info)
-  - [0-68-notion](#0-68-notion)
-  - [0-69-obsidian](#0-69-obsidian)
-  - [0-70-onedrive](#0-70-onedrive)
-  - [0-71-outlook-com](#0-71-outlook-com)
-  - [0-72-picaacg](#0-72-picaacg)
-  - [0-73-pixiv](#0-73-pixiv)
-  - [0-74-potato](#0-74-potato)
-  - [0-75-pycharm](#0-75-pycharm)
-  - [0-76-qianwen](#0-76-qianwen)
-  - [0-77-qq-mail](#0-77-qq-mail)
-  - [0-78-qqgame](#0-78-qqgame)
-  - [0-79-quark-browser](#0-79-quark-browser)
-  - [0-80-quora](#0-80-quora)
-  - [0-81-reddit](#0-81-reddit)
-  - [0-82-saucenao-search](#0-82-saucenao-search)
-  - [0-83-session](#0-83-session)
-  - [0-84-simplex](#0-84-simplex)
-  - [0-85-siyuan](#0-85-siyuan)
-  - [0-86-slack](#0-86-slack)
-  - [0-87-soutubot-search](#0-87-soutubot-search)
-  - [0-88-steam](#0-88-steam)
-  - [0-89-tamtam](#0-89-tamtam)
-  - [0-90-taptap](#0-90-taptap)
-  - [0-91-telegram](#0-91-telegram)
-  - [0-92-tencent-appstore](#0-92-tencent-appstore)
-  - [0-93-tencent-meeting](#0-93-tencent-meeting)
-  - [0-94-tencent-qq](#0-94-tencent-qq)
-  - [0-95-tencent-wechat](#0-95-tencent-wechat)
-  - [0-96-tencent-yuanbao](#0-96-tencent-yuanbao)
-  - [0-97-tiddlywiki](#0-97-tiddlywiki)
-  - [0-98-tieba](#0-98-tieba)
-  - [0-99-tor-browser](#0-99-tor-browser)
-  - [0-100-trae](#0-100-trae)
-  - [0-101-twitter](#0-101-twitter)
-  - [0-102-typora](#0-102-typora)
-  - [0-103-uc-browser](#0-103-uc-browser)
-  - [0-104-vim](#0-104-vim)
-  - [0-105-visual-studio](#0-105-visual-studio)
-  - [0-106-visual-studio-code](#0-106-visual-studio-code)
-  - [0-107-webstorm](#0-107-webstorm)
-  - [0-108-wikihow](#0-108-wikihow)
-  - [0-109-wikipedia](#0-109-wikipedia)
-  - [0-110-windows-os](#0-110-windows-os)
-  - [0-111-yandex-search](#0-111-yandex-search)
-  - [0-112-youtube](#0-112-youtube)
-  - [0-113-zhihu](#0-113-zhihu)
+  - [0-26-emacs](#0-26-emacs)
+  - [0-27-f-driod](#0-27-f-driod)
+  - [0-28-gemini](#0-28-gemini)
+  - [0-29-github](#0-29-github)
+  - [0-30-github-copilot](#0-30-github-copilot)
+  - [0-31-gmail](#0-31-gmail)
+  - [0-32-google-authenticator](#0-32-google-authenticator)
+  - [0-33-google-chrome](#0-33-google-chrome)
+  - [0-34-google-play](#0-34-google-play)
+  - [0-35-google-search](#0-35-google-search)
+  - [0-36-hanime](#0-36-hanime)
+  - [0-37-hbuilder](#0-37-hbuilder)
+  - [0-38-hmoegirl](#0-38-hmoegirl)
+  - [0-39-huorong-app-store](#0-39-huorong-app-store)
+  - [0-40-intellij-idea](#0-40-intellij-idea)
+  - [0-41-ios](#0-41-ios)
+  - [0-42-iwara](#0-42-iwara)
+  - [0-43-jiong-ci-yuan](#0-43-jiong-ci-yuan)
+  - [0-44-jmcomic](#0-44-jmcomic)
+  - [0-45-keepass](#0-45-keepass)
+  - [0-46-kimi](#0-46-kimi)
+  - [0-47-kuaishou](#0-47-kuaishou)
+  - [0-48-kuaiwan](#0-48-kuaiwan)
+  - [0-49-lanraragi](#0-49-lanraragi)
+  - [0-50-linux](#0-50-linux)
+  - [0-51-logseq](#0-51-logseq)
+  - [0-52-macos](#0-52-macos)
+  - [0-53-mail-ru](#0-53-mail-ru)
+  - [0-54-manhuaren](#0-54-manhuaren)
+  - [0-55-mbalib-wiki](#0-55-mbalib-wiki)
+  - [0-56-microsoft-authenticator](#0-56-microsoft-authenticator)
+  - [0-57-microsoft-copilot](#0-57-microsoft-copilot)
+  - [0-58-microsoft-edge](#0-58-microsoft-edge)
+  - [0-59-microsoft-store](#0-59-microsoft-store)
+  - [0-60-mihon](#0-60-mihon)
+  - [0-61-misskey](#0-61-misskey)
+  - [0-62-moegirl](#0-62-moegirl)
+  - [0-63-mozilla-firefox](#0-63-mozilla-firefox)
+  - [0-64-myanimelist](#0-64-myanimelist)
+  - [0-65-nekogram](#0-65-nekogram)
+  - [0-66-netease-mail](#0-66-netease-mail)
+  - [0-67-nhentai](#0-67-nhentai)
+  - [0-68-nijimiss](#0-68-nijimiss)
+  - [0-69-noteapps-info](#0-69-noteapps-info)
+  - [0-70-notion](#0-70-notion)
+  - [0-71-obsidian](#0-71-obsidian)
+  - [0-72-onedrive](#0-72-onedrive)
+  - [0-73-outlook-com](#0-73-outlook-com)
+  - [0-74-picaacg](#0-74-picaacg)
+  - [0-75-pixiv](#0-75-pixiv)
+  - [0-76-potato](#0-76-potato)
+  - [0-77-pycharm](#0-77-pycharm)
+  - [0-78-qianwen](#0-78-qianwen)
+  - [0-79-qq-mail](#0-79-qq-mail)
+  - [0-80-qqgame](#0-80-qqgame)
+  - [0-81-quark-browser](#0-81-quark-browser)
+  - [0-82-quora](#0-82-quora)
+  - [0-83-reddit](#0-83-reddit)
+  - [0-84-saucenao-search](#0-84-saucenao-search)
+  - [0-85-session](#0-85-session)
+  - [0-86-simplex](#0-86-simplex)
+  - [0-87-siyuan](#0-87-siyuan)
+  - [0-88-slack](#0-88-slack)
+  - [0-89-soutubot-search](#0-89-soutubot-search)
+  - [0-90-steam](#0-90-steam)
+  - [0-91-tamtam](#0-91-tamtam)
+  - [0-92-taptap](#0-92-taptap)
+  - [0-93-telegram](#0-93-telegram)
+  - [0-94-tencent-appstore](#0-94-tencent-appstore)
+  - [0-95-tencent-meeting](#0-95-tencent-meeting)
+  - [0-96-tencent-qq](#0-96-tencent-qq)
+  - [0-97-tencent-wechat](#0-97-tencent-wechat)
+  - [0-98-tencent-yuanbao](#0-98-tencent-yuanbao)
+  - [0-99-tiddlywiki](#0-99-tiddlywiki)
+  - [0-100-tieba](#0-100-tieba)
+  - [0-101-tor-browser](#0-101-tor-browser)
+  - [0-102-trae](#0-102-trae)
+  - [0-103-twitter](#0-103-twitter)
+  - [0-104-typora](#0-104-typora)
+  - [0-105-uc-browser](#0-105-uc-browser)
+  - [0-106-vim](#0-106-vim)
+  - [0-107-visual-studio](#0-107-visual-studio)
+  - [0-108-visual-studio-code](#0-108-visual-studio-code)
+  - [0-109-webstorm](#0-109-webstorm)
+  - [0-110-wikihow](#0-110-wikihow)
+  - [0-111-wikipedia](#0-111-wikipedia)
+  - [0-112-windows-os](#0-112-windows-os)
+  - [0-113-yandex-search](#0-113-yandex-search)
+  - [0-114-youtube](#0-114-youtube)
+  - [0-115-zhihu](#0-115-zhihu)
 
 
 ## category
@@ -313,7 +320,9 @@ Keywords: awesome list, website, github repo
 > 22. [22-qa-system](#22-qa-system)
 > 23. [23-reader](#23-reader)
 > 24. [24-search-engine](#24-search-engine)
-> 25. [25-video-streaming](#25-video-streaming)
+> 25. [25-version-control](#25-version-control)
+> 26. [26-video-streaming](#26-video-streaming)
+> 27. [27-web-hosting](#27-web-hosting)
 
 
 ### 1-acg
@@ -938,6 +947,7 @@ Categories: acg, database
 > 9. [10-9-hbuilder](#10-9-hbuilder)
 > 10. [10-10-cursor](#10-10-cursor)
 > 11. [10-11-trae](#10-11-trae)
+> 12. [10-12-emacs](#10-12-emacs)
 
 #### 10-1-typora
 
@@ -1048,6 +1058,16 @@ TRAE AI IDE | 国内首款 AI 原生集成开发环境，深度集成 Doubao-1.5
 Categories: editor
 
 <img src="assets/trae.png" width="200">
+
+#### 10-12-emacs
+
+> see: [GNU Emacs - GNU Project](https://www.gnu.org/software/emacs/)
+
+An extensible, customizable, free/libre text editor — and more. At its core is an interpreter for Emacs Lisp, a dialect of the Lisp programming language with extensions to support text editing.
+
+Categories: editor
+
+<img src="assets/emacs.png" width="200">
 
 ### 11-email
 
@@ -1864,18 +1884,33 @@ Categories: search-engine
 
 <img src="assets/soutubot-moe.png" width="200">
 
-### 25-video-streaming
+### 25-version-control
 
 > [!Note]
-> 1. [25-1-jiong-ci-yuan](#25-1-jiong-ci-yuan)
-> 2. [25-2-youtube](#25-2-youtube)
-> 3. [25-3-bilibili](#25-3-bilibili)
-> 4. [25-4-iwara](#25-4-iwara)
-> 5. [25-5-hanime](#25-5-hanime)
-> 6. [25-6-douyin](#25-6-douyin)
-> 7. [25-7-kuaishou](#25-7-kuaishou)
+> 1. [25-1-github](#25-1-github)
 
-#### 25-1-jiong-ci-yuan
+#### 25-1-github
+
+> see: [GitHub · Change is constant. GitHub keeps you ahead.](https://github.com/home)
+
+Join the world's most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.
+
+Categories: web-hosting, version-control
+
+<img src="assets/github.png" width="200">
+
+### 26-video-streaming
+
+> [!Note]
+> 1. [26-1-jiong-ci-yuan](#26-1-jiong-ci-yuan)
+> 2. [26-2-youtube](#26-2-youtube)
+> 3. [26-3-bilibili](#26-3-bilibili)
+> 4. [26-4-iwara](#26-4-iwara)
+> 5. [26-5-hanime](#26-5-hanime)
+> 6. [26-6-douyin](#26-6-douyin)
+> 7. [26-7-kuaishou](#26-7-kuaishou)
+
+#### 26-1-jiong-ci-yuan
 
 > see: [囧次元](https://jcyapp.org/)
 
@@ -1885,7 +1920,7 @@ Categories: acg, video-streaming
 
 <img src="assets/jcyapp-org.png" width="200">
 
-#### 25-2-youtube
+#### 26-2-youtube
 
 > see: [YouTube](https://www.youtube.com/)
 
@@ -1895,7 +1930,7 @@ Categories: video-streaming
 
 <img src="assets/youtube.png" width="200">
 
-#### 25-3-bilibili
+#### 26-3-bilibili
 
 > see: [哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/)
 
@@ -1905,7 +1940,7 @@ Categories: video-streaming
 
 <img src="assets/bilibili.png" width="200">
 
-#### 25-4-iwara
+#### 26-4-iwara
 
 > see: [Iwara.tv will return](https://iwara.tv/)
 
@@ -1915,7 +1950,7 @@ Categories: video-streaming, acg, hentai
 
 <img src="assets/iwara.png" width="200">
 
-#### 25-5-hanime
+#### 26-5-hanime
 
 > see: [Hanime1.me - H動漫/裏番/線上看](https://hanime1.me/)
 
@@ -1925,7 +1960,7 @@ Categories: video-streaming, acg, hentai
 
 <img src="assets/hanime.png" width="200">
 
-#### 25-6-douyin
+#### 26-6-douyin
 
 > see: [抖音-记录美好生活](https://www.douyin.com/)
 
@@ -1935,7 +1970,7 @@ Categories: video-streaming
 
 <img src="assets/douyin.png" width="200">
 
-#### 25-7-kuaishou
+#### 26-7-kuaishou
 
 > see: [快手](https://www.kuaishou.com/new-reco)
 
@@ -1944,6 +1979,21 @@ Categories: video-streaming
 Categories: video-streaming
 
 <img src="assets/kuaishou.png" width="200">
+
+### 27-web-hosting
+
+> [!Note]
+> 1. [27-1-github](#27-1-github)
+
+#### 27-1-github
+
+> see: [GitHub · Change is constant. GitHub keeps you ahead.](https://github.com/home)
+
+Join the world's most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.
+
+Categories: web-hosting, version-control
+
+<img src="assets/github.png" width="200">
 
 ## site-items
 
@@ -1974,94 +2024,96 @@ Categories: video-streaming
 > 23. [0-23-doubao](#0-23-doubao)
 > 24. [0-24-douyin](#0-24-douyin)
 > 25. [0-25-e-hentai](#0-25-e-hentai)
-> 26. [0-26-f-driod](#0-26-f-driod)
-> 27. [0-27-gemini](#0-27-gemini)
-> 28. [0-28-github-copilot](#0-28-github-copilot)
-> 29. [0-29-gmail](#0-29-gmail)
-> 30. [0-30-google-authenticator](#0-30-google-authenticator)
-> 31. [0-31-google-chrome](#0-31-google-chrome)
-> 32. [0-32-google-play](#0-32-google-play)
-> 33. [0-33-google-search](#0-33-google-search)
-> 34. [0-34-hanime](#0-34-hanime)
-> 35. [0-35-hbuilder](#0-35-hbuilder)
-> 36. [0-36-hmoegirl](#0-36-hmoegirl)
-> 37. [0-37-huorong-app-store](#0-37-huorong-app-store)
-> 38. [0-38-intellij-idea](#0-38-intellij-idea)
-> 39. [0-39-ios](#0-39-ios)
-> 40. [0-40-iwara](#0-40-iwara)
-> 41. [0-41-jiong-ci-yuan](#0-41-jiong-ci-yuan)
-> 42. [0-42-jmcomic](#0-42-jmcomic)
-> 43. [0-43-keepass](#0-43-keepass)
-> 44. [0-44-kimi](#0-44-kimi)
-> 45. [0-45-kuaishou](#0-45-kuaishou)
-> 46. [0-46-kuaiwan](#0-46-kuaiwan)
-> 47. [0-47-lanraragi](#0-47-lanraragi)
-> 48. [0-48-linux](#0-48-linux)
-> 49. [0-49-logseq](#0-49-logseq)
-> 50. [0-50-macos](#0-50-macos)
-> 51. [0-51-mail-ru](#0-51-mail-ru)
-> 52. [0-52-manhuaren](#0-52-manhuaren)
-> 53. [0-53-mbalib-wiki](#0-53-mbalib-wiki)
-> 54. [0-54-microsoft-authenticator](#0-54-microsoft-authenticator)
-> 55. [0-55-microsoft-copilot](#0-55-microsoft-copilot)
-> 56. [0-56-microsoft-edge](#0-56-microsoft-edge)
-> 57. [0-57-microsoft-store](#0-57-microsoft-store)
-> 58. [0-58-mihon](#0-58-mihon)
-> 59. [0-59-misskey](#0-59-misskey)
-> 60. [0-60-moegirl](#0-60-moegirl)
-> 61. [0-61-mozilla-firefox](#0-61-mozilla-firefox)
-> 62. [0-62-myanimelist](#0-62-myanimelist)
-> 63. [0-63-nekogram](#0-63-nekogram)
-> 64. [0-64-netease-mail](#0-64-netease-mail)
-> 65. [0-65-nhentai](#0-65-nhentai)
-> 66. [0-66-nijimiss](#0-66-nijimiss)
-> 67. [0-67-noteapps-info](#0-67-noteapps-info)
-> 68. [0-68-notion](#0-68-notion)
-> 69. [0-69-obsidian](#0-69-obsidian)
-> 70. [0-70-onedrive](#0-70-onedrive)
-> 71. [0-71-outlook-com](#0-71-outlook-com)
-> 72. [0-72-picaacg](#0-72-picaacg)
-> 73. [0-73-pixiv](#0-73-pixiv)
-> 74. [0-74-potato](#0-74-potato)
-> 75. [0-75-pycharm](#0-75-pycharm)
-> 76. [0-76-qianwen](#0-76-qianwen)
-> 77. [0-77-qq-mail](#0-77-qq-mail)
-> 78. [0-78-qqgame](#0-78-qqgame)
-> 79. [0-79-quark-browser](#0-79-quark-browser)
-> 80. [0-80-quora](#0-80-quora)
-> 81. [0-81-reddit](#0-81-reddit)
-> 82. [0-82-saucenao-search](#0-82-saucenao-search)
-> 83. [0-83-session](#0-83-session)
-> 84. [0-84-simplex](#0-84-simplex)
-> 85. [0-85-siyuan](#0-85-siyuan)
-> 86. [0-86-slack](#0-86-slack)
-> 87. [0-87-soutubot-search](#0-87-soutubot-search)
-> 88. [0-88-steam](#0-88-steam)
-> 89. [0-89-tamtam](#0-89-tamtam)
-> 90. [0-90-taptap](#0-90-taptap)
-> 91. [0-91-telegram](#0-91-telegram)
-> 92. [0-92-tencent-appstore](#0-92-tencent-appstore)
-> 93. [0-93-tencent-meeting](#0-93-tencent-meeting)
-> 94. [0-94-tencent-qq](#0-94-tencent-qq)
-> 95. [0-95-tencent-wechat](#0-95-tencent-wechat)
-> 96. [0-96-tencent-yuanbao](#0-96-tencent-yuanbao)
-> 97. [0-97-tiddlywiki](#0-97-tiddlywiki)
-> 98. [0-98-tieba](#0-98-tieba)
-> 99. [0-99-tor-browser](#0-99-tor-browser)
-> 100. [0-100-trae](#0-100-trae)
-> 101. [0-101-twitter](#0-101-twitter)
-> 102. [0-102-typora](#0-102-typora)
-> 103. [0-103-uc-browser](#0-103-uc-browser)
-> 104. [0-104-vim](#0-104-vim)
-> 105. [0-105-visual-studio](#0-105-visual-studio)
-> 106. [0-106-visual-studio-code](#0-106-visual-studio-code)
-> 107. [0-107-webstorm](#0-107-webstorm)
-> 108. [0-108-wikihow](#0-108-wikihow)
-> 109. [0-109-wikipedia](#0-109-wikipedia)
-> 110. [0-110-windows-os](#0-110-windows-os)
-> 111. [0-111-yandex-search](#0-111-yandex-search)
-> 112. [0-112-youtube](#0-112-youtube)
-> 113. [0-113-zhihu](#0-113-zhihu)
+> 26. [0-26-emacs](#0-26-emacs)
+> 27. [0-27-f-driod](#0-27-f-driod)
+> 28. [0-28-gemini](#0-28-gemini)
+> 29. [0-29-github](#0-29-github)
+> 30. [0-30-github-copilot](#0-30-github-copilot)
+> 31. [0-31-gmail](#0-31-gmail)
+> 32. [0-32-google-authenticator](#0-32-google-authenticator)
+> 33. [0-33-google-chrome](#0-33-google-chrome)
+> 34. [0-34-google-play](#0-34-google-play)
+> 35. [0-35-google-search](#0-35-google-search)
+> 36. [0-36-hanime](#0-36-hanime)
+> 37. [0-37-hbuilder](#0-37-hbuilder)
+> 38. [0-38-hmoegirl](#0-38-hmoegirl)
+> 39. [0-39-huorong-app-store](#0-39-huorong-app-store)
+> 40. [0-40-intellij-idea](#0-40-intellij-idea)
+> 41. [0-41-ios](#0-41-ios)
+> 42. [0-42-iwara](#0-42-iwara)
+> 43. [0-43-jiong-ci-yuan](#0-43-jiong-ci-yuan)
+> 44. [0-44-jmcomic](#0-44-jmcomic)
+> 45. [0-45-keepass](#0-45-keepass)
+> 46. [0-46-kimi](#0-46-kimi)
+> 47. [0-47-kuaishou](#0-47-kuaishou)
+> 48. [0-48-kuaiwan](#0-48-kuaiwan)
+> 49. [0-49-lanraragi](#0-49-lanraragi)
+> 50. [0-50-linux](#0-50-linux)
+> 51. [0-51-logseq](#0-51-logseq)
+> 52. [0-52-macos](#0-52-macos)
+> 53. [0-53-mail-ru](#0-53-mail-ru)
+> 54. [0-54-manhuaren](#0-54-manhuaren)
+> 55. [0-55-mbalib-wiki](#0-55-mbalib-wiki)
+> 56. [0-56-microsoft-authenticator](#0-56-microsoft-authenticator)
+> 57. [0-57-microsoft-copilot](#0-57-microsoft-copilot)
+> 58. [0-58-microsoft-edge](#0-58-microsoft-edge)
+> 59. [0-59-microsoft-store](#0-59-microsoft-store)
+> 60. [0-60-mihon](#0-60-mihon)
+> 61. [0-61-misskey](#0-61-misskey)
+> 62. [0-62-moegirl](#0-62-moegirl)
+> 63. [0-63-mozilla-firefox](#0-63-mozilla-firefox)
+> 64. [0-64-myanimelist](#0-64-myanimelist)
+> 65. [0-65-nekogram](#0-65-nekogram)
+> 66. [0-66-netease-mail](#0-66-netease-mail)
+> 67. [0-67-nhentai](#0-67-nhentai)
+> 68. [0-68-nijimiss](#0-68-nijimiss)
+> 69. [0-69-noteapps-info](#0-69-noteapps-info)
+> 70. [0-70-notion](#0-70-notion)
+> 71. [0-71-obsidian](#0-71-obsidian)
+> 72. [0-72-onedrive](#0-72-onedrive)
+> 73. [0-73-outlook-com](#0-73-outlook-com)
+> 74. [0-74-picaacg](#0-74-picaacg)
+> 75. [0-75-pixiv](#0-75-pixiv)
+> 76. [0-76-potato](#0-76-potato)
+> 77. [0-77-pycharm](#0-77-pycharm)
+> 78. [0-78-qianwen](#0-78-qianwen)
+> 79. [0-79-qq-mail](#0-79-qq-mail)
+> 80. [0-80-qqgame](#0-80-qqgame)
+> 81. [0-81-quark-browser](#0-81-quark-browser)
+> 82. [0-82-quora](#0-82-quora)
+> 83. [0-83-reddit](#0-83-reddit)
+> 84. [0-84-saucenao-search](#0-84-saucenao-search)
+> 85. [0-85-session](#0-85-session)
+> 86. [0-86-simplex](#0-86-simplex)
+> 87. [0-87-siyuan](#0-87-siyuan)
+> 88. [0-88-slack](#0-88-slack)
+> 89. [0-89-soutubot-search](#0-89-soutubot-search)
+> 90. [0-90-steam](#0-90-steam)
+> 91. [0-91-tamtam](#0-91-tamtam)
+> 92. [0-92-taptap](#0-92-taptap)
+> 93. [0-93-telegram](#0-93-telegram)
+> 94. [0-94-tencent-appstore](#0-94-tencent-appstore)
+> 95. [0-95-tencent-meeting](#0-95-tencent-meeting)
+> 96. [0-96-tencent-qq](#0-96-tencent-qq)
+> 97. [0-97-tencent-wechat](#0-97-tencent-wechat)
+> 98. [0-98-tencent-yuanbao](#0-98-tencent-yuanbao)
+> 99. [0-99-tiddlywiki](#0-99-tiddlywiki)
+> 100. [0-100-tieba](#0-100-tieba)
+> 101. [0-101-tor-browser](#0-101-tor-browser)
+> 102. [0-102-trae](#0-102-trae)
+> 103. [0-103-twitter](#0-103-twitter)
+> 104. [0-104-typora](#0-104-typora)
+> 105. [0-105-uc-browser](#0-105-uc-browser)
+> 106. [0-106-vim](#0-106-vim)
+> 107. [0-107-visual-studio](#0-107-visual-studio)
+> 108. [0-108-visual-studio-code](#0-108-visual-studio-code)
+> 109. [0-109-webstorm](#0-109-webstorm)
+> 110. [0-110-wikihow](#0-110-wikihow)
+> 111. [0-111-wikipedia](#0-111-wikipedia)
+> 112. [0-112-windows-os](#0-112-windows-os)
+> 113. [0-113-yandex-search](#0-113-yandex-search)
+> 114. [0-114-youtube](#0-114-youtube)
+> 115. [0-115-zhihu](#0-115-zhihu)
 
 
 
@@ -2315,7 +2367,17 @@ Categories: acg, archive, gallery, hentai
 
 <img src="assets/e-hentai.svg" width="200">
 
-### 0-26-f-driod
+### 0-26-emacs
+
+> see: [GNU Emacs - GNU Project](https://www.gnu.org/software/emacs/)
+
+An extensible, customizable, free/libre text editor — and more. At its core is an interpreter for Emacs Lisp, a dialect of the Lisp programming language with extensions to support text editing.
+
+Categories: editor
+
+<img src="assets/emacs.png" width="200">
+
+### 0-27-f-driod
 
 > see: [F-Droid - Free and Open Source Android App Repository](https://f-droid.org/)
 
@@ -2325,7 +2387,7 @@ Categories: appstore
 
 <img src="assets/f-droid.png" width="200">
 
-### 0-27-gemini
+### 0-28-gemini
 
 > see: [Google Gemini](https://gemini.google.com/app)
 
@@ -2335,7 +2397,17 @@ Categories: ai-chatbot
 
 <img src="assets/gemini.png" width="200">
 
-### 0-28-github-copilot
+### 0-29-github
+
+> see: [GitHub · Change is constant. GitHub keeps you ahead.](https://github.com/home)
+
+Join the world's most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.
+
+Categories: web-hosting, version-control
+
+<img src="assets/github.png" width="200">
+
+### 0-30-github-copilot
 
 > see: [GitHub Copilot · Your AI pair programmer](https://github.com/features/copilot)
 
@@ -2345,7 +2417,7 @@ Categories: ai-chatbot
 
 <img src="assets/github-copilot-icon.svg" width="200">
 
-### 0-29-gmail
+### 0-31-gmail
 
 > see: [Gmail: Private and secure email at no cost | Google Workspace](https://workspace.google.com/gmail/)
 
@@ -2355,7 +2427,7 @@ Categories: email
 
 <img src="assets/gmail.png" width="200">
 
-### 0-30-google-authenticator
+### 0-32-google-authenticator
 
 > see: [Google Authenticator - Apps on Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US)
 
@@ -2365,7 +2437,7 @@ Categories: authenticator
 
 <img src="assets/google-authenticator.png" width="200">
 
-### 0-31-google-chrome
+### 0-33-google-chrome
 
 > see: [Google Chrome – Download the fast, secure browser from Google](https://www.google.com/intl/en_uk/chrome/)
 
@@ -2375,7 +2447,7 @@ Categories: browser
 
 <img src="assets/google-chrome.png" width="200">
 
-### 0-32-google-play
+### 0-34-google-play
 
 > see: [Android Apps on Google Play](https://play.google.com/store/games?device=windows)
 
@@ -2385,7 +2457,7 @@ Categories: appstore
 
 <img src="assets/google-play.png" width="200">
 
-### 0-33-google-search
+### 0-35-google-search
 
 > see: [Google](https://www.google.com)
 
@@ -2395,7 +2467,7 @@ Categories: search-engine
 
 <img src="assets/google-search.png" width="200">
 
-### 0-34-hanime
+### 0-36-hanime
 
 > see: [Hanime1.me - H動漫/裏番/線上看](https://hanime1.me/)
 
@@ -2405,7 +2477,7 @@ Categories: video-streaming, acg, hentai
 
 <img src="assets/hanime.png" width="200">
 
-### 0-35-hbuilder
+### 0-37-hbuilder
 
 > see: [HBuilderX - a superpowered IDE for Vue](https://www.dcloud.io/hbuilderx.html)
 
@@ -2415,7 +2487,7 @@ Categories: editor
 
 <img src="assets/hbuilder.png" width="200">
 
-### 0-36-hmoegirl
+### 0-38-hmoegirl
 
 > see: [H萌娘:关于 - H萌娘](https://hmoegirl.cyou/zh-hans/H%E8%90%8C%E5%A8%98:%E5%85%B3%E4%BA%8E)
 
@@ -2425,7 +2497,7 @@ Categories: encyclopedia, acg
 
 <img src="assets/hmoegirl-encyclopedia.png" width="200">
 
-### 0-37-huorong-app-store
+### 0-39-huorong-app-store
 
 > see: [应用商店-火绒安全](https://www.huorong.cn/app_store.html)
 
@@ -2435,7 +2507,7 @@ Categories: appstore
 
 <img src="assets/huorong-app-store.png" width="200">
 
-### 0-38-intellij-idea
+### 0-40-intellij-idea
 
 > see: [The Leading IDE for Professional Java and Kotlin Development](https://www.jetbrains.com/idea/)
 
@@ -2445,7 +2517,7 @@ Categories: editor
 
 <img src="assets/intellij-idea.png" width="200">
 
-### 0-39-ios
+### 0-41-ios
 
 > see: [OS - iOS 26 - Apple](https://www.apple.com/os/ios/)
 
@@ -2455,7 +2527,7 @@ Categories: operating-system
 
 <img src="assets/ios.png" width="200">
 
-### 0-40-iwara
+### 0-42-iwara
 
 > see: [Iwara.tv will return](https://iwara.tv/)
 
@@ -2465,7 +2537,7 @@ Categories: video-streaming, acg, hentai
 
 <img src="assets/iwara.png" width="200">
 
-### 0-41-jiong-ci-yuan
+### 0-43-jiong-ci-yuan
 
 > see: [囧次元](https://jcyapp.org/)
 
@@ -2475,7 +2547,7 @@ Categories: acg, video-streaming
 
 <img src="assets/jcyapp-org.png" width="200">
 
-### 0-42-jmcomic
+### 0-44-jmcomic
 
 > see: [免費A漫 - 禁漫天堂](https://18comic.vip/)
 
@@ -2485,7 +2557,7 @@ Categories: acg, archive, gallery, hentai
 
 <img src="assets/jmcomic.png" width="200">
 
-### 0-43-keepass
+### 0-45-keepass
 
 > see: [KeePass Password Safe](https://keepass.info/)
 
@@ -2495,7 +2567,7 @@ Categories: password-manager
 
 <img src="assets/keepass.png" width="200">
 
-### 0-44-kimi
+### 0-46-kimi
 
 > see: [Kimi - K2长思考上线](https://www.kimi.com/)
 
@@ -2505,7 +2577,7 @@ Categories: ai-chatbot
 
 <img src="assets/kimi.png" width="200">
 
-### 0-45-kuaishou
+### 0-47-kuaishou
 
 > see: [快手](https://www.kuaishou.com/new-reco)
 
@@ -2515,7 +2587,7 @@ Categories: video-streaming
 
 <img src="assets/kuaishou.png" width="200">
 
-### 0-46-kuaiwan
+### 0-48-kuaiwan
 
 > see: [kuaiwan-快玩-快玩游戏-快玩网页游戏-最齐全的网页游戏大全-我电脑里的全能网页游戏机]](https://www.kuaiwan.com/)
 
@@ -2525,7 +2597,7 @@ Categories: gamestore
 
 <img src="assets/kuaiwan.png" width="200">
 
-### 0-47-lanraragi
+### 0-49-lanraragi
 
 > see: [Difegue/LANraragi: Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.](https://github.com/Difegue/LANraragi)
 
@@ -2535,7 +2607,7 @@ Categories: acg, reader
 
 <img src="assets/lanraragi.png" width="200">
 
-### 0-48-linux
+### 0-50-linux
 
 > see: [Download Linux | Linux.org](https://www.linux.org/pages/download/)
 
@@ -2545,7 +2617,7 @@ Categories: operating-system
 
 <img src="assets/linux-os.png" width="200">
 
-### 0-49-logseq
+### 0-51-logseq
 
 > see: [Logseq: A privacy-first, open-source knowledge base](https://logseq.com/)
 
@@ -2555,7 +2627,7 @@ Categories: note-taking
 
 <img src="assets/logseq.png" width="200">
 
-### 0-50-macos
+### 0-52-macos
 
 > see: [OS - macOS Tahoe - Apple](https://www.apple.com/os/macos/)
 
@@ -2565,7 +2637,7 @@ Categories: operating-system
 
 <img src="assets/macos.png" width="200">
 
-### 0-51-mail-ru
+### 0-53-mail-ru
 
 > see: [Mail: Почта, Облако, Календарь, Заметки, Покупки — сервисы для работы и жизни](https://mail.ru/)
 
@@ -2575,7 +2647,7 @@ Categories: email
 
 <img src="assets/mail-ru.png" width="200">
 
-### 0-52-manhuaren
+### 0-54-manhuaren
 
 > see: [漫画人 - 为爱漫画的人而生](https://www.manhuaren.com/)
 
@@ -2585,7 +2657,7 @@ Categories: acg, gallery
 
 <img src="assets/manhuaren.png" width="200">
 
-### 0-53-mbalib-wiki
+### 0-55-mbalib-wiki
 
 > see: [MBA智库百科，全球专业中文经管百科](https://wiki.mbalib.com/wiki/%E9%A6%96%E9%A1%B5)
 
@@ -2595,7 +2667,7 @@ Categories: encyclopedia
 
 <img src="assets/mbalib-wiki.png" width="200">
 
-### 0-54-microsoft-authenticator
+### 0-56-microsoft-authenticator
 
 > see: [Microsoft Authenticator - Apps on Google Play](https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=en_US)
 
@@ -2605,7 +2677,7 @@ Categories: authenticator
 
 <img src="assets/microsoft-authenticator.png" width="200">
 
-### 0-55-microsoft-copilot
+### 0-57-microsoft-copilot
 
 > see: [Microsoft Copilot: Your AI companion](https://copilot.microsoft.com/)
 
@@ -2615,7 +2687,7 @@ Categories: ai-chatbot
 
 <img src="assets/microsoft-copilot.png" width="200">
 
-### 0-56-microsoft-edge
+### 0-58-microsoft-edge
 
 > see: [Download Microsoft Edge: Windows, macOS, iOS & Android](https://www.microsoft.com/en-us/edge/download?form=MA13FJ)
 
@@ -2625,7 +2697,7 @@ Categories: browser
 
 <img src="assets/microsoft-edge.png" width="200">
 
-### 0-57-microsoft-store
+### 0-59-microsoft-store
 
 > see: [Microsoft Store - Download apps, games & more for your Windows PC](https://apps.microsoft.com/home?hl=en-US&gl=US)
 
@@ -2635,7 +2707,7 @@ Categories: appstore
 
 <img src="assets/microsoft-store.png" width="200">
 
-### 0-58-mihon
+### 0-60-mihon
 
 > see: [Home | Mihon](https://mihon.app/)
 
@@ -2645,7 +2717,7 @@ Categories: acg, reader
 
 <img src="assets/mihon.png" width="200">
 
-### 0-59-misskey
+### 0-61-misskey
 
 > see: [Misskey Hub – Official website of the Misskey Project](https://misskey-hub.net/en/)
 
@@ -2655,7 +2727,7 @@ Categories: microblogging
 
 <img src="assets/misskey.png" width="200">
 
-### 0-60-moegirl
+### 0-62-moegirl
 
 > see: [萌娘百科 万物皆可萌的百科全书 - zh.moegirl.org.cn](https://mzh.moegirl.org.cn/Mainpage#/topics)
 
@@ -2665,7 +2737,7 @@ Categories: encyclopedia, acg
 
 <img src="assets/moegirl-encyclopedia.png" width="200">
 
-### 0-61-mozilla-firefox
+### 0-63-mozilla-firefox
 
 > see: [Get Firefox for desktop — Firefox (US)](https://www.firefox.com/en-US/)
 
@@ -2675,7 +2747,7 @@ Categories: browser
 
 <img src="assets/mozilla-firefox.png" width="200">
 
-### 0-62-myanimelist
+### 0-64-myanimelist
 
 > see: [MyAnimeList.net - Anime and Manga Database and Community](https://myanimelist.net/)
 
@@ -2685,7 +2757,7 @@ Categories: acg, database
 
 <img src="assets/myanimelist.png" width="200">
 
-### 0-63-nekogram
+### 0-65-nekogram
 
 > see: [Nekogram | Open-source third-party Telegram client with few but useful mods](https://nekogram.app/)
 
@@ -2695,7 +2767,7 @@ Categories: instant-messaging
 
 <img src="assets/nekogram.png" width="200">
 
-### 0-64-netease-mail
+### 0-66-netease-mail
 
 > see: [网易免费邮箱 - 你的专业电子邮局](https://email.163.com/)
 
@@ -2705,7 +2777,7 @@ Categories: email
 
 <img src="assets/netease-mail.png" width="200">
 
-### 0-65-nhentai
+### 0-67-nhentai
 
 > see: [nhentai: hentai doujinshi and manga](https://nhentai.net/)
 
@@ -2715,7 +2787,7 @@ Categories: acg, archive, gallery, hentai
 
 <img src="assets/nhentai.png" width="200">
 
-### 0-66-nijimiss
+### 0-68-nijimiss
 
 > see: [にじみす.moe](https://nijimiss.moe/)
 
@@ -2725,7 +2797,7 @@ Categories: microblogging
 
 <img src="assets/nijimiss.png" width="200">
 
-### 0-67-noteapps-info
+### 0-69-noteapps-info
 
 > see: [NoteApps.info: 41 best note taking apps analyzed over 343 features](https://noteapps.info/)
 
@@ -2735,7 +2807,7 @@ Categories: encyclopedia
 
 <img src="assets/noteapps-info.png" width="200">
 
-### 0-68-notion
+### 0-70-notion
 
 > see: [The AI workspace that works for you. | Notion](https://www.notion.com/product)
 
@@ -2745,7 +2817,7 @@ Categories: note-taking
 
 <img src="assets/notion.png" width="200">
 
-### 0-69-obsidian
+### 0-71-obsidian
 
 > see: [Obsidian - Sharpen your thinking](https://obsidian.md/)
 
@@ -2755,7 +2827,7 @@ Categories: note-taking
 
 <img src="assets/obsidian.png" width="200">
 
-### 0-70-onedrive
+### 0-72-onedrive
 
 > see: [Home - OneDrive](https://onedrive.live.com/)
 
@@ -2765,7 +2837,7 @@ Categories: cloud-disk
 
 <img src="assets/onedrive.png" width="200">
 
-### 0-71-outlook-com
+### 0-73-outlook-com
 
 > see: [What is Outlook? - Microsoft Support](https://support.microsoft.com/en-us/office/what-is-outlook-10f1fa35-f33a-4cb7-838c-a7f3e6228b20)
 
@@ -2775,7 +2847,7 @@ Categories: email
 
 <img src="assets/outlook-com.png" width="200">
 
-### 0-72-picaacg
+### 0-74-picaacg
 
 > see: [嗶咔漫畫](https://www.picacomic.com/)
 
@@ -2785,7 +2857,7 @@ Categories: acg, archive, gallery, hentai
 
 <img src="assets/picaacg.png" width="200">
 
-### 0-73-pixiv
+### 0-75-pixiv
 
 > see: [插畫、漫畫、小說作品交流服務 [pixiv]](https://www.pixiv.net/)
 
@@ -2795,7 +2867,7 @@ Categories: acg, community
 
 <img src="assets/pixiv.png" width="200">
 
-### 0-74-potato
+### 0-76-potato
 
 > see: [Potato](https://www.potato.im/)
 
@@ -2805,7 +2877,7 @@ Categories: instant-messaging
 
 <img src="assets/potato.png" width="200">
 
-### 0-75-pycharm
+### 0-77-pycharm
 
 > see: [PyCharm: The only Python IDE you need](https://www.jetbrains.com/pycharm/)
 
@@ -2815,7 +2887,7 @@ Categories: editor
 
 <img src="assets/pycharm.png" width="200">
 
-### 0-76-qianwen
+### 0-78-qianwen
 
 > see: [千问-Qwen最新模型体验-通义千问](https://www.qianwen.com/)
 
@@ -2825,7 +2897,7 @@ Categories: ai-chatbot
 
 <img src="assets/qianwen.png" width="200">
 
-### 0-77-qq-mail
+### 0-79-qq-mail
 
 > see: [登录QQ邮箱](https://wx.mail.qq.com/)
 
@@ -2835,7 +2907,7 @@ Categories: email
 
 <img src="assets/qq-mail.png" width="200">
 
-### 0-78-qqgame
+### 0-80-qqgame
 
 > see: [QQ游戏_QQ游戏大全_游戏下载_QQ游戏官网](https://qqgame.qq.com/)
 
@@ -2845,7 +2917,7 @@ Categories: gamestore
 
 <img src="assets/qqgame.png" width="200">
 
-### 0-79-quark-browser
+### 0-81-quark-browser
 
 > see: [夸克_阿里AI旗舰应用官网](https://www.quark.cn/)
 
@@ -2855,7 +2927,7 @@ Categories: browser, ai-chatbot
 
 <img src="assets/quark-browser.png" width="200">
 
-### 0-80-quora
+### 0-82-quora
 
 > see: [Quora](https://www.quora.com/)
 
@@ -2865,7 +2937,7 @@ Categories: qa-system
 
 <img src="assets/quora.png" width="200">
 
-### 0-81-reddit
+### 0-83-reddit
 
 > see: [Reddit - The heart of the internet](https://www.reddit.com/)
 
@@ -2875,7 +2947,7 @@ Categories: forum
 
 <img src="assets/reddit.png" width="200">
 
-### 0-82-saucenao-search
+### 0-84-saucenao-search
 
 > see: [About SauceNAO](https://saucenao.com/about.html)
 
@@ -2885,7 +2957,7 @@ Categories: search-engine
 
 <img src="assets/saurcenao-search.png" width="200">
 
-### 0-83-session
+### 0-85-session
 
 > see: [Session | Send Messages, Not Metadata. | Private Messenger](https://getsession.org/)
 
@@ -2895,7 +2967,7 @@ Categories: instant-messaging
 
 <img src="assets/session.png" width="200">
 
-### 0-84-simplex
+### 0-86-simplex
 
 > see: [SimpleX Chat: private and secure messenger without any user IDs (not even random)](https://simplex.chat/)
 
@@ -2905,7 +2977,7 @@ Categories: instant-messaging
 
 <img src="assets/simplex.png" width="200">
 
-### 0-85-siyuan
+### 0-87-siyuan
 
 > see: [SiYuan - Privacy-first personal knowledge management system that supports Markdown, block-level ref, and bidirectional links](https://b3log.org/siyuan/en/)
 
@@ -2915,7 +2987,7 @@ Categories: note-taking
 
 <img src="assets/siyuan-note.png" width="200">
 
-### 0-86-slack
+### 0-88-slack
 
 > see: [Slack | AI Work Platform & Productivity Tools](https://slack.com/)
 
@@ -2925,7 +2997,7 @@ Categories: instant-messaging
 
 <img src="assets/slack.png" width="200">
 
-### 0-87-soutubot-search
+### 0-89-soutubot-search
 
 > see: [搜图Bot酱](https://soutubot.moe/)
 
@@ -2935,7 +3007,7 @@ Categories: search-engine
 
 <img src="assets/soutubot-moe.png" width="200">
 
-### 0-88-steam
+### 0-90-steam
 
 > see: [Welcome to Steam](https://store.steampowered.com/)
 
@@ -2945,7 +3017,7 @@ Categories: gamestore
 
 <img src="assets/steam.png" width="200">
 
-### 0-89-tamtam
+### 0-91-tamtam
 
 > see: [About messenger | TamTam](https://about.tamtam.chat/en/)
 
@@ -2955,7 +3027,7 @@ Categories: instant-messaging
 
 <img src="assets/tamtam.png" width="200">
 
-### 0-90-taptap
+### 0-92-taptap
 
 > see: [TapTap - 发现好游戏](https://www.taptap.cn/)
 
@@ -2965,7 +3037,7 @@ Categories: gamestore
 
 <img src="assets/taptap.png" width="200">
 
-### 0-91-telegram
+### 0-93-telegram
 
 > see: [Telegram Messenger](https://telegram.org/)
 
@@ -2975,7 +3047,7 @@ Categories: instant-messaging
 
 <img src="assets/telegram.png" width="200">
 
-### 0-92-tencent-appstore
+### 0-94-tencent-appstore
 
 > see: [应用宝官网-全网最新最热手机应用游戏下载](https://sj.qq.com/)
 
@@ -2985,7 +3057,7 @@ Categories: appstore
 
 <img src="assets/tencent-appstore.png" width="200">
 
-### 0-93-tencent-meeting
+### 0-95-tencent-meeting
 
 > see: [腾讯会议官方——腾讯会议 会开会](https://meeting.tencent.com/)
 
@@ -2995,7 +3067,7 @@ Categories: instant-messaging
 
 <img src="assets/tencent-meeting.png" width="200">
 
-### 0-94-tencent-qq
+### 0-96-tencent-qq
 
 > see: [QQ-轻松做自己](https://im.qq.com/index/)
 
@@ -3005,7 +3077,7 @@ Categories: instant-messaging
 
 <img src="assets/tencent-qq.png" width="200">
 
-### 0-95-tencent-wechat
+### 0-97-tencent-wechat
 
 > see: [WeChat - Free messaging and calling app](https://www.wechat.com/)
 
@@ -3015,7 +3087,7 @@ Categories: instant-messaging
 
 <img src="assets/tencent-wechat.png" width="200">
 
-### 0-96-tencent-yuanbao
+### 0-98-tencent-yuanbao
 
 > see: [元宝-体验DeepSeek全新版-高效AI助手](https://yuanbao.tencent.com/)
 
@@ -3025,7 +3097,7 @@ Categories: ai-chatbot
 
 <img src="assets/tencent-yuanbao.png" width="200">
 
-### 0-97-tiddlywiki
+### 0-99-tiddlywiki
 
 > see: [TiddlyWiki  v5.3.8](https://tiddlywiki.com/)
 
@@ -3035,7 +3107,7 @@ Categories: note-taking
 
 <img src="assets/tiddly-wiki.png" width="200">
 
-### 0-98-tieba
+### 0-100-tieba
 
 > see: [百度贴吧——全球领先的中文社区](https://tieba.baidu.com/)
 
@@ -3045,7 +3117,7 @@ Categories: forum
 
 <img src="assets/baidu-tieba.png" width="200">
 
-### 0-99-tor-browser
+### 0-101-tor-browser
 
 > see: [Tor Project | Download](https://www.torproject.la/en/download/)
 
@@ -3055,7 +3127,7 @@ Categories: browser
 
 <img src="assets/tor-browser.png" width="200">
 
-### 0-100-trae
+### 0-102-trae
 
 > see: [TRAE - The Real AI Engineer | TRAE - The Real AI Engineer](https://www.trae.cn/)
 
@@ -3065,7 +3137,7 @@ Categories: editor
 
 <img src="assets/trae.png" width="200">
 
-### 0-101-twitter
+### 0-103-twitter
 
 > see: [About X | Our company and priorities](https://about.x.com/en)
 
@@ -3075,7 +3147,7 @@ Categories: microblogging
 
 <img src="assets/x-com.png" width="200">
 
-### 0-102-typora
+### 0-104-typora
 
 > see: [Typora — simple yet powerful Markdown reader.](https://typora.io/)
 
@@ -3085,7 +3157,7 @@ Categories: editor
 
 <img src="assets/typora.png" width="200">
 
-### 0-103-uc-browser
+### 0-105-uc-browser
 
 > see: [UC Browser](https://www.ucweb.com/index.shtml)
 
@@ -3095,7 +3167,7 @@ Categories: browser
 
 <img src="assets/uc-browser.png" width="200">
 
-### 0-104-vim
+### 0-106-vim
 
 > see: [welcome home : vim online](https://www.vim.org/)
 
@@ -3105,7 +3177,7 @@ Categories: editor
 
 <img src="assets/vim.png" width="200">
 
-### 0-105-visual-studio
+### 0-107-visual-studio
 
 > see: [Visual Studio: IDE and Code Editor for Software Development](https://visualstudio.microsoft.com/)
 
@@ -3115,7 +3187,7 @@ Categories: editor
 
 <img src="assets/visual-studio.png" width="200">
 
-### 0-106-visual-studio-code
+### 0-108-visual-studio-code
 
 > see: [Visual Studio Code - The open source AI code editor](https://code.visualstudio.com/)
 
@@ -3125,7 +3197,7 @@ Categories: editor
 
 <img src="assets/vscode.png" width="200">
 
-### 0-107-webstorm
+### 0-109-webstorm
 
 > see: [WebStorm: The JavaScript and TypeScript IDE, by JetBrains](https://www.jetbrains.com/webstorm/)
 
@@ -3135,7 +3207,7 @@ Categories: editor
 
 <img src="assets/webstorm.png" width="200">
 
-### 0-108-wikihow
+### 0-110-wikihow
 
 > see: [wikiHow: How-to instructions you can trust.](https://www.wikihow.com/Main-Page)
 
@@ -3145,7 +3217,7 @@ Categories: encyclopedia
 
 <img src="assets/wikihow.png" width="200">
 
-### 0-109-wikipedia
+### 0-111-wikipedia
 
 > see: [Wikipedia](https://www.wikipedia.org/)
 
@@ -3155,7 +3227,7 @@ Categories: encyclopedia
 
 <img src="assets/wikipedia.png" width="200">
 
-### 0-110-windows-os
+### 0-112-windows-os
 
 > see: [Experience the Power of AI with Windows 11 OS, Computers, & Apps | Microsoft Windows](https://www.microsoft.com/en-us/windows/)
 
@@ -3165,7 +3237,7 @@ Categories: operating-system
 
 <img src="assets/windows-os.png" width="200">
 
-### 0-111-yandex-search
+### 0-113-yandex-search
 
 > see: [Yandex — fast Internet search](https://yandex.com)
 
@@ -3175,7 +3247,7 @@ Categories: search-engine
 
 <img src="assets/yandex-search.png" width="200">
 
-### 0-112-youtube
+### 0-114-youtube
 
 > see: [YouTube](https://www.youtube.com/)
 
@@ -3185,7 +3257,7 @@ Categories: video-streaming
 
 <img src="assets/youtube.png" width="200">
 
-### 0-113-zhihu
+### 0-115-zhihu
 
 > see: [知乎 - 有问题，就会有答案](https://www.zhihu.com/)
 
