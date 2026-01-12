@@ -102,7 +102,7 @@ class SiteRenderer {
         const fm = this.fm.safeFrontmatter(file);
         const subpages = this.fm.safeArray(fm.subpages);
 
-        const olHeader = `> [!Note]\n> \n> #### [site-items](#site-items)/[category](#category)/**${slug}**/\n> \n> | \\# | [Site-Items](#site-items) | [Category](#category) | Icon | Description |\n> | --- | --- | --- | --- | --- |\n`;
+        const olHeader = `> [!Note]\n> \n> #### [type](#type)/[category](#category)/**${slug}**/\n> \n> | \\# | [Site-Items](#site-items) | [Category](#category) | Icon | Description |\n> | --- | --- | --- | --- | --- |\n`;
 
         const olRows = subpages.map((link, j) => {
             const n = j + 1;
@@ -152,7 +152,7 @@ class MOCBuilder {
     // build the category index table (first section)
     _buildCategoryIndex(sitecategories) {
         return (
-            "> [!Note]\n> \n> #### [site-items](#site-items)/category/\n> \n> | \\\# | [Category](#category) | [Site-Items](#site-items) | Icon |\n> | --- | --- | --- | --- |\n" +
+            "> [!Note]\n> \n> #### [type](#type)/category/\n> \n> | \\\# | [Category](#category) | [Site-Items](#site-items) | Icon |\n> | --- | --- | --- | --- |\n" +
             sitecategories
                 .map((f, i) => {
                     const m = i + 1;
@@ -184,7 +184,7 @@ class MOCBuilder {
 
     _buildSiteItemsIndex(siteitems, sitecategories) {
         return (
-            "> [!Note]\n> \n> #### site-items/\n> \n> | \\\# | [Site-Items](#site-items) | [Category](#category) | Icon | Description |\n> | --- | --- | --- | --- | --- |\n" +
+            "> [!Note]\n> \n> #### [type](#type)/site-items/\n> \n> | \\\# | [Site-Items](#site-items) | [Category](#category) | Icon | Description |\n> | --- | --- | --- | --- | --- |\n" +
             siteitems
                 .map((f, j) => {
                     const n = j + 1;
@@ -207,7 +207,8 @@ class MOCBuilder {
         const { siteitems, sitecategories } = this._getSiteFiles();
 
         const parts = [];
-        parts.push('## category\n');
+        parts.push('## type\n\n- [category](#category)\n- [site-items](#site-items)');
+        parts.push('\n## category\n');
         parts.push(this._buildCategoryIndex(sitecategories));
         parts.push('\n');
         parts.push(this._buildCategorySections(sitecategories));
@@ -216,7 +217,7 @@ class MOCBuilder {
         parts.push(this._buildSiteItemsIndex(siteitems, sitecategories));
         parts.push('\n\n');
         parts.push(this._buildSiteItemsSections(siteitems, sitecategories));
-        parts.push('\n## type\n- [category](#category)\n- [site-items](#site-items)');
+        
 
         return parts.join('\n') + '\n';
     }

@@ -5,11 +5,16 @@ This article showcases 115 websites bookmarked by abc202306.
 
 Keywords: awesome list, website, github repo
 
+## type
+
+- [category](#category)
+- [site-items](#site-items)
+
 ## category
 
 > [!Note]
 > 
-> #### [site-items](#site-items)/category/
+> #### [type](#type)/category/
 > 
 > | \# | [Category](#category) | [Site-Items](#site-items) | Icon |
 > | --- | --- | --- | --- |
@@ -46,7 +51,7 @@ Keywords: awesome list, website, github repo
 
 > [!Note]
 > 
-> #### [site-items](#site-items)/[category](#category)/**acg**/
+> #### [type](#type)/[category](#category)/**acg**/
 > 
 > | \# | [Site-Items](#site-items) | [Category](#category) | Icon | Description |
 > | --- | --- | --- | --- | --- |
@@ -265,7 +270,7 @@ Hanime1.me 帶給你最完美的H動漫、H動畫、裏番、里番、成人色�
 
 > [!Note]
 > 
-> #### [site-items](#site-items)/[category](#category)/**ai-chatbot**/
+> #### [type](#type)/[category](#category)/**ai-chatbot**/
 > 
 > | \# | [Site-Items](#site-items) | [Category](#category) | Icon | Description |
 > | --- | --- | --- | --- | --- |
@@ -442,7 +447,7 @@ Kimi K2长思考模式来了！支持多轮工具调用与思考，擅长数理�
 
 > [!Note]
 > 
-> #### [site-items](#site-items)/[category](#category)/**appstore**/
+> #### [type](#type)/[category](#category)/**appstore**/
 > 
 > | \# | [Site-Items](#site-items) | [Category](#category) | Icon | Description |
 > | --- | --- | --- | --- | --- |
@@ -563,7 +568,7 @@ F-Droid is an installable catalogue of FOSS (Free and Open Source Software) appl
 
 > [!Note]
 > 
-> #### [site-items](#site-items)/[category](#category)/**archive**/
+> #### [type](#type)/[category](#category)/**archive**/
 > 
 > | \# | [Site-Items](#site-items) | [Category](#category) | Icon | Description |
 > | --- | --- | --- | --- | --- |
@@ -628,7 +633,7 @@ nhentai is a free hentai manga and doujinshi reader with over 575,000 galleries 
 
 > [!Note]
 > 
-> #### [site-items](#site-items)/[category](#category)/**authenticator**/
+> #### [type](#type)/[category](#category)/**authenticator**/
 > 
 > | \# | [Site-Items](#site-items) | [Category](#category) | Icon | Description |
 > | --- | --- | --- | --- | --- |
@@ -665,7 +670,7 @@ Safety starts with understanding how developers collect and share your data. Dat
 
 > [!Note]
 > 
-> #### [site-items](#site-items)/[category](#category)/**browser**/
+> #### [type](#type)/[category](#category)/**browser**/
 > 
 > | \# | [Site-Items](#site-items) | [Category](#category) | Icon | Description |
 > | --- | --- | --- | --- | --- |
@@ -758,7 +763,7 @@ Download UC Browser today and enjoy a faster, safer, and more private online exp
 
 > [!Note]
 > 
-> #### [site-items](#site-items)/[category](#category)/**cloud-disk**/
+> #### [type](#type)/[category](#category)/**cloud-disk**/
 > 
 > | \# | [Site-Items](#site-items) | [Category](#category) | Icon | Description |
 > | --- | --- | --- | --- | --- |
@@ -795,7 +800,7 @@ Microsoft OneDrive is a file-hosting service operated by Microsoft. First releas
 
 > [!Note]
 > 
-> #### [site-items](#site-items)/[category](#category)/**community**/
+> #### [type](#type)/[category](#category)/**community**/
 > 
 > | \# | [Site-Items](#site-items) | [Category](#category) | Icon | Description |
 > | --- | --- | --- | --- | --- |
@@ -818,7 +823,7 @@ Pixiv[a] (Japanese: ピクシブ, Hepburn: Pikushibu) is a Japanese online commu
 
 > [!Note]
 > 
-> #### [site-items](#site-items)/[category](#category)/**database**/
+> #### [type](#type)/[category](#category)/**database**/
 > 
 > | \# | [Site-Items](#site-items) | [Category](#category) | Icon | Description |
 > | --- | --- | --- | --- | --- |
@@ -855,7 +860,7 @@ Welcome to MyAnimeList, the world's most active online anime and manga community
 
 > [!Note]
 > 
-> #### [site-items](#site-items)/[category](#category)/**editor**/
+> #### [type](#type)/[category](#category)/**editor**/
 > 
 > | \# | [Site-Items](#site-items) | [Category](#category) | Icon | Description |
 > | --- | --- | --- | --- | --- |
@@ -1032,7 +1037,7 @@ An extensible, customizable, free/libre text editor — and more. At its core is
 
 > [!Note]
 > 
-> #### [site-items](#site-items)/[category](#category)/**email**/
+> #### [type](#type)/[category](#category)/**email**/
 > 
 > | \# | [Site-Items](#site-items) | [Category](#category) | Icon | Description |
 > | --- | --- | --- | --- | --- |
@@ -1111,7 +1116,7 @@ QQ邮箱，提供qq.com、foxmail.com后缀的安全、稳定、快速、便捷�
 
 > [!Note]
 > 
-> #### [site-items](#site-items)/[category](#category)/**encyclopedia**/
+> #### [type](#type)/[category](#category)/**encyclopedia**/
 > 
 > | \# | [Site-Items](#site-items) | [Category](#category) | Icon | Description |
 > | --- | --- | --- | --- | --- |
@@ -1218,7 +1223,7 @@ Encyclopedia of note taking apps: Screenshots, feature lists, and pricing for po
 
 > [!Note]
 > 
-> #### [site-items](#site-items)/[category](#category)/**forum**/
+> #### [type](#type)/[category](#category)/**forum**/
 > 
 > | \# | [Site-Items](#site-items) | [Category](#category) | Icon | Description |
 > | --- | --- | --- | --- | --- |
@@ -1255,7 +1260,7 @@ Reddit is where millions of people gather for conversations about the things the
 
 > [!Note]
 > 
-> #### [site-items](#site-items)/[category](#category)/**gallery**/
+> #### [type](#type)/[category](#category)/**gallery**/
 > 
 > | \# | [Site-Items](#site-items) | [Category](#category) | Icon | Description |
 > | --- | --- | --- | --- | --- |
@@ -1334,7 +1339,7 @@ nhentai is a free hentai manga and doujinshi reader with over 575,000 galleries 
 
 > [!Note]
 > 
-> #### [site-items](#site-items)/[category](#category)/**gamestore**/
+> #### [type](#type)/[category](#category)/**gamestore**/
 > 
 > | \# | [Site-Items](#site-items) | [Category](#category) | Icon | Description |
 > | --- | --- | --- | --- | --- |
@@ -1399,7 +1404,7 @@ QQ游戏大厅官网，下载QQ游戏大厅，玩QQ游戏全游戏；
 
 > [!Note]
 > 
-> #### [site-items](#site-items)/[category](#category)/**hentai**/
+> #### [type](#type)/[category](#category)/**hentai**/
 > 
 > | \# | [Site-Items](#site-items) | [Category](#category) | Icon | Description |
 > | --- | --- | --- | --- | --- |
@@ -1492,7 +1497,7 @@ Hanime1.me 帶給你最完美的H動漫、H動畫、裏番、里番、成人色�
 
 > [!Note]
 > 
-> #### [site-items](#site-items)/[category](#category)/**instant-messaging**/
+> #### [type](#type)/[category](#category)/**instant-messaging**/
 > 
 > | \# | [Site-Items](#site-items) | [Category](#category) | Icon | Description |
 > | --- | --- | --- | --- | --- |
@@ -1669,7 +1674,7 @@ Open-source third-party Telegram client with few but useful mods
 
 > [!Note]
 > 
-> #### [site-items](#site-items)/[category](#category)/**microblogging**/
+> #### [type](#type)/[category](#category)/**microblogging**/
 > 
 > | \# | [Site-Items](#site-items) | [Category](#category) | Icon | Description |
 > | --- | --- | --- | --- | --- |
@@ -1720,7 +1725,7 @@ This is the official site for Misskey, a decentralized social networking softwar
 
 > [!Note]
 > 
-> #### [site-items](#site-items)/[category](#category)/**note-taking**/
+> #### [type](#type)/[category](#category)/**note-taking**/
 > 
 > | \# | [Site-Items](#site-items) | [Category](#category) | Icon | Description |
 > | --- | --- | --- | --- | --- |
@@ -1813,7 +1818,7 @@ Build custom agents, search across all your apps, and automate busywork. The AI 
 
 > [!Note]
 > 
-> #### [site-items](#site-items)/[category](#category)/**operating-system**/
+> #### [type](#type)/[category](#category)/**operating-system**/
 > 
 > | \# | [Site-Items](#site-items) | [Category](#category) | Icon | Description |
 > | --- | --- | --- | --- | --- |
@@ -1892,7 +1897,7 @@ Android unites the world! Use the open source Android operating system to power 
 
 > [!Note]
 > 
-> #### [site-items](#site-items)/[category](#category)/**password-manager**/
+> #### [type](#type)/[category](#category)/**password-manager**/
 > 
 > | \# | [Site-Items](#site-items) | [Category](#category) | Icon | Description |
 > | --- | --- | --- | --- | --- |
@@ -1943,7 +1948,7 @@ Bitwarden is the most trusted password manager for passwords and passkeys at hom
 
 > [!Note]
 > 
-> #### [site-items](#site-items)/[category](#category)/**qa-system**/
+> #### [type](#type)/[category](#category)/**qa-system**/
 > 
 > | \# | [Site-Items](#site-items) | [Category](#category) | Icon | Description |
 > | --- | --- | --- | --- | --- |
@@ -1980,7 +1985,7 @@ Quora is an American social question-and-answer website and online knowledge mar
 
 > [!Note]
 > 
-> #### [site-items](#site-items)/[category](#category)/**reader**/
+> #### [type](#type)/[category](#category)/**reader**/
 > 
 > | \# | [Site-Items](#site-items) | [Category](#category) | Icon | Description |
 > | --- | --- | --- | --- | --- |
@@ -2017,7 +2022,7 @@ application for archival and reading of manga/doujinshi. Lightweight and Docker-
 
 > [!Note]
 > 
-> #### [site-items](#site-items)/[category](#category)/**search-engine**/
+> #### [type](#type)/[category](#category)/**search-engine**/
 > 
 > | \# | [Site-Items](#site-items) | [Category](#category) | Icon | Description |
 > | --- | --- | --- | --- | --- |
@@ -2124,7 +2129,7 @@ SauceNAO is a reverse image search engine. The name 'SauceNAO' is derived from a
 
 > [!Note]
 > 
-> #### [site-items](#site-items)/[category](#category)/**version-control**/
+> #### [type](#type)/[category](#category)/**version-control**/
 > 
 > | \# | [Site-Items](#site-items) | [Category](#category) | Icon | Description |
 > | --- | --- | --- | --- | --- |
@@ -2147,7 +2152,7 @@ Join the world's most widely adopted, AI-powered developer platform where millio
 
 > [!Note]
 > 
-> #### [site-items](#site-items)/[category](#category)/**video-streaming**/
+> #### [type](#type)/[category](#category)/**video-streaming**/
 > 
 > | \# | [Site-Items](#site-items) | [Category](#category) | Icon | Description |
 > | --- | --- | --- | --- | --- |
@@ -2254,7 +2259,7 @@ Hanime1.me 帶給你最完美的H動漫、H動畫、裏番、里番、成人色�
 
 > [!Note]
 > 
-> #### [site-items](#site-items)/[category](#category)/**web-hosting**/
+> #### [type](#type)/[category](#category)/**web-hosting**/
 > 
 > | \# | [Site-Items](#site-items) | [Category](#category) | Icon | Description |
 > | --- | --- | --- | --- | --- |
@@ -2278,7 +2283,7 @@ Join the world's most widely adopted, AI-powered developer platform where millio
 
 > [!Note]
 > 
-> #### site-items/
+> #### [type](#type)/site-items/
 > 
 > | \# | [Site-Items](#site-items) | [Category](#category) | Icon | Description |
 > | --- | --- | --- | --- | --- |
@@ -3894,7 +3899,3 @@ Enjoy the videos and music you love, upload original content, and share it all w
 | --- | --- |
 | [Category](#category) |  [qa-system](#22-qa-system) |
 | [Type](#type) | [site-items](#site-items) |
-
-## type
-- [category](#category)
-- [site-items](#site-items)
