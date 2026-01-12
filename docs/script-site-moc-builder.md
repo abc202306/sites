@@ -93,7 +93,7 @@ class SiteRenderer {
         const categories = this.getCategoryArrStr(itemFile, categoryFiles);
         const icon = fm.icon ? this.parser.getImageElem(fm.icon) : '';
 
-        return `${headerMarker} ${title}\n\n> see: [${displayTitle}](${url})\n\n${description}\n\nCategories: ${categories}\n\n${icon}`;
+        return `${headerMarker} ${title}\n\n> see: [${displayTitle}](${url})\n\n${description}\n\n${icon}\n\n| | |\n| --- | --- |\n| [Category](#category) |  ${categories} |\n| [Type](#type) | [site-items](#site-items) |`;
     }
 
     getSiteCategorySection(file, m, categoryFiles) {
@@ -216,6 +216,7 @@ class MOCBuilder {
         parts.push(this._buildSiteItemsIndex(siteitems, sitecategories));
         parts.push('\n\n');
         parts.push(this._buildSiteItemsSections(siteitems, sitecategories));
+        parts.push('\n## type\n- [category](#category)\n- [site-items](#site-items)');
 
         return parts.join('\n') + '\n';
     }

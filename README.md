@@ -72,9 +72,12 @@ Keywords: awesome list, website, github repo
 
 Jiongciyuan (囧次元) is an Android video streaming app focused on Japanese animation, allowing for real-time comments and interaction.  You can avoid frequent ads by watching free advertisements to earn temporary membership.
 
-Categories: [acg](#1-acg), [video-streaming](#26-video-streaming)
-
 <img src="assets/jcyapp-org.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [video-streaming](#26-video-streaming) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 1-2-anidb
 
@@ -82,9 +85,12 @@ Categories: [acg](#1-acg), [video-streaming](#26-video-streaming)
 
 Looking for information about Anime? AniDB is the right place for you. AniDB is a not-for-profit anime database providing you with all information reg...
 
-Categories: [acg](#1-acg), [database](#9-database)
-
 <img src="assets/anidb.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [database](#9-database) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 1-3-myanimelist
 
@@ -92,9 +98,12 @@ Categories: [acg](#1-acg), [database](#9-database)
 
 Welcome to MyAnimeList, the world's most active online anime and manga community and database. Join the online community, create your anime and manga list, read reviews, explore the forums, follow news, and so much more! <br><br>`{"keywords":"anime, myanimelist, anime news, manga"}`
 
-Categories: [acg](#1-acg), [database](#9-database)
-
 <img src="assets/myanimelist.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [database](#9-database) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 1-4-e-hentai
 
@@ -102,9 +111,12 @@ Categories: [acg](#1-acg), [database](#9-database)
 
 With more than a million absolutely free hentai doujinshi, manga, cosplay and CG galleries, E-Hentai Galleries is the world's largest free Hentai archive.
 
-Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai)
-
 <img src="assets/e-hentai.svg" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 1-5-nhentai
 
@@ -112,9 +124,12 @@ Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [henta
 
 nhentai is a free hentai manga and doujinshi reader with over 575,000 galleries to read and download. 
 
-Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai)
-
 <img src="assets/nhentai.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 1-6-jmcomic
 
@@ -122,9 +137,12 @@ Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [henta
 
 免費A漫 - 免費成人H漫線上看
 
-Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai)
-
 <img src="assets/jmcomic.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 1-7-picaacg
 
@@ -132,9 +150,12 @@ Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [henta
 
 嗶咔漫畫讓你可以輕鬆看到不同的本子，介面美觀易用，分類齊全，每天更新，紳士必備！
 
-Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai)
-
 <img src="assets/picaacg.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 1-8-manhuaren
 
@@ -142,9 +163,12 @@ Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [henta
 
 漫画人：给你最好的掌上漫画应用体验，速度最快、最专业的漫画应用。<br><br>`{"author":"漫画人:为爱漫画的人而生、manhuaren.com","keywords":"漫画人：最好的掌上漫画应用"}`
 
-Categories: [acg](#1-acg), [gallery](#14-gallery)
-
 <img src="assets/manhuaren.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [gallery](#14-gallery) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 1-9-mihon
 
@@ -152,9 +176,12 @@ Categories: [acg](#1-acg), [gallery](#14-gallery)
 
 Discover and read manga, webtoons, comics, and more – easier than ever on your Android device.
 
-Categories: [acg](#1-acg), [reader](#23-reader)
-
 <img src="assets/mihon.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [reader](#23-reader) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 1-10-lanraragi
 
@@ -162,9 +189,12 @@ Categories: [acg](#1-acg), [reader](#23-reader)
 
 application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.<br><br>`{"link":"lrr.tvc-16.science","Topics": "docker server perl management manga comics reader mojolicious opds doujinshi nas hacktoberfest sadpanda"}`
 
-Categories: [acg](#1-acg), [reader](#23-reader)
-
 <img src="assets/lanraragi.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [reader](#23-reader) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 1-11-moegirl
 
@@ -172,9 +202,12 @@ Categories: [acg](#1-acg), [reader](#23-reader)
 
 `{"keywords":"萌娘,百科,wiki,梗,娘化,萝莉,动画,漫画,动漫,游戏,音乐,宅腐,ACG,anime,comic,game,GalGame"}`
 
-Categories: [encyclopedia](#12-encyclopedia), [acg](#1-acg)
-
 <img src="assets/moegirl-encyclopedia.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [encyclopedia](#12-encyclopedia), [acg](#1-acg) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 1-12-hmoegirl
 
@@ -182,9 +215,12 @@ Categories: [encyclopedia](#12-encyclopedia), [acg](#1-acg)
 
 H萌娘是一个关于H萌的wiki。 <br>H萌娘的收录的条目要满足两点：既属于**H**（hentai/エロ）又属于**萌**（二次元）。 <br>目前主要由 User:BakeWater 为H萌娘提供服务器方面的支持。
 
-Categories: [encyclopedia](#12-encyclopedia), [acg](#1-acg)
-
 <img src="assets/hmoegirl-encyclopedia.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [encyclopedia](#12-encyclopedia), [acg](#1-acg) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 1-13-pixiv
 
@@ -192,9 +228,12 @@ Categories: [encyclopedia](#12-encyclopedia), [acg](#1-acg)
 
 Pixiv[a] (Japanese: ピクシブ, Hepburn: Pikushibu) is a Japanese online community for artists.
 
-Categories: [acg](#1-acg), [community](#8-community)
-
 <img src="assets/pixiv.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [community](#8-community) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 1-14-iwara
 
@@ -202,9 +241,12 @@ Categories: [acg](#1-acg), [community](#8-community)
 
 Iwara.tv is niche website for MMD (MikuMikuDance) and R18 models.
 
-Categories: [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai)
-
 <img src="assets/iwara.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 1-15-hanime
 
@@ -212,9 +254,12 @@ Categories: [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-
 
 Hanime1.me 帶給你最完美的H動漫、H動畫、裏番、里番、成人色情卡通片的線上看體驗，絕對沒有天殺的片頭廣告！
 
-Categories: [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai)
-
 <img src="assets/hanime.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 2-ai-chatbot
 
@@ -243,9 +288,12 @@ Categories: [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-
 
 深度求索（DeepSeek），成立于2023年，专注于研究世界领先的通用人工智能底层模型与技术，挑战人工智能前沿性难题。基于自研训练框架、自建智算集群和万卡算力等资源，深度求索团队仅用半年时间便已发布并开源多个百亿级参数大模型，如DeepSeek-LLM通用大语言模型、DeepSeek-Coder代码大模型，并在2024年1月率先开源国内首个MoE大模型（DeepSeek-MoE），各大模型在公开评测榜单及真实样本外的泛化效果均有超越同级别模型的出色表现。和 DeepSeek AI 对话，轻松接入 API。
 
-Categories: [ai-chatbot](#2-ai-chatbot)
-
 <img src="assets/deepseek.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 2-2-microsoft-copilot
 
@@ -253,9 +301,12 @@ Categories: [ai-chatbot](#2-ai-chatbot)
 
 Microsoft Copilot is your companion to inform, entertain and inspire. Get advice, feedback and straightforward answers. Try Copilot now.
 
-Categories: [ai-chatbot](#2-ai-chatbot)
-
 <img src="assets/microsoft-copilot.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 2-3-chatgpt
 
@@ -263,9 +314,12 @@ Categories: [ai-chatbot](#2-ai-chatbot)
 
 ChatGPT helps you get answers, find inspiration, and be more productive.
 
-Categories: [ai-chatbot](#2-ai-chatbot)
-
 <img src="assets/chatgpt.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 2-4-gemini
 
@@ -273,9 +327,12 @@ Categories: [ai-chatbot](#2-ai-chatbot)
 
 Meet Gemini, Google’s AI assistant. Get help with writing, planning, brainstorming, and more. Experience the power of generative AI.
 
-Categories: [ai-chatbot](#2-ai-chatbot)
-
 <img src="assets/gemini.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 2-5-claude
 
@@ -283,9 +340,12 @@ Categories: [ai-chatbot](#2-ai-chatbot)
 
 Talk with Claude, an AI assistant from Anthropic
 
-Categories: [ai-chatbot](#2-ai-chatbot)
-
 <img src="assets/claude.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 2-6-github-copilot
 
@@ -293,9 +353,12 @@ Categories: [ai-chatbot](#2-ai-chatbot)
 
 GitHub Copilot works alongside you directly in your editor, suggesting whole lines or entire functions for you.
 
-Categories: [ai-chatbot](#2-ai-chatbot)
-
 <img src="assets/github-copilot-icon.svg" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 2-7-quark-browser
 
@@ -303,9 +366,12 @@ Categories: [ai-chatbot](#2-ai-chatbot)
 
 夸克pc/app为你带来极速、智能、安全、高效的搜索体验,找答案,找资料,找工具,办公,学习,工作必备应用。夸克提供浏览器搜索引擎、网盘、AI扫描王工具及小说阅读等高效功能，为你提供稳定,安全,流畅的浏览环境和优质的产品服务体验
 
-Categories: [browser](#6-browser), [ai-chatbot](#2-ai-chatbot)
-
 <img src="assets/quark-browser.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [browser](#6-browser), [ai-chatbot](#2-ai-chatbot) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 2-8-tencent-yuanbao
 
@@ -313,9 +379,12 @@ Categories: [browser](#6-browser), [ai-chatbot](#2-ai-chatbot)
 
 来元宝，感受「DeepSeek+」智能新体验！联网搜索公众号、视频号等优质腾讯生态信源，搜得更准、答得更全；智能识图、拍题答疑等丰富能力，让工作学习生活更轻松高效
 
-Categories: [ai-chatbot](#2-ai-chatbot)
-
 <img src="assets/tencent-yuanbao.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 2-9-doubao
 
@@ -323,9 +392,12 @@ Categories: [ai-chatbot](#2-ai-chatbot)
 
 豆包是你的 AI 聊天智能对话问答助手，写作文案翻译编程全能工具。豆包为你答疑解惑，提供灵感，辅助创作，也可以和你畅聊任何你感兴趣的话题。
 
-Categories: [ai-chatbot](#2-ai-chatbot)
-
 <img src="assets/doubao.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 2-10-qianwen
 
@@ -333,9 +405,12 @@ Categories: [ai-chatbot](#2-ai-chatbot)
 
 千问是阿里通义千问大模型打造的AI对话助手，通义千问支持问答、写作、代码、翻译、录音、PPT创作、文档处理、音视频速读。
 
-Categories: [ai-chatbot](#2-ai-chatbot)
-
 <img src="assets/qianwen.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 2-11-bohrium
 
@@ -343,9 +418,12 @@ Categories: [ai-chatbot](#2-ai-chatbot)
 
 Bohrium — AI for Science with global scientists. An AI-powered all-in-one research hub offering powerful academic search, comprehensive resources, and collaborative tools for reproducible research.
 
-Categories: [ai-chatbot](#2-ai-chatbot)
-
 <img src="assets/bohrium.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 2-12-kimi
 
@@ -353,9 +431,12 @@ Categories: [ai-chatbot](#2-ai-chatbot)
 
 Kimi K2长思考模式来了！支持多轮工具调用与思考，擅长数理逻辑难题，让搜索更广更准，帮你把想法化为清晰、富于创意、可用性高的文字与代码
 
-Categories: [ai-chatbot](#2-ai-chatbot)
-
 <img src="assets/kimi.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 3-appstore
 
@@ -380,9 +461,12 @@ Categories: [ai-chatbot](#2-ai-chatbot)
 
 Explore the Microsoft Store for apps and games on Windows. Enjoy exclusive deals, new releases, and your favorite content all in one place.
 
-Categories: [appstore](#3-appstore)
-
 <img src="assets/microsoft-store.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [appstore](#3-appstore) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 3-2-huorong-app-store
 
@@ -390,9 +474,12 @@ Categories: [appstore](#3-appstore)
 
 火绒应用商店是一款由火绒安全团队推出的一站式应用软件管理平台，秉持 “安全下载，绿色体验” 的理念，为用户提供干净、安全、可靠的应用下载管理服务。
 
-Categories: [appstore](#3-appstore)
-
 <img src="assets/huorong-app-store.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [appstore](#3-appstore) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 3-3-apkpure
 
@@ -400,9 +487,12 @@ Categories: [appstore](#3-appstore)
 
 APKPure is a free APK downloader for Android. It is safe, reliable, and virus-free. Use APKPure to easily download trending apps and games, and install APK/XAPK files to your Android device.
 
-Categories: [appstore](#3-appstore)
-
 <img src="assets/apkpure.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [appstore](#3-appstore) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 3-4-arora-store
 
@@ -410,9 +500,12 @@ Categories: [appstore](#3-appstore)
 
 Aurora OSS - Abode of opensource android apps
 
-Categories: [appstore](#3-appstore)
-
 <img src="assets/arora-store.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [appstore](#3-appstore) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 3-5-google-play
 
@@ -420,9 +513,12 @@ Categories: [appstore](#3-appstore)
 
 Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.
 
-Categories: [appstore](#3-appstore)
-
 <img src="assets/google-play.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [appstore](#3-appstore) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 3-6-f-driod
 
@@ -430,9 +526,12 @@ Categories: [appstore](#3-appstore)
 
 F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
 
-Categories: [appstore](#3-appstore)
-
 <img src="assets/f-droid.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [appstore](#3-appstore) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 3-7-tencent-appstore
 
@@ -440,9 +539,12 @@ Categories: [appstore](#3-appstore)
 
 应用宝是腾讯旗下官方手机app应用商店，致力于为您提供海量、优质、安全、最新的安卓应用游戏下载！
 
-Categories: [appstore](#3-appstore)
-
 <img src="assets/tencent-appstore.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [appstore](#3-appstore) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 3-8-360-appstore
 
@@ -450,9 +552,12 @@ Categories: [appstore](#3-appstore)
 
 360手机助手，8亿用户使用的安卓应用分发平台，年轻人都爱玩的手机助手。
 
-Categories: [appstore](#3-appstore)
-
 <img src="assets/360-appstore.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [appstore](#3-appstore) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 4-archive
 
@@ -473,9 +578,12 @@ Categories: [appstore](#3-appstore)
 
 With more than a million absolutely free hentai doujinshi, manga, cosplay and CG galleries, E-Hentai Galleries is the world's largest free Hentai archive.
 
-Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai)
-
 <img src="assets/e-hentai.svg" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 4-2-nhentai
 
@@ -483,9 +591,12 @@ Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [henta
 
 nhentai is a free hentai manga and doujinshi reader with over 575,000 galleries to read and download. 
 
-Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai)
-
 <img src="assets/nhentai.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 4-3-jmcomic
 
@@ -493,9 +604,12 @@ Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [henta
 
 免費A漫 - 免費成人H漫線上看
 
-Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai)
-
 <img src="assets/jmcomic.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 4-4-picaacg
 
@@ -503,9 +617,12 @@ Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [henta
 
 嗶咔漫畫讓你可以輕鬆看到不同的本子，介面美觀易用，分類齊全，每天更新，紳士必備！
 
-Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai)
-
 <img src="assets/picaacg.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 5-authenticator
 
@@ -524,9 +641,12 @@ Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [henta
 
 Safety starts with understanding how developers collect and share your data. Data privacy and security practices may vary based on your use, region, and age. The developer provided this information and may update it over time.
 
-Categories: [authenticator](#5-authenticator)
-
 <img src="assets/microsoft-authenticator.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [authenticator](#5-authenticator) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 5-2-google-authenticator
 
@@ -534,9 +654,12 @@ Categories: [authenticator](#5-authenticator)
 
 Safety starts with understanding how developers collect and share your data. Data privacy and security practices may vary based on your use, region, and age. The developer provided this information and may update it over time.
 
-Categories: [authenticator](#5-authenticator)
-
 <img src="assets/google-authenticator.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [authenticator](#5-authenticator) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 6-browser
 
@@ -559,9 +682,12 @@ Categories: [authenticator](#5-authenticator)
 
 Get more done with the new Google Chrome. A more simple, secure and faster web browser than ever, with Google’s smarts built in. Download now.
 
-Categories: [browser](#6-browser)
-
 <img src="assets/google-chrome.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [browser](#6-browser) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 6-2-microsoft-edge
 
@@ -569,9 +695,12 @@ Categories: [browser](#6-browser)
 
 Download Microsoft Edge for your computer or smartphone. Experience the cutting-edge AI Edge browser on your Windows, macOS, iOS, and Android device.
 
-Categories: [browser](#6-browser)
-
 <img src="assets/microsoft-edge.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [browser](#6-browser) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 6-3-mozilla-firefox
 
@@ -579,9 +708,12 @@ Categories: [browser](#6-browser)
 
 Mozilla Firefox, or simply Firefox, is a free and open source[12] web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation.
 
-Categories: [browser](#6-browser)
-
 <img src="assets/mozilla-firefox.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [browser](#6-browser) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 6-4-tor-browser
 
@@ -589,9 +721,12 @@ Categories: [browser](#6-browser)
 
 Download | Defend yourself against tracking and surveillance. Circumvent censorship.
 
-Categories: [browser](#6-browser)
-
 <img src="assets/tor-browser.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [browser](#6-browser) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 6-5-uc-browser
 
@@ -599,9 +734,12 @@ Categories: [browser](#6-browser)
 
 Download UC Browser today and enjoy a faster, safer, and more private online experience. With built-in VPN protection and advanced ad blocking, we set a new standard for secure browsing.
 
-Categories: [browser](#6-browser)
-
 <img src="assets/uc-browser.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [browser](#6-browser) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 6-6-quark-browser
 
@@ -609,9 +747,12 @@ Categories: [browser](#6-browser)
 
 夸克pc/app为你带来极速、智能、安全、高效的搜索体验,找答案,找资料,找工具,办公,学习,工作必备应用。夸克提供浏览器搜索引擎、网盘、AI扫描王工具及小说阅读等高效功能，为你提供稳定,安全,流畅的浏览环境和优质的产品服务体验
 
-Categories: [browser](#6-browser), [ai-chatbot](#2-ai-chatbot)
-
 <img src="assets/quark-browser.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [browser](#6-browser), [ai-chatbot](#2-ai-chatbot) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 7-cloud-disk
 
@@ -630,9 +771,12 @@ Categories: [browser](#6-browser), [ai-chatbot](#2-ai-chatbot)
 
 Microsoft OneDrive is a file-hosting service operated by Microsoft. First released as SkyDrive in August 2007, it allows registered users to store, share, back-up and synchronize their files. OneDrive also works as the storage backend of the web version of Microsoft 365. OneDrive offers 5 gigabytes of storage space free of charge, with 100 GB, 1 TB, and 6 TB storage options available, either separately or with Microsoft 365 subscriptions.
 
-Categories: [cloud-disk](#7-cloud-disk)
-
 <img src="assets/onedrive.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [cloud-disk](#7-cloud-disk) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 7-2-baidu-netdisk
 
@@ -640,9 +784,12 @@ Categories: [cloud-disk](#7-cloud-disk)
 
 百度网盘为您提供文件的网络备份、同步和分享服务。空间大、速度快、安全稳固，支持教育网加速，支持手机端。注册使用百度网盘即可享受免费存储空间
 
-Categories: [cloud-disk](#7-cloud-disk)
-
 <img src="assets/baidu-netdisk.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [cloud-disk](#7-cloud-disk) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 8-community
 
@@ -660,9 +807,12 @@ Categories: [cloud-disk](#7-cloud-disk)
 
 Pixiv[a] (Japanese: ピクシブ, Hepburn: Pikushibu) is a Japanese online community for artists.
 
-Categories: [acg](#1-acg), [community](#8-community)
-
 <img src="assets/pixiv.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [community](#8-community) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 9-database
 
@@ -681,9 +831,12 @@ Categories: [acg](#1-acg), [community](#8-community)
 
 Looking for information about Anime? AniDB is the right place for you. AniDB is a not-for-profit anime database providing you with all information reg...
 
-Categories: [acg](#1-acg), [database](#9-database)
-
 <img src="assets/anidb.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [database](#9-database) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 9-2-myanimelist
 
@@ -691,9 +844,12 @@ Categories: [acg](#1-acg), [database](#9-database)
 
 Welcome to MyAnimeList, the world's most active online anime and manga community and database. Join the online community, create your anime and manga list, read reviews, explore the forums, follow news, and so much more! <br><br>`{"keywords":"anime, myanimelist, anime news, manga"}`
 
-Categories: [acg](#1-acg), [database](#9-database)
-
 <img src="assets/myanimelist.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [database](#9-database) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 10-editor
 
@@ -722,9 +878,12 @@ Categories: [acg](#1-acg), [database](#9-database)
 
 Typora is a cross-platform minimal markdown editor, providing seamless experience for both markdown readers and writers.
 
-Categories: [editor](#10-editor)
-
 <img src="assets/typora.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [editor](#10-editor) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 10-2-visual-studio-code
 
@@ -732,9 +891,12 @@ Categories: [editor](#10-editor)
 
 Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
 
-Categories: [editor](#10-editor)
-
 <img src="assets/vscode.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [editor](#10-editor) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 10-3-visual-studio
 
@@ -742,9 +904,12 @@ Categories: [editor](#10-editor)
 
 Visual Studio dev tools & services make app development easy for any developer, on any platform & language. Develop with our code editor or IDE anywhere for free.
 
-Categories: [editor](#10-editor)
-
 <img src="assets/visual-studio.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [editor](#10-editor) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 10-4-vim
 
@@ -752,9 +917,12 @@ Categories: [editor](#10-editor)
 
 Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient. It is included as "vi" with most UNIX systems and with Apple OS X.
 
-Categories: [editor](#10-editor)
-
 <img src="assets/vim.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [editor](#10-editor) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 10-5-intellij-idea
 
@@ -762,9 +930,12 @@ Categories: [editor](#10-editor)
 
 IntelliJ IDEA is the JetBrains IDE for pro development in Java and Kotlin. Built for your comfort, it unlocks productivity, ensures quality code, supports cutting-edge tech, and protects your privacy.
 
-Categories: [editor](#10-editor)
-
 <img src="assets/intellij-idea.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [editor](#10-editor) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 10-6-pycharm
 
@@ -772,9 +943,12 @@ Categories: [editor](#10-editor)
 
 Built for web, data, and AI/ML professionals. Supercharged with an AI-enhanced IDE experience.
 
-Categories: [editor](#10-editor)
-
 <img src="assets/pycharm.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [editor](#10-editor) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 10-7-webstorm
 
@@ -782,9 +956,12 @@ Categories: [editor](#10-editor)
 
 Make development more productive and enjoyable with WebStorm, the IDE for JavaScript and related technologies.
 
-Categories: [editor](#10-editor)
-
 <img src="assets/webstorm.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [editor](#10-editor) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 10-8-android-studio
 
@@ -792,9 +969,12 @@ Categories: [editor](#10-editor)
 
 Android Studio provides app builders with an integrated development environment (IDE) optimized for Android apps. Download Android Studio today.
 
-Categories: [editor](#10-editor)
-
 <img src="assets/android-studio.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [editor](#10-editor) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 10-9-hbuilder
 
@@ -802,9 +982,12 @@ Categories: [editor](#10-editor)
 
 HBuilderX is the fastest HTML development tool. Powerful code assistant helps you complete development quickly. The complete syntax library and browser compatibility function will improve your development efficiency.
 
-Categories: [editor](#10-editor)
-
 <img src="assets/hbuilder.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [editor](#10-editor) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 10-10-cursor
 
@@ -812,9 +995,12 @@ Categories: [editor](#10-editor)
 
 Built to make you extraordinarily productive, Cursor is the best way to code with AI.
 
-Categories: [editor](#10-editor)
-
 <img src="assets/cursor-ai.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [editor](#10-editor) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 10-11-trae
 
@@ -822,9 +1008,12 @@ Categories: [editor](#10-editor)
 
 TRAE AI IDE | 国内首款 AI 原生集成开发环境，深度集成 Doubao-1.5-pro 与 DeepSeek 模型，支持中文自然语言一键生成完整代码框架，实时预览前端效果并智能修复 BUG。首创 Builder 模式实现需求到代码的自动化开发，兼容 Windows/macOS 系统，官网下载即用。
 
-Categories: [editor](#10-editor)
-
 <img src="assets/trae.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [editor](#10-editor) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 10-12-emacs
 
@@ -832,9 +1021,12 @@ Categories: [editor](#10-editor)
 
 An extensible, customizable, free/libre text editor — and more. At its core is an interpreter for Emacs Lisp, a dialect of the Lisp programming language with extensions to support text editing.
 
-Categories: [editor](#10-editor)
-
 <img src="assets/emacs.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [editor](#10-editor) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 11-email
 
@@ -856,9 +1048,12 @@ Categories: [editor](#10-editor)
 
 Discover how Gmail keeps your account & emails encrypted, private and under your control with the largest secure email service in the world.
 
-Categories: [email](#11-email)
-
 <img src="assets/gmail.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [email](#11-email) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 11-2-outlook-com
 
@@ -866,9 +1061,12 @@ Categories: [email](#11-email)
 
 With Outlook on your PC, Mac or mobile device, you can:<ul><li>Organize email to let you focus on the messages that matter most.</li><li>Manage and share your calendar to schedule meetings with ease.</li><li>Share files from the cloud so recipients always have the latest version.</li><li>Stay connected and productive wherever you are.</li></ul>
 
-Categories: [email](#11-email)
-
 <img src="assets/outlook-com.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [email](#11-email) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 11-3-mail-ru
 
@@ -876,9 +1074,12 @@ Categories: [email](#11-email)
 
 Mail — безопасные сервисы для жизни и работы: бесплатная Почта, память для всего в Облаке, лёгкое планирование в Календаре и быстрые записи в Заметках. Мобильная версия и приложение — используйте, как удобно
 
-Categories: [email](#11-email)
-
 <img src="assets/mail-ru.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [email](#11-email) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 11-4-qq-mail
 
@@ -886,9 +1087,12 @@ Categories: [email](#11-email)
 
 QQ邮箱，提供qq.com、foxmail.com后缀的安全、稳定、快速、便捷的免费电子邮箱。强大的反垃圾邮件过滤，10G超大附件发送，便捷记事和日历功能，轻松管理所有电子发票，尽在QQ邮箱。
 
-Categories: [email](#11-email)
-
 <img src="assets/qq-mail.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [email](#11-email) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 11-5-netease-mail
 
@@ -896,9 +1100,12 @@ Categories: [email](#11-email)
 
 网易免费邮箱，你的专业电子邮局，提供以 @163.com、@126.com和@yeah.net 为后缀的免费邮箱。超过20年邮箱运营经验，系统快速稳定安全，支持超大附件和网盘服务。网易邮箱官方App“邮箱大师”帮您高效处理邮件，支持所有邮箱，并可在手机、Windows和Mac上多端协同使用。
 
-Categories: [email](#11-email)
-
 <img src="assets/netease-mail.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [email](#11-email) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 12-encyclopedia
 
@@ -922,9 +1129,12 @@ Categories: [email](#11-email)
 
 Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.
 
-Categories: [encyclopedia](#12-encyclopedia)
-
 <img src="assets/wikipedia.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [encyclopedia](#12-encyclopedia) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 12-2-baidu-baike
 
@@ -932,9 +1142,12 @@ Categories: [encyclopedia](#12-encyclopedia)
 
 百度百科是一部内容开放、自由的网络百科全书，旨在创造一个涵盖所有领域知识，服务所有互联网用户的中文知识性百科全书。在这里你可以参与词条编辑，分享贡献你的知识。<br><br>`{"keywords":"百科, 百度百科, 中文百科, 百科全书"}`
 
-Categories: [encyclopedia](#12-encyclopedia)
-
 <img src="assets/baidu-baike.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [encyclopedia](#12-encyclopedia) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 12-3-moegirl
 
@@ -942,9 +1155,12 @@ Categories: [encyclopedia](#12-encyclopedia)
 
 `{"keywords":"萌娘,百科,wiki,梗,娘化,萝莉,动画,漫画,动漫,游戏,音乐,宅腐,ACG,anime,comic,game,GalGame"}`
 
-Categories: [encyclopedia](#12-encyclopedia), [acg](#1-acg)
-
 <img src="assets/moegirl-encyclopedia.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [encyclopedia](#12-encyclopedia), [acg](#1-acg) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 12-4-hmoegirl
 
@@ -952,9 +1168,12 @@ Categories: [encyclopedia](#12-encyclopedia), [acg](#1-acg)
 
 H萌娘是一个关于H萌的wiki。 <br>H萌娘的收录的条目要满足两点：既属于**H**（hentai/エロ）又属于**萌**（二次元）。 <br>目前主要由 User:BakeWater 为H萌娘提供服务器方面的支持。
 
-Categories: [encyclopedia](#12-encyclopedia), [acg](#1-acg)
-
 <img src="assets/hmoegirl-encyclopedia.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [encyclopedia](#12-encyclopedia), [acg](#1-acg) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 12-5-wikihow
 
@@ -962,9 +1181,12 @@ Categories: [encyclopedia](#12-encyclopedia), [acg](#1-acg)
 
 Learn how to do anything with wikiHow, the world's most popular how-to website. Easy, well-researched, and trustworthy instructions for everything you want to know.
 
-Categories: [encyclopedia](#12-encyclopedia)
-
 <img src="assets/wikihow.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [encyclopedia](#12-encyclopedia) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 12-6-mbalib-wiki
 
@@ -972,9 +1194,12 @@ Categories: [encyclopedia](#12-encyclopedia)
 
 MBA智库百科，专注于经济管理领域知识的创建与分享。包括企业管理、市场营销、管理咨询、人力资源、战略管理、MBA案例、财务会计、广告、品牌、经济、金融、法律、博弈论、证券、股票以及公司企业、商学院、经管人物等介绍。<br><br>`{"keywords":"首页,2023年诺贝尔经济学奖,2024年《福布斯》全球亿万富豪排行榜,5W2H分析法,GTD,INFJ,Warren Buffett,东方甄选“小作文”事件,乔尔·莫基尔,价值共创,传统能源,MBA,MBA智库,管理,营销,经济,金融,人力资源,管理咨询,广告,财务,会计,品牌,证券,股票,物流,贸易,商学院,法律,人物"}`
 
-Categories: [encyclopedia](#12-encyclopedia)
-
 <img src="assets/mbalib-wiki.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [encyclopedia](#12-encyclopedia) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 12-7-noteapps-info
 
@@ -982,9 +1207,12 @@ Categories: [encyclopedia](#12-encyclopedia)
 
 Encyclopedia of note taking apps: Screenshots, feature lists, and pricing for popular note taking apps.
 
-Categories: [encyclopedia](#12-encyclopedia)
-
 <img src="assets/noteapps-info.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [encyclopedia](#12-encyclopedia) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 13-forum
 
@@ -1003,9 +1231,12 @@ Categories: [encyclopedia](#12-encyclopedia)
 
 Reddit is where millions of people gather for conversations about the things they care about, in over 100,000 subreddit communities.
 
-Categories: [forum](#13-forum)
-
 <img src="assets/reddit.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [forum](#13-forum) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 13-2-tieba
 
@@ -1013,9 +1244,12 @@ Categories: [forum](#13-forum)
 
 百度贴吧——全球领先的中文社区。贴吧的使命是让志同道合的人相聚。不论是大众话题还是小众话题，都能精准地聚集大批同好网友，展示自我风采，结交知音，搭建别具特色的“兴趣主题“互动平台。贴吧目录涵盖游戏、地区、文学、动漫、娱乐明星、生活、体育、电脑数码等方方面面，是全球领先的中文交流平台，它为人们提供一个表达和交流思想的自由网络空间，并以此汇集志同道合的网友。
 
-Categories: [forum](#13-forum)
-
 <img src="assets/baidu-tieba.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [forum](#13-forum) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 14-gallery
 
@@ -1037,9 +1271,12 @@ Categories: [forum](#13-forum)
 
 With more than a million absolutely free hentai doujinshi, manga, cosplay and CG galleries, E-Hentai Galleries is the world's largest free Hentai archive.
 
-Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai)
-
 <img src="assets/e-hentai.svg" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 14-2-nhentai
 
@@ -1047,9 +1284,12 @@ Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [henta
 
 nhentai is a free hentai manga and doujinshi reader with over 575,000 galleries to read and download. 
 
-Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai)
-
 <img src="assets/nhentai.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 14-3-jmcomic
 
@@ -1057,9 +1297,12 @@ Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [henta
 
 免費A漫 - 免費成人H漫線上看
 
-Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai)
-
 <img src="assets/jmcomic.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 14-4-picaacg
 
@@ -1067,9 +1310,12 @@ Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [henta
 
 嗶咔漫畫讓你可以輕鬆看到不同的本子，介面美觀易用，分類齊全，每天更新，紳士必備！
 
-Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai)
-
 <img src="assets/picaacg.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 14-5-manhuaren
 
@@ -1077,9 +1323,12 @@ Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [henta
 
 漫画人：给你最好的掌上漫画应用体验，速度最快、最专业的漫画应用。<br><br>`{"author":"漫画人:为爱漫画的人而生、manhuaren.com","keywords":"漫画人：最好的掌上漫画应用"}`
 
-Categories: [acg](#1-acg), [gallery](#14-gallery)
-
 <img src="assets/manhuaren.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [gallery](#14-gallery) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 15-gamestore
 
@@ -1100,9 +1349,12 @@ Categories: [acg](#1-acg), [gallery](#14-gallery)
 
 TapTap 专为中国手游玩家打造的推荐高品质手游的分享社区。我们拥有超过 2 万款可玩游戏，超过 1 亿玩家在我们平台上完成了 30 亿次游戏下载，发布了超过 3500 万条真实客观的游戏评价，并为玩家提供了 50 万篇优质内容。目前已有超过 10 万个游戏开发者入驻了 TapTap 玩家社区。立即下载 TapTap，与我们一起体验最顶级的手游乐趣吧！
 
-Categories: [gamestore](#15-gamestore)
-
 <img src="assets/taptap.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [gamestore](#15-gamestore) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 15-2-steam
 
@@ -1110,9 +1362,12 @@ Categories: [gamestore](#15-gamestore)
 
 Steam is the ultimate destination for playing, discussing, and creating games.
 
-Categories: [gamestore](#15-gamestore)
-
 <img src="assets/steam.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [gamestore](#15-gamestore) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 15-3-qqgame
 
@@ -1120,9 +1375,12 @@ Categories: [gamestore](#15-gamestore)
 
 QQ游戏大厅官网，下载QQ游戏大厅，玩QQ游戏全游戏；
 
-Categories: [gamestore](#15-gamestore)
-
 <img src="assets/qqgame.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [gamestore](#15-gamestore) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 15-4-kuaiwan
 
@@ -1130,9 +1388,12 @@ Categories: [gamestore](#15-gamestore)
 
 快玩网页游戏是最齐全的网页游戏大全，这里有最好玩的网页游戏，以及最新网页游戏开服信息，凡人修真2，神曲，王者召唤，神魔仙界，武林叁，醉西游，大侠传，神仙道，龙将，热血海贼王，斗破苍穹2，侠武英雄传，英雄远征，英雄王座，梦幻飞仙，百炼成仙，梦幻修仙，
 
-Categories: [gamestore](#15-gamestore)
-
 <img src="assets/kuaiwan.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [gamestore](#15-gamestore) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 16-hentai
 
@@ -1155,9 +1416,12 @@ Categories: [gamestore](#15-gamestore)
 
 With more than a million absolutely free hentai doujinshi, manga, cosplay and CG galleries, E-Hentai Galleries is the world's largest free Hentai archive.
 
-Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai)
-
 <img src="assets/e-hentai.svg" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 16-2-nhentai
 
@@ -1165,9 +1429,12 @@ Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [henta
 
 nhentai is a free hentai manga and doujinshi reader with over 575,000 galleries to read and download. 
 
-Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai)
-
 <img src="assets/nhentai.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 16-3-jmcomic
 
@@ -1175,9 +1442,12 @@ Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [henta
 
 免費A漫 - 免費成人H漫線上看
 
-Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai)
-
 <img src="assets/jmcomic.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 16-4-picaacg
 
@@ -1185,9 +1455,12 @@ Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [henta
 
 嗶咔漫畫讓你可以輕鬆看到不同的本子，介面美觀易用，分類齊全，每天更新，紳士必備！
 
-Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai)
-
 <img src="assets/picaacg.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 16-5-iwara
 
@@ -1195,9 +1468,12 @@ Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [henta
 
 Iwara.tv is niche website for MMD (MikuMikuDance) and R18 models.
 
-Categories: [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai)
-
 <img src="assets/iwara.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 16-6-hanime
 
@@ -1205,9 +1481,12 @@ Categories: [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-
 
 Hanime1.me 帶給你最完美的H動漫、H動畫、裏番、里番、成人色情卡通片的線上看體驗，絕對沒有天殺的片頭廣告！
 
-Categories: [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai)
-
 <img src="assets/hanime.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 17-instant-messaging
 
@@ -1236,9 +1515,12 @@ Categories: [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-
 
 Fast. Secure. Powerful.
 
-Categories: [instant-messaging](#17-instant-messaging)
-
 <img src="assets/telegram.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 17-2-tencent-qq
 
@@ -1246,9 +1528,12 @@ Categories: [instant-messaging](#17-instant-messaging)
 
 腾讯QQ，全新版本QQ9上线了！ QQ9，不仅是轻松聊天，更是兴趣社区的聚集地。欢迎下载体验最新版本QQ，体验最新功能！欢迎访问QQ官网，下载新版QQ，了解QQ最新功能就在im.qq.com。
 
-Categories: [instant-messaging](#17-instant-messaging)
-
 <img src="assets/tencent-qq.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 17-3-tencent-wechat
 
@@ -1256,9 +1541,12 @@ Categories: [instant-messaging](#17-instant-messaging)
 
 Available for all kinds of platforms; enjoy group chat; support voice, photo, video and text messages.
 
-Categories: [instant-messaging](#17-instant-messaging)
-
 <img src="assets/tencent-wechat.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 17-4-simplex
 
@@ -1266,9 +1554,12 @@ Categories: [instant-messaging](#17-instant-messaging)
 
 SimpleX Chat - a private and encrypted messenger without any user IDs (not even random ones)! Make a private connection via link / QR code to send messages and make calls.
 
-Categories: [instant-messaging](#17-instant-messaging)
-
 <img src="assets/simplex.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 17-5-session
 
@@ -1276,9 +1567,12 @@ Categories: [instant-messaging](#17-instant-messaging)
 
 Session is a private messenger that aims to remove any chance of metadata collection by routing all messages through an onion routing network.
 
-Categories: [instant-messaging](#17-instant-messaging)
-
 <img src="assets/session.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 17-6-tamtam
 
@@ -1286,9 +1580,12 @@ Categories: [instant-messaging](#17-instant-messaging)
 
 General info about TamTam messenger
 
-Categories: [instant-messaging](#17-instant-messaging)
-
 <img src="assets/tamtam.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 17-7-potato
 
@@ -1296,9 +1593,12 @@ Categories: [instant-messaging](#17-instant-messaging)
 
 Potato is an instant messenger focused on security. It is faster, more secure, more open and completely free. Available on IOS, Android, Windows , MacOS and Linux. You can create super groups with 200,000 members, super channels, support voice and video calls, send photos, send videos, stickers and Gifs, and there is no file size limit, etc. It provides you with full privacy settings and the most secure and stable chat environment. Moreover, Potato is an expert in protecting your digital currency.
 
-Categories: [instant-messaging](#17-instant-messaging)
-
 <img src="assets/potato.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 17-8-discord
 
@@ -1306,9 +1606,12 @@ Categories: [instant-messaging](#17-instant-messaging)
 
 Discord is great for playing games and chilling with friends, or even building a worldwide community. Customize your own space to talk, play, and hang out.
 
-Categories: [instant-messaging](#17-instant-messaging)
-
 <img src="assets/discord.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 17-9-slack
 
@@ -1316,9 +1619,12 @@ Categories: [instant-messaging](#17-instant-messaging)
 
 Boost productivity and save time with Slack‌ — ‌the AI work platform for managing projects, automating workflows, and connecting teams securely. Start working smarter today.
 
-Categories: [instant-messaging](#17-instant-messaging)
-
 <img src="assets/slack.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 17-10-dingtalk
 
@@ -1326,9 +1632,12 @@ Categories: [instant-messaging](#17-instant-messaging)
 
 DingTalk — The AI Workplace Platform for Teams; DingTalk is an AI-powered collaboration platform trusted by over 700 million users and 26 million organizations worldwide.
 
-Categories: [instant-messaging](#17-instant-messaging)
-
 <img src="assets/dingtalk.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 17-11-tencent-meeting
 
@@ -1336,9 +1645,12 @@ Categories: [instant-messaging](#17-instant-messaging)
 
 基于腾讯20多年音视频通讯经验，腾讯会议提供一站式音视频会议解决方案，让您能随时随地体验高清流畅的会议以及会议协作。
 
-Categories: [instant-messaging](#17-instant-messaging)
-
 <img src="assets/tencent-meeting.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 17-12-nekogram
 
@@ -1346,9 +1658,12 @@ Categories: [instant-messaging](#17-instant-messaging)
 
 Open-source third-party Telegram client with few but useful mods
 
-Categories: [instant-messaging](#17-instant-messaging)
-
 <img src="assets/nekogram.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 18-microblogging
 
@@ -1368,9 +1683,12 @@ Categories: [instant-messaging](#17-instant-messaging)
 
 We serve the public conversation. Learn more about X the company, and how we ensure people have a free and safe place to talk.
 
-Categories: [microblogging](#18-microblogging)
-
 <img src="assets/x-com.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [microblogging](#18-microblogging) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 18-2-misskey
 
@@ -1378,9 +1696,12 @@ Categories: [microblogging](#18-microblogging)
 
 This is the official site for Misskey, a decentralized social networking software. Find out how to get started, a list of servers, and lots more information about Misskey!
 
-Categories: [microblogging](#18-microblogging)
-
 <img src="assets/misskey.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [microblogging](#18-microblogging) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 18-3-nijimiss
 
@@ -1388,9 +1709,12 @@ Categories: [microblogging](#18-microblogging)
 
 💞あらゆる好きが交差する💞<br> 好きを語れるオープンコミュニティ<br><br>好きなことを堂々と胸を張って好きといえる空間を作りたい。<br>そういった思いから生まれたSNSです。
 
-Categories: [microblogging](#18-microblogging)
-
 <img src="assets/nijimiss.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [microblogging](#18-microblogging) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 19-note-taking
 
@@ -1413,9 +1737,12 @@ Categories: [microblogging](#18-microblogging)
 
 The free and flexible app for your private thoughts.
 
-Categories: [note-taking](#19-note-taking)
-
 <img src="assets/obsidian.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [note-taking](#19-note-taking) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 19-2-logseq
 
@@ -1423,9 +1750,12 @@ Categories: [note-taking](#19-note-taking)
 
 A privacy-first, open-source platform for knowledge management and collaboration.
 
-Categories: [note-taking](#19-note-taking)
-
 <img src="assets/logseq.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [note-taking](#19-note-taking) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 19-3-tiddlywiki
 
@@ -1433,9 +1763,12 @@ Categories: [note-taking](#19-note-taking)
 
 a non-linear personal web notebook
 
-Categories: [note-taking](#19-note-taking)
-
 <img src="assets/tiddly-wiki.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [note-taking](#19-note-taking) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 19-4-siyuan
 
@@ -1443,9 +1776,12 @@ Categories: [note-taking](#19-note-taking)
 
 SiYuan - Privacy-first personal knowledge management system that supports Markdown, block-level ref, and bidirectional links
 
-Categories: [note-taking](#19-note-taking)
-
 <img src="assets/siyuan-note.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [note-taking](#19-note-taking) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 19-5-anytype
 
@@ -1453,9 +1789,12 @@ Categories: [note-taking](#19-note-taking)
 
 for those who celebrate trust & autonomy.
 
-Categories: [note-taking](#19-note-taking)
-
 <img src="assets/anytype.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [note-taking](#19-note-taking) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 19-6-notion
 
@@ -1463,9 +1802,12 @@ Categories: [note-taking](#19-note-taking)
 
 Build custom agents, search across all your apps, and automate busywork. The AI workspace where teams get more done, faster.
 
-Categories: [note-taking](#19-note-taking)
-
 <img src="assets/notion.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [note-taking](#19-note-taking) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 20-operating-system
 
@@ -1487,9 +1829,12 @@ Categories: [note-taking](#19-note-taking)
 
 Experience the latest Microsoft Windows 11 features. Learn how our latest Windows OS gives you more ways to work, play, and create.
 
-Categories: [operating-system](#20-operating-system)
-
 <img src="assets/windows-os.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [operating-system](#20-operating-system) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 20-2-macos
 
@@ -1497,9 +1842,12 @@ Categories: [operating-system](#20-operating-system)
 
 macOS Tahoe with a new design, more ways to work seamlessly across devices, and new features to turbocharge productivity every day.
 
-Categories: [operating-system](#20-operating-system)
-
 <img src="assets/macos.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [operating-system](#20-operating-system) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 20-3-linux
 
@@ -1507,9 +1855,12 @@ Categories: [operating-system](#20-operating-system)
 
 Links to popular distribution download pages
 
-Categories: [operating-system](#20-operating-system)
-
 <img src="assets/linux-os.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [operating-system](#20-operating-system) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 20-4-ios
 
@@ -1517,9 +1868,12 @@ Categories: [operating-system](#20-operating-system)
 
 iOS 26 for iPhone with a new design, more helpful Apple Intelligence, polls and backgrounds in Messages, and features that make every day effortless.
 
-Categories: [operating-system](#20-operating-system)
-
 <img src="assets/ios.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [operating-system](#20-operating-system) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 20-5-android
 
@@ -1527,9 +1881,12 @@ Categories: [operating-system](#20-operating-system)
 
 Android unites the world! Use the open source Android operating system to power your device.
 
-Categories: [operating-system](#20-operating-system)
-
 <img src="assets/android.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [operating-system](#20-operating-system) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 21-password-manager
 
@@ -1549,9 +1906,12 @@ Categories: [operating-system](#20-operating-system)
 
 KeePass is a free open source password manager. Passwords can be stored in an encrypted database, which can be unlocked with one master key.
 
-Categories: [password-manager](#21-password-manager)
-
 <img src="assets/keepass.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [password-manager](#21-password-manager) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 21-2-1password
 
@@ -1559,9 +1919,12 @@ Categories: [password-manager](#21-password-manager)
 
 More than a password manager and leader in Extended Access Management. Secure all sign-ins to every application from any device with 1Password.
 
-Categories: [password-manager](#21-password-manager)
-
 <img src="assets/1password.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [password-manager](#21-password-manager) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 21-3-bitwardon
 
@@ -1569,9 +1932,12 @@ Categories: [password-manager](#21-password-manager)
 
 Bitwarden is the most trusted password manager for passwords and passkeys at home or at work, on any browser or device. Start with a free trial.
 
-Categories: [password-manager](#21-password-manager)
-
 <img src="assets/bitwardon.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [password-manager](#21-password-manager) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 22-qa-system
 
@@ -1590,9 +1956,12 @@ Categories: [password-manager](#21-password-manager)
 
 Quora is an American social question-and-answer website and online knowledge market headquartered in Mountain View, California. It was founded on June 25, 2009, and made available to the public on June 21, 2010. Users can post questions, answer questions, and comment on answers that have been submitted by other users. As of 2020, the website was visited by 300 million users a month.
 
-Categories: [qa-system](#22-qa-system)
-
 <img src="assets/quora.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [qa-system](#22-qa-system) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 22-2-zhihu
 
@@ -1600,9 +1969,12 @@ Categories: [qa-system](#22-qa-system)
 
 知乎，中文互联网高质量的问答社区和创作者聚集的原创内容平台，于 2011 年 1 月正式上线，以「让人们更好的分享知识、经验和见解，找到自己的解答」为品牌使命。知乎凭借认真、专业、友善的社区氛围、独特的产品机制以及结构化和易获得的优质内容，聚集了中文互联网科技、商业、影视、时尚、文化等领域最具创造力的人群，已成为综合性、全品类、在诸多领域具有关键影响力的知识分享社区和创作者聚集的原创内容平台，建立起了以社区驱动的内容变现商业模式。
 
-Categories: [qa-system](#22-qa-system)
-
 <img src="assets/zhihu.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [qa-system](#22-qa-system) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 23-reader
 
@@ -1621,9 +1993,12 @@ Categories: [qa-system](#22-qa-system)
 
 Discover and read manga, webtoons, comics, and more – easier than ever on your Android device.
 
-Categories: [acg](#1-acg), [reader](#23-reader)
-
 <img src="assets/mihon.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [reader](#23-reader) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 23-2-lanraragi
 
@@ -1631,9 +2006,12 @@ Categories: [acg](#1-acg), [reader](#23-reader)
 
 application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.<br><br>`{"link":"lrr.tvc-16.science","Topics": "docker server perl management manga comics reader mojolicious opds doujinshi nas hacktoberfest sadpanda"}`
 
-Categories: [acg](#1-acg), [reader](#23-reader)
-
 <img src="assets/lanraragi.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [reader](#23-reader) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 24-search-engine
 
@@ -1657,9 +2035,12 @@ Categories: [acg](#1-acg), [reader](#23-reader)
 
 Google Search (also known simply as Google or Google.com) is a search engine operated by Google. It allows users to search for information on the Internet by entering keywords or phrases. Google Search uses algorithms to analyze and rank websites based on their relevance to the search query. It is the most popular search engine worldwide.
 
-Categories: [search-engine](#24-search-engine)
-
 <img src="assets/google-search.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [search-engine](#24-search-engine) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 24-2-baidu-search
 
@@ -1667,9 +2048,12 @@ Categories: [search-engine](#24-search-engine)
 
 全球领先的中文搜索引擎、致力于让网民更便捷地获取信息，找到所求。百度超过千亿的中文网页数据库，可以瞬间找到相关的搜索结果。
 
-Categories: [search-engine](#24-search-engine)
-
 <img src="assets/baidu-search.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [search-engine](#24-search-engine) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 24-3-bing-search
 
@@ -1677,9 +2061,12 @@ Categories: [search-engine](#24-search-engine)
 
 Search with Microsoft Bing and use the power of AI to find information, explore webpages, images, videos, maps, and more. A smart search engine for the forever curious.
 
-Categories: [search-engine](#24-search-engine)
-
 <img src="assets/bing-search.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [search-engine](#24-search-engine) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 24-4-yandex-search
 
@@ -1687,9 +2074,12 @@ Categories: [search-engine](#24-search-engine)
 
 Yandex is a technology company that builds intelligent products and services powered by machine learning.
 
-Categories: [search-engine](#24-search-engine)
-
 <img src="assets/yandex-search.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [search-engine](#24-search-engine) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 24-5-chongbuluo-search
 
@@ -1697,9 +2087,12 @@ Categories: [search-engine](#24-search-engine)
 
 虫部落是一个纯粹的搜索知识、技术和经验分享平台，虫部落快搜、虫部落学术搜索等搜索聚合工具均为虫部落原创出品，搜索世界的乐趣，就在虫部落！
 
-Categories: [search-engine](#24-search-engine)
-
 <img src="assets/chongbuluo-search.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [search-engine](#24-search-engine) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 24-6-saucenao-search
 
@@ -1707,9 +2100,12 @@ Categories: [search-engine](#24-search-engine)
 
 SauceNAO is a reverse image search engine. The name 'SauceNAO' is derived from a slang form of "Need to know the source of this Now!" which has found common usage on image boards and other similar sites.
 
-Categories: [search-engine](#24-search-engine)
-
 <img src="assets/saurcenao-search.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [search-engine](#24-search-engine) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 24-7-soutubot-search
 
@@ -1717,9 +2113,12 @@ Categories: [search-engine](#24-search-engine)
 
 大家好（ﾉ>ω<)ﾉ这里是搜图bot酱网页版~ 可局部搜图NH内的本子，欢迎大家来测试~<br><br>如果大家觉得好用的话就请麻烦宣传和赞助一下吧~
 
-Categories: [search-engine](#24-search-engine)
-
 <img src="assets/soutubot-moe.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [search-engine](#24-search-engine) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 25-version-control
 
@@ -1737,9 +2136,12 @@ Categories: [search-engine](#24-search-engine)
 
 Join the world's most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.
 
-Categories: [web-hosting](#27-web-hosting), [version-control](#25-version-control)
-
 <img src="assets/github.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [web-hosting](#27-web-hosting), [version-control](#25-version-control) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 26-video-streaming
 
@@ -1763,9 +2165,12 @@ Categories: [web-hosting](#27-web-hosting), [version-control](#25-version-contro
 
 Jiongciyuan (囧次元) is an Android video streaming app focused on Japanese animation, allowing for real-time comments and interaction.  You can avoid frequent ads by watching free advertisements to earn temporary membership.
 
-Categories: [acg](#1-acg), [video-streaming](#26-video-streaming)
-
 <img src="assets/jcyapp-org.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [video-streaming](#26-video-streaming) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 26-2-youtube
 
@@ -1773,9 +2178,12 @@ Categories: [acg](#1-acg), [video-streaming](#26-video-streaming)
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-Categories: [video-streaming](#26-video-streaming)
-
 <img src="assets/youtube.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [video-streaming](#26-video-streaming) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 26-3-bilibili
 
@@ -1783,9 +2191,12 @@ Categories: [video-streaming](#26-video-streaming)
 
 哔哩哔哩（bilibili.com)是国内知名的视频弹幕网站，这里有及时的动漫新番，活跃的ACG氛围，有创意的Up主。大家可以在这里找到许多欢乐。
 
-Categories: [video-streaming](#26-video-streaming)
-
 <img src="assets/bilibili.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [video-streaming](#26-video-streaming) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 26-4-iwara
 
@@ -1793,9 +2204,12 @@ Categories: [video-streaming](#26-video-streaming)
 
 Iwara.tv is niche website for MMD (MikuMikuDance) and R18 models.
 
-Categories: [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai)
-
 <img src="assets/iwara.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 26-5-hanime
 
@@ -1803,9 +2217,12 @@ Categories: [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-
 
 Hanime1.me 帶給你最完美的H動漫、H動畫、裏番、里番、成人色情卡通片的線上看體驗，絕對沒有天殺的片頭廣告！
 
-Categories: [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai)
-
 <img src="assets/hanime.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 26-6-douyin
 
@@ -1813,9 +2230,12 @@ Categories: [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-
 
 海量优质视频内容，涵盖游戏、二次元、美食、音乐、知识、体育运动、旅行、生活等各类题材，系列合集内容连续看，有用又有趣，无论是休闲解压、消遣下饭，还是发现爱好、获取知识，你想要的好内容，都在抖音精选。
 
-Categories: [video-streaming](#26-video-streaming)
-
 <img src="assets/douyin.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [video-streaming](#26-video-streaming) |
+| [Type](#type) | [site-items](#site-items) |
 
 #### 26-7-kuaishou
 
@@ -1823,9 +2243,12 @@ Categories: [video-streaming](#26-video-streaming)
 
 快手是一款国民级短视频App，了解真实世界，认识有趣的人，记录真实而有趣的自己，拥抱每一种生活。
 
-Categories: [video-streaming](#26-video-streaming)
-
 <img src="assets/kuaishou.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [video-streaming](#26-video-streaming) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 27-web-hosting
 
@@ -1843,9 +2266,12 @@ Categories: [video-streaming](#26-video-streaming)
 
 Join the world's most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.
 
-Categories: [web-hosting](#27-web-hosting), [version-control](#25-version-control)
-
 <img src="assets/github.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [web-hosting](#27-web-hosting), [version-control](#25-version-control) |
+| [Type](#type) | [site-items](#site-items) |
 
 ## site-items
 
@@ -1980,9 +2406,12 @@ Categories: [web-hosting](#27-web-hosting), [version-control](#25-version-contro
 
 More than a password manager and leader in Extended Access Management. Secure all sign-ins to every application from any device with 1Password.
 
-Categories: [password-manager](#21-password-manager)
-
 <img src="assets/1password.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [password-manager](#21-password-manager) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-2-360-appstore
 
@@ -1990,9 +2419,12 @@ Categories: [password-manager](#21-password-manager)
 
 360手机助手，8亿用户使用的安卓应用分发平台，年轻人都爱玩的手机助手。
 
-Categories: [appstore](#3-appstore)
-
 <img src="assets/360-appstore.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [appstore](#3-appstore) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-3-android
 
@@ -2000,9 +2432,12 @@ Categories: [appstore](#3-appstore)
 
 Android unites the world! Use the open source Android operating system to power your device.
 
-Categories: [operating-system](#20-operating-system)
-
 <img src="assets/android.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [operating-system](#20-operating-system) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-4-android-studio
 
@@ -2010,9 +2445,12 @@ Categories: [operating-system](#20-operating-system)
 
 Android Studio provides app builders with an integrated development environment (IDE) optimized for Android apps. Download Android Studio today.
 
-Categories: [editor](#10-editor)
-
 <img src="assets/android-studio.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [editor](#10-editor) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-5-anidb
 
@@ -2020,9 +2458,12 @@ Categories: [editor](#10-editor)
 
 Looking for information about Anime? AniDB is the right place for you. AniDB is a not-for-profit anime database providing you with all information reg...
 
-Categories: [acg](#1-acg), [database](#9-database)
-
 <img src="assets/anidb.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [database](#9-database) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-6-anytype
 
@@ -2030,9 +2471,12 @@ Categories: [acg](#1-acg), [database](#9-database)
 
 for those who celebrate trust & autonomy.
 
-Categories: [note-taking](#19-note-taking)
-
 <img src="assets/anytype.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [note-taking](#19-note-taking) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-7-apkpure
 
@@ -2040,9 +2484,12 @@ Categories: [note-taking](#19-note-taking)
 
 APKPure is a free APK downloader for Android. It is safe, reliable, and virus-free. Use APKPure to easily download trending apps and games, and install APK/XAPK files to your Android device.
 
-Categories: [appstore](#3-appstore)
-
 <img src="assets/apkpure.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [appstore](#3-appstore) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-8-arora-store
 
@@ -2050,9 +2497,12 @@ Categories: [appstore](#3-appstore)
 
 Aurora OSS - Abode of opensource android apps
 
-Categories: [appstore](#3-appstore)
-
 <img src="assets/arora-store.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [appstore](#3-appstore) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-9-baidu-baike
 
@@ -2060,9 +2510,12 @@ Categories: [appstore](#3-appstore)
 
 百度百科是一部内容开放、自由的网络百科全书，旨在创造一个涵盖所有领域知识，服务所有互联网用户的中文知识性百科全书。在这里你可以参与词条编辑，分享贡献你的知识。<br><br>`{"keywords":"百科, 百度百科, 中文百科, 百科全书"}`
 
-Categories: [encyclopedia](#12-encyclopedia)
-
 <img src="assets/baidu-baike.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [encyclopedia](#12-encyclopedia) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-10-baidu-netdisk
 
@@ -2070,9 +2523,12 @@ Categories: [encyclopedia](#12-encyclopedia)
 
 百度网盘为您提供文件的网络备份、同步和分享服务。空间大、速度快、安全稳固，支持教育网加速，支持手机端。注册使用百度网盘即可享受免费存储空间
 
-Categories: [cloud-disk](#7-cloud-disk)
-
 <img src="assets/baidu-netdisk.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [cloud-disk](#7-cloud-disk) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-11-baidu-search
 
@@ -2080,9 +2536,12 @@ Categories: [cloud-disk](#7-cloud-disk)
 
 全球领先的中文搜索引擎、致力于让网民更便捷地获取信息，找到所求。百度超过千亿的中文网页数据库，可以瞬间找到相关的搜索结果。
 
-Categories: [search-engine](#24-search-engine)
-
 <img src="assets/baidu-search.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [search-engine](#24-search-engine) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-12-bilibili
 
@@ -2090,9 +2549,12 @@ Categories: [search-engine](#24-search-engine)
 
 哔哩哔哩（bilibili.com)是国内知名的视频弹幕网站，这里有及时的动漫新番，活跃的ACG氛围，有创意的Up主。大家可以在这里找到许多欢乐。
 
-Categories: [video-streaming](#26-video-streaming)
-
 <img src="assets/bilibili.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [video-streaming](#26-video-streaming) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-13-bing-search
 
@@ -2100,9 +2562,12 @@ Categories: [video-streaming](#26-video-streaming)
 
 Search with Microsoft Bing and use the power of AI to find information, explore webpages, images, videos, maps, and more. A smart search engine for the forever curious.
 
-Categories: [search-engine](#24-search-engine)
-
 <img src="assets/bing-search.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [search-engine](#24-search-engine) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-14-bitwardon
 
@@ -2110,9 +2575,12 @@ Categories: [search-engine](#24-search-engine)
 
 Bitwarden is the most trusted password manager for passwords and passkeys at home or at work, on any browser or device. Start with a free trial.
 
-Categories: [password-manager](#21-password-manager)
-
 <img src="assets/bitwardon.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [password-manager](#21-password-manager) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-15-bohrium
 
@@ -2120,9 +2588,12 @@ Categories: [password-manager](#21-password-manager)
 
 Bohrium — AI for Science with global scientists. An AI-powered all-in-one research hub offering powerful academic search, comprehensive resources, and collaborative tools for reproducible research.
 
-Categories: [ai-chatbot](#2-ai-chatbot)
-
 <img src="assets/bohrium.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-16-chatgpt
 
@@ -2130,9 +2601,12 @@ Categories: [ai-chatbot](#2-ai-chatbot)
 
 ChatGPT helps you get answers, find inspiration, and be more productive.
 
-Categories: [ai-chatbot](#2-ai-chatbot)
-
 <img src="assets/chatgpt.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-17-chongbuluo-search
 
@@ -2140,9 +2614,12 @@ Categories: [ai-chatbot](#2-ai-chatbot)
 
 虫部落是一个纯粹的搜索知识、技术和经验分享平台，虫部落快搜、虫部落学术搜索等搜索聚合工具均为虫部落原创出品，搜索世界的乐趣，就在虫部落！
 
-Categories: [search-engine](#24-search-engine)
-
 <img src="assets/chongbuluo-search.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [search-engine](#24-search-engine) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-18-claude
 
@@ -2150,9 +2627,12 @@ Categories: [search-engine](#24-search-engine)
 
 Talk with Claude, an AI assistant from Anthropic
 
-Categories: [ai-chatbot](#2-ai-chatbot)
-
 <img src="assets/claude.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-19-cursor
 
@@ -2160,9 +2640,12 @@ Categories: [ai-chatbot](#2-ai-chatbot)
 
 Built to make you extraordinarily productive, Cursor is the best way to code with AI.
 
-Categories: [editor](#10-editor)
-
 <img src="assets/cursor-ai.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [editor](#10-editor) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-20-deepseek
 
@@ -2170,9 +2653,12 @@ Categories: [editor](#10-editor)
 
 深度求索（DeepSeek），成立于2023年，专注于研究世界领先的通用人工智能底层模型与技术，挑战人工智能前沿性难题。基于自研训练框架、自建智算集群和万卡算力等资源，深度求索团队仅用半年时间便已发布并开源多个百亿级参数大模型，如DeepSeek-LLM通用大语言模型、DeepSeek-Coder代码大模型，并在2024年1月率先开源国内首个MoE大模型（DeepSeek-MoE），各大模型在公开评测榜单及真实样本外的泛化效果均有超越同级别模型的出色表现。和 DeepSeek AI 对话，轻松接入 API。
 
-Categories: [ai-chatbot](#2-ai-chatbot)
-
 <img src="assets/deepseek.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-21-dingtalk
 
@@ -2180,9 +2666,12 @@ Categories: [ai-chatbot](#2-ai-chatbot)
 
 DingTalk — The AI Workplace Platform for Teams; DingTalk is an AI-powered collaboration platform trusted by over 700 million users and 26 million organizations worldwide.
 
-Categories: [instant-messaging](#17-instant-messaging)
-
 <img src="assets/dingtalk.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-22-discord
 
@@ -2190,9 +2679,12 @@ Categories: [instant-messaging](#17-instant-messaging)
 
 Discord is great for playing games and chilling with friends, or even building a worldwide community. Customize your own space to talk, play, and hang out.
 
-Categories: [instant-messaging](#17-instant-messaging)
-
 <img src="assets/discord.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-23-doubao
 
@@ -2200,9 +2692,12 @@ Categories: [instant-messaging](#17-instant-messaging)
 
 豆包是你的 AI 聊天智能对话问答助手，写作文案翻译编程全能工具。豆包为你答疑解惑，提供灵感，辅助创作，也可以和你畅聊任何你感兴趣的话题。
 
-Categories: [ai-chatbot](#2-ai-chatbot)
-
 <img src="assets/doubao.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-24-douyin
 
@@ -2210,9 +2705,12 @@ Categories: [ai-chatbot](#2-ai-chatbot)
 
 海量优质视频内容，涵盖游戏、二次元、美食、音乐、知识、体育运动、旅行、生活等各类题材，系列合集内容连续看，有用又有趣，无论是休闲解压、消遣下饭，还是发现爱好、获取知识，你想要的好内容，都在抖音精选。
 
-Categories: [video-streaming](#26-video-streaming)
-
 <img src="assets/douyin.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [video-streaming](#26-video-streaming) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-25-e-hentai
 
@@ -2220,9 +2718,12 @@ Categories: [video-streaming](#26-video-streaming)
 
 With more than a million absolutely free hentai doujinshi, manga, cosplay and CG galleries, E-Hentai Galleries is the world's largest free Hentai archive.
 
-Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai)
-
 <img src="assets/e-hentai.svg" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-26-emacs
 
@@ -2230,9 +2731,12 @@ Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [henta
 
 An extensible, customizable, free/libre text editor — and more. At its core is an interpreter for Emacs Lisp, a dialect of the Lisp programming language with extensions to support text editing.
 
-Categories: [editor](#10-editor)
-
 <img src="assets/emacs.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [editor](#10-editor) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-27-f-driod
 
@@ -2240,9 +2744,12 @@ Categories: [editor](#10-editor)
 
 F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
 
-Categories: [appstore](#3-appstore)
-
 <img src="assets/f-droid.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [appstore](#3-appstore) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-28-gemini
 
@@ -2250,9 +2757,12 @@ Categories: [appstore](#3-appstore)
 
 Meet Gemini, Google’s AI assistant. Get help with writing, planning, brainstorming, and more. Experience the power of generative AI.
 
-Categories: [ai-chatbot](#2-ai-chatbot)
-
 <img src="assets/gemini.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-29-github
 
@@ -2260,9 +2770,12 @@ Categories: [ai-chatbot](#2-ai-chatbot)
 
 Join the world's most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.
 
-Categories: [web-hosting](#27-web-hosting), [version-control](#25-version-control)
-
 <img src="assets/github.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [web-hosting](#27-web-hosting), [version-control](#25-version-control) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-30-github-copilot
 
@@ -2270,9 +2783,12 @@ Categories: [web-hosting](#27-web-hosting), [version-control](#25-version-contro
 
 GitHub Copilot works alongside you directly in your editor, suggesting whole lines or entire functions for you.
 
-Categories: [ai-chatbot](#2-ai-chatbot)
-
 <img src="assets/github-copilot-icon.svg" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-31-gmail
 
@@ -2280,9 +2796,12 @@ Categories: [ai-chatbot](#2-ai-chatbot)
 
 Discover how Gmail keeps your account & emails encrypted, private and under your control with the largest secure email service in the world.
 
-Categories: [email](#11-email)
-
 <img src="assets/gmail.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [email](#11-email) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-32-google-authenticator
 
@@ -2290,9 +2809,12 @@ Categories: [email](#11-email)
 
 Safety starts with understanding how developers collect and share your data. Data privacy and security practices may vary based on your use, region, and age. The developer provided this information and may update it over time.
 
-Categories: [authenticator](#5-authenticator)
-
 <img src="assets/google-authenticator.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [authenticator](#5-authenticator) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-33-google-chrome
 
@@ -2300,9 +2822,12 @@ Categories: [authenticator](#5-authenticator)
 
 Get more done with the new Google Chrome. A more simple, secure and faster web browser than ever, with Google’s smarts built in. Download now.
 
-Categories: [browser](#6-browser)
-
 <img src="assets/google-chrome.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [browser](#6-browser) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-34-google-play
 
@@ -2310,9 +2835,12 @@ Categories: [browser](#6-browser)
 
 Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.
 
-Categories: [appstore](#3-appstore)
-
 <img src="assets/google-play.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [appstore](#3-appstore) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-35-google-search
 
@@ -2320,9 +2848,12 @@ Categories: [appstore](#3-appstore)
 
 Google Search (also known simply as Google or Google.com) is a search engine operated by Google. It allows users to search for information on the Internet by entering keywords or phrases. Google Search uses algorithms to analyze and rank websites based on their relevance to the search query. It is the most popular search engine worldwide.
 
-Categories: [search-engine](#24-search-engine)
-
 <img src="assets/google-search.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [search-engine](#24-search-engine) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-36-hanime
 
@@ -2330,9 +2861,12 @@ Categories: [search-engine](#24-search-engine)
 
 Hanime1.me 帶給你最完美的H動漫、H動畫、裏番、里番、成人色情卡通片的線上看體驗，絕對沒有天殺的片頭廣告！
 
-Categories: [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai)
-
 <img src="assets/hanime.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-37-hbuilder
 
@@ -2340,9 +2874,12 @@ Categories: [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-
 
 HBuilderX is the fastest HTML development tool. Powerful code assistant helps you complete development quickly. The complete syntax library and browser compatibility function will improve your development efficiency.
 
-Categories: [editor](#10-editor)
-
 <img src="assets/hbuilder.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [editor](#10-editor) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-38-hmoegirl
 
@@ -2350,9 +2887,12 @@ Categories: [editor](#10-editor)
 
 H萌娘是一个关于H萌的wiki。 <br>H萌娘的收录的条目要满足两点：既属于**H**（hentai/エロ）又属于**萌**（二次元）。 <br>目前主要由 User:BakeWater 为H萌娘提供服务器方面的支持。
 
-Categories: [encyclopedia](#12-encyclopedia), [acg](#1-acg)
-
 <img src="assets/hmoegirl-encyclopedia.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [encyclopedia](#12-encyclopedia), [acg](#1-acg) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-39-huorong-app-store
 
@@ -2360,9 +2900,12 @@ Categories: [encyclopedia](#12-encyclopedia), [acg](#1-acg)
 
 火绒应用商店是一款由火绒安全团队推出的一站式应用软件管理平台，秉持 “安全下载，绿色体验” 的理念，为用户提供干净、安全、可靠的应用下载管理服务。
 
-Categories: [appstore](#3-appstore)
-
 <img src="assets/huorong-app-store.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [appstore](#3-appstore) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-40-intellij-idea
 
@@ -2370,9 +2913,12 @@ Categories: [appstore](#3-appstore)
 
 IntelliJ IDEA is the JetBrains IDE for pro development in Java and Kotlin. Built for your comfort, it unlocks productivity, ensures quality code, supports cutting-edge tech, and protects your privacy.
 
-Categories: [editor](#10-editor)
-
 <img src="assets/intellij-idea.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [editor](#10-editor) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-41-ios
 
@@ -2380,9 +2926,12 @@ Categories: [editor](#10-editor)
 
 iOS 26 for iPhone with a new design, more helpful Apple Intelligence, polls and backgrounds in Messages, and features that make every day effortless.
 
-Categories: [operating-system](#20-operating-system)
-
 <img src="assets/ios.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [operating-system](#20-operating-system) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-42-iwara
 
@@ -2390,9 +2939,12 @@ Categories: [operating-system](#20-operating-system)
 
 Iwara.tv is niche website for MMD (MikuMikuDance) and R18 models.
 
-Categories: [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai)
-
 <img src="assets/iwara.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-43-jiong-ci-yuan
 
@@ -2400,9 +2952,12 @@ Categories: [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-
 
 Jiongciyuan (囧次元) is an Android video streaming app focused on Japanese animation, allowing for real-time comments and interaction.  You can avoid frequent ads by watching free advertisements to earn temporary membership.
 
-Categories: [acg](#1-acg), [video-streaming](#26-video-streaming)
-
 <img src="assets/jcyapp-org.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [video-streaming](#26-video-streaming) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-44-jmcomic
 
@@ -2410,9 +2965,12 @@ Categories: [acg](#1-acg), [video-streaming](#26-video-streaming)
 
 免費A漫 - 免費成人H漫線上看
 
-Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai)
-
 <img src="assets/jmcomic.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-45-keepass
 
@@ -2420,9 +2978,12 @@ Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [henta
 
 KeePass is a free open source password manager. Passwords can be stored in an encrypted database, which can be unlocked with one master key.
 
-Categories: [password-manager](#21-password-manager)
-
 <img src="assets/keepass.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [password-manager](#21-password-manager) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-46-kimi
 
@@ -2430,9 +2991,12 @@ Categories: [password-manager](#21-password-manager)
 
 Kimi K2长思考模式来了！支持多轮工具调用与思考，擅长数理逻辑难题，让搜索更广更准，帮你把想法化为清晰、富于创意、可用性高的文字与代码
 
-Categories: [ai-chatbot](#2-ai-chatbot)
-
 <img src="assets/kimi.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-47-kuaishou
 
@@ -2440,9 +3004,12 @@ Categories: [ai-chatbot](#2-ai-chatbot)
 
 快手是一款国民级短视频App，了解真实世界，认识有趣的人，记录真实而有趣的自己，拥抱每一种生活。
 
-Categories: [video-streaming](#26-video-streaming)
-
 <img src="assets/kuaishou.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [video-streaming](#26-video-streaming) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-48-kuaiwan
 
@@ -2450,9 +3017,12 @@ Categories: [video-streaming](#26-video-streaming)
 
 快玩网页游戏是最齐全的网页游戏大全，这里有最好玩的网页游戏，以及最新网页游戏开服信息，凡人修真2，神曲，王者召唤，神魔仙界，武林叁，醉西游，大侠传，神仙道，龙将，热血海贼王，斗破苍穹2，侠武英雄传，英雄远征，英雄王座，梦幻飞仙，百炼成仙，梦幻修仙，
 
-Categories: [gamestore](#15-gamestore)
-
 <img src="assets/kuaiwan.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [gamestore](#15-gamestore) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-49-lanraragi
 
@@ -2460,9 +3030,12 @@ Categories: [gamestore](#15-gamestore)
 
 application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.<br><br>`{"link":"lrr.tvc-16.science","Topics": "docker server perl management manga comics reader mojolicious opds doujinshi nas hacktoberfest sadpanda"}`
 
-Categories: [acg](#1-acg), [reader](#23-reader)
-
 <img src="assets/lanraragi.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [reader](#23-reader) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-50-linux
 
@@ -2470,9 +3043,12 @@ Categories: [acg](#1-acg), [reader](#23-reader)
 
 Links to popular distribution download pages
 
-Categories: [operating-system](#20-operating-system)
-
 <img src="assets/linux-os.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [operating-system](#20-operating-system) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-51-logseq
 
@@ -2480,9 +3056,12 @@ Categories: [operating-system](#20-operating-system)
 
 A privacy-first, open-source platform for knowledge management and collaboration.
 
-Categories: [note-taking](#19-note-taking)
-
 <img src="assets/logseq.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [note-taking](#19-note-taking) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-52-macos
 
@@ -2490,9 +3069,12 @@ Categories: [note-taking](#19-note-taking)
 
 macOS Tahoe with a new design, more ways to work seamlessly across devices, and new features to turbocharge productivity every day.
 
-Categories: [operating-system](#20-operating-system)
-
 <img src="assets/macos.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [operating-system](#20-operating-system) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-53-mail-ru
 
@@ -2500,9 +3082,12 @@ Categories: [operating-system](#20-operating-system)
 
 Mail — безопасные сервисы для жизни и работы: бесплатная Почта, память для всего в Облаке, лёгкое планирование в Календаре и быстрые записи в Заметках. Мобильная версия и приложение — используйте, как удобно
 
-Categories: [email](#11-email)
-
 <img src="assets/mail-ru.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [email](#11-email) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-54-manhuaren
 
@@ -2510,9 +3095,12 @@ Categories: [email](#11-email)
 
 漫画人：给你最好的掌上漫画应用体验，速度最快、最专业的漫画应用。<br><br>`{"author":"漫画人:为爱漫画的人而生、manhuaren.com","keywords":"漫画人：最好的掌上漫画应用"}`
 
-Categories: [acg](#1-acg), [gallery](#14-gallery)
-
 <img src="assets/manhuaren.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [gallery](#14-gallery) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-55-mbalib-wiki
 
@@ -2520,9 +3108,12 @@ Categories: [acg](#1-acg), [gallery](#14-gallery)
 
 MBA智库百科，专注于经济管理领域知识的创建与分享。包括企业管理、市场营销、管理咨询、人力资源、战略管理、MBA案例、财务会计、广告、品牌、经济、金融、法律、博弈论、证券、股票以及公司企业、商学院、经管人物等介绍。<br><br>`{"keywords":"首页,2023年诺贝尔经济学奖,2024年《福布斯》全球亿万富豪排行榜,5W2H分析法,GTD,INFJ,Warren Buffett,东方甄选“小作文”事件,乔尔·莫基尔,价值共创,传统能源,MBA,MBA智库,管理,营销,经济,金融,人力资源,管理咨询,广告,财务,会计,品牌,证券,股票,物流,贸易,商学院,法律,人物"}`
 
-Categories: [encyclopedia](#12-encyclopedia)
-
 <img src="assets/mbalib-wiki.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [encyclopedia](#12-encyclopedia) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-56-microsoft-authenticator
 
@@ -2530,9 +3121,12 @@ Categories: [encyclopedia](#12-encyclopedia)
 
 Safety starts with understanding how developers collect and share your data. Data privacy and security practices may vary based on your use, region, and age. The developer provided this information and may update it over time.
 
-Categories: [authenticator](#5-authenticator)
-
 <img src="assets/microsoft-authenticator.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [authenticator](#5-authenticator) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-57-microsoft-copilot
 
@@ -2540,9 +3134,12 @@ Categories: [authenticator](#5-authenticator)
 
 Microsoft Copilot is your companion to inform, entertain and inspire. Get advice, feedback and straightforward answers. Try Copilot now.
 
-Categories: [ai-chatbot](#2-ai-chatbot)
-
 <img src="assets/microsoft-copilot.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-58-microsoft-edge
 
@@ -2550,9 +3147,12 @@ Categories: [ai-chatbot](#2-ai-chatbot)
 
 Download Microsoft Edge for your computer or smartphone. Experience the cutting-edge AI Edge browser on your Windows, macOS, iOS, and Android device.
 
-Categories: [browser](#6-browser)
-
 <img src="assets/microsoft-edge.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [browser](#6-browser) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-59-microsoft-store
 
@@ -2560,9 +3160,12 @@ Categories: [browser](#6-browser)
 
 Explore the Microsoft Store for apps and games on Windows. Enjoy exclusive deals, new releases, and your favorite content all in one place.
 
-Categories: [appstore](#3-appstore)
-
 <img src="assets/microsoft-store.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [appstore](#3-appstore) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-60-mihon
 
@@ -2570,9 +3173,12 @@ Categories: [appstore](#3-appstore)
 
 Discover and read manga, webtoons, comics, and more – easier than ever on your Android device.
 
-Categories: [acg](#1-acg), [reader](#23-reader)
-
 <img src="assets/mihon.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [reader](#23-reader) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-61-misskey
 
@@ -2580,9 +3186,12 @@ Categories: [acg](#1-acg), [reader](#23-reader)
 
 This is the official site for Misskey, a decentralized social networking software. Find out how to get started, a list of servers, and lots more information about Misskey!
 
-Categories: [microblogging](#18-microblogging)
-
 <img src="assets/misskey.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [microblogging](#18-microblogging) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-62-moegirl
 
@@ -2590,9 +3199,12 @@ Categories: [microblogging](#18-microblogging)
 
 `{"keywords":"萌娘,百科,wiki,梗,娘化,萝莉,动画,漫画,动漫,游戏,音乐,宅腐,ACG,anime,comic,game,GalGame"}`
 
-Categories: [encyclopedia](#12-encyclopedia), [acg](#1-acg)
-
 <img src="assets/moegirl-encyclopedia.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [encyclopedia](#12-encyclopedia), [acg](#1-acg) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-63-mozilla-firefox
 
@@ -2600,9 +3212,12 @@ Categories: [encyclopedia](#12-encyclopedia), [acg](#1-acg)
 
 Mozilla Firefox, or simply Firefox, is a free and open source[12] web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation.
 
-Categories: [browser](#6-browser)
-
 <img src="assets/mozilla-firefox.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [browser](#6-browser) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-64-myanimelist
 
@@ -2610,9 +3225,12 @@ Categories: [browser](#6-browser)
 
 Welcome to MyAnimeList, the world's most active online anime and manga community and database. Join the online community, create your anime and manga list, read reviews, explore the forums, follow news, and so much more! <br><br>`{"keywords":"anime, myanimelist, anime news, manga"}`
 
-Categories: [acg](#1-acg), [database](#9-database)
-
 <img src="assets/myanimelist.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [database](#9-database) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-65-nekogram
 
@@ -2620,9 +3238,12 @@ Categories: [acg](#1-acg), [database](#9-database)
 
 Open-source third-party Telegram client with few but useful mods
 
-Categories: [instant-messaging](#17-instant-messaging)
-
 <img src="assets/nekogram.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-66-netease-mail
 
@@ -2630,9 +3251,12 @@ Categories: [instant-messaging](#17-instant-messaging)
 
 网易免费邮箱，你的专业电子邮局，提供以 @163.com、@126.com和@yeah.net 为后缀的免费邮箱。超过20年邮箱运营经验，系统快速稳定安全，支持超大附件和网盘服务。网易邮箱官方App“邮箱大师”帮您高效处理邮件，支持所有邮箱，并可在手机、Windows和Mac上多端协同使用。
 
-Categories: [email](#11-email)
-
 <img src="assets/netease-mail.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [email](#11-email) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-67-nhentai
 
@@ -2640,9 +3264,12 @@ Categories: [email](#11-email)
 
 nhentai is a free hentai manga and doujinshi reader with over 575,000 galleries to read and download. 
 
-Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai)
-
 <img src="assets/nhentai.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-68-nijimiss
 
@@ -2650,9 +3277,12 @@ Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [henta
 
 💞あらゆる好きが交差する💞<br> 好きを語れるオープンコミュニティ<br><br>好きなことを堂々と胸を張って好きといえる空間を作りたい。<br>そういった思いから生まれたSNSです。
 
-Categories: [microblogging](#18-microblogging)
-
 <img src="assets/nijimiss.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [microblogging](#18-microblogging) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-69-noteapps-info
 
@@ -2660,9 +3290,12 @@ Categories: [microblogging](#18-microblogging)
 
 Encyclopedia of note taking apps: Screenshots, feature lists, and pricing for popular note taking apps.
 
-Categories: [encyclopedia](#12-encyclopedia)
-
 <img src="assets/noteapps-info.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [encyclopedia](#12-encyclopedia) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-70-notion
 
@@ -2670,9 +3303,12 @@ Categories: [encyclopedia](#12-encyclopedia)
 
 Build custom agents, search across all your apps, and automate busywork. The AI workspace where teams get more done, faster.
 
-Categories: [note-taking](#19-note-taking)
-
 <img src="assets/notion.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [note-taking](#19-note-taking) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-71-obsidian
 
@@ -2680,9 +3316,12 @@ Categories: [note-taking](#19-note-taking)
 
 The free and flexible app for your private thoughts.
 
-Categories: [note-taking](#19-note-taking)
-
 <img src="assets/obsidian.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [note-taking](#19-note-taking) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-72-onedrive
 
@@ -2690,9 +3329,12 @@ Categories: [note-taking](#19-note-taking)
 
 Microsoft OneDrive is a file-hosting service operated by Microsoft. First released as SkyDrive in August 2007, it allows registered users to store, share, back-up and synchronize their files. OneDrive also works as the storage backend of the web version of Microsoft 365. OneDrive offers 5 gigabytes of storage space free of charge, with 100 GB, 1 TB, and 6 TB storage options available, either separately or with Microsoft 365 subscriptions.
 
-Categories: [cloud-disk](#7-cloud-disk)
-
 <img src="assets/onedrive.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [cloud-disk](#7-cloud-disk) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-73-outlook-com
 
@@ -2700,9 +3342,12 @@ Categories: [cloud-disk](#7-cloud-disk)
 
 With Outlook on your PC, Mac or mobile device, you can:<ul><li>Organize email to let you focus on the messages that matter most.</li><li>Manage and share your calendar to schedule meetings with ease.</li><li>Share files from the cloud so recipients always have the latest version.</li><li>Stay connected and productive wherever you are.</li></ul>
 
-Categories: [email](#11-email)
-
 <img src="assets/outlook-com.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [email](#11-email) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-74-picaacg
 
@@ -2710,9 +3355,12 @@ Categories: [email](#11-email)
 
 嗶咔漫畫讓你可以輕鬆看到不同的本子，介面美觀易用，分類齊全，每天更新，紳士必備！
 
-Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai)
-
 <img src="assets/picaacg.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-75-pixiv
 
@@ -2720,9 +3368,12 @@ Categories: [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [henta
 
 Pixiv[a] (Japanese: ピクシブ, Hepburn: Pikushibu) is a Japanese online community for artists.
 
-Categories: [acg](#1-acg), [community](#8-community)
-
 <img src="assets/pixiv.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [acg](#1-acg), [community](#8-community) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-76-potato
 
@@ -2730,9 +3381,12 @@ Categories: [acg](#1-acg), [community](#8-community)
 
 Potato is an instant messenger focused on security. It is faster, more secure, more open and completely free. Available on IOS, Android, Windows , MacOS and Linux. You can create super groups with 200,000 members, super channels, support voice and video calls, send photos, send videos, stickers and Gifs, and there is no file size limit, etc. It provides you with full privacy settings and the most secure and stable chat environment. Moreover, Potato is an expert in protecting your digital currency.
 
-Categories: [instant-messaging](#17-instant-messaging)
-
 <img src="assets/potato.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-77-pycharm
 
@@ -2740,9 +3394,12 @@ Categories: [instant-messaging](#17-instant-messaging)
 
 Built for web, data, and AI/ML professionals. Supercharged with an AI-enhanced IDE experience.
 
-Categories: [editor](#10-editor)
-
 <img src="assets/pycharm.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [editor](#10-editor) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-78-qianwen
 
@@ -2750,9 +3407,12 @@ Categories: [editor](#10-editor)
 
 千问是阿里通义千问大模型打造的AI对话助手，通义千问支持问答、写作、代码、翻译、录音、PPT创作、文档处理、音视频速读。
 
-Categories: [ai-chatbot](#2-ai-chatbot)
-
 <img src="assets/qianwen.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-79-qq-mail
 
@@ -2760,9 +3420,12 @@ Categories: [ai-chatbot](#2-ai-chatbot)
 
 QQ邮箱，提供qq.com、foxmail.com后缀的安全、稳定、快速、便捷的免费电子邮箱。强大的反垃圾邮件过滤，10G超大附件发送，便捷记事和日历功能，轻松管理所有电子发票，尽在QQ邮箱。
 
-Categories: [email](#11-email)
-
 <img src="assets/qq-mail.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [email](#11-email) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-80-qqgame
 
@@ -2770,9 +3433,12 @@ Categories: [email](#11-email)
 
 QQ游戏大厅官网，下载QQ游戏大厅，玩QQ游戏全游戏；
 
-Categories: [gamestore](#15-gamestore)
-
 <img src="assets/qqgame.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [gamestore](#15-gamestore) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-81-quark-browser
 
@@ -2780,9 +3446,12 @@ Categories: [gamestore](#15-gamestore)
 
 夸克pc/app为你带来极速、智能、安全、高效的搜索体验,找答案,找资料,找工具,办公,学习,工作必备应用。夸克提供浏览器搜索引擎、网盘、AI扫描王工具及小说阅读等高效功能，为你提供稳定,安全,流畅的浏览环境和优质的产品服务体验
 
-Categories: [browser](#6-browser), [ai-chatbot](#2-ai-chatbot)
-
 <img src="assets/quark-browser.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [browser](#6-browser), [ai-chatbot](#2-ai-chatbot) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-82-quora
 
@@ -2790,9 +3459,12 @@ Categories: [browser](#6-browser), [ai-chatbot](#2-ai-chatbot)
 
 Quora is an American social question-and-answer website and online knowledge market headquartered in Mountain View, California. It was founded on June 25, 2009, and made available to the public on June 21, 2010. Users can post questions, answer questions, and comment on answers that have been submitted by other users. As of 2020, the website was visited by 300 million users a month.
 
-Categories: [qa-system](#22-qa-system)
-
 <img src="assets/quora.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [qa-system](#22-qa-system) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-83-reddit
 
@@ -2800,9 +3472,12 @@ Categories: [qa-system](#22-qa-system)
 
 Reddit is where millions of people gather for conversations about the things they care about, in over 100,000 subreddit communities.
 
-Categories: [forum](#13-forum)
-
 <img src="assets/reddit.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [forum](#13-forum) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-84-saucenao-search
 
@@ -2810,9 +3485,12 @@ Categories: [forum](#13-forum)
 
 SauceNAO is a reverse image search engine. The name 'SauceNAO' is derived from a slang form of "Need to know the source of this Now!" which has found common usage on image boards and other similar sites.
 
-Categories: [search-engine](#24-search-engine)
-
 <img src="assets/saurcenao-search.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [search-engine](#24-search-engine) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-85-session
 
@@ -2820,9 +3498,12 @@ Categories: [search-engine](#24-search-engine)
 
 Session is a private messenger that aims to remove any chance of metadata collection by routing all messages through an onion routing network.
 
-Categories: [instant-messaging](#17-instant-messaging)
-
 <img src="assets/session.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-86-simplex
 
@@ -2830,9 +3511,12 @@ Categories: [instant-messaging](#17-instant-messaging)
 
 SimpleX Chat - a private and encrypted messenger without any user IDs (not even random ones)! Make a private connection via link / QR code to send messages and make calls.
 
-Categories: [instant-messaging](#17-instant-messaging)
-
 <img src="assets/simplex.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-87-siyuan
 
@@ -2840,9 +3524,12 @@ Categories: [instant-messaging](#17-instant-messaging)
 
 SiYuan - Privacy-first personal knowledge management system that supports Markdown, block-level ref, and bidirectional links
 
-Categories: [note-taking](#19-note-taking)
-
 <img src="assets/siyuan-note.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [note-taking](#19-note-taking) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-88-slack
 
@@ -2850,9 +3537,12 @@ Categories: [note-taking](#19-note-taking)
 
 Boost productivity and save time with Slack‌ — ‌the AI work platform for managing projects, automating workflows, and connecting teams securely. Start working smarter today.
 
-Categories: [instant-messaging](#17-instant-messaging)
-
 <img src="assets/slack.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-89-soutubot-search
 
@@ -2860,9 +3550,12 @@ Categories: [instant-messaging](#17-instant-messaging)
 
 大家好（ﾉ>ω<)ﾉ这里是搜图bot酱网页版~ 可局部搜图NH内的本子，欢迎大家来测试~<br><br>如果大家觉得好用的话就请麻烦宣传和赞助一下吧~
 
-Categories: [search-engine](#24-search-engine)
-
 <img src="assets/soutubot-moe.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [search-engine](#24-search-engine) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-90-steam
 
@@ -2870,9 +3563,12 @@ Categories: [search-engine](#24-search-engine)
 
 Steam is the ultimate destination for playing, discussing, and creating games.
 
-Categories: [gamestore](#15-gamestore)
-
 <img src="assets/steam.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [gamestore](#15-gamestore) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-91-tamtam
 
@@ -2880,9 +3576,12 @@ Categories: [gamestore](#15-gamestore)
 
 General info about TamTam messenger
 
-Categories: [instant-messaging](#17-instant-messaging)
-
 <img src="assets/tamtam.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-92-taptap
 
@@ -2890,9 +3589,12 @@ Categories: [instant-messaging](#17-instant-messaging)
 
 TapTap 专为中国手游玩家打造的推荐高品质手游的分享社区。我们拥有超过 2 万款可玩游戏，超过 1 亿玩家在我们平台上完成了 30 亿次游戏下载，发布了超过 3500 万条真实客观的游戏评价，并为玩家提供了 50 万篇优质内容。目前已有超过 10 万个游戏开发者入驻了 TapTap 玩家社区。立即下载 TapTap，与我们一起体验最顶级的手游乐趣吧！
 
-Categories: [gamestore](#15-gamestore)
-
 <img src="assets/taptap.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [gamestore](#15-gamestore) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-93-telegram
 
@@ -2900,9 +3602,12 @@ Categories: [gamestore](#15-gamestore)
 
 Fast. Secure. Powerful.
 
-Categories: [instant-messaging](#17-instant-messaging)
-
 <img src="assets/telegram.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-94-tencent-appstore
 
@@ -2910,9 +3615,12 @@ Categories: [instant-messaging](#17-instant-messaging)
 
 应用宝是腾讯旗下官方手机app应用商店，致力于为您提供海量、优质、安全、最新的安卓应用游戏下载！
 
-Categories: [appstore](#3-appstore)
-
 <img src="assets/tencent-appstore.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [appstore](#3-appstore) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-95-tencent-meeting
 
@@ -2920,9 +3628,12 @@ Categories: [appstore](#3-appstore)
 
 基于腾讯20多年音视频通讯经验，腾讯会议提供一站式音视频会议解决方案，让您能随时随地体验高清流畅的会议以及会议协作。
 
-Categories: [instant-messaging](#17-instant-messaging)
-
 <img src="assets/tencent-meeting.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-96-tencent-qq
 
@@ -2930,9 +3641,12 @@ Categories: [instant-messaging](#17-instant-messaging)
 
 腾讯QQ，全新版本QQ9上线了！ QQ9，不仅是轻松聊天，更是兴趣社区的聚集地。欢迎下载体验最新版本QQ，体验最新功能！欢迎访问QQ官网，下载新版QQ，了解QQ最新功能就在im.qq.com。
 
-Categories: [instant-messaging](#17-instant-messaging)
-
 <img src="assets/tencent-qq.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-97-tencent-wechat
 
@@ -2940,9 +3654,12 @@ Categories: [instant-messaging](#17-instant-messaging)
 
 Available for all kinds of platforms; enjoy group chat; support voice, photo, video and text messages.
 
-Categories: [instant-messaging](#17-instant-messaging)
-
 <img src="assets/tencent-wechat.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-98-tencent-yuanbao
 
@@ -2950,9 +3667,12 @@ Categories: [instant-messaging](#17-instant-messaging)
 
 来元宝，感受「DeepSeek+」智能新体验！联网搜索公众号、视频号等优质腾讯生态信源，搜得更准、答得更全；智能识图、拍题答疑等丰富能力，让工作学习生活更轻松高效
 
-Categories: [ai-chatbot](#2-ai-chatbot)
-
 <img src="assets/tencent-yuanbao.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-99-tiddlywiki
 
@@ -2960,9 +3680,12 @@ Categories: [ai-chatbot](#2-ai-chatbot)
 
 a non-linear personal web notebook
 
-Categories: [note-taking](#19-note-taking)
-
 <img src="assets/tiddly-wiki.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [note-taking](#19-note-taking) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-100-tieba
 
@@ -2970,9 +3693,12 @@ Categories: [note-taking](#19-note-taking)
 
 百度贴吧——全球领先的中文社区。贴吧的使命是让志同道合的人相聚。不论是大众话题还是小众话题，都能精准地聚集大批同好网友，展示自我风采，结交知音，搭建别具特色的“兴趣主题“互动平台。贴吧目录涵盖游戏、地区、文学、动漫、娱乐明星、生活、体育、电脑数码等方方面面，是全球领先的中文交流平台，它为人们提供一个表达和交流思想的自由网络空间，并以此汇集志同道合的网友。
 
-Categories: [forum](#13-forum)
-
 <img src="assets/baidu-tieba.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [forum](#13-forum) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-101-tor-browser
 
@@ -2980,9 +3706,12 @@ Categories: [forum](#13-forum)
 
 Download | Defend yourself against tracking and surveillance. Circumvent censorship.
 
-Categories: [browser](#6-browser)
-
 <img src="assets/tor-browser.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [browser](#6-browser) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-102-trae
 
@@ -2990,9 +3719,12 @@ Categories: [browser](#6-browser)
 
 TRAE AI IDE | 国内首款 AI 原生集成开发环境，深度集成 Doubao-1.5-pro 与 DeepSeek 模型，支持中文自然语言一键生成完整代码框架，实时预览前端效果并智能修复 BUG。首创 Builder 模式实现需求到代码的自动化开发，兼容 Windows/macOS 系统，官网下载即用。
 
-Categories: [editor](#10-editor)
-
 <img src="assets/trae.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [editor](#10-editor) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-103-twitter
 
@@ -3000,9 +3732,12 @@ Categories: [editor](#10-editor)
 
 We serve the public conversation. Learn more about X the company, and how we ensure people have a free and safe place to talk.
 
-Categories: [microblogging](#18-microblogging)
-
 <img src="assets/x-com.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [microblogging](#18-microblogging) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-104-typora
 
@@ -3010,9 +3745,12 @@ Categories: [microblogging](#18-microblogging)
 
 Typora is a cross-platform minimal markdown editor, providing seamless experience for both markdown readers and writers.
 
-Categories: [editor](#10-editor)
-
 <img src="assets/typora.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [editor](#10-editor) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-105-uc-browser
 
@@ -3020,9 +3758,12 @@ Categories: [editor](#10-editor)
 
 Download UC Browser today and enjoy a faster, safer, and more private online experience. With built-in VPN protection and advanced ad blocking, we set a new standard for secure browsing.
 
-Categories: [browser](#6-browser)
-
 <img src="assets/uc-browser.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [browser](#6-browser) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-106-vim
 
@@ -3030,9 +3771,12 @@ Categories: [browser](#6-browser)
 
 Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient. It is included as "vi" with most UNIX systems and with Apple OS X.
 
-Categories: [editor](#10-editor)
-
 <img src="assets/vim.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [editor](#10-editor) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-107-visual-studio
 
@@ -3040,9 +3784,12 @@ Categories: [editor](#10-editor)
 
 Visual Studio dev tools & services make app development easy for any developer, on any platform & language. Develop with our code editor or IDE anywhere for free.
 
-Categories: [editor](#10-editor)
-
 <img src="assets/visual-studio.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [editor](#10-editor) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-108-visual-studio-code
 
@@ -3050,9 +3797,12 @@ Categories: [editor](#10-editor)
 
 Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
 
-Categories: [editor](#10-editor)
-
 <img src="assets/vscode.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [editor](#10-editor) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-109-webstorm
 
@@ -3060,9 +3810,12 @@ Categories: [editor](#10-editor)
 
 Make development more productive and enjoyable with WebStorm, the IDE for JavaScript and related technologies.
 
-Categories: [editor](#10-editor)
-
 <img src="assets/webstorm.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [editor](#10-editor) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-110-wikihow
 
@@ -3070,9 +3823,12 @@ Categories: [editor](#10-editor)
 
 Learn how to do anything with wikiHow, the world's most popular how-to website. Easy, well-researched, and trustworthy instructions for everything you want to know.
 
-Categories: [encyclopedia](#12-encyclopedia)
-
 <img src="assets/wikihow.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [encyclopedia](#12-encyclopedia) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-111-wikipedia
 
@@ -3080,9 +3836,12 @@ Categories: [encyclopedia](#12-encyclopedia)
 
 Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.
 
-Categories: [encyclopedia](#12-encyclopedia)
-
 <img src="assets/wikipedia.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [encyclopedia](#12-encyclopedia) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-112-windows-os
 
@@ -3090,9 +3849,12 @@ Categories: [encyclopedia](#12-encyclopedia)
 
 Experience the latest Microsoft Windows 11 features. Learn how our latest Windows OS gives you more ways to work, play, and create.
 
-Categories: [operating-system](#20-operating-system)
-
 <img src="assets/windows-os.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [operating-system](#20-operating-system) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-113-yandex-search
 
@@ -3100,9 +3862,12 @@ Categories: [operating-system](#20-operating-system)
 
 Yandex is a technology company that builds intelligent products and services powered by machine learning.
 
-Categories: [search-engine](#24-search-engine)
-
 <img src="assets/yandex-search.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [search-engine](#24-search-engine) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-114-youtube
 
@@ -3110,9 +3875,12 @@ Categories: [search-engine](#24-search-engine)
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-Categories: [video-streaming](#26-video-streaming)
-
 <img src="assets/youtube.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [video-streaming](#26-video-streaming) |
+| [Type](#type) | [site-items](#site-items) |
 
 ### 0-115-zhihu
 
@@ -3120,6 +3888,13 @@ Categories: [video-streaming](#26-video-streaming)
 
 知乎，中文互联网高质量的问答社区和创作者聚集的原创内容平台，于 2011 年 1 月正式上线，以「让人们更好的分享知识、经验和见解，找到自己的解答」为品牌使命。知乎凭借认真、专业、友善的社区氛围、独特的产品机制以及结构化和易获得的优质内容，聚集了中文互联网科技、商业、影视、时尚、文化等领域最具创造力的人群，已成为综合性、全品类、在诸多领域具有关键影响力的知识分享社区和创作者聚集的原创内容平台，建立起了以社区驱动的内容变现商业模式。
 
-Categories: [qa-system](#22-qa-system)
-
 <img src="assets/zhihu.png" width="200">
+
+| | |
+| --- | --- |
+| [Category](#category) |  [qa-system](#22-qa-system) |
+| [Type](#type) | [site-items](#site-items) |
+
+## type
+- [category](#category)
+- [site-items](#site-items)
