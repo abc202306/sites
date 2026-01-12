@@ -22,4 +22,11 @@ views:
       note.url: 250
   - type: cards
     name: Cards
+    order:
+      - title
     image: note.icon
+  - type: cards
+    name: cardsmini
+    order: []
+    image: note.icon
+    cardSize: 50
