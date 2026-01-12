@@ -7,6 +7,14 @@ mtime: "2026-01-10T14:38:05+08:00"
 
 ```js
 
+function escapePipe(str) {
+	return str.replace(/(?<!\\)\|/g,"\\|");
+}
+
+function getDescriptionInTable(fm) {
+	return `[${escapePipe(fm.title)}](${fm.url})<br><br>${fm.description}`;
+}
+
 class WikiParser {
     constructor(metadataCache, options = {}) {
         this.metadataCache = metadataCache || null;
@@ -112,7 +120,7 @@ class SiteRenderer {
             const fm = this.fm.safeFrontmatter(file);
             const icon = this.parser.getImageElem(fm.icon, this.options.tableImageWidth);
             const target = `#${m}-${n}-${slug}`;
-            const description = fm.description;
+            const description = getDescriptionInTable(fm);
             return `> | ${n} | [${slug}](${target}) | ${this.getCategoryArrStr(file, categoryFiles)} | [${icon}](${target}) | ${description} |`;
         }).join('\n');
 
@@ -192,7 +200,7 @@ class MOCBuilder {
                     const target = `#0-${n}-${slug}`;
                     const fm = this.fm.safeFrontmatter(f);
                     const icon = this.parser.getImageElem(fm.icon, this.options.tableImageWidth);
-                    const description = fm.description;
+                    const description = getDescriptionInTable(fm);
                     return `> | ${n} | [${slug}](${target}) | ${this.renderer.getCategoryArrStr(f, sitecategories)} | [${icon}](${target}) | ${description} |`;
                 })
                 .join('\n')
