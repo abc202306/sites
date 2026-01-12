@@ -70,13 +70,14 @@ class SiteRenderer {
         this.options = Object.assign({ tableImageWidth: 50 }, options);
     }
 
-    getCategoryArrStr(itemFile, categoryFiles) {
+    getCategoryArrStr(itemFile, categoryFiles, emphasizedText) {
         const fm = this.fm.safeFrontmatter(itemFile);
         return this.fm.safeArray(fm.categories).map(l => {
             const pt = this.parser.parseWikiLink(l) || l;
             const i = categoryFiles.findIndex(f => f.basename === pt);
-            const display = pt.replace(/^site-category-/, '');
-            return `[${display}](#${i + 1}-${display})`;
+            const displayItem = pt.replace(/^site-category-/, '');
+            const display = displayItem === emphasizedText ? `**${displayItem}**` : displayItem;
+            return `[${display}](#${i + 1}-${displayItem})`;
         }).join(', ');
     }
 
@@ -90,7 +91,7 @@ class SiteRenderer {
         }).join(', ');
     }
 
-    getSiteItemSection(itemFile, m, n, categoryFiles) {
+    getSiteItemSection(itemFile, m, n, categoryFiles, emphasizedText) {
         const slug = this.parser.slugFromBasename(itemFile.basename, 'site-item-');
         const title = `${m}-${n}-${slug}`;
         const fm = this.fm.safeFrontmatter(itemFile);
@@ -98,30 +99,30 @@ class SiteRenderer {
         const displayTitle = fm.title || slug;
         const url = fm.url || '#';
         const description = fm.description || '';
-        const categories = this.getCategoryArrStr(itemFile, categoryFiles);
+        const categories = this.getCategoryArrStr(itemFile, categoryFiles, emphasizedText);
         const icon = fm.icon ? this.parser.getImageElem(fm.icon) : '';
 
         return `${headerMarker} ${title}\n\n> see: [${displayTitle}](${url})\n\n${description}\n\n${icon}\n\n> [!Note]\n> \n> | | |\n> | --- | --- |\n> | [Category](#category) |  ${categories} |\n> | [Type](#type) | [site-items](#site-items) |`;
     }
 
     getSiteCategorySection(file, m, categoryFiles) {
-        const slug = this.parser.slugFromBasename(file.basename, 'site-category-');
-        const title = `${m}-${slug}`;
+        const slugCategory = this.parser.slugFromBasename(file.basename, 'site-category-');
+        const title = `${m}-${slugCategory}`;
         const fm = this.fm.safeFrontmatter(file);
         const subpages = this.fm.safeArray(fm.subpages);
 
-        const olHeader = `> [!Note]\n> \n> #### [type](#type)/[category](#category)/**${slug}**/\n> \n> | \\# | [Site-Items](#site-items) | [Category](#category) | Icon | Description |\n> | --- | --- | --- | --- | --- |\n`;
+        const olHeader = `> [!Note]\n> \n> #### [type](#type)/[category](#category)/**${slugCategory}**/\n> \n> | \\# | [**Site-Items**](#site-items) | [**Category**](#category) | Icon | Description |\n> | --- | --- | --- | --- | --- |\n`;
 
         const olRows = subpages.map((link, j) => {
             const n = j + 1;
             const linkTarget = this.parser.parseWikiLink(link) || link;
             const file = this.parser.getFile(linkTarget);
-            const slug = this.parser.slugFromBasename(linkTarget, 'site-item-');
+            const slugItem = this.parser.slugFromBasename(linkTarget, 'site-item-');
             const fm = this.fm.safeFrontmatter(file);
             const icon = this.parser.getImageElem(fm.icon, this.options.tableImageWidth);
-            const target = `#${m}-${n}-${slug}`;
+            const target = `#${m}-${n}-${slugItem}`;
             const description = getDescriptionInTable(fm);
-            return `> | ${n} | [${slug}](${target}) | ${this.getCategoryArrStr(file, categoryFiles)} | [${icon}](${target}) | ${description} |`;
+            return `> | ${n} | [${slugItem}](${target}) | ${this.getCategoryArrStr(file, categoryFiles, slugCategory)} | [${icon}](${target}) | ${description} |`;
         }).join('\n');
 
         const relatedSiteItems = subpages.map(link => {
@@ -129,7 +130,7 @@ class SiteRenderer {
             return this.parser.getFile(linktext);
         }).filter(Boolean);
 
-        const itemSections = relatedSiteItems.map((f, j) => this.getSiteItemSection(f, m, j + 1, categoryFiles)).join('\n\n');
+        const itemSections = relatedSiteItems.map((f, j) => this.getSiteItemSection(f, m, j + 1, categoryFiles, slugCategory)).join('\n\n');
 
         return `### ${title}\n\n${olHeader}${olRows}\n\n${itemSections}`;
     }
@@ -160,7 +161,7 @@ class MOCBuilder {
     // build the category index table (first section)
     _buildCategoryIndex(sitecategories) {
         return (
-            "> [!Note]\n> \n> ### [type](#type)/category/\n> \n> | \\\# | [Category](#category) | [Site-Items](#site-items) | Icon |\n> | --- | --- | --- | --- |\n" +
+            "> [!Note]\n> \n> ### [type](#type)/category/\n> \n> | \\\# | [**Category**](#category) | [**Site-Items**](#site-items) | Icon |\n> | --- | --- | --- | --- |\n" +
             sitecategories
                 .map((f, i) => {
                     const m = i + 1;
@@ -192,7 +193,7 @@ class MOCBuilder {
 
     _buildSiteItemsIndex(siteitems, sitecategories) {
         return (
-            "> [!Note]\n> \n> ### [type](#type)/site-items/\n> \n> | \\\# | [Site-Items](#site-items) | [Category](#category) | Icon | Description |\n> | --- | --- | --- | --- | --- |\n" +
+            "> [!Note]\n> \n> ### [type](#type)/site-items/\n> \n> | \\\# | [**Site-Items**](#site-items) | [**Category**](#category) | Icon | Description |\n> | --- | --- | --- | --- | --- |\n" +
             siteitems
                 .map((f, j) => {
                     const n = j + 1;
@@ -215,7 +216,7 @@ class MOCBuilder {
         const { siteitems, sitecategories } = this._getSiteFiles();
 
         const parts = [];
-        parts.push('## type\n\n> [!Note]\n> 1. [category](#category)\n> 1. [site-items](#site-items)');
+        parts.push('## type\n\n> [!Note]\n> \n> ### type\n> \n> 1. [category](#category)\n> 1. [site-items](#site-items)');
         parts.push('\n## category\n');
         parts.push(this._buildCategoryIndex(sitecategories));
         parts.push('\n');
