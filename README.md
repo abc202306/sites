@@ -7,8 +7,9 @@ Keywords: awesome list, website, github repo
 
 ## type
 
-- [category](#category)
-- [site-items](#site-items)
+> [!Note]
+> 1. [category](#category)
+> 2. [site-items](#site-items)
 
 ## category
 
@@ -79,10 +80,12 @@ Jiongciyuan (囧次元) is an Android video streaming app focused on Japanese an
 
 <img src="assets/jcyapp-org.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [video-streaming](#26-video-streaming) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [video-streaming](#26-video-streaming) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 1-2-anidb
 
@@ -92,10 +95,12 @@ Looking for information about Anime? AniDB is the right place for you. AniDB is 
 
 <img src="assets/anidb.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [database](#9-database) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [database](#9-database) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 1-3-myanimelist
 
@@ -105,10 +110,12 @@ Welcome to MyAnimeList, the world's most active online anime and manga community
 
 <img src="assets/myanimelist.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [database](#9-database) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [database](#9-database) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 1-4-e-hentai
 
@@ -118,10 +125,12 @@ With more than a million absolutely free hentai doujinshi, manga, cosplay and CG
 
 <img src="assets/e-hentai.svg" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 1-5-nhentai
 
@@ -131,10 +140,12 @@ nhentai is a free hentai manga and doujinshi reader with over 575,000 galleries 
 
 <img src="assets/nhentai.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 1-6-jmcomic
 
@@ -144,10 +155,12 @@ nhentai is a free hentai manga and doujinshi reader with over 575,000 galleries 
 
 <img src="assets/jmcomic.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 1-7-picaacg
 
@@ -157,10 +170,12 @@ nhentai is a free hentai manga and doujinshi reader with over 575,000 galleries 
 
 <img src="assets/picaacg.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 1-8-manhuaren
 
@@ -170,10 +185,12 @@ nhentai is a free hentai manga and doujinshi reader with over 575,000 galleries 
 
 <img src="assets/manhuaren.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [gallery](#14-gallery) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [gallery](#14-gallery) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 1-9-mihon
 
@@ -183,10 +200,12 @@ Discover and read manga, webtoons, comics, and more – easier than ever on your
 
 <img src="assets/mihon.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [reader](#23-reader) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [reader](#23-reader) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 1-10-lanraragi
 
@@ -196,10 +215,12 @@ application for archival and reading of manga/doujinshi. Lightweight and Docker-
 
 <img src="assets/lanraragi.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [reader](#23-reader) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [reader](#23-reader) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 1-11-moegirl
 
@@ -209,10 +230,12 @@ application for archival and reading of manga/doujinshi. Lightweight and Docker-
 
 <img src="assets/moegirl-encyclopedia.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [encyclopedia](#12-encyclopedia), [acg](#1-acg) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [encyclopedia](#12-encyclopedia), [acg](#1-acg) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 1-12-hmoegirl
 
@@ -222,10 +245,12 @@ H萌娘是一个关于H萌的wiki。 <br>H萌娘的收录的条目要满足两�
 
 <img src="assets/hmoegirl-encyclopedia.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [encyclopedia](#12-encyclopedia), [acg](#1-acg) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [encyclopedia](#12-encyclopedia), [acg](#1-acg) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 1-13-pixiv
 
@@ -235,10 +260,12 @@ Pixiv[a] (Japanese: ピクシブ, Hepburn: Pikushibu) is a Japanese online commu
 
 <img src="assets/pixiv.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [community](#8-community) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [community](#8-community) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 1-14-iwara
 
@@ -248,10 +275,12 @@ Iwara.tv is niche website for MMD (MikuMikuDance) and R18 models.
 
 <img src="assets/iwara.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 1-15-hanime
 
@@ -261,10 +290,12 @@ Hanime1.me 帶給你最完美的H動漫、H動畫、裏番、里番、成人色�
 
 <img src="assets/hanime.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 2-ai-chatbot
 
@@ -295,10 +326,12 @@ Hanime1.me 帶給你最完美的H動漫、H動畫、裏番、里番、成人色�
 
 <img src="assets/deepseek.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 2-2-microsoft-copilot
 
@@ -308,10 +341,12 @@ Microsoft Copilot is your companion to inform, entertain and inspire. Get advice
 
 <img src="assets/microsoft-copilot.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 2-3-chatgpt
 
@@ -321,10 +356,12 @@ ChatGPT helps you get answers, find inspiration, and be more productive.
 
 <img src="assets/chatgpt.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 2-4-gemini
 
@@ -334,10 +371,12 @@ Meet Gemini, Google’s AI assistant. Get help with writing, planning, brainstor
 
 <img src="assets/gemini.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 2-5-claude
 
@@ -347,10 +386,12 @@ Talk with Claude, an AI assistant from Anthropic
 
 <img src="assets/claude.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 2-6-github-copilot
 
@@ -360,10 +401,12 @@ GitHub Copilot works alongside you directly in your editor, suggesting whole lin
 
 <img src="assets/github-copilot-icon.svg" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 2-7-quark-browser
 
@@ -373,10 +416,12 @@ GitHub Copilot works alongside you directly in your editor, suggesting whole lin
 
 <img src="assets/quark-browser.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [browser](#6-browser), [ai-chatbot](#2-ai-chatbot) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [browser](#6-browser), [ai-chatbot](#2-ai-chatbot) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 2-8-tencent-yuanbao
 
@@ -386,10 +431,12 @@ GitHub Copilot works alongside you directly in your editor, suggesting whole lin
 
 <img src="assets/tencent-yuanbao.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 2-9-doubao
 
@@ -399,10 +446,12 @@ GitHub Copilot works alongside you directly in your editor, suggesting whole lin
 
 <img src="assets/doubao.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 2-10-qianwen
 
@@ -412,10 +461,12 @@ GitHub Copilot works alongside you directly in your editor, suggesting whole lin
 
 <img src="assets/qianwen.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 2-11-bohrium
 
@@ -425,10 +476,12 @@ Bohrium — AI for Science with global scientists. An AI-powered all-in-one rese
 
 <img src="assets/bohrium.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 2-12-kimi
 
@@ -438,10 +491,12 @@ Kimi K2长思考模式来了！支持多轮工具调用与思考，擅长数理�
 
 <img src="assets/kimi.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 3-appstore
 
@@ -468,10 +523,12 @@ Explore the Microsoft Store for apps and games on Windows. Enjoy exclusive deals
 
 <img src="assets/microsoft-store.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [appstore](#3-appstore) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [appstore](#3-appstore) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 3-2-huorong-app-store
 
@@ -481,10 +538,12 @@ Explore the Microsoft Store for apps and games on Windows. Enjoy exclusive deals
 
 <img src="assets/huorong-app-store.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [appstore](#3-appstore) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [appstore](#3-appstore) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 3-3-apkpure
 
@@ -494,10 +553,12 @@ APKPure is a free APK downloader for Android. It is safe, reliable, and virus-fr
 
 <img src="assets/apkpure.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [appstore](#3-appstore) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [appstore](#3-appstore) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 3-4-arora-store
 
@@ -507,10 +568,12 @@ Aurora OSS - Abode of opensource android apps
 
 <img src="assets/arora-store.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [appstore](#3-appstore) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [appstore](#3-appstore) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 3-5-google-play
 
@@ -520,10 +583,12 @@ Enjoy millions of the latest Android apps, games, music, movies, TV, books, maga
 
 <img src="assets/google-play.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [appstore](#3-appstore) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [appstore](#3-appstore) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 3-6-f-driod
 
@@ -533,10 +598,12 @@ F-Droid is an installable catalogue of FOSS (Free and Open Source Software) appl
 
 <img src="assets/f-droid.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [appstore](#3-appstore) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [appstore](#3-appstore) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 3-7-tencent-appstore
 
@@ -546,10 +613,12 @@ F-Droid is an installable catalogue of FOSS (Free and Open Source Software) appl
 
 <img src="assets/tencent-appstore.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [appstore](#3-appstore) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [appstore](#3-appstore) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 3-8-360-appstore
 
@@ -559,10 +628,12 @@ F-Droid is an installable catalogue of FOSS (Free and Open Source Software) appl
 
 <img src="assets/360-appstore.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [appstore](#3-appstore) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [appstore](#3-appstore) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 4-archive
 
@@ -585,10 +656,12 @@ With more than a million absolutely free hentai doujinshi, manga, cosplay and CG
 
 <img src="assets/e-hentai.svg" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 4-2-nhentai
 
@@ -598,10 +671,12 @@ nhentai is a free hentai manga and doujinshi reader with over 575,000 galleries 
 
 <img src="assets/nhentai.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 4-3-jmcomic
 
@@ -611,10 +686,12 @@ nhentai is a free hentai manga and doujinshi reader with over 575,000 galleries 
 
 <img src="assets/jmcomic.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 4-4-picaacg
 
@@ -624,10 +701,12 @@ nhentai is a free hentai manga and doujinshi reader with over 575,000 galleries 
 
 <img src="assets/picaacg.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 5-authenticator
 
@@ -648,10 +727,12 @@ Safety starts with understanding how developers collect and share your data. Dat
 
 <img src="assets/microsoft-authenticator.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [authenticator](#5-authenticator) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [authenticator](#5-authenticator) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 5-2-google-authenticator
 
@@ -661,10 +742,12 @@ Safety starts with understanding how developers collect and share your data. Dat
 
 <img src="assets/google-authenticator.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [authenticator](#5-authenticator) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [authenticator](#5-authenticator) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 6-browser
 
@@ -689,10 +772,12 @@ Get more done with the new Google Chrome. A more simple, secure and faster web b
 
 <img src="assets/google-chrome.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [browser](#6-browser) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [browser](#6-browser) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 6-2-microsoft-edge
 
@@ -702,10 +787,12 @@ Download Microsoft Edge for your computer or smartphone. Experience the cutting-
 
 <img src="assets/microsoft-edge.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [browser](#6-browser) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [browser](#6-browser) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 6-3-mozilla-firefox
 
@@ -715,10 +802,12 @@ Mozilla Firefox, or simply Firefox, is a free and open source[12] web browser de
 
 <img src="assets/mozilla-firefox.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [browser](#6-browser) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [browser](#6-browser) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 6-4-tor-browser
 
@@ -728,10 +817,12 @@ Download | Defend yourself against tracking and surveillance. Circumvent censors
 
 <img src="assets/tor-browser.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [browser](#6-browser) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [browser](#6-browser) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 6-5-uc-browser
 
@@ -741,10 +832,12 @@ Download UC Browser today and enjoy a faster, safer, and more private online exp
 
 <img src="assets/uc-browser.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [browser](#6-browser) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [browser](#6-browser) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 6-6-quark-browser
 
@@ -754,10 +847,12 @@ Download UC Browser today and enjoy a faster, safer, and more private online exp
 
 <img src="assets/quark-browser.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [browser](#6-browser), [ai-chatbot](#2-ai-chatbot) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [browser](#6-browser), [ai-chatbot](#2-ai-chatbot) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 7-cloud-disk
 
@@ -778,10 +873,12 @@ Microsoft OneDrive is a file-hosting service operated by Microsoft. First releas
 
 <img src="assets/onedrive.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [cloud-disk](#7-cloud-disk) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [cloud-disk](#7-cloud-disk) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 7-2-baidu-netdisk
 
@@ -791,10 +888,12 @@ Microsoft OneDrive is a file-hosting service operated by Microsoft. First releas
 
 <img src="assets/baidu-netdisk.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [cloud-disk](#7-cloud-disk) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [cloud-disk](#7-cloud-disk) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 8-community
 
@@ -814,10 +913,12 @@ Pixiv[a] (Japanese: ピクシブ, Hepburn: Pikushibu) is a Japanese online commu
 
 <img src="assets/pixiv.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [community](#8-community) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [community](#8-community) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 9-database
 
@@ -838,10 +939,12 @@ Looking for information about Anime? AniDB is the right place for you. AniDB is 
 
 <img src="assets/anidb.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [database](#9-database) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [database](#9-database) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 9-2-myanimelist
 
@@ -851,10 +954,12 @@ Welcome to MyAnimeList, the world's most active online anime and manga community
 
 <img src="assets/myanimelist.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [database](#9-database) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [database](#9-database) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 10-editor
 
@@ -885,10 +990,12 @@ Typora is a cross-platform minimal markdown editor, providing seamless experienc
 
 <img src="assets/typora.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [editor](#10-editor) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [editor](#10-editor) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 10-2-visual-studio-code
 
@@ -898,10 +1005,12 @@ Visual Studio Code redefines AI-powered coding with GitHub Copilot for building 
 
 <img src="assets/vscode.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [editor](#10-editor) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [editor](#10-editor) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 10-3-visual-studio
 
@@ -911,10 +1020,12 @@ Visual Studio dev tools & services make app development easy for any developer, 
 
 <img src="assets/visual-studio.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [editor](#10-editor) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [editor](#10-editor) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 10-4-vim
 
@@ -924,10 +1035,12 @@ Vim is a highly configurable text editor built to make creating and changing any
 
 <img src="assets/vim.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [editor](#10-editor) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [editor](#10-editor) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 10-5-intellij-idea
 
@@ -937,10 +1050,12 @@ IntelliJ IDEA is the JetBrains IDE for pro development in Java and Kotlin. Built
 
 <img src="assets/intellij-idea.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [editor](#10-editor) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [editor](#10-editor) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 10-6-pycharm
 
@@ -950,10 +1065,12 @@ Built for web, data, and AI/ML professionals. Supercharged with an AI-enhanced I
 
 <img src="assets/pycharm.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [editor](#10-editor) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [editor](#10-editor) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 10-7-webstorm
 
@@ -963,10 +1080,12 @@ Make development more productive and enjoyable with WebStorm, the IDE for JavaSc
 
 <img src="assets/webstorm.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [editor](#10-editor) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [editor](#10-editor) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 10-8-android-studio
 
@@ -976,10 +1095,12 @@ Android Studio provides app builders with an integrated development environment 
 
 <img src="assets/android-studio.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [editor](#10-editor) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [editor](#10-editor) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 10-9-hbuilder
 
@@ -989,10 +1110,12 @@ HBuilderX is the fastest HTML development tool. Powerful code assistant helps yo
 
 <img src="assets/hbuilder.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [editor](#10-editor) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [editor](#10-editor) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 10-10-cursor
 
@@ -1002,10 +1125,12 @@ Built to make you extraordinarily productive, Cursor is the best way to code wit
 
 <img src="assets/cursor-ai.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [editor](#10-editor) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [editor](#10-editor) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 10-11-trae
 
@@ -1015,10 +1140,12 @@ TRAE AI IDE | 国内首款 AI 原生集成开发环境，深度集成 Doubao-1.5
 
 <img src="assets/trae.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [editor](#10-editor) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [editor](#10-editor) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 10-12-emacs
 
@@ -1028,10 +1155,12 @@ An extensible, customizable, free/libre text editor — and more. At its core is
 
 <img src="assets/emacs.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [editor](#10-editor) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [editor](#10-editor) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 11-email
 
@@ -1055,10 +1184,12 @@ Discover how Gmail keeps your account & emails encrypted, private and under your
 
 <img src="assets/gmail.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [email](#11-email) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [email](#11-email) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 11-2-outlook-com
 
@@ -1068,10 +1199,12 @@ With Outlook on your PC, Mac or mobile device, you can:<ul><li>Organize email to
 
 <img src="assets/outlook-com.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [email](#11-email) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [email](#11-email) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 11-3-mail-ru
 
@@ -1081,10 +1214,12 @@ Mail — безопасные сервисы для жизни и работы: 
 
 <img src="assets/mail-ru.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [email](#11-email) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [email](#11-email) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 11-4-qq-mail
 
@@ -1094,10 +1229,12 @@ QQ邮箱，提供qq.com、foxmail.com后缀的安全、稳定、快速、便捷�
 
 <img src="assets/qq-mail.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [email](#11-email) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [email](#11-email) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 11-5-netease-mail
 
@@ -1107,10 +1244,12 @@ QQ邮箱，提供qq.com、foxmail.com后缀的安全、稳定、快速、便捷�
 
 <img src="assets/netease-mail.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [email](#11-email) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [email](#11-email) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 12-encyclopedia
 
@@ -1136,10 +1275,12 @@ Wikipedia is a free online encyclopedia, created and edited by volunteers around
 
 <img src="assets/wikipedia.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [encyclopedia](#12-encyclopedia) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [encyclopedia](#12-encyclopedia) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 12-2-baidu-baike
 
@@ -1149,10 +1290,12 @@ Wikipedia is a free online encyclopedia, created and edited by volunteers around
 
 <img src="assets/baidu-baike.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [encyclopedia](#12-encyclopedia) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [encyclopedia](#12-encyclopedia) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 12-3-moegirl
 
@@ -1162,10 +1305,12 @@ Wikipedia is a free online encyclopedia, created and edited by volunteers around
 
 <img src="assets/moegirl-encyclopedia.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [encyclopedia](#12-encyclopedia), [acg](#1-acg) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [encyclopedia](#12-encyclopedia), [acg](#1-acg) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 12-4-hmoegirl
 
@@ -1175,10 +1320,12 @@ H萌娘是一个关于H萌的wiki。 <br>H萌娘的收录的条目要满足两�
 
 <img src="assets/hmoegirl-encyclopedia.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [encyclopedia](#12-encyclopedia), [acg](#1-acg) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [encyclopedia](#12-encyclopedia), [acg](#1-acg) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 12-5-wikihow
 
@@ -1188,10 +1335,12 @@ Learn how to do anything with wikiHow, the world's most popular how-to website. 
 
 <img src="assets/wikihow.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [encyclopedia](#12-encyclopedia) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [encyclopedia](#12-encyclopedia) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 12-6-mbalib-wiki
 
@@ -1201,10 +1350,12 @@ MBA智库百科，专注于经济管理领域知识的创建与分享。包括�
 
 <img src="assets/mbalib-wiki.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [encyclopedia](#12-encyclopedia) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [encyclopedia](#12-encyclopedia) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 12-7-noteapps-info
 
@@ -1214,10 +1365,12 @@ Encyclopedia of note taking apps: Screenshots, feature lists, and pricing for po
 
 <img src="assets/noteapps-info.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [encyclopedia](#12-encyclopedia) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [encyclopedia](#12-encyclopedia) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 13-forum
 
@@ -1238,10 +1391,12 @@ Reddit is where millions of people gather for conversations about the things the
 
 <img src="assets/reddit.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [forum](#13-forum) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [forum](#13-forum) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 13-2-tieba
 
@@ -1251,10 +1406,12 @@ Reddit is where millions of people gather for conversations about the things the
 
 <img src="assets/baidu-tieba.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [forum](#13-forum) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [forum](#13-forum) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 14-gallery
 
@@ -1278,10 +1435,12 @@ With more than a million absolutely free hentai doujinshi, manga, cosplay and CG
 
 <img src="assets/e-hentai.svg" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 14-2-nhentai
 
@@ -1291,10 +1450,12 @@ nhentai is a free hentai manga and doujinshi reader with over 575,000 galleries 
 
 <img src="assets/nhentai.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 14-3-jmcomic
 
@@ -1304,10 +1465,12 @@ nhentai is a free hentai manga and doujinshi reader with over 575,000 galleries 
 
 <img src="assets/jmcomic.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 14-4-picaacg
 
@@ -1317,10 +1480,12 @@ nhentai is a free hentai manga and doujinshi reader with over 575,000 galleries 
 
 <img src="assets/picaacg.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 14-5-manhuaren
 
@@ -1330,10 +1495,12 @@ nhentai is a free hentai manga and doujinshi reader with over 575,000 galleries 
 
 <img src="assets/manhuaren.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [gallery](#14-gallery) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [gallery](#14-gallery) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 15-gamestore
 
@@ -1356,10 +1523,12 @@ TapTap 专为中国手游玩家打造的推荐高品质手游的分享社区。�
 
 <img src="assets/taptap.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [gamestore](#15-gamestore) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [gamestore](#15-gamestore) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 15-2-steam
 
@@ -1369,10 +1538,12 @@ Steam is the ultimate destination for playing, discussing, and creating games.
 
 <img src="assets/steam.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [gamestore](#15-gamestore) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [gamestore](#15-gamestore) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 15-3-qqgame
 
@@ -1382,10 +1553,12 @@ QQ游戏大厅官网，下载QQ游戏大厅，玩QQ游戏全游戏；
 
 <img src="assets/qqgame.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [gamestore](#15-gamestore) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [gamestore](#15-gamestore) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 15-4-kuaiwan
 
@@ -1395,10 +1568,12 @@ QQ游戏大厅官网，下载QQ游戏大厅，玩QQ游戏全游戏；
 
 <img src="assets/kuaiwan.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [gamestore](#15-gamestore) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [gamestore](#15-gamestore) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 16-hentai
 
@@ -1423,10 +1598,12 @@ With more than a million absolutely free hentai doujinshi, manga, cosplay and CG
 
 <img src="assets/e-hentai.svg" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 16-2-nhentai
 
@@ -1436,10 +1613,12 @@ nhentai is a free hentai manga and doujinshi reader with over 575,000 galleries 
 
 <img src="assets/nhentai.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 16-3-jmcomic
 
@@ -1449,10 +1628,12 @@ nhentai is a free hentai manga and doujinshi reader with over 575,000 galleries 
 
 <img src="assets/jmcomic.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 16-4-picaacg
 
@@ -1462,10 +1643,12 @@ nhentai is a free hentai manga and doujinshi reader with over 575,000 galleries 
 
 <img src="assets/picaacg.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 16-5-iwara
 
@@ -1475,10 +1658,12 @@ Iwara.tv is niche website for MMD (MikuMikuDance) and R18 models.
 
 <img src="assets/iwara.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 16-6-hanime
 
@@ -1488,10 +1673,12 @@ Hanime1.me 帶給你最完美的H動漫、H動畫、裏番、里番、成人色�
 
 <img src="assets/hanime.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 17-instant-messaging
 
@@ -1522,10 +1709,12 @@ Fast. Secure. Powerful.
 
 <img src="assets/telegram.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 17-2-tencent-qq
 
@@ -1535,10 +1724,12 @@ Fast. Secure. Powerful.
 
 <img src="assets/tencent-qq.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 17-3-tencent-wechat
 
@@ -1548,10 +1739,12 @@ Available for all kinds of platforms; enjoy group chat; support voice, photo, vi
 
 <img src="assets/tencent-wechat.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 17-4-simplex
 
@@ -1561,10 +1754,12 @@ SimpleX Chat - a private and encrypted messenger without any user IDs (not even 
 
 <img src="assets/simplex.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 17-5-session
 
@@ -1574,10 +1769,12 @@ Session is a private messenger that aims to remove any chance of metadata collec
 
 <img src="assets/session.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 17-6-tamtam
 
@@ -1587,10 +1784,12 @@ General info about TamTam messenger
 
 <img src="assets/tamtam.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 17-7-potato
 
@@ -1600,10 +1799,12 @@ Potato is an instant messenger focused on security. It is faster, more secure, m
 
 <img src="assets/potato.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 17-8-discord
 
@@ -1613,10 +1814,12 @@ Discord is great for playing games and chilling with friends, or even building a
 
 <img src="assets/discord.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 17-9-slack
 
@@ -1626,10 +1829,12 @@ Boost productivity and save time with Slack‌ — ‌the AI work platform for m
 
 <img src="assets/slack.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 17-10-dingtalk
 
@@ -1639,10 +1844,12 @@ DingTalk — The AI Workplace Platform for Teams; DingTalk is an AI-powered coll
 
 <img src="assets/dingtalk.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 17-11-tencent-meeting
 
@@ -1652,10 +1859,12 @@ DingTalk — The AI Workplace Platform for Teams; DingTalk is an AI-powered coll
 
 <img src="assets/tencent-meeting.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 17-12-nekogram
 
@@ -1665,10 +1874,12 @@ Open-source third-party Telegram client with few but useful mods
 
 <img src="assets/nekogram.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 18-microblogging
 
@@ -1690,10 +1901,12 @@ We serve the public conversation. Learn more about X the company, and how we ens
 
 <img src="assets/x-com.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [microblogging](#18-microblogging) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [microblogging](#18-microblogging) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 18-2-misskey
 
@@ -1703,10 +1916,12 @@ This is the official site for Misskey, a decentralized social networking softwar
 
 <img src="assets/misskey.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [microblogging](#18-microblogging) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [microblogging](#18-microblogging) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 18-3-nijimiss
 
@@ -1716,10 +1931,12 @@ This is the official site for Misskey, a decentralized social networking softwar
 
 <img src="assets/nijimiss.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [microblogging](#18-microblogging) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [microblogging](#18-microblogging) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 19-note-taking
 
@@ -1744,10 +1961,12 @@ The free and flexible app for your private thoughts.
 
 <img src="assets/obsidian.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [note-taking](#19-note-taking) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [note-taking](#19-note-taking) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 19-2-logseq
 
@@ -1757,10 +1976,12 @@ A privacy-first, open-source platform for knowledge management and collaboration
 
 <img src="assets/logseq.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [note-taking](#19-note-taking) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [note-taking](#19-note-taking) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 19-3-tiddlywiki
 
@@ -1770,10 +1991,12 @@ a non-linear personal web notebook
 
 <img src="assets/tiddly-wiki.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [note-taking](#19-note-taking) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [note-taking](#19-note-taking) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 19-4-siyuan
 
@@ -1783,10 +2006,12 @@ SiYuan - Privacy-first personal knowledge management system that supports Markdo
 
 <img src="assets/siyuan-note.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [note-taking](#19-note-taking) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [note-taking](#19-note-taking) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 19-5-anytype
 
@@ -1796,10 +2021,12 @@ for those who celebrate trust & autonomy.
 
 <img src="assets/anytype.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [note-taking](#19-note-taking) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [note-taking](#19-note-taking) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 19-6-notion
 
@@ -1809,10 +2036,12 @@ Build custom agents, search across all your apps, and automate busywork. The AI 
 
 <img src="assets/notion.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [note-taking](#19-note-taking) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [note-taking](#19-note-taking) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 20-operating-system
 
@@ -1836,10 +2065,12 @@ Experience the latest Microsoft Windows 11 features. Learn how our latest Window
 
 <img src="assets/windows-os.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [operating-system](#20-operating-system) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [operating-system](#20-operating-system) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 20-2-macos
 
@@ -1849,10 +2080,12 @@ macOS Tahoe with a new design, more ways to work seamlessly across devices, and 
 
 <img src="assets/macos.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [operating-system](#20-operating-system) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [operating-system](#20-operating-system) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 20-3-linux
 
@@ -1862,10 +2095,12 @@ Links to popular distribution download pages
 
 <img src="assets/linux-os.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [operating-system](#20-operating-system) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [operating-system](#20-operating-system) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 20-4-ios
 
@@ -1875,10 +2110,12 @@ iOS 26 for iPhone with a new design, more helpful Apple Intelligence, polls and 
 
 <img src="assets/ios.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [operating-system](#20-operating-system) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [operating-system](#20-operating-system) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 20-5-android
 
@@ -1888,10 +2125,12 @@ Android unites the world! Use the open source Android operating system to power 
 
 <img src="assets/android.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [operating-system](#20-operating-system) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [operating-system](#20-operating-system) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 21-password-manager
 
@@ -1913,10 +2152,12 @@ KeePass is a free open source password manager. Passwords can be stored in an en
 
 <img src="assets/keepass.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [password-manager](#21-password-manager) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [password-manager](#21-password-manager) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 21-2-1password
 
@@ -1926,10 +2167,12 @@ More than a password manager and leader in Extended Access Management. Secure al
 
 <img src="assets/1password.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [password-manager](#21-password-manager) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [password-manager](#21-password-manager) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 21-3-bitwardon
 
@@ -1939,10 +2182,12 @@ Bitwarden is the most trusted password manager for passwords and passkeys at hom
 
 <img src="assets/bitwardon.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [password-manager](#21-password-manager) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [password-manager](#21-password-manager) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 22-qa-system
 
@@ -1963,10 +2208,12 @@ Quora is an American social question-and-answer website and online knowledge mar
 
 <img src="assets/quora.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [qa-system](#22-qa-system) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [qa-system](#22-qa-system) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 22-2-zhihu
 
@@ -1976,10 +2223,12 @@ Quora is an American social question-and-answer website and online knowledge mar
 
 <img src="assets/zhihu.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [qa-system](#22-qa-system) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [qa-system](#22-qa-system) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 23-reader
 
@@ -2000,10 +2249,12 @@ Discover and read manga, webtoons, comics, and more – easier than ever on your
 
 <img src="assets/mihon.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [reader](#23-reader) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [reader](#23-reader) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 23-2-lanraragi
 
@@ -2013,10 +2264,12 @@ application for archival and reading of manga/doujinshi. Lightweight and Docker-
 
 <img src="assets/lanraragi.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [reader](#23-reader) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [reader](#23-reader) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 24-search-engine
 
@@ -2042,10 +2295,12 @@ Google Search (also known simply as Google or Google.com) is a search engine ope
 
 <img src="assets/google-search.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [search-engine](#24-search-engine) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [search-engine](#24-search-engine) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 24-2-baidu-search
 
@@ -2055,10 +2310,12 @@ Google Search (also known simply as Google or Google.com) is a search engine ope
 
 <img src="assets/baidu-search.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [search-engine](#24-search-engine) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [search-engine](#24-search-engine) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 24-3-bing-search
 
@@ -2068,10 +2325,12 @@ Search with Microsoft Bing and use the power of AI to find information, explore 
 
 <img src="assets/bing-search.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [search-engine](#24-search-engine) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [search-engine](#24-search-engine) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 24-4-yandex-search
 
@@ -2081,10 +2340,12 @@ Yandex is a technology company that builds intelligent products and services pow
 
 <img src="assets/yandex-search.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [search-engine](#24-search-engine) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [search-engine](#24-search-engine) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 24-5-chongbuluo-search
 
@@ -2094,10 +2355,12 @@ Yandex is a technology company that builds intelligent products and services pow
 
 <img src="assets/chongbuluo-search.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [search-engine](#24-search-engine) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [search-engine](#24-search-engine) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 24-6-saucenao-search
 
@@ -2107,10 +2370,12 @@ SauceNAO is a reverse image search engine. The name 'SauceNAO' is derived from a
 
 <img src="assets/saurcenao-search.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [search-engine](#24-search-engine) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [search-engine](#24-search-engine) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 24-7-soutubot-search
 
@@ -2120,10 +2385,12 @@ SauceNAO is a reverse image search engine. The name 'SauceNAO' is derived from a
 
 <img src="assets/soutubot-moe.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [search-engine](#24-search-engine) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [search-engine](#24-search-engine) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 25-version-control
 
@@ -2143,10 +2410,12 @@ Join the world's most widely adopted, AI-powered developer platform where millio
 
 <img src="assets/github.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [web-hosting](#27-web-hosting), [version-control](#25-version-control) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [web-hosting](#27-web-hosting), [version-control](#25-version-control) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 26-video-streaming
 
@@ -2172,10 +2441,12 @@ Jiongciyuan (囧次元) is an Android video streaming app focused on Japanese an
 
 <img src="assets/jcyapp-org.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [video-streaming](#26-video-streaming) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [video-streaming](#26-video-streaming) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 26-2-youtube
 
@@ -2185,10 +2456,12 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 <img src="assets/youtube.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [video-streaming](#26-video-streaming) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [video-streaming](#26-video-streaming) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 26-3-bilibili
 
@@ -2198,10 +2471,12 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 <img src="assets/bilibili.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [video-streaming](#26-video-streaming) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [video-streaming](#26-video-streaming) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 26-4-iwara
 
@@ -2211,10 +2486,12 @@ Iwara.tv is niche website for MMD (MikuMikuDance) and R18 models.
 
 <img src="assets/iwara.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 26-5-hanime
 
@@ -2224,10 +2501,12 @@ Hanime1.me 帶給你最完美的H動漫、H動畫、裏番、里番、成人色�
 
 <img src="assets/hanime.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 26-6-douyin
 
@@ -2237,10 +2516,12 @@ Hanime1.me 帶給你最完美的H動漫、H動畫、裏番、里番、成人色�
 
 <img src="assets/douyin.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [video-streaming](#26-video-streaming) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [video-streaming](#26-video-streaming) |
+> | [Type](#type) | [site-items](#site-items) |
 
 #### 26-7-kuaishou
 
@@ -2250,10 +2531,12 @@ Hanime1.me 帶給你最完美的H動漫、H動畫、裏番、里番、成人色�
 
 <img src="assets/kuaishou.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [video-streaming](#26-video-streaming) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [video-streaming](#26-video-streaming) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 27-web-hosting
 
@@ -2273,10 +2556,12 @@ Join the world's most widely adopted, AI-powered developer platform where millio
 
 <img src="assets/github.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [web-hosting](#27-web-hosting), [version-control](#25-version-control) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [web-hosting](#27-web-hosting), [version-control](#25-version-control) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ## site-items
 
@@ -2413,10 +2698,12 @@ More than a password manager and leader in Extended Access Management. Secure al
 
 <img src="assets/1password.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [password-manager](#21-password-manager) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [password-manager](#21-password-manager) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-2-360-appstore
 
@@ -2426,10 +2713,12 @@ More than a password manager and leader in Extended Access Management. Secure al
 
 <img src="assets/360-appstore.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [appstore](#3-appstore) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [appstore](#3-appstore) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-3-android
 
@@ -2439,10 +2728,12 @@ Android unites the world! Use the open source Android operating system to power 
 
 <img src="assets/android.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [operating-system](#20-operating-system) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [operating-system](#20-operating-system) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-4-android-studio
 
@@ -2452,10 +2743,12 @@ Android Studio provides app builders with an integrated development environment 
 
 <img src="assets/android-studio.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [editor](#10-editor) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [editor](#10-editor) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-5-anidb
 
@@ -2465,10 +2758,12 @@ Looking for information about Anime? AniDB is the right place for you. AniDB is 
 
 <img src="assets/anidb.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [database](#9-database) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [database](#9-database) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-6-anytype
 
@@ -2478,10 +2773,12 @@ for those who celebrate trust & autonomy.
 
 <img src="assets/anytype.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [note-taking](#19-note-taking) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [note-taking](#19-note-taking) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-7-apkpure
 
@@ -2491,10 +2788,12 @@ APKPure is a free APK downloader for Android. It is safe, reliable, and virus-fr
 
 <img src="assets/apkpure.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [appstore](#3-appstore) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [appstore](#3-appstore) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-8-arora-store
 
@@ -2504,10 +2803,12 @@ Aurora OSS - Abode of opensource android apps
 
 <img src="assets/arora-store.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [appstore](#3-appstore) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [appstore](#3-appstore) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-9-baidu-baike
 
@@ -2517,10 +2818,12 @@ Aurora OSS - Abode of opensource android apps
 
 <img src="assets/baidu-baike.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [encyclopedia](#12-encyclopedia) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [encyclopedia](#12-encyclopedia) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-10-baidu-netdisk
 
@@ -2530,10 +2833,12 @@ Aurora OSS - Abode of opensource android apps
 
 <img src="assets/baidu-netdisk.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [cloud-disk](#7-cloud-disk) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [cloud-disk](#7-cloud-disk) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-11-baidu-search
 
@@ -2543,10 +2848,12 @@ Aurora OSS - Abode of opensource android apps
 
 <img src="assets/baidu-search.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [search-engine](#24-search-engine) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [search-engine](#24-search-engine) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-12-bilibili
 
@@ -2556,10 +2863,12 @@ Aurora OSS - Abode of opensource android apps
 
 <img src="assets/bilibili.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [video-streaming](#26-video-streaming) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [video-streaming](#26-video-streaming) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-13-bing-search
 
@@ -2569,10 +2878,12 @@ Search with Microsoft Bing and use the power of AI to find information, explore 
 
 <img src="assets/bing-search.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [search-engine](#24-search-engine) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [search-engine](#24-search-engine) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-14-bitwardon
 
@@ -2582,10 +2893,12 @@ Bitwarden is the most trusted password manager for passwords and passkeys at hom
 
 <img src="assets/bitwardon.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [password-manager](#21-password-manager) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [password-manager](#21-password-manager) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-15-bohrium
 
@@ -2595,10 +2908,12 @@ Bohrium — AI for Science with global scientists. An AI-powered all-in-one rese
 
 <img src="assets/bohrium.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-16-chatgpt
 
@@ -2608,10 +2923,12 @@ ChatGPT helps you get answers, find inspiration, and be more productive.
 
 <img src="assets/chatgpt.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-17-chongbuluo-search
 
@@ -2621,10 +2938,12 @@ ChatGPT helps you get answers, find inspiration, and be more productive.
 
 <img src="assets/chongbuluo-search.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [search-engine](#24-search-engine) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [search-engine](#24-search-engine) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-18-claude
 
@@ -2634,10 +2953,12 @@ Talk with Claude, an AI assistant from Anthropic
 
 <img src="assets/claude.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-19-cursor
 
@@ -2647,10 +2968,12 @@ Built to make you extraordinarily productive, Cursor is the best way to code wit
 
 <img src="assets/cursor-ai.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [editor](#10-editor) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [editor](#10-editor) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-20-deepseek
 
@@ -2660,10 +2983,12 @@ Built to make you extraordinarily productive, Cursor is the best way to code wit
 
 <img src="assets/deepseek.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-21-dingtalk
 
@@ -2673,10 +2998,12 @@ DingTalk — The AI Workplace Platform for Teams; DingTalk is an AI-powered coll
 
 <img src="assets/dingtalk.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-22-discord
 
@@ -2686,10 +3013,12 @@ Discord is great for playing games and chilling with friends, or even building a
 
 <img src="assets/discord.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-23-doubao
 
@@ -2699,10 +3028,12 @@ Discord is great for playing games and chilling with friends, or even building a
 
 <img src="assets/doubao.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-24-douyin
 
@@ -2712,10 +3043,12 @@ Discord is great for playing games and chilling with friends, or even building a
 
 <img src="assets/douyin.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [video-streaming](#26-video-streaming) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [video-streaming](#26-video-streaming) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-25-e-hentai
 
@@ -2725,10 +3058,12 @@ With more than a million absolutely free hentai doujinshi, manga, cosplay and CG
 
 <img src="assets/e-hentai.svg" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-26-emacs
 
@@ -2738,10 +3073,12 @@ An extensible, customizable, free/libre text editor — and more. At its core is
 
 <img src="assets/emacs.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [editor](#10-editor) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [editor](#10-editor) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-27-f-driod
 
@@ -2751,10 +3088,12 @@ F-Droid is an installable catalogue of FOSS (Free and Open Source Software) appl
 
 <img src="assets/f-droid.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [appstore](#3-appstore) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [appstore](#3-appstore) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-28-gemini
 
@@ -2764,10 +3103,12 @@ Meet Gemini, Google’s AI assistant. Get help with writing, planning, brainstor
 
 <img src="assets/gemini.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-29-github
 
@@ -2777,10 +3118,12 @@ Join the world's most widely adopted, AI-powered developer platform where millio
 
 <img src="assets/github.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [web-hosting](#27-web-hosting), [version-control](#25-version-control) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [web-hosting](#27-web-hosting), [version-control](#25-version-control) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-30-github-copilot
 
@@ -2790,10 +3133,12 @@ GitHub Copilot works alongside you directly in your editor, suggesting whole lin
 
 <img src="assets/github-copilot-icon.svg" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-31-gmail
 
@@ -2803,10 +3148,12 @@ Discover how Gmail keeps your account & emails encrypted, private and under your
 
 <img src="assets/gmail.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [email](#11-email) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [email](#11-email) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-32-google-authenticator
 
@@ -2816,10 +3163,12 @@ Safety starts with understanding how developers collect and share your data. Dat
 
 <img src="assets/google-authenticator.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [authenticator](#5-authenticator) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [authenticator](#5-authenticator) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-33-google-chrome
 
@@ -2829,10 +3178,12 @@ Get more done with the new Google Chrome. A more simple, secure and faster web b
 
 <img src="assets/google-chrome.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [browser](#6-browser) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [browser](#6-browser) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-34-google-play
 
@@ -2842,10 +3193,12 @@ Enjoy millions of the latest Android apps, games, music, movies, TV, books, maga
 
 <img src="assets/google-play.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [appstore](#3-appstore) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [appstore](#3-appstore) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-35-google-search
 
@@ -2855,10 +3208,12 @@ Google Search (also known simply as Google or Google.com) is a search engine ope
 
 <img src="assets/google-search.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [search-engine](#24-search-engine) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [search-engine](#24-search-engine) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-36-hanime
 
@@ -2868,10 +3223,12 @@ Hanime1.me 帶給你最完美的H動漫、H動畫、裏番、里番、成人色�
 
 <img src="assets/hanime.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-37-hbuilder
 
@@ -2881,10 +3238,12 @@ HBuilderX is the fastest HTML development tool. Powerful code assistant helps yo
 
 <img src="assets/hbuilder.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [editor](#10-editor) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [editor](#10-editor) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-38-hmoegirl
 
@@ -2894,10 +3253,12 @@ H萌娘是一个关于H萌的wiki。 <br>H萌娘的收录的条目要满足两�
 
 <img src="assets/hmoegirl-encyclopedia.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [encyclopedia](#12-encyclopedia), [acg](#1-acg) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [encyclopedia](#12-encyclopedia), [acg](#1-acg) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-39-huorong-app-store
 
@@ -2907,10 +3268,12 @@ H萌娘是一个关于H萌的wiki。 <br>H萌娘的收录的条目要满足两�
 
 <img src="assets/huorong-app-store.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [appstore](#3-appstore) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [appstore](#3-appstore) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-40-intellij-idea
 
@@ -2920,10 +3283,12 @@ IntelliJ IDEA is the JetBrains IDE for pro development in Java and Kotlin. Built
 
 <img src="assets/intellij-idea.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [editor](#10-editor) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [editor](#10-editor) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-41-ios
 
@@ -2933,10 +3298,12 @@ iOS 26 for iPhone with a new design, more helpful Apple Intelligence, polls and 
 
 <img src="assets/ios.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [operating-system](#20-operating-system) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [operating-system](#20-operating-system) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-42-iwara
 
@@ -2946,10 +3313,12 @@ Iwara.tv is niche website for MMD (MikuMikuDance) and R18 models.
 
 <img src="assets/iwara.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-43-jiong-ci-yuan
 
@@ -2959,10 +3328,12 @@ Jiongciyuan (囧次元) is an Android video streaming app focused on Japanese an
 
 <img src="assets/jcyapp-org.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [video-streaming](#26-video-streaming) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [video-streaming](#26-video-streaming) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-44-jmcomic
 
@@ -2972,10 +3343,12 @@ Jiongciyuan (囧次元) is an Android video streaming app focused on Japanese an
 
 <img src="assets/jmcomic.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-45-keepass
 
@@ -2985,10 +3358,12 @@ KeePass is a free open source password manager. Passwords can be stored in an en
 
 <img src="assets/keepass.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [password-manager](#21-password-manager) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [password-manager](#21-password-manager) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-46-kimi
 
@@ -2998,10 +3373,12 @@ Kimi K2长思考模式来了！支持多轮工具调用与思考，擅长数理�
 
 <img src="assets/kimi.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-47-kuaishou
 
@@ -3011,10 +3388,12 @@ Kimi K2长思考模式来了！支持多轮工具调用与思考，擅长数理�
 
 <img src="assets/kuaishou.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [video-streaming](#26-video-streaming) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [video-streaming](#26-video-streaming) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-48-kuaiwan
 
@@ -3024,10 +3403,12 @@ Kimi K2长思考模式来了！支持多轮工具调用与思考，擅长数理�
 
 <img src="assets/kuaiwan.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [gamestore](#15-gamestore) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [gamestore](#15-gamestore) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-49-lanraragi
 
@@ -3037,10 +3418,12 @@ application for archival and reading of manga/doujinshi. Lightweight and Docker-
 
 <img src="assets/lanraragi.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [reader](#23-reader) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [reader](#23-reader) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-50-linux
 
@@ -3050,10 +3433,12 @@ Links to popular distribution download pages
 
 <img src="assets/linux-os.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [operating-system](#20-operating-system) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [operating-system](#20-operating-system) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-51-logseq
 
@@ -3063,10 +3448,12 @@ A privacy-first, open-source platform for knowledge management and collaboration
 
 <img src="assets/logseq.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [note-taking](#19-note-taking) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [note-taking](#19-note-taking) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-52-macos
 
@@ -3076,10 +3463,12 @@ macOS Tahoe with a new design, more ways to work seamlessly across devices, and 
 
 <img src="assets/macos.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [operating-system](#20-operating-system) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [operating-system](#20-operating-system) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-53-mail-ru
 
@@ -3089,10 +3478,12 @@ Mail — безопасные сервисы для жизни и работы: 
 
 <img src="assets/mail-ru.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [email](#11-email) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [email](#11-email) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-54-manhuaren
 
@@ -3102,10 +3493,12 @@ Mail — безопасные сервисы для жизни и работы: 
 
 <img src="assets/manhuaren.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [gallery](#14-gallery) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [gallery](#14-gallery) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-55-mbalib-wiki
 
@@ -3115,10 +3508,12 @@ MBA智库百科，专注于经济管理领域知识的创建与分享。包括�
 
 <img src="assets/mbalib-wiki.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [encyclopedia](#12-encyclopedia) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [encyclopedia](#12-encyclopedia) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-56-microsoft-authenticator
 
@@ -3128,10 +3523,12 @@ Safety starts with understanding how developers collect and share your data. Dat
 
 <img src="assets/microsoft-authenticator.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [authenticator](#5-authenticator) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [authenticator](#5-authenticator) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-57-microsoft-copilot
 
@@ -3141,10 +3538,12 @@ Microsoft Copilot is your companion to inform, entertain and inspire. Get advice
 
 <img src="assets/microsoft-copilot.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-58-microsoft-edge
 
@@ -3154,10 +3553,12 @@ Download Microsoft Edge for your computer or smartphone. Experience the cutting-
 
 <img src="assets/microsoft-edge.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [browser](#6-browser) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [browser](#6-browser) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-59-microsoft-store
 
@@ -3167,10 +3568,12 @@ Explore the Microsoft Store for apps and games on Windows. Enjoy exclusive deals
 
 <img src="assets/microsoft-store.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [appstore](#3-appstore) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [appstore](#3-appstore) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-60-mihon
 
@@ -3180,10 +3583,12 @@ Discover and read manga, webtoons, comics, and more – easier than ever on your
 
 <img src="assets/mihon.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [reader](#23-reader) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [reader](#23-reader) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-61-misskey
 
@@ -3193,10 +3598,12 @@ This is the official site for Misskey, a decentralized social networking softwar
 
 <img src="assets/misskey.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [microblogging](#18-microblogging) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [microblogging](#18-microblogging) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-62-moegirl
 
@@ -3206,10 +3613,12 @@ This is the official site for Misskey, a decentralized social networking softwar
 
 <img src="assets/moegirl-encyclopedia.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [encyclopedia](#12-encyclopedia), [acg](#1-acg) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [encyclopedia](#12-encyclopedia), [acg](#1-acg) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-63-mozilla-firefox
 
@@ -3219,10 +3628,12 @@ Mozilla Firefox, or simply Firefox, is a free and open source[12] web browser de
 
 <img src="assets/mozilla-firefox.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [browser](#6-browser) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [browser](#6-browser) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-64-myanimelist
 
@@ -3232,10 +3643,12 @@ Welcome to MyAnimeList, the world's most active online anime and manga community
 
 <img src="assets/myanimelist.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [database](#9-database) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [database](#9-database) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-65-nekogram
 
@@ -3245,10 +3658,12 @@ Open-source third-party Telegram client with few but useful mods
 
 <img src="assets/nekogram.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-66-netease-mail
 
@@ -3258,10 +3673,12 @@ Open-source third-party Telegram client with few but useful mods
 
 <img src="assets/netease-mail.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [email](#11-email) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [email](#11-email) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-67-nhentai
 
@@ -3271,10 +3688,12 @@ nhentai is a free hentai manga and doujinshi reader with over 575,000 galleries 
 
 <img src="assets/nhentai.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-68-nijimiss
 
@@ -3284,10 +3703,12 @@ nhentai is a free hentai manga and doujinshi reader with over 575,000 galleries 
 
 <img src="assets/nijimiss.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [microblogging](#18-microblogging) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [microblogging](#18-microblogging) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-69-noteapps-info
 
@@ -3297,10 +3718,12 @@ Encyclopedia of note taking apps: Screenshots, feature lists, and pricing for po
 
 <img src="assets/noteapps-info.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [encyclopedia](#12-encyclopedia) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [encyclopedia](#12-encyclopedia) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-70-notion
 
@@ -3310,10 +3733,12 @@ Build custom agents, search across all your apps, and automate busywork. The AI 
 
 <img src="assets/notion.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [note-taking](#19-note-taking) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [note-taking](#19-note-taking) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-71-obsidian
 
@@ -3323,10 +3748,12 @@ The free and flexible app for your private thoughts.
 
 <img src="assets/obsidian.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [note-taking](#19-note-taking) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [note-taking](#19-note-taking) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-72-onedrive
 
@@ -3336,10 +3763,12 @@ Microsoft OneDrive is a file-hosting service operated by Microsoft. First releas
 
 <img src="assets/onedrive.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [cloud-disk](#7-cloud-disk) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [cloud-disk](#7-cloud-disk) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-73-outlook-com
 
@@ -3349,10 +3778,12 @@ With Outlook on your PC, Mac or mobile device, you can:<ul><li>Organize email to
 
 <img src="assets/outlook-com.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [email](#11-email) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [email](#11-email) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-74-picaacg
 
@@ -3362,10 +3793,12 @@ With Outlook on your PC, Mac or mobile device, you can:<ul><li>Organize email to
 
 <img src="assets/picaacg.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-75-pixiv
 
@@ -3375,10 +3808,12 @@ Pixiv[a] (Japanese: ピクシブ, Hepburn: Pikushibu) is a Japanese online commu
 
 <img src="assets/pixiv.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [acg](#1-acg), [community](#8-community) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [acg](#1-acg), [community](#8-community) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-76-potato
 
@@ -3388,10 +3823,12 @@ Potato is an instant messenger focused on security. It is faster, more secure, m
 
 <img src="assets/potato.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-77-pycharm
 
@@ -3401,10 +3838,12 @@ Built for web, data, and AI/ML professionals. Supercharged with an AI-enhanced I
 
 <img src="assets/pycharm.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [editor](#10-editor) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [editor](#10-editor) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-78-qianwen
 
@@ -3414,10 +3853,12 @@ Built for web, data, and AI/ML professionals. Supercharged with an AI-enhanced I
 
 <img src="assets/qianwen.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-79-qq-mail
 
@@ -3427,10 +3868,12 @@ QQ邮箱，提供qq.com、foxmail.com后缀的安全、稳定、快速、便捷�
 
 <img src="assets/qq-mail.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [email](#11-email) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [email](#11-email) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-80-qqgame
 
@@ -3440,10 +3883,12 @@ QQ游戏大厅官网，下载QQ游戏大厅，玩QQ游戏全游戏；
 
 <img src="assets/qqgame.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [gamestore](#15-gamestore) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [gamestore](#15-gamestore) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-81-quark-browser
 
@@ -3453,10 +3898,12 @@ QQ游戏大厅官网，下载QQ游戏大厅，玩QQ游戏全游戏；
 
 <img src="assets/quark-browser.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [browser](#6-browser), [ai-chatbot](#2-ai-chatbot) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [browser](#6-browser), [ai-chatbot](#2-ai-chatbot) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-82-quora
 
@@ -3466,10 +3913,12 @@ Quora is an American social question-and-answer website and online knowledge mar
 
 <img src="assets/quora.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [qa-system](#22-qa-system) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [qa-system](#22-qa-system) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-83-reddit
 
@@ -3479,10 +3928,12 @@ Reddit is where millions of people gather for conversations about the things the
 
 <img src="assets/reddit.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [forum](#13-forum) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [forum](#13-forum) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-84-saucenao-search
 
@@ -3492,10 +3943,12 @@ SauceNAO is a reverse image search engine. The name 'SauceNAO' is derived from a
 
 <img src="assets/saurcenao-search.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [search-engine](#24-search-engine) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [search-engine](#24-search-engine) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-85-session
 
@@ -3505,10 +3958,12 @@ Session is a private messenger that aims to remove any chance of metadata collec
 
 <img src="assets/session.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-86-simplex
 
@@ -3518,10 +3973,12 @@ SimpleX Chat - a private and encrypted messenger without any user IDs (not even 
 
 <img src="assets/simplex.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-87-siyuan
 
@@ -3531,10 +3988,12 @@ SiYuan - Privacy-first personal knowledge management system that supports Markdo
 
 <img src="assets/siyuan-note.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [note-taking](#19-note-taking) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [note-taking](#19-note-taking) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-88-slack
 
@@ -3544,10 +4003,12 @@ Boost productivity and save time with Slack‌ — ‌the AI work platform for m
 
 <img src="assets/slack.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-89-soutubot-search
 
@@ -3557,10 +4018,12 @@ Boost productivity and save time with Slack‌ — ‌the AI work platform for m
 
 <img src="assets/soutubot-moe.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [search-engine](#24-search-engine) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [search-engine](#24-search-engine) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-90-steam
 
@@ -3570,10 +4033,12 @@ Steam is the ultimate destination for playing, discussing, and creating games.
 
 <img src="assets/steam.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [gamestore](#15-gamestore) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [gamestore](#15-gamestore) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-91-tamtam
 
@@ -3583,10 +4048,12 @@ General info about TamTam messenger
 
 <img src="assets/tamtam.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-92-taptap
 
@@ -3596,10 +4063,12 @@ TapTap 专为中国手游玩家打造的推荐高品质手游的分享社区。�
 
 <img src="assets/taptap.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [gamestore](#15-gamestore) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [gamestore](#15-gamestore) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-93-telegram
 
@@ -3609,10 +4078,12 @@ Fast. Secure. Powerful.
 
 <img src="assets/telegram.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-94-tencent-appstore
 
@@ -3622,10 +4093,12 @@ Fast. Secure. Powerful.
 
 <img src="assets/tencent-appstore.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [appstore](#3-appstore) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [appstore](#3-appstore) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-95-tencent-meeting
 
@@ -3635,10 +4108,12 @@ Fast. Secure. Powerful.
 
 <img src="assets/tencent-meeting.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-96-tencent-qq
 
@@ -3648,10 +4123,12 @@ Fast. Secure. Powerful.
 
 <img src="assets/tencent-qq.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-97-tencent-wechat
 
@@ -3661,10 +4138,12 @@ Available for all kinds of platforms; enjoy group chat; support voice, photo, vi
 
 <img src="assets/tencent-wechat.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [instant-messaging](#17-instant-messaging) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [instant-messaging](#17-instant-messaging) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-98-tencent-yuanbao
 
@@ -3674,10 +4153,12 @@ Available for all kinds of platforms; enjoy group chat; support voice, photo, vi
 
 <img src="assets/tencent-yuanbao.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-99-tiddlywiki
 
@@ -3687,10 +4168,12 @@ a non-linear personal web notebook
 
 <img src="assets/tiddly-wiki.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [note-taking](#19-note-taking) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [note-taking](#19-note-taking) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-100-tieba
 
@@ -3700,10 +4183,12 @@ a non-linear personal web notebook
 
 <img src="assets/baidu-tieba.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [forum](#13-forum) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [forum](#13-forum) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-101-tor-browser
 
@@ -3713,10 +4198,12 @@ Download | Defend yourself against tracking and surveillance. Circumvent censors
 
 <img src="assets/tor-browser.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [browser](#6-browser) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [browser](#6-browser) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-102-trae
 
@@ -3726,10 +4213,12 @@ TRAE AI IDE | 国内首款 AI 原生集成开发环境，深度集成 Doubao-1.5
 
 <img src="assets/trae.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [editor](#10-editor) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [editor](#10-editor) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-103-twitter
 
@@ -3739,10 +4228,12 @@ We serve the public conversation. Learn more about X the company, and how we ens
 
 <img src="assets/x-com.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [microblogging](#18-microblogging) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [microblogging](#18-microblogging) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-104-typora
 
@@ -3752,10 +4243,12 @@ Typora is a cross-platform minimal markdown editor, providing seamless experienc
 
 <img src="assets/typora.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [editor](#10-editor) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [editor](#10-editor) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-105-uc-browser
 
@@ -3765,10 +4258,12 @@ Download UC Browser today and enjoy a faster, safer, and more private online exp
 
 <img src="assets/uc-browser.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [browser](#6-browser) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [browser](#6-browser) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-106-vim
 
@@ -3778,10 +4273,12 @@ Vim is a highly configurable text editor built to make creating and changing any
 
 <img src="assets/vim.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [editor](#10-editor) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [editor](#10-editor) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-107-visual-studio
 
@@ -3791,10 +4288,12 @@ Visual Studio dev tools & services make app development easy for any developer, 
 
 <img src="assets/visual-studio.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [editor](#10-editor) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [editor](#10-editor) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-108-visual-studio-code
 
@@ -3804,10 +4303,12 @@ Visual Studio Code redefines AI-powered coding with GitHub Copilot for building 
 
 <img src="assets/vscode.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [editor](#10-editor) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [editor](#10-editor) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-109-webstorm
 
@@ -3817,10 +4318,12 @@ Make development more productive and enjoyable with WebStorm, the IDE for JavaSc
 
 <img src="assets/webstorm.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [editor](#10-editor) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [editor](#10-editor) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-110-wikihow
 
@@ -3830,10 +4333,12 @@ Learn how to do anything with wikiHow, the world's most popular how-to website. 
 
 <img src="assets/wikihow.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [encyclopedia](#12-encyclopedia) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [encyclopedia](#12-encyclopedia) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-111-wikipedia
 
@@ -3843,10 +4348,12 @@ Wikipedia is a free online encyclopedia, created and edited by volunteers around
 
 <img src="assets/wikipedia.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [encyclopedia](#12-encyclopedia) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [encyclopedia](#12-encyclopedia) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-112-windows-os
 
@@ -3856,10 +4363,12 @@ Experience the latest Microsoft Windows 11 features. Learn how our latest Window
 
 <img src="assets/windows-os.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [operating-system](#20-operating-system) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [operating-system](#20-operating-system) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-113-yandex-search
 
@@ -3869,10 +4378,12 @@ Yandex is a technology company that builds intelligent products and services pow
 
 <img src="assets/yandex-search.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [search-engine](#24-search-engine) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [search-engine](#24-search-engine) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-114-youtube
 
@@ -3882,10 +4393,12 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 <img src="assets/youtube.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [video-streaming](#26-video-streaming) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [video-streaming](#26-video-streaming) |
+> | [Type](#type) | [site-items](#site-items) |
 
 ### 0-115-zhihu
 
@@ -3895,7 +4408,9 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 <img src="assets/zhihu.png" width="200">
 
-| | |
-| --- | --- |
-| [Category](#category) |  [qa-system](#22-qa-system) |
-| [Type](#type) | [site-items](#site-items) |
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [qa-system](#22-qa-system) |
+> | [Type](#type) | [site-items](#site-items) |

@@ -101,7 +101,7 @@ class SiteRenderer {
         const categories = this.getCategoryArrStr(itemFile, categoryFiles);
         const icon = fm.icon ? this.parser.getImageElem(fm.icon) : '';
 
-        return `${headerMarker} ${title}\n\n> see: [${displayTitle}](${url})\n\n${description}\n\n${icon}\n\n| | |\n| --- | --- |\n| [Category](#category) |  ${categories} |\n| [Type](#type) | [site-items](#site-items) |`;
+        return `${headerMarker} ${title}\n\n> see: [${displayTitle}](${url})\n\n${description}\n\n${icon}\n\n> [!Note]\n> \n> | | |\n> | --- | --- |\n> | [Category](#category) |  ${categories} |\n> | [Type](#type) | [site-items](#site-items) |`;
     }
 
     getSiteCategorySection(file, m, categoryFiles) {
@@ -215,7 +215,7 @@ class MOCBuilder {
         const { siteitems, sitecategories } = this._getSiteFiles();
 
         const parts = [];
-        parts.push('## type\n\n- [category](#category)\n- [site-items](#site-items)');
+        parts.push('## type\n\n> [!Note]\n> 1. [category](#category)\n> 1. [site-items](#site-items)');
         parts.push('\n## category\n');
         parts.push(this._buildCategoryIndex(sitecategories));
         parts.push('\n');
