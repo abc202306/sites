@@ -160,7 +160,7 @@ class MOCBuilder {
     // build the category index table (first section)
     _buildCategoryIndex(sitecategories) {
         return (
-            "> [!Note]\n> \n> #### [type](#type)/category/\n> \n> | \\\# | [Category](#category) | [Site-Items](#site-items) | Icon |\n> | --- | --- | --- | --- |\n" +
+            "> [!Note]\n> \n> ### [type](#type)/category/\n> \n> | \\\# | [Category](#category) | [Site-Items](#site-items) | Icon |\n> | --- | --- | --- | --- |\n" +
             sitecategories
                 .map((f, i) => {
                     const m = i + 1;
@@ -192,7 +192,7 @@ class MOCBuilder {
 
     _buildSiteItemsIndex(siteitems, sitecategories) {
         return (
-            "> [!Note]\n> \n> #### [type](#type)/site-items/\n> \n> | \\\# | [Site-Items](#site-items) | [Category](#category) | Icon | Description |\n> | --- | --- | --- | --- | --- |\n" +
+            "> [!Note]\n> \n> ### [type](#type)/site-items/\n> \n> | \\\# | [Site-Items](#site-items) | [Category](#category) | Icon | Description |\n> | --- | --- | --- | --- | --- |\n" +
             siteitems
                 .map((f, j) => {
                     const n = j + 1;

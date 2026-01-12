@@ -14,7 +14,7 @@ Keywords: awesome list, website, github repo
 
 > [!Note]
 > 
-> #### [type](#type)/category/
+> ### [type](#type)/category/
 > 
 > | \# | [Category](#category) | [Site-Items](#site-items) | Icon |
 > | --- | --- | --- | --- |
@@ -2283,7 +2283,7 @@ Join the world's most widely adopted, AI-powered developer platform where millio
 
 > [!Note]
 > 
-> #### [type](#type)/site-items/
+> ### [type](#type)/site-items/
 > 
 > | \# | [Site-Items](#site-items) | [Category](#category) | Icon | Description |
 > | --- | --- | --- | --- | --- |
