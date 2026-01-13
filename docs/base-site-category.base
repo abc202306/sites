@@ -1,0 +1,12 @@
+filters:
+  and:
+    - file.inFolder("site-category")
+formulas:
+  iconimages: html(""+subpages.map("<img src=\""+value.asFile().file.properties.icon.asFile().file.path+"\" height=25>").join(""))
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - subpages
+      - formula.iconimages
