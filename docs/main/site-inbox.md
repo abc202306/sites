@@ -8,6 +8,7 @@ mtime: "2026-01-09T22:05:20+08:00"
 - [[script-site-moc-builder]]
 - [[collection]]
 - [[base-site-item.base]]
+- [[base-site-category.base]]
 - [[README_Legacy]]
 - [[README]]
 - [[site-vault-templates]]
