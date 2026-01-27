@@ -119,6 +119,32 @@ down:
   - "[[site-item-via-browser|via-browser]]"
   - "[[site-item-huawei-browser|huawei-browser]]"
   - "[[site-item-qq-browser|qq-browser]]"
+  - "[[site-item-machine-code|machine-code]]"
+  - "[[site-item-assembly-language|assembly-language]]"
+  - "[[site-item-c-language|c-language]]"
+  - "[[site-item-cpp|cpp]]"
+  - "[[site-item-c-sharp|c-sharp]]"
+  - "[[site-item-java|java]]"
+  - "[[site-item-go|go]]"
+  - "[[site-item-rust|rust]]"
+  - "[[site-item-kotlin|kotlin]]"
+  - "[[site-item-python|python]]"
+  - "[[site-item-javascript|javascript]]"
+  - "[[site-item-typescript|typescript]]"
+  - "[[site-item-ruby|ruby]]"
+  - "[[site-item-php|php]]"
+  - "[[site-item-lua|lua]]"
+  - "[[site-item-sql|sql]]"
+  - "[[site-item-matlab|matlab]]"
+  - "[[site-item-r-project|r-project]]"
+  - "[[site-item-wolfram-language|wolfram-language]]"
+  - "[[site-item-sas|sas]]"
+  - "[[site-item-visual-basic|visual-basic]]"
+  - "[[site-item-lisp|lisp]]"
+  - "[[site-item-prolog|prolog]]"
+  - "[[site-item-lean|lean]]"
+  - "[[site-item-haskell]]"
+  - "[[site-item-fortran|fortran]]"
 ctime: 2026-01-09T21:38:41+08:00
 mtime: 2026-01-09T21:38:41+08:00
 related:
@@ -248,3 +274,29 @@ related:
 - [[site-item-via-browser|via-browser]]
 - [[site-item-huawei-browser|huawei-browser]]
 - [[site-item-qq-browser|qq-browser]]
+- [[site-item-machine-code|machine-code]]
+- [[site-item-assembly-language|assembly-language]]
+- [[site-item-c-language|c-language]]
+- [[site-item-cpp|cpp]]
+- [[site-item-c-sharp|c-sharp]]
+- [[site-item-java|java]]
+- [[site-item-go|go]]
+- [[site-item-rust|rust]]
+- [[site-item-kotlin|kotlin]]
+- [[site-item-python|python]]
+- [[site-item-javascript|javascript]]
+- [[site-item-typescript|typescript]]
+- [[site-item-ruby|ruby]]
+- [[site-item-php|php]]
+- [[site-item-lua|lua]]
+- [[site-item-sql|sql]]
+- [[site-item-matlab|matlab]]
+- [[site-item-r-project|r-project]]
+- [[site-item-wolfram-language|wolfram-language]]
+- [[site-item-sas|sas]]
+- [[site-item-visual-basic|visual-basic]]
+- [[site-item-lisp|lisp]]
+- [[site-item-prolog|prolog]]
+- [[site-item-lean|lean]]
+- [[site-item-haskell]]
+- [[site-item-fortran|fortran]]

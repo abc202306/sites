@@ -11,8 +11,25 @@ function escapePipe(str) {
 	return str.replace(/(?<!\\)\|/g,"\\|");
 }
 
+const enablehighlightTags = false;
+function highlightTagsIfEnabled(fm, descriptionStr) {
+	if (!enablehighlightTags) {
+		return descriptionStr;
+	}
+	description = descriptionStr;
+	if (Array.isArray(fm?.tags)) {
+		fm?.tags.sort((a,b)=>b.length-a.length).forEach(tag=>{
+			const tagRegExp = new RegExp(`(?<![\\[\\(][^\\]\\)]*)(?<tag>${RegExp.escape(tag)})`,"g");
+			description = description.replace(tagRegExp, "[$<tag>](#$<tag>)");
+		})
+	}
+	return description;
+}
+
 function getDescriptionInTable(fm) {
-	return `[${escapePipe(fm.title)}](${fm.url})<br><br>${fm.description}`;
+	let description = `[${escapePipe(fm.title)}](${fm.url})<br><br>${fm.description}`;
+	description = highlightTagsIfEnabled(fm, description);
+	return description;
 }
 
 class WikiParser {
@@ -98,11 +115,17 @@ class SiteRenderer {
         const headerMarker = m !== 0 ? '####' : '###';
         const displayTitle = fm.title || slug;
         const url = fm.url || '#';
-        const description = fm.description || '';
+        const description = highlightTagsIfEnabled(fm, fm.description || '');
         const categories = this.getCategoryArrStr(itemFile, categoryFiles, emphasizedText);
         const icon = fm.icon ? this.parser.getImageElem(fm.icon) : '';
 
-        return `${headerMarker} ${title}\n\n> see: [${displayTitle}](${url})\n\n${description}\n\n${icon}\n\n> [!Note]\n> \n> | | |\n> | --- | --- |\n> | [Category](#category) |  ${categories} |\n> | [Type](#type) | [site-items](#site-items) |`;
+		let siteitemsectionstr = `${headerMarker} ${title}\n\n> see: [${displayTitle}](${url})\n\n${description}\n\n${icon}\n\n> [!Note]\n> \n> | | |\n> | --- | --- |\n> | [category](#category) |  ${categories} |\n> | [type](#type) | [site-items](#site-items) |`;
+		
+		if (Array.isArray(fm.tags)) {
+			siteitemsectionstr += `\n| [tag](#tag) | ${highlightTagsIfEnabled(fm, fm.tags.join(", "))} |`
+		}
+
+        return siteitemsectionstr;
     }
 
     getSiteCategorySection(file, m, categoryFiles) {
@@ -140,7 +163,7 @@ class MOCBuilder {
     constructor(metadataCache, vault, options = {}) {
         this.metadataCache = metadataCache || null;
         this.vault = vault || null;
-        this.options = Object.assign({ tableImageWidth: 50, defaultImageWidth: 200 }, options);
+        this.options = Object.assign({ tableImageWidth: 30, defaultImageWidth: 200 }, options);
         this.parser = new WikiParser(this.metadataCache, { defaultImageWidth: this.options.defaultImageWidth });
         this.fm = new FrontmatterHelper(this.metadataCache);
         this.renderer = new SiteRenderer(this.parser, this.fm, { tableImageWidth: this.options.tableImageWidth });
@@ -155,7 +178,11 @@ class MOCBuilder {
         const sitecategories = mdfiles
             .filter(f => f.path.startsWith('site-category/'))
             .sort((a, b) => a.basename.localeCompare(b.basename));
-        return { siteitems, sitecategories };
+        const sitetags = siteitems
+	        .map(f => this.fm.safeFrontmatter(f).tags)
+	        .unique()
+	        .filter(tag => tag);
+        return { siteitems, sitecategories, sitetags };
     }
 
     // build the category index table (first section)
@@ -211,9 +238,17 @@ class MOCBuilder {
     _buildSiteItemsSections(siteitems, sitecategories) {
         return siteitems.map((f, j) => this.renderer.getSiteItemSection(f, 0, j + 1, sitecategories)).join('\n\n');
     }
-
+    
+    _buildTagIndex(siteitems, sitetags) {
+	    return "";
+    }
+    
+    _buildTagSections(siteitems, sitetags) {
+	    return "";
+    }
+	
     build() {
-        const { siteitems, sitecategories } = this._getSiteFiles();
+        const { siteitems, sitecategories, sitetags } = this._getSiteFiles();
 
         const parts = [];
         parts.push('## type\n\n> [!Note]\n> \n> ### type\n> \n> 1. [category](#category)\n> 1. [site-items](#site-items)');
@@ -226,7 +261,6 @@ class MOCBuilder {
         parts.push(this._buildSiteItemsIndex(siteitems, sitecategories));
         parts.push('\n\n');
         parts.push(this._buildSiteItemsSections(siteitems, sitecategories));
-        
 
         return parts.join('\n') + '\n';
     }
