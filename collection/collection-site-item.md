@@ -72,10 +72,8 @@ down:
   - "[[site-item-qianwen|qianwen]]"
   - "[[site-item-bohrium|bohrium]]"
   - "[[site-item-kimi|kimi]]"
-  - "[[site-item-typora|typora]]"
   - "[[site-item-visual-studio-code|vscode]]"
   - "[[site-item-visual-studio|visual-studio]]"
-  - "[[site-item-vim|vim]]"
   - "[[site-item-intellij-idea|intellij-idea]]"
   - "[[site-item-pycharm|pycharm]]"
   - "[[site-item-webstorm|webstorm]]"
@@ -83,6 +81,9 @@ down:
   - "[[site-item-hbuilder|hbuilder]]"
   - "[[site-item-cursor|cursor]]"
   - "[[site-item-trae|trae]]"
+  - "[[site-item-vim|vim]]"
+  - "[[site-item-emacs|emacs]]"
+  - "[[site-item-typora|typora]]"
   - "[[site-item-simplex|simplex]]"
   - "[[site-item-session|session]]"
   - "[[site-item-tamtam|tamtam]]"
@@ -113,7 +114,6 @@ down:
   - "[[site-item-f-driod|f-driod]]"
   - "[[site-item-tencent-appstore|tencent-appstore]]"
   - "[[site-item-360-appstore|360-appstore]]"
-  - "[[site-item-emacs|emacs]]"
   - "[[site-item-github|github]]"
   - "[[site-item-x-browser|x-browser]]"
   - "[[site-item-via-browser|via-browser]]"
@@ -230,10 +230,8 @@ related:
 - [[site-item-qianwen|qianwen]]
 - [[site-item-bohrium|bohrium]]
 - [[site-item-kimi|kimi]]
-- [[site-item-typora|typora]]
 - [[site-item-visual-studio-code|vscode]]
 - [[site-item-visual-studio|visual-studio]]
-- [[site-item-vim|vim]]
 - [[site-item-intellij-idea|intellij-idea]]
 - [[site-item-pycharm|pycharm]]
 - [[site-item-webstorm|webstorm]]
@@ -241,6 +239,9 @@ related:
 - [[site-item-hbuilder|hbuilder]]
 - [[site-item-cursor|cursor]]
 - [[site-item-trae|trae]]
+- [[site-item-vim|vim]]
+- [[site-item-emacs|emacs]]
+- [[site-item-typora|typora]]
 - [[site-item-simplex|simplex]]
 - [[site-item-session|session]]
 - [[site-item-tamtam|tamtam]]
@@ -271,7 +272,6 @@ related:
 - [[site-item-f-driod|f-driod]]
 - [[site-item-tencent-appstore|tencent-appstore]]
 - [[site-item-360-appstore|360-appstore]]
-- [[site-item-emacs|emacs]]
 - [[site-item-github|github]]
 - [[site-item-x-browser|x-browser]]
 - [[site-item-via-browser|via-browser]]

@@ -32,7 +32,7 @@ Keywords: awesome list, website, github repo
 > | 8 | [command-line-shell](#8-command-line-shell) | [cmd](#8-1-cmd), [powershell](#8-2-powershell), [bash](#8-3-bash) | [<img src="assets/site-item-cmd.webp" width="30">](#8-1-cmd)[<img src="assets/site-item-powershell.webp" width="30">](#8-2-powershell)[<img src="assets/site-item-bash.svg" width="30">](#8-3-bash) |
 > | 9 | [community](#9-community) | [pixiv](#9-1-pixiv) | [<img src="assets/site-item-pixiv.png" width="30">](#9-1-pixiv) |
 > | 10 | [database](#10-database) | [anidb](#10-1-anidb), [myanimelist](#10-2-myanimelist) | [<img src="assets/site-item-anidb.png" width="30">](#10-1-anidb)[<img src="assets/site-item-myanimelist.png" width="30">](#10-2-myanimelist) |
-> | 11 | [editor](#11-editor) | [typora](#11-1-typora), [visual-studio-code](#11-2-visual-studio-code), [visual-studio](#11-3-visual-studio), [vim](#11-4-vim), [intellij-idea](#11-5-intellij-idea), [pycharm](#11-6-pycharm), [webstorm](#11-7-webstorm), [android-studio](#11-8-android-studio), [hbuilder](#11-9-hbuilder), [cursor](#11-10-cursor), [trae](#11-11-trae), [emacs](#11-12-emacs) | [<img src="assets/site-item-typora.png" width="30">](#11-1-typora)[<img src="assets/site-item-vscode.png" width="30">](#11-2-visual-studio-code)[<img src="assets/site-item-visual-studio.png" width="30">](#11-3-visual-studio)[<img src="assets/site-item-vim.png" width="30">](#11-4-vim)[<img src="assets/site-item-intellij-idea.png" width="30">](#11-5-intellij-idea)[<img src="assets/site-item-pycharm.png" width="30">](#11-6-pycharm)[<img src="assets/site-item-webstorm.png" width="30">](#11-7-webstorm)[<img src="assets/site-item-android-studio.png" width="30">](#11-8-android-studio)[<img src="assets/site-item-hbuilder.png" width="30">](#11-9-hbuilder)[<img src="assets/site-item-cursor-ai.png" width="30">](#11-10-cursor)[<img src="assets/site-item-trae.png" width="30">](#11-11-trae)[<img src="assets/site-item-emacs.png" width="30">](#11-12-emacs) |
+> | 11 | [editor](#11-editor) | [visual-studio-code](#11-1-visual-studio-code), [visual-studio](#11-2-visual-studio), [intellij-idea](#11-3-intellij-idea), [pycharm](#11-4-pycharm), [webstorm](#11-5-webstorm), [android-studio](#11-6-android-studio), [hbuilder](#11-7-hbuilder), [cursor](#11-8-cursor), [trae](#11-9-trae), [vim](#11-10-vim), [emacs](#11-11-emacs), [typora](#11-12-typora) | [<img src="assets/site-item-vscode.png" width="30">](#11-1-visual-studio-code)[<img src="assets/site-item-visual-studio.png" width="30">](#11-2-visual-studio)[<img src="assets/site-item-intellij-idea.png" width="30">](#11-3-intellij-idea)[<img src="assets/site-item-pycharm.png" width="30">](#11-4-pycharm)[<img src="assets/site-item-webstorm.png" width="30">](#11-5-webstorm)[<img src="assets/site-item-android-studio.png" width="30">](#11-6-android-studio)[<img src="assets/site-item-hbuilder.png" width="30">](#11-7-hbuilder)[<img src="assets/site-item-cursor-ai.png" width="30">](#11-8-cursor)[<img src="assets/site-item-trae.png" width="30">](#11-9-trae)[<img src="assets/site-item-vim.png" width="30">](#11-10-vim)[<img src="assets/site-item-emacs.png" width="30">](#11-11-emacs)[<img src="assets/site-item-typora.png" width="30">](#11-12-typora) |
 > | 12 | [email](#12-email) | [gmail](#12-1-gmail), [outlook-com](#12-2-outlook-com), [mail-ru](#12-3-mail-ru), [qq-mail](#12-4-qq-mail), [netease-mail](#12-5-netease-mail) | [<img src="assets/site-item-gmail.png" width="30">](#12-1-gmail)[<img src="assets/site-item-outlook-com.png" width="30">](#12-2-outlook-com)[<img src="assets/site-item-mail-ru.png" width="30">](#12-3-mail-ru)[<img src="assets/site-item-qq-mail.png" width="30">](#12-4-qq-mail)[<img src="assets/site-item-netease-mail.png" width="30">](#12-5-netease-mail) |
 > | 13 | [encyclopedia](#13-encyclopedia) | [wikipedia](#13-1-wikipedia), [baidu-baike](#13-2-baidu-baike), [moegirl](#13-3-moegirl), [hmoegirl](#13-4-hmoegirl), [wikihow](#13-5-wikihow), [mbalib-wiki](#13-6-mbalib-wiki), [noteapps-info](#13-7-noteapps-info) | [<img src="assets/site-item-wikipedia.png" width="30">](#13-1-wikipedia)[<img src="assets/site-item-baidu-baike.png" width="30">](#13-2-baidu-baike)[<img src="assets/site-item-moegirl-encyclopedia.png" width="30">](#13-3-moegirl)[<img src="assets/site-item-hmoegirl-encyclopedia.png" width="30">](#13-4-hmoegirl)[<img src="assets/site-item-wikihow.png" width="30">](#13-5-wikihow)[<img src="assets/site-item-mbalib-wiki.png" width="30">](#13-6-mbalib-wiki)[<img src="assets/site-item-noteapps-info.png" width="30">](#13-7-noteapps-info) |
 > | 14 | [forum](#14-forum) | [reddit](#14-1-reddit), [tieba](#14-2-tieba) | [<img src="assets/site-item-reddit.png" width="30">](#14-1-reddit)[<img src="assets/site-item-baidu-tieba.png" width="30">](#14-2-tieba) |
@@ -1101,35 +1101,20 @@ Welcome to MyAnimeList, the world's most active online anime and manga community
 > 
 > | \# | [**Site-Items**](#site-items) | [**Category**](#category) | Icon | Description |
 > | --- | --- | --- | --- | --- |
-> | 1 | [typora](#11-1-typora) | [**editor**](#11-editor) | [<img src="assets/site-item-typora.png" width="30">](#11-1-typora) | [Typora — simple yet powerful Markdown reader.](https://typora.io/)<br><br>Typora is a cross-platform minimal markdown editor, providing seamless experience for both markdown readers and writers. |
-> | 2 | [visual-studio-code](#11-2-visual-studio-code) | [**editor**](#11-editor) | [<img src="assets/site-item-vscode.png" width="30">](#11-2-visual-studio-code) | [Visual Studio Code - The open source AI code editor](https://code.visualstudio.com/)<br><br>Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows. |
-> | 3 | [visual-studio](#11-3-visual-studio) | [**editor**](#11-editor) | [<img src="assets/site-item-visual-studio.png" width="30">](#11-3-visual-studio) | [Visual Studio: IDE and Code Editor for Software Development](https://visualstudio.microsoft.com/)<br><br>Visual Studio dev tools & services make app development easy for any developer, on any platform & language. Develop with our code editor or IDE anywhere for free. |
-> | 4 | [vim](#11-4-vim) | [**editor**](#11-editor) | [<img src="assets/site-item-vim.png" width="30">](#11-4-vim) | [welcome home : vim online](https://www.vim.org/)<br><br>Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient. It is included as "vi" with most UNIX systems and with Apple OS X. |
-> | 5 | [intellij-idea](#11-5-intellij-idea) | [**editor**](#11-editor) | [<img src="assets/site-item-intellij-idea.png" width="30">](#11-5-intellij-idea) | [The Leading IDE for Professional Java and Kotlin Development](https://www.jetbrains.com/idea/)<br><br>IntelliJ IDEA is the JetBrains IDE for pro development in Java and Kotlin. Built for your comfort, it unlocks productivity, ensures quality code, supports cutting-edge tech, and protects your privacy. |
-> | 6 | [pycharm](#11-6-pycharm) | [**editor**](#11-editor) | [<img src="assets/site-item-pycharm.png" width="30">](#11-6-pycharm) | [PyCharm: The only Python IDE you need](https://www.jetbrains.com/pycharm/)<br><br>Built for web, data, and AI/ML professionals. Supercharged with an AI-enhanced IDE experience. |
-> | 7 | [webstorm](#11-7-webstorm) | [**editor**](#11-editor) | [<img src="assets/site-item-webstorm.png" width="30">](#11-7-webstorm) | [WebStorm: The JavaScript and TypeScript IDE, by JetBrains](https://www.jetbrains.com/webstorm/)<br><br>Make development more productive and enjoyable with WebStorm, the IDE for JavaScript and related technologies. |
-> | 8 | [android-studio](#11-8-android-studio) | [**editor**](#11-editor) | [<img src="assets/site-item-android-studio.png" width="30">](#11-8-android-studio) | [Download Android Studio & App Tools - Android Developers](https://developer.android.com/studio)<br><br>Android Studio provides app builders with an integrated development environment (IDE) optimized for Android apps. Download Android Studio today. |
-> | 9 | [hbuilder](#11-9-hbuilder) | [**editor**](#11-editor) | [<img src="assets/site-item-hbuilder.png" width="30">](#11-9-hbuilder) | [HBuilderX - a superpowered IDE for Vue](https://www.dcloud.io/hbuilderx.html)<br><br>HBuilderX is the fastest HTML development tool. Powerful code assistant helps you complete development quickly. The complete syntax library and browser compatibility function will improve your development efficiency. |
-> | 10 | [cursor](#11-10-cursor) | [**editor**](#11-editor) | [<img src="assets/site-item-cursor-ai.png" width="30">](#11-10-cursor) | [Cursor](https://cursor.com/)<br><br>Built to make you extraordinarily productive, Cursor is the best way to code with AI. |
-> | 11 | [trae](#11-11-trae) | [**editor**](#11-editor) | [<img src="assets/site-item-trae.png" width="30">](#11-11-trae) | [TRAE - The Real AI Engineer \| TRAE - The Real AI Engineer](https://www.trae.cn/)<br><br>TRAE AI IDE | 国内首款 AI 原生集成开发环境，深度集成 Doubao-1.5-pro 与 DeepSeek 模型，支持中文自然语言一键生成完整代码框架，实时预览前端效果并智能修复 BUG。首创 Builder 模式实现需求到代码的自动化开发，兼容 Windows/macOS 系统，官网下载即用。 |
-> | 12 | [emacs](#11-12-emacs) | [**editor**](#11-editor) | [<img src="assets/site-item-emacs.png" width="30">](#11-12-emacs) | [GNU Emacs - GNU Project](https://www.gnu.org/software/emacs/)<br><br>An extensible, customizable, free/libre text editor — and more. At its core is an interpreter for Emacs Lisp, a dialect of the Lisp programming language with extensions to support text editing. |
+> | 1 | [visual-studio-code](#11-1-visual-studio-code) | [**editor**](#11-editor) | [<img src="assets/site-item-vscode.png" width="30">](#11-1-visual-studio-code) | [Visual Studio Code - The open source AI code editor](https://code.visualstudio.com/)<br><br>Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows. |
+> | 2 | [visual-studio](#11-2-visual-studio) | [**editor**](#11-editor) | [<img src="assets/site-item-visual-studio.png" width="30">](#11-2-visual-studio) | [Visual Studio: IDE and Code Editor for Software Development](https://visualstudio.microsoft.com/)<br><br>Visual Studio dev tools & services make app development easy for any developer, on any platform & language. Develop with our code editor or IDE anywhere for free. |
+> | 3 | [intellij-idea](#11-3-intellij-idea) | [**editor**](#11-editor) | [<img src="assets/site-item-intellij-idea.png" width="30">](#11-3-intellij-idea) | [The Leading IDE for Professional Java and Kotlin Development](https://www.jetbrains.com/idea/)<br><br>IntelliJ IDEA is the JetBrains IDE for pro development in Java and Kotlin. Built for your comfort, it unlocks productivity, ensures quality code, supports cutting-edge tech, and protects your privacy. |
+> | 4 | [pycharm](#11-4-pycharm) | [**editor**](#11-editor) | [<img src="assets/site-item-pycharm.png" width="30">](#11-4-pycharm) | [PyCharm: The only Python IDE you need](https://www.jetbrains.com/pycharm/)<br><br>Built for web, data, and AI/ML professionals. Supercharged with an AI-enhanced IDE experience. |
+> | 5 | [webstorm](#11-5-webstorm) | [**editor**](#11-editor) | [<img src="assets/site-item-webstorm.png" width="30">](#11-5-webstorm) | [WebStorm: The JavaScript and TypeScript IDE, by JetBrains](https://www.jetbrains.com/webstorm/)<br><br>Make development more productive and enjoyable with WebStorm, the IDE for JavaScript and related technologies. |
+> | 6 | [android-studio](#11-6-android-studio) | [**editor**](#11-editor) | [<img src="assets/site-item-android-studio.png" width="30">](#11-6-android-studio) | [Download Android Studio & App Tools - Android Developers](https://developer.android.com/studio)<br><br>Android Studio provides app builders with an integrated development environment (IDE) optimized for Android apps. Download Android Studio today. |
+> | 7 | [hbuilder](#11-7-hbuilder) | [**editor**](#11-editor) | [<img src="assets/site-item-hbuilder.png" width="30">](#11-7-hbuilder) | [HBuilderX - a superpowered IDE for Vue](https://www.dcloud.io/hbuilderx.html)<br><br>HBuilderX is the fastest HTML development tool. Powerful code assistant helps you complete development quickly. The complete syntax library and browser compatibility function will improve your development efficiency. |
+> | 8 | [cursor](#11-8-cursor) | [**editor**](#11-editor) | [<img src="assets/site-item-cursor-ai.png" width="30">](#11-8-cursor) | [Cursor](https://cursor.com/)<br><br>Built to make you extraordinarily productive, Cursor is the best way to code with AI. |
+> | 9 | [trae](#11-9-trae) | [**editor**](#11-editor) | [<img src="assets/site-item-trae.png" width="30">](#11-9-trae) | [TRAE - The Real AI Engineer \| TRAE - The Real AI Engineer](https://www.trae.cn/)<br><br>TRAE AI IDE | 国内首款 AI 原生集成开发环境，深度集成 Doubao-1.5-pro 与 DeepSeek 模型，支持中文自然语言一键生成完整代码框架，实时预览前端效果并智能修复 BUG。首创 Builder 模式实现需求到代码的自动化开发，兼容 Windows/macOS 系统，官网下载即用。 |
+> | 10 | [vim](#11-10-vim) | [**editor**](#11-editor) | [<img src="assets/site-item-vim.png" width="30">](#11-10-vim) | [welcome home : vim online](https://www.vim.org/)<br><br>Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient. It is included as "vi" with most UNIX systems and with Apple OS X. |
+> | 11 | [emacs](#11-11-emacs) | [**editor**](#11-editor) | [<img src="assets/site-item-emacs.png" width="30">](#11-11-emacs) | [GNU Emacs - GNU Project](https://www.gnu.org/software/emacs/)<br><br>An extensible, customizable, free/libre text editor — and more. At its core is an interpreter for Emacs Lisp, a dialect of the Lisp programming language with extensions to support text editing. |
+> | 12 | [typora](#11-12-typora) | [**editor**](#11-editor) | [<img src="assets/site-item-typora.png" width="30">](#11-12-typora) | [Typora — simple yet powerful Markdown reader.](https://typora.io/)<br><br>Typora is a cross-platform minimal markdown editor, providing seamless experience for both markdown readers and writers. |
 
-#### 11-1-typora
-
-> see: [Typora — simple yet powerful Markdown reader.](https://typora.io/)
-
-Typora is a cross-platform minimal markdown editor, providing seamless experience for both markdown readers and writers.
-
-<img src="assets/site-item-typora.png" width="200">
-
-> [!Note]
-> 
-> | | |
-> | --- | --- |
-> | [category](#category) |  [**editor**](#11-editor) |
-> | [type](#type) | [site-items](#site-items) |
-
-#### 11-2-visual-studio-code
+#### 11-1-visual-studio-code
 
 > see: [Visual Studio Code - The open source AI code editor](https://code.visualstudio.com/)
 
@@ -1144,7 +1129,7 @@ Visual Studio Code redefines AI-powered coding with GitHub Copilot for building 
 > | [category](#category) |  [**editor**](#11-editor) |
 > | [type](#type) | [site-items](#site-items) |
 
-#### 11-3-visual-studio
+#### 11-2-visual-studio
 
 > see: [Visual Studio: IDE and Code Editor for Software Development](https://visualstudio.microsoft.com/)
 
@@ -1159,22 +1144,7 @@ Visual Studio dev tools & services make app development easy for any developer, 
 > | [category](#category) |  [**editor**](#11-editor) |
 > | [type](#type) | [site-items](#site-items) |
 
-#### 11-4-vim
-
-> see: [welcome home : vim online](https://www.vim.org/)
-
-Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient. It is included as "vi" with most UNIX systems and with Apple OS X.
-
-<img src="assets/site-item-vim.png" width="200">
-
-> [!Note]
-> 
-> | | |
-> | --- | --- |
-> | [category](#category) |  [**editor**](#11-editor) |
-> | [type](#type) | [site-items](#site-items) |
-
-#### 11-5-intellij-idea
+#### 11-3-intellij-idea
 
 > see: [The Leading IDE for Professional Java and Kotlin Development](https://www.jetbrains.com/idea/)
 
@@ -1189,7 +1159,7 @@ IntelliJ IDEA is the JetBrains IDE for pro development in Java and Kotlin. Built
 > | [category](#category) |  [**editor**](#11-editor) |
 > | [type](#type) | [site-items](#site-items) |
 
-#### 11-6-pycharm
+#### 11-4-pycharm
 
 > see: [PyCharm: The only Python IDE you need](https://www.jetbrains.com/pycharm/)
 
@@ -1204,7 +1174,7 @@ Built for web, data, and AI/ML professionals. Supercharged with an AI-enhanced I
 > | [category](#category) |  [**editor**](#11-editor) |
 > | [type](#type) | [site-items](#site-items) |
 
-#### 11-7-webstorm
+#### 11-5-webstorm
 
 > see: [WebStorm: The JavaScript and TypeScript IDE, by JetBrains](https://www.jetbrains.com/webstorm/)
 
@@ -1219,7 +1189,7 @@ Make development more productive and enjoyable with WebStorm, the IDE for JavaSc
 > | [category](#category) |  [**editor**](#11-editor) |
 > | [type](#type) | [site-items](#site-items) |
 
-#### 11-8-android-studio
+#### 11-6-android-studio
 
 > see: [Download Android Studio & App Tools - Android Developers](https://developer.android.com/studio)
 
@@ -1234,7 +1204,7 @@ Android Studio provides app builders with an integrated development environment 
 > | [category](#category) |  [**editor**](#11-editor) |
 > | [type](#type) | [site-items](#site-items) |
 
-#### 11-9-hbuilder
+#### 11-7-hbuilder
 
 > see: [HBuilderX - a superpowered IDE for Vue](https://www.dcloud.io/hbuilderx.html)
 
@@ -1249,7 +1219,7 @@ HBuilderX is the fastest HTML development tool. Powerful code assistant helps yo
 > | [category](#category) |  [**editor**](#11-editor) |
 > | [type](#type) | [site-items](#site-items) |
 
-#### 11-10-cursor
+#### 11-8-cursor
 
 > see: [Cursor](https://cursor.com/)
 
@@ -1264,7 +1234,7 @@ Built to make you extraordinarily productive, Cursor is the best way to code wit
 > | [category](#category) |  [**editor**](#11-editor) |
 > | [type](#type) | [site-items](#site-items) |
 
-#### 11-11-trae
+#### 11-9-trae
 
 > see: [TRAE - The Real AI Engineer | TRAE - The Real AI Engineer](https://www.trae.cn/)
 
@@ -1279,13 +1249,43 @@ TRAE AI IDE | 国内首款 AI 原生集成开发环境，深度集成 Doubao-1.5
 > | [category](#category) |  [**editor**](#11-editor) |
 > | [type](#type) | [site-items](#site-items) |
 
-#### 11-12-emacs
+#### 11-10-vim
+
+> see: [welcome home : vim online](https://www.vim.org/)
+
+Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient. It is included as "vi" with most UNIX systems and with Apple OS X.
+
+<img src="assets/site-item-vim.png" width="200">
+
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [category](#category) |  [**editor**](#11-editor) |
+> | [type](#type) | [site-items](#site-items) |
+
+#### 11-11-emacs
 
 > see: [GNU Emacs - GNU Project](https://www.gnu.org/software/emacs/)
 
 An extensible, customizable, free/libre text editor — and more. At its core is an interpreter for Emacs Lisp, a dialect of the Lisp programming language with extensions to support text editing.
 
 <img src="assets/site-item-emacs.png" width="200">
+
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [category](#category) |  [**editor**](#11-editor) |
+> | [type](#type) | [site-items](#site-items) |
+
+#### 11-12-typora
+
+> see: [Typora — simple yet powerful Markdown reader.](https://typora.io/)
+
+Typora is a cross-platform minimal markdown editor, providing seamless experience for both markdown readers and writers.
+
+<img src="assets/site-item-typora.png" width="200">
 
 > [!Note]
 > 
