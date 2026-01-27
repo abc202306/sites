@@ -4,6 +4,16 @@ filters:
 formulas:
   iconembed: image(icon)
 views:
+  - type: cards
+    name: cardsmini
+    order: []
+    image: note.icon
+    cardSize: 80
+  - type: cards
+    name: Cards
+    order:
+      - title
+    image: note.icon
   - type: table
     name: Table
     order:
@@ -20,13 +30,3 @@ views:
       formula.iconembed: 47
       note.title: 98
       note.url: 250
-  - type: cards
-    name: Cards
-    order:
-      - title
-    image: note.icon
-  - type: cards
-    name: cardsmini
-    order: []
-    image: note.icon
-    cardSize: 50

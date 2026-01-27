@@ -1,0 +1,123 @@
+
+# site-schema
+
+- [[#property of collection-site-item]]
+- [[#property of collection-site-category]]
+- [[#property of collection]]
+
+## property of [[collection-site-item]]
+
+- properties
+	- `up`
+	- `title`
+	- `title-slugified`
+	- `url`
+	- `icon`
+	- `description`
+	- `categories`
+	- `aliases`
+	- `ctime`
+	- `mtime`
+- type
+	- `string`
+		- `title`
+		- `title-slugified`
+		- `url`
+		- `description`
+	- `string[]`
+		- `aliases`
+	- `WikiLink`
+		- `icon`
+	- `WikiLink[]`
+		- `up`
+		- `categories`
+	- `DateTime`
+		- `ctime`
+		- `mtime`
+- ref
+	- `up` [[collection]]
+	- `categories` [[collection-site-category]]
+	- `icon` [[collection-image-file]]
+- default
+	- `up`  `[ "[[collection-site-item]]" ]`
+	- `ctime` `Template.eval("{{date:YYYY-MM-DDTHH:mm:ssZ}}")`
+	- `mtime` `Template.eval("{{date:YYYY-MM-DDTHH:mm:ssZ}})"`
+- check
+	- `properties["up"] === [ "[[collection-site-item]]" ]`
+	- `isSlugified(properties["title-slugified"])`
+	- `isURL(properties["url"])`
+- not-null
+	- true
+		- `up`
+		- `title`
+		- `title-slugified`
+		- `url`
+		- `icon`
+		- `description`
+		- `categories`
+		- `aliases`
+		- `ctime`
+		- `mtime`
+
+## property of [[collection-site-category]]
+
+- properties
+	- `up`
+	- `subpages`
+	- `aliases`
+	- `ctime`
+	- `mtime`
+- type
+	- `WikiLink[]`
+		- `up`
+		- `subpages`
+	- `string[]`
+		- `aliases`
+	- `DateTime`
+		- `ctime`
+		- `mtime`
+- ref
+	- `up` [[collection]]
+	- `subpages` [[collection-site-item]]
+- default
+	- `up`  `[ "[[collection-site-category]]" ]`
+	- `ctime` `Template.eval("{{date:YYYY-MM-DDTHH:mm:ssZ}}")`
+	- `mtime` `Template.eval("{{date:YYYY-MM-DDTHH:mm:ssZ}})"
+- check
+	- `properties["up"] === [ "[[collection-site-category]]" ]`
+- not-null
+	- true
+		- `up`
+		- `subpages`
+		- `aliases`
+		- `ctime`
+		- `mtime`
+
+## property of [[collection]]
+
+- properties
+	- `up`
+	- `down`
+	- `related`
+	- `ctime`
+	- `mtime`
+- type
+	- `WikiLink[]`
+		- `up`
+		- `down`
+		- `related`
+	- `DateTime`
+		- `ctime`
+		- `mtime`
+- default
+	- `up`  `[ "[[collection]]" ]`
+	- `ctime` `Template.eval("{{date:YYYY-MM-DDTHH:mm:ssZ}}")`
+	- `mtime` `Template.eval("{{date:YYYY-MM-DDTHH:mm:ssZ}})"`
+- not-null
+	- true
+		- `up`
+		- `down`
+		- `ctime`
+		- `mtime`
+	- false
+		- `related`

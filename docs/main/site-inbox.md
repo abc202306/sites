@@ -5,13 +5,19 @@ mtime: "2026-01-09T22:05:20+08:00"
 
 # site-inbox
 
-- [[script-site-moc-builder]]
-- [[collection]]
-- [[base-site-item.base]]
-- [[base-site-category.base]]
-- [[README_Legacy]]
-- [[README]]
-- [[site-vault-templates]]
+- main
+	- [[site-vault-templates]]
+	- [[site-schema]]
+	- [[collection]]
+- script
+	- [[script-site-moc-builder]]
+- base
+	- [[base-site-item.base]]
+	- [[base-site-category.base]]
+- index
+	- [[README]]
+- legacy
+	- [[README_Legacy]]
 
 ## site-item-inbox
 

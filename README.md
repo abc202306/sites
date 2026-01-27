@@ -1,7 +1,7 @@
 
 # Websites
 
-This article showcases 115 websites bookmarked by abc202306.
+This article showcases 119 websites bookmarked by abc202306.
 
 Keywords: awesome list, website, github repo
 
@@ -27,7 +27,7 @@ Keywords: awesome list, website, github repo
 > | 3 | [appstore](#3-appstore) | [microsoft-store](#3-1-microsoft-store), [huorong-app-store](#3-2-huorong-app-store), [apkpure](#3-3-apkpure), [arora-store](#3-4-arora-store), [google-play](#3-5-google-play), [f-driod](#3-6-f-driod), [tencent-appstore](#3-7-tencent-appstore), [360-appstore](#3-8-360-appstore) | [<img src="assets/microsoft-store.png" width="50">](#3-1-microsoft-store)[<img src="assets/huorong-app-store.png" width="50">](#3-2-huorong-app-store)[<img src="assets/apkpure.png" width="50">](#3-3-apkpure)[<img src="assets/arora-store.png" width="50">](#3-4-arora-store)[<img src="assets/google-play.png" width="50">](#3-5-google-play)[<img src="assets/f-droid.png" width="50">](#3-6-f-driod)[<img src="assets/tencent-appstore.png" width="50">](#3-7-tencent-appstore)[<img src="assets/360-appstore.png" width="50">](#3-8-360-appstore) |
 > | 4 | [archive](#4-archive) | [e-hentai](#4-1-e-hentai), [nhentai](#4-2-nhentai), [jmcomic](#4-3-jmcomic), [picaacg](#4-4-picaacg) | [<img src="assets/e-hentai.svg" width="50">](#4-1-e-hentai)[<img src="assets/nhentai.png" width="50">](#4-2-nhentai)[<img src="assets/jmcomic.png" width="50">](#4-3-jmcomic)[<img src="assets/picaacg.png" width="50">](#4-4-picaacg) |
 > | 5 | [authenticator](#5-authenticator) | [microsoft-authenticator](#5-1-microsoft-authenticator), [google-authenticator](#5-2-google-authenticator) | [<img src="assets/microsoft-authenticator.png" width="50">](#5-1-microsoft-authenticator)[<img src="assets/google-authenticator.png" width="50">](#5-2-google-authenticator) |
-> | 6 | [browser](#6-browser) | [google-chrome](#6-1-google-chrome), [microsoft-edge](#6-2-microsoft-edge), [mozilla-firefox](#6-3-mozilla-firefox), [tor-browser](#6-4-tor-browser), [uc-browser](#6-5-uc-browser), [quark-browser](#6-6-quark-browser) | [<img src="assets/google-chrome.png" width="50">](#6-1-google-chrome)[<img src="assets/microsoft-edge.png" width="50">](#6-2-microsoft-edge)[<img src="assets/mozilla-firefox.png" width="50">](#6-3-mozilla-firefox)[<img src="assets/tor-browser.png" width="50">](#6-4-tor-browser)[<img src="assets/uc-browser.png" width="50">](#6-5-uc-browser)[<img src="assets/quark-browser.png" width="50">](#6-6-quark-browser) |
+> | 6 | [browser](#6-browser) | [google-chrome](#6-1-google-chrome), [microsoft-edge](#6-2-microsoft-edge), [mozilla-firefox](#6-3-mozilla-firefox), [tor-browser](#6-4-tor-browser), [uc-browser](#6-5-uc-browser), [quark-browser](#6-6-quark-browser), [x-browser](#6-7-x-browser), [via-browser](#6-8-via-browser), [huawei-browser](#6-9-huawei-browser), [qq-browser](#6-10-qq-browser) | [<img src="assets/google-chrome.png" width="50">](#6-1-google-chrome)[<img src="assets/microsoft-edge.png" width="50">](#6-2-microsoft-edge)[<img src="assets/mozilla-firefox.png" width="50">](#6-3-mozilla-firefox)[<img src="assets/tor-browser.png" width="50">](#6-4-tor-browser)[<img src="assets/uc-browser.png" width="50">](#6-5-uc-browser)[<img src="assets/quark-browser.png" width="50">](#6-6-quark-browser)[<img src="assets/x-browser.png" width="50">](#6-7-x-browser)[<img src="assets/via-browser.png" width="50">](#6-8-via-browser)[<img src="assets/huawei-browser.png" width="50">](#6-9-huawei-browser)[<img src="assets/qq-browser.png" width="50">](#6-10-qq-browser) |
 > | 7 | [cloud-disk](#7-cloud-disk) | [onedrive](#7-1-onedrive), [baidu-netdisk](#7-2-baidu-netdisk) | [<img src="assets/onedrive.png" width="50">](#7-1-onedrive)[<img src="assets/baidu-netdisk.png" width="50">](#7-2-baidu-netdisk) |
 > | 8 | [community](#8-community) | [pixiv](#8-1-pixiv) | [<img src="assets/pixiv.png" width="50">](#8-1-pixiv) |
 > | 9 | [database](#9-database) | [anidb](#9-1-anidb), [myanimelist](#9-2-myanimelist) | [<img src="assets/anidb.png" width="50">](#9-1-anidb)[<img src="assets/myanimelist.png" width="50">](#9-2-myanimelist) |
@@ -766,6 +766,10 @@ Safety starts with understanding how developers collect and share your data. Dat
 > | 4 | [tor-browser](#6-4-tor-browser) | [**browser**](#6-browser) | [<img src="assets/tor-browser.png" width="50">](#6-4-tor-browser) | [Tor Project \| Download](https://www.torproject.la/en/download/)<br><br>Download | Defend yourself against tracking and surveillance. Circumvent censorship. |
 > | 5 | [uc-browser](#6-5-uc-browser) | [**browser**](#6-browser) | [<img src="assets/uc-browser.png" width="50">](#6-5-uc-browser) | [UC Browser](https://www.ucweb.com/index.shtml)<br><br>Download UC Browser today and enjoy a faster, safer, and more private online experience. With built-in VPN protection and advanced ad blocking, we set a new standard for secure browsing. |
 > | 6 | [quark-browser](#6-6-quark-browser) | [**browser**](#6-browser), [ai-chatbot](#2-ai-chatbot) | [<img src="assets/quark-browser.png" width="50">](#6-6-quark-browser) | [夸克_阿里AI旗舰应用官网](https://www.quark.cn/)<br><br>夸克pc/app为你带来极速、智能、安全、高效的搜索体验,找答案,找资料,找工具,办公,学习,工作必备应用。夸克提供浏览器搜索引擎、网盘、AI扫描王工具及小说阅读等高效功能，为你提供稳定,安全,流畅的浏览环境和优质的产品服务体验 |
+> | 7 | [x-browser](#6-7-x-browser) | [**browser**](#6-browser) | [<img src="assets/x-browser.png" width="50">](#6-7-x-browser) | [X浏览器 \| 内建支持油猴，按需扩展功能](https://www.xbext.com/)<br><br>一款极简快速的手机浏览器，内建支持油猴脚本，按需增强功能 |
+> | 8 | [via-browser](#6-8-via-browser) | [**browser**](#6-browser) | [<img src="assets/via-browser.png" width="50">](#6-8-via-browser) | [Via浏览器官网 - 崇尚速度与简约的手机浏览器，Via官方网站](https://viayoo.com/zh-cn/)<br><br>Via浏览器，让你享用简洁清爽、快速高效的手机浏览器。充分发挥广告拦截、脚本等先进技术，达到”简单””好用”的设计初衷。 |
+> | 9 | [huawei-browser](#6-9-huawei-browser) | [**browser**](#6-browser) | [<img src="assets/huawei-browser.png" width="50">](#6-9-huawei-browser) | [华为浏览器 - 华为官网](https://consumer.huawei.com/cn/mobileservices/browser/)<br><br>华为浏览器为用户提供集搜索、智能资讯推荐、导航、快应用服务于一体的优质服务体验：通过汇聚众多媒体伙伴，带来可信专业的资讯，同时会根据用户偏好，个性化地呈现更多元丰富的内容；强大的安全隐私保护，为用户提供安全无忧的浏览体验；同时支持用户自行组合、使用快应用功能，获得定制化服务体验。 |
+> | 10 | [qq-browser](#6-10-qq-browser) | [**browser**](#6-browser) | [<img src="assets/qq-browser.png" width="50">](#6-10-qq-browser) | [QQ浏览器官网_QQ浏览器手机版_QQ浏览器Windows版_QQ浏览器MAC版](https://browser.qq.com/)<br><br>QQ浏览器是腾讯公司开发的一款极速浏览器，现已全面升级为AI浏览器。新版本以极简框架为基础，带来极致流畅的使用体验。“AI + 小窗” 整合常用AI功能，让信息获取更高效；工作台、分屏、智能标签、万能格式打开，助力办公学习提速；更有多个智能 Agent，一句话就能搞定下载、订阅、报考、更新追踪等复杂任务。<br><br>`{"keywords":"QQ浏览器,AI浏览器,浏览器,电脑浏览器,PC浏览器,windows浏览器,腾讯AI浏览器，高速浏览器,qq浏览器下载,双核浏览器,chrome,ie,网页兼容模式,下载助理,更新助理,AI高考通,Agent,AI视频,AI办公,实时字幕,网页分屏浏览,视频小窗,老板键,电脑截图,截长图,网页标签分组"}` |
 
 #### 6-1-google-chrome
 
@@ -855,6 +859,66 @@ Download UC Browser today and enjoy a faster, safer, and more private online exp
 > | | |
 > | --- | --- |
 > | [Category](#category) |  [**browser**](#6-browser), [ai-chatbot](#2-ai-chatbot) |
+> | [Type](#type) | [site-items](#site-items) |
+
+#### 6-7-x-browser
+
+> see: [X浏览器 | 内建支持油猴，按需扩展功能](https://www.xbext.com/)
+
+一款极简快速的手机浏览器，内建支持油猴脚本，按需增强功能
+
+<img src="assets/x-browser.png" width="200">
+
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [**browser**](#6-browser) |
+> | [Type](#type) | [site-items](#site-items) |
+
+#### 6-8-via-browser
+
+> see: [Via浏览器官网 - 崇尚速度与简约的手机浏览器，Via官方网站](https://viayoo.com/zh-cn/)
+
+Via浏览器，让你享用简洁清爽、快速高效的手机浏览器。充分发挥广告拦截、脚本等先进技术，达到”简单””好用”的设计初衷。
+
+<img src="assets/via-browser.png" width="200">
+
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [**browser**](#6-browser) |
+> | [Type](#type) | [site-items](#site-items) |
+
+#### 6-9-huawei-browser
+
+> see: [华为浏览器 - 华为官网](https://consumer.huawei.com/cn/mobileservices/browser/)
+
+华为浏览器为用户提供集搜索、智能资讯推荐、导航、快应用服务于一体的优质服务体验：通过汇聚众多媒体伙伴，带来可信专业的资讯，同时会根据用户偏好，个性化地呈现更多元丰富的内容；强大的安全隐私保护，为用户提供安全无忧的浏览体验；同时支持用户自行组合、使用快应用功能，获得定制化服务体验。
+
+<img src="assets/huawei-browser.png" width="200">
+
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [**browser**](#6-browser) |
+> | [Type](#type) | [site-items](#site-items) |
+
+#### 6-10-qq-browser
+
+> see: [QQ浏览器官网_QQ浏览器手机版_QQ浏览器Windows版_QQ浏览器MAC版](https://browser.qq.com/)
+
+QQ浏览器是腾讯公司开发的一款极速浏览器，现已全面升级为AI浏览器。新版本以极简框架为基础，带来极致流畅的使用体验。“AI + 小窗” 整合常用AI功能，让信息获取更高效；工作台、分屏、智能标签、万能格式打开，助力办公学习提速；更有多个智能 Agent，一句话就能搞定下载、订阅、报考、更新追踪等复杂任务。<br><br>`{"keywords":"QQ浏览器,AI浏览器,浏览器,电脑浏览器,PC浏览器,windows浏览器,腾讯AI浏览器，高速浏览器,qq浏览器下载,双核浏览器,chrome,ie,网页兼容模式,下载助理,更新助理,AI高考通,Agent,AI视频,AI办公,实时字幕,网页分屏浏览,视频小窗,老板键,电脑截图,截长图,网页标签分组"}`
+
+<img src="assets/qq-browser.png" width="200">
+
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [**browser**](#6-browser) |
 > | [Type](#type) | [site-items](#site-items) |
 
 ### 7-cloud-disk
@@ -2613,83 +2677,87 @@ Join the world's most widely adopted, AI-powered developer platform where millio
 > | 36 | [hanime](#0-36-hanime) | [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) | [<img src="assets/hanime.png" width="50">](#0-36-hanime) | [Hanime1.me - H動漫/裏番/線上看](https://hanime1.me/)<br><br>Hanime1.me 帶給你最完美的H動漫、H動畫、裏番、里番、成人色情卡通片的線上看體驗，絕對沒有天殺的片頭廣告！ |
 > | 37 | [hbuilder](#0-37-hbuilder) | [editor](#10-editor) | [<img src="assets/hbuilder.png" width="50">](#0-37-hbuilder) | [HBuilderX - a superpowered IDE for Vue](https://www.dcloud.io/hbuilderx.html)<br><br>HBuilderX is the fastest HTML development tool. Powerful code assistant helps you complete development quickly. The complete syntax library and browser compatibility function will improve your development efficiency. |
 > | 38 | [hmoegirl](#0-38-hmoegirl) | [encyclopedia](#12-encyclopedia), [acg](#1-acg) | [<img src="assets/hmoegirl-encyclopedia.png" width="50">](#0-38-hmoegirl) | [H萌娘:关于 - H萌娘](https://hmoegirl.cyou/zh-hans/H%E8%90%8C%E5%A8%98:%E5%85%B3%E4%BA%8E)<br><br>H萌娘是一个关于H萌的wiki。 <br>H萌娘的收录的条目要满足两点：既属于**H**（hentai/エロ）又属于**萌**（二次元）。 <br>目前主要由 User:BakeWater 为H萌娘提供服务器方面的支持。 |
-> | 39 | [huorong-app-store](#0-39-huorong-app-store) | [appstore](#3-appstore) | [<img src="assets/huorong-app-store.png" width="50">](#0-39-huorong-app-store) | [应用商店-火绒安全](https://www.huorong.cn/app_store.html)<br><br>火绒应用商店是一款由火绒安全团队推出的一站式应用软件管理平台，秉持 “安全下载，绿色体验” 的理念，为用户提供干净、安全、可靠的应用下载管理服务。 |
-> | 40 | [intellij-idea](#0-40-intellij-idea) | [editor](#10-editor) | [<img src="assets/intellij-idea.png" width="50">](#0-40-intellij-idea) | [The Leading IDE for Professional Java and Kotlin Development](https://www.jetbrains.com/idea/)<br><br>IntelliJ IDEA is the JetBrains IDE for pro development in Java and Kotlin. Built for your comfort, it unlocks productivity, ensures quality code, supports cutting-edge tech, and protects your privacy. |
-> | 41 | [ios](#0-41-ios) | [operating-system](#20-operating-system) | [<img src="assets/ios.png" width="50">](#0-41-ios) | [OS - iOS 26 - Apple](https://www.apple.com/os/ios/)<br><br>iOS 26 for iPhone with a new design, more helpful Apple Intelligence, polls and backgrounds in Messages, and features that make every day effortless. |
-> | 42 | [iwara](#0-42-iwara) | [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) | [<img src="assets/iwara.png" width="50">](#0-42-iwara) | [Iwara.tv will return](https://iwara.tv/)<br><br>Iwara.tv is niche website for MMD (MikuMikuDance) and R18 models. |
-> | 43 | [jiong-ci-yuan](#0-43-jiong-ci-yuan) | [acg](#1-acg), [video-streaming](#26-video-streaming) | [<img src="assets/jcyapp-org.png" width="50">](#0-43-jiong-ci-yuan) | [囧次元](https://jcyapp.org/)<br><br>Jiongciyuan (囧次元) is an Android video streaming app focused on Japanese animation, allowing for real-time comments and interaction.  You can avoid frequent ads by watching free advertisements to earn temporary membership. |
-> | 44 | [jmcomic](#0-44-jmcomic) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) | [<img src="assets/jmcomic.png" width="50">](#0-44-jmcomic) | [免費A漫 - 禁漫天堂](https://18comic.vip/)<br><br>免費A漫 - 免費成人H漫線上看 |
-> | 45 | [keepass](#0-45-keepass) | [password-manager](#21-password-manager) | [<img src="assets/keepass.png" width="50">](#0-45-keepass) | [KeePass Password Safe](https://keepass.info/)<br><br>KeePass is a free open source password manager. Passwords can be stored in an encrypted database, which can be unlocked with one master key. |
-> | 46 | [kimi](#0-46-kimi) | [ai-chatbot](#2-ai-chatbot) | [<img src="assets/kimi.png" width="50">](#0-46-kimi) | [Kimi - K2长思考上线](https://www.kimi.com/)<br><br>Kimi K2长思考模式来了！支持多轮工具调用与思考，擅长数理逻辑难题，让搜索更广更准，帮你把想法化为清晰、富于创意、可用性高的文字与代码 |
-> | 47 | [kuaishou](#0-47-kuaishou) | [video-streaming](#26-video-streaming) | [<img src="assets/kuaishou.png" width="50">](#0-47-kuaishou) | [快手](https://www.kuaishou.com/new-reco)<br><br>快手是一款国民级短视频App，了解真实世界，认识有趣的人，记录真实而有趣的自己，拥抱每一种生活。 |
-> | 48 | [kuaiwan](#0-48-kuaiwan) | [gamestore](#15-gamestore) | [<img src="assets/kuaiwan.png" width="50">](#0-48-kuaiwan) | [kuaiwan-快玩-快玩游戏-快玩网页游戏-最齐全的网页游戏大全-我电脑里的全能网页游戏机]](https://www.kuaiwan.com/)<br><br>快玩网页游戏是最齐全的网页游戏大全，这里有最好玩的网页游戏，以及最新网页游戏开服信息，凡人修真2，神曲，王者召唤，神魔仙界，武林叁，醉西游，大侠传，神仙道，龙将，热血海贼王，斗破苍穹2，侠武英雄传，英雄远征，英雄王座，梦幻飞仙，百炼成仙，梦幻修仙， |
-> | 49 | [lanraragi](#0-49-lanraragi) | [acg](#1-acg), [reader](#23-reader) | [<img src="assets/lanraragi.png" width="50">](#0-49-lanraragi) | [Difegue/LANraragi: Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.](https://github.com/Difegue/LANraragi)<br><br>application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.<br><br>`{"link":"lrr.tvc-16.science","Topics": "docker server perl management manga comics reader mojolicious opds doujinshi nas hacktoberfest sadpanda"}` |
-> | 50 | [linux](#0-50-linux) | [operating-system](#20-operating-system) | [<img src="assets/linux-os.png" width="50">](#0-50-linux) | [Download Linux \| Linux.org](https://www.linux.org/pages/download/)<br><br>Links to popular distribution download pages |
-> | 51 | [logseq](#0-51-logseq) | [note-taking](#19-note-taking) | [<img src="assets/logseq.png" width="50">](#0-51-logseq) | [Logseq: A privacy-first, open-source knowledge base](https://logseq.com/)<br><br>A privacy-first, open-source platform for knowledge management and collaboration. |
-> | 52 | [macos](#0-52-macos) | [operating-system](#20-operating-system) | [<img src="assets/macos.png" width="50">](#0-52-macos) | [OS - macOS Tahoe - Apple](https://www.apple.com/os/macos/)<br><br>macOS Tahoe with a new design, more ways to work seamlessly across devices, and new features to turbocharge productivity every day. |
-> | 53 | [mail-ru](#0-53-mail-ru) | [email](#11-email) | [<img src="assets/mail-ru.png" width="50">](#0-53-mail-ru) | [Mail: Почта, Облако, Календарь, Заметки, Покупки — сервисы для работы и жизни](https://mail.ru/)<br><br>Mail — безопасные сервисы для жизни и работы: бесплатная Почта, память для всего в Облаке, лёгкое планирование в Календаре и быстрые записи в Заметках. Мобильная версия и приложение — используйте, как удобно |
-> | 54 | [manhuaren](#0-54-manhuaren) | [acg](#1-acg), [gallery](#14-gallery) | [<img src="assets/manhuaren.png" width="50">](#0-54-manhuaren) | [漫画人 - 为爱漫画的人而生](https://www.manhuaren.com/)<br><br>漫画人：给你最好的掌上漫画应用体验，速度最快、最专业的漫画应用。<br><br>`{"author":"漫画人:为爱漫画的人而生、manhuaren.com","keywords":"漫画人：最好的掌上漫画应用"}` |
-> | 55 | [mbalib-wiki](#0-55-mbalib-wiki) | [encyclopedia](#12-encyclopedia) | [<img src="assets/mbalib-wiki.png" width="50">](#0-55-mbalib-wiki) | [MBA智库百科，全球专业中文经管百科](https://wiki.mbalib.com/wiki/%E9%A6%96%E9%A1%B5)<br><br>MBA智库百科，专注于经济管理领域知识的创建与分享。包括企业管理、市场营销、管理咨询、人力资源、战略管理、MBA案例、财务会计、广告、品牌、经济、金融、法律、博弈论、证券、股票以及公司企业、商学院、经管人物等介绍。<br><br>`{"keywords":"首页,2023年诺贝尔经济学奖,2024年《福布斯》全球亿万富豪排行榜,5W2H分析法,GTD,INFJ,Warren Buffett,东方甄选“小作文”事件,乔尔·莫基尔,价值共创,传统能源,MBA,MBA智库,管理,营销,经济,金融,人力资源,管理咨询,广告,财务,会计,品牌,证券,股票,物流,贸易,商学院,法律,人物"}` |
-> | 56 | [microsoft-authenticator](#0-56-microsoft-authenticator) | [authenticator](#5-authenticator) | [<img src="assets/microsoft-authenticator.png" width="50">](#0-56-microsoft-authenticator) | [Microsoft Authenticator - Apps on Google Play](https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=en_US)<br><br>Safety starts with understanding how developers collect and share your data. Data privacy and security practices may vary based on your use, region, and age. The developer provided this information and may update it over time. |
-> | 57 | [microsoft-copilot](#0-57-microsoft-copilot) | [ai-chatbot](#2-ai-chatbot) | [<img src="assets/microsoft-copilot.png" width="50">](#0-57-microsoft-copilot) | [Microsoft Copilot: Your AI companion](https://copilot.microsoft.com/)<br><br>Microsoft Copilot is your companion to inform, entertain and inspire. Get advice, feedback and straightforward answers. Try Copilot now. |
-> | 58 | [microsoft-edge](#0-58-microsoft-edge) | [browser](#6-browser) | [<img src="assets/microsoft-edge.png" width="50">](#0-58-microsoft-edge) | [Download Microsoft Edge: Windows, macOS, iOS & Android](https://www.microsoft.com/en-us/edge/download?form=MA13FJ)<br><br>Download Microsoft Edge for your computer or smartphone. Experience the cutting-edge AI Edge browser on your Windows, macOS, iOS, and Android device. |
-> | 59 | [microsoft-store](#0-59-microsoft-store) | [appstore](#3-appstore) | [<img src="assets/microsoft-store.png" width="50">](#0-59-microsoft-store) | [Microsoft Store - Download apps, games & more for your Windows PC](https://apps.microsoft.com/home?hl=en-US&gl=US)<br><br>Explore the Microsoft Store for apps and games on Windows. Enjoy exclusive deals, new releases, and your favorite content all in one place. |
-> | 60 | [mihon](#0-60-mihon) | [acg](#1-acg), [reader](#23-reader) | [<img src="assets/mihon.png" width="50">](#0-60-mihon) | [Home \| Mihon](https://mihon.app/)<br><br>Discover and read manga, webtoons, comics, and more – easier than ever on your Android device. |
-> | 61 | [misskey](#0-61-misskey) | [microblogging](#18-microblogging) | [<img src="assets/misskey.png" width="50">](#0-61-misskey) | [Misskey Hub – Official website of the Misskey Project](https://misskey-hub.net/en/)<br><br>This is the official site for Misskey, a decentralized social networking software. Find out how to get started, a list of servers, and lots more information about Misskey! |
-> | 62 | [moegirl](#0-62-moegirl) | [encyclopedia](#12-encyclopedia), [acg](#1-acg) | [<img src="assets/moegirl-encyclopedia.png" width="50">](#0-62-moegirl) | [萌娘百科 万物皆可萌的百科全书 - zh.moegirl.org.cn](https://mzh.moegirl.org.cn/Mainpage#/topics)<br><br>`{"keywords":"萌娘,百科,wiki,梗,娘化,萝莉,动画,漫画,动漫,游戏,音乐,宅腐,ACG,anime,comic,game,GalGame"}` |
-> | 63 | [mozilla-firefox](#0-63-mozilla-firefox) | [browser](#6-browser) | [<img src="assets/mozilla-firefox.png" width="50">](#0-63-mozilla-firefox) | [Get Firefox for desktop — Firefox (US)](https://www.firefox.com/en-US/)<br><br>Mozilla Firefox, or simply Firefox, is a free and open source[12] web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation. |
-> | 64 | [myanimelist](#0-64-myanimelist) | [acg](#1-acg), [database](#9-database) | [<img src="assets/myanimelist.png" width="50">](#0-64-myanimelist) | [MyAnimeList.net - Anime and Manga Database and Community](https://myanimelist.net/)<br><br>Welcome to MyAnimeList, the world's most active online anime and manga community and database. Join the online community, create your anime and manga list, read reviews, explore the forums, follow news, and so much more! <br><br>`{"keywords":"anime, myanimelist, anime news, manga"}` |
-> | 65 | [nekogram](#0-65-nekogram) | [instant-messaging](#17-instant-messaging) | [<img src="assets/nekogram.png" width="50">](#0-65-nekogram) | [Nekogram \| Open-source third-party Telegram client with few but useful mods](https://nekogram.app/)<br><br>Open-source third-party Telegram client with few but useful mods |
-> | 66 | [netease-mail](#0-66-netease-mail) | [email](#11-email) | [<img src="assets/netease-mail.png" width="50">](#0-66-netease-mail) | [网易免费邮箱 - 你的专业电子邮局](https://email.163.com/)<br><br>网易免费邮箱，你的专业电子邮局，提供以 @163.com、@126.com和@yeah.net 为后缀的免费邮箱。超过20年邮箱运营经验，系统快速稳定安全，支持超大附件和网盘服务。网易邮箱官方App“邮箱大师”帮您高效处理邮件，支持所有邮箱，并可在手机、Windows和Mac上多端协同使用。 |
-> | 67 | [nhentai](#0-67-nhentai) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) | [<img src="assets/nhentai.png" width="50">](#0-67-nhentai) | [nhentai: hentai doujinshi and manga](https://nhentai.net/)<br><br>nhentai is a free hentai manga and doujinshi reader with over 575,000 galleries to read and download.  |
-> | 68 | [nijimiss](#0-68-nijimiss) | [microblogging](#18-microblogging) | [<img src="assets/nijimiss.png" width="50">](#0-68-nijimiss) | [にじみす.moe](https://nijimiss.moe/)<br><br>💞あらゆる好きが交差する💞<br> 好きを語れるオープンコミュニティ<br><br>好きなことを堂々と胸を張って好きといえる空間を作りたい。<br>そういった思いから生まれたSNSです。 |
-> | 69 | [noteapps-info](#0-69-noteapps-info) | [encyclopedia](#12-encyclopedia) | [<img src="assets/noteapps-info.png" width="50">](#0-69-noteapps-info) | [NoteApps.info: 41 best note taking apps analyzed over 343 features](https://noteapps.info/)<br><br>Encyclopedia of note taking apps: Screenshots, feature lists, and pricing for popular note taking apps. |
-> | 70 | [notion](#0-70-notion) | [note-taking](#19-note-taking) | [<img src="assets/notion.png" width="50">](#0-70-notion) | [The AI workspace that works for you. \| Notion](https://www.notion.com/product)<br><br>Build custom agents, search across all your apps, and automate busywork. The AI workspace where teams get more done, faster. |
-> | 71 | [obsidian](#0-71-obsidian) | [note-taking](#19-note-taking) | [<img src="assets/obsidian.png" width="50">](#0-71-obsidian) | [Obsidian - Sharpen your thinking](https://obsidian.md/)<br><br>The free and flexible app for your private thoughts. |
-> | 72 | [onedrive](#0-72-onedrive) | [cloud-disk](#7-cloud-disk) | [<img src="assets/onedrive.png" width="50">](#0-72-onedrive) | [Home - OneDrive](https://onedrive.live.com/)<br><br>Microsoft OneDrive is a file-hosting service operated by Microsoft. First released as SkyDrive in August 2007, it allows registered users to store, share, back-up and synchronize their files. OneDrive also works as the storage backend of the web version of Microsoft 365. OneDrive offers 5 gigabytes of storage space free of charge, with 100 GB, 1 TB, and 6 TB storage options available, either separately or with Microsoft 365 subscriptions. |
-> | 73 | [outlook-com](#0-73-outlook-com) | [email](#11-email) | [<img src="assets/outlook-com.png" width="50">](#0-73-outlook-com) | [What is Outlook? - Microsoft Support](https://support.microsoft.com/en-us/office/what-is-outlook-10f1fa35-f33a-4cb7-838c-a7f3e6228b20)<br><br>With Outlook on your PC, Mac or mobile device, you can:<ul><li>Organize email to let you focus on the messages that matter most.</li><li>Manage and share your calendar to schedule meetings with ease.</li><li>Share files from the cloud so recipients always have the latest version.</li><li>Stay connected and productive wherever you are.</li></ul> |
-> | 74 | [picaacg](#0-74-picaacg) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) | [<img src="assets/picaacg.png" width="50">](#0-74-picaacg) | [嗶咔漫畫](https://www.picacomic.com/)<br><br>嗶咔漫畫讓你可以輕鬆看到不同的本子，介面美觀易用，分類齊全，每天更新，紳士必備！ |
-> | 75 | [pixiv](#0-75-pixiv) | [acg](#1-acg), [community](#8-community) | [<img src="assets/pixiv.png" width="50">](#0-75-pixiv) | [插畫、漫畫、小說作品交流服務 [pixiv]](https://www.pixiv.net/)<br><br>Pixiv[a] (Japanese: ピクシブ, Hepburn: Pikushibu) is a Japanese online community for artists. |
-> | 76 | [potato](#0-76-potato) | [instant-messaging](#17-instant-messaging) | [<img src="assets/potato.png" width="50">](#0-76-potato) | [Potato](https://www.potato.im/)<br><br>Potato is an instant messenger focused on security. It is faster, more secure, more open and completely free. Available on IOS, Android, Windows , MacOS and Linux. You can create super groups with 200,000 members, super channels, support voice and video calls, send photos, send videos, stickers and Gifs, and there is no file size limit, etc. It provides you with full privacy settings and the most secure and stable chat environment. Moreover, Potato is an expert in protecting your digital currency. |
-> | 77 | [pycharm](#0-77-pycharm) | [editor](#10-editor) | [<img src="assets/pycharm.png" width="50">](#0-77-pycharm) | [PyCharm: The only Python IDE you need](https://www.jetbrains.com/pycharm/)<br><br>Built for web, data, and AI/ML professionals. Supercharged with an AI-enhanced IDE experience. |
-> | 78 | [qianwen](#0-78-qianwen) | [ai-chatbot](#2-ai-chatbot) | [<img src="assets/qianwen.png" width="50">](#0-78-qianwen) | [千问-Qwen最新模型体验-通义千问](https://www.qianwen.com/)<br><br>千问是阿里通义千问大模型打造的AI对话助手，通义千问支持问答、写作、代码、翻译、录音、PPT创作、文档处理、音视频速读。 |
-> | 79 | [qq-mail](#0-79-qq-mail) | [email](#11-email) | [<img src="assets/qq-mail.png" width="50">](#0-79-qq-mail) | [登录QQ邮箱](https://wx.mail.qq.com/)<br><br>QQ邮箱，提供qq.com、foxmail.com后缀的安全、稳定、快速、便捷的免费电子邮箱。强大的反垃圾邮件过滤，10G超大附件发送，便捷记事和日历功能，轻松管理所有电子发票，尽在QQ邮箱。 |
-> | 80 | [qqgame](#0-80-qqgame) | [gamestore](#15-gamestore) | [<img src="assets/qqgame.png" width="50">](#0-80-qqgame) | [QQ游戏_QQ游戏大全_游戏下载_QQ游戏官网](https://qqgame.qq.com/)<br><br>QQ游戏大厅官网，下载QQ游戏大厅，玩QQ游戏全游戏； |
-> | 81 | [quark-browser](#0-81-quark-browser) | [browser](#6-browser), [ai-chatbot](#2-ai-chatbot) | [<img src="assets/quark-browser.png" width="50">](#0-81-quark-browser) | [夸克_阿里AI旗舰应用官网](https://www.quark.cn/)<br><br>夸克pc/app为你带来极速、智能、安全、高效的搜索体验,找答案,找资料,找工具,办公,学习,工作必备应用。夸克提供浏览器搜索引擎、网盘、AI扫描王工具及小说阅读等高效功能，为你提供稳定,安全,流畅的浏览环境和优质的产品服务体验 |
-> | 82 | [quora](#0-82-quora) | [qa-system](#22-qa-system) | [<img src="assets/quora.png" width="50">](#0-82-quora) | [Quora](https://www.quora.com/)<br><br>Quora is an American social question-and-answer website and online knowledge market headquartered in Mountain View, California. It was founded on June 25, 2009, and made available to the public on June 21, 2010. Users can post questions, answer questions, and comment on answers that have been submitted by other users. As of 2020, the website was visited by 300 million users a month. |
-> | 83 | [reddit](#0-83-reddit) | [forum](#13-forum) | [<img src="assets/reddit.png" width="50">](#0-83-reddit) | [Reddit - The heart of the internet](https://www.reddit.com/)<br><br>Reddit is where millions of people gather for conversations about the things they care about, in over 100,000 subreddit communities. |
-> | 84 | [saucenao-search](#0-84-saucenao-search) | [search-engine](#24-search-engine) | [<img src="assets/saurcenao-search.png" width="50">](#0-84-saucenao-search) | [About SauceNAO](https://saucenao.com/about.html)<br><br>SauceNAO is a reverse image search engine. The name 'SauceNAO' is derived from a slang form of "Need to know the source of this Now!" which has found common usage on image boards and other similar sites. |
-> | 85 | [session](#0-85-session) | [instant-messaging](#17-instant-messaging) | [<img src="assets/session.png" width="50">](#0-85-session) | [Session \| Send Messages, Not Metadata. \| Private Messenger](https://getsession.org/)<br><br>Session is a private messenger that aims to remove any chance of metadata collection by routing all messages through an onion routing network. |
-> | 86 | [simplex](#0-86-simplex) | [instant-messaging](#17-instant-messaging) | [<img src="assets/simplex.png" width="50">](#0-86-simplex) | [SimpleX Chat: private and secure messenger without any user IDs (not even random)](https://simplex.chat/)<br><br>SimpleX Chat - a private and encrypted messenger without any user IDs (not even random ones)! Make a private connection via link / QR code to send messages and make calls. |
-> | 87 | [siyuan](#0-87-siyuan) | [note-taking](#19-note-taking) | [<img src="assets/siyuan-note.png" width="50">](#0-87-siyuan) | [SiYuan - Privacy-first personal knowledge management system that supports Markdown, block-level ref, and bidirectional links](https://b3log.org/siyuan/en/)<br><br>SiYuan - Privacy-first personal knowledge management system that supports Markdown, block-level ref, and bidirectional links |
-> | 88 | [slack](#0-88-slack) | [instant-messaging](#17-instant-messaging) | [<img src="assets/slack.png" width="50">](#0-88-slack) | [Slack \| AI Work Platform & Productivity Tools](https://slack.com/)<br><br>Boost productivity and save time with Slack‌ — ‌the AI work platform for managing projects, automating workflows, and connecting teams securely. Start working smarter today. |
-> | 89 | [soutubot-search](#0-89-soutubot-search) | [search-engine](#24-search-engine) | [<img src="assets/soutubot-moe.png" width="50">](#0-89-soutubot-search) | [搜图Bot酱](https://soutubot.moe/)<br><br>大家好（ﾉ>ω<)ﾉ这里是搜图bot酱网页版~ 可局部搜图NH内的本子，欢迎大家来测试~<br><br>如果大家觉得好用的话就请麻烦宣传和赞助一下吧~ |
-> | 90 | [steam](#0-90-steam) | [gamestore](#15-gamestore) | [<img src="assets/steam.png" width="50">](#0-90-steam) | [Welcome to Steam](https://store.steampowered.com/)<br><br>Steam is the ultimate destination for playing, discussing, and creating games. |
-> | 91 | [tamtam](#0-91-tamtam) | [instant-messaging](#17-instant-messaging) | [<img src="assets/tamtam.png" width="50">](#0-91-tamtam) | [About messenger \| TamTam](https://about.tamtam.chat/en/)<br><br>General info about TamTam messenger |
-> | 92 | [taptap](#0-92-taptap) | [gamestore](#15-gamestore) | [<img src="assets/taptap.png" width="50">](#0-92-taptap) | [TapTap - 发现好游戏](https://www.taptap.cn/)<br><br>TapTap 专为中国手游玩家打造的推荐高品质手游的分享社区。我们拥有超过 2 万款可玩游戏，超过 1 亿玩家在我们平台上完成了 30 亿次游戏下载，发布了超过 3500 万条真实客观的游戏评价，并为玩家提供了 50 万篇优质内容。目前已有超过 10 万个游戏开发者入驻了 TapTap 玩家社区。立即下载 TapTap，与我们一起体验最顶级的手游乐趣吧！ |
-> | 93 | [telegram](#0-93-telegram) | [instant-messaging](#17-instant-messaging) | [<img src="assets/telegram.png" width="50">](#0-93-telegram) | [Telegram Messenger](https://telegram.org/)<br><br>Fast. Secure. Powerful. |
-> | 94 | [tencent-appstore](#0-94-tencent-appstore) | [appstore](#3-appstore) | [<img src="assets/tencent-appstore.png" width="50">](#0-94-tencent-appstore) | [应用宝官网-全网最新最热手机应用游戏下载](https://sj.qq.com/)<br><br>应用宝是腾讯旗下官方手机app应用商店，致力于为您提供海量、优质、安全、最新的安卓应用游戏下载！ |
-> | 95 | [tencent-meeting](#0-95-tencent-meeting) | [instant-messaging](#17-instant-messaging) | [<img src="assets/tencent-meeting.png" width="50">](#0-95-tencent-meeting) | [腾讯会议官方——腾讯会议 会开会](https://meeting.tencent.com/)<br><br>基于腾讯20多年音视频通讯经验，腾讯会议提供一站式音视频会议解决方案，让您能随时随地体验高清流畅的会议以及会议协作。 |
-> | 96 | [tencent-qq](#0-96-tencent-qq) | [instant-messaging](#17-instant-messaging) | [<img src="assets/tencent-qq.png" width="50">](#0-96-tencent-qq) | [QQ-轻松做自己](https://im.qq.com/index/)<br><br>腾讯QQ，全新版本QQ9上线了！ QQ9，不仅是轻松聊天，更是兴趣社区的聚集地。欢迎下载体验最新版本QQ，体验最新功能！欢迎访问QQ官网，下载新版QQ，了解QQ最新功能就在im.qq.com。 |
-> | 97 | [tencent-wechat](#0-97-tencent-wechat) | [instant-messaging](#17-instant-messaging) | [<img src="assets/tencent-wechat.png" width="50">](#0-97-tencent-wechat) | [WeChat - Free messaging and calling app](https://www.wechat.com/)<br><br>Available for all kinds of platforms; enjoy group chat; support voice, photo, video and text messages. |
-> | 98 | [tencent-yuanbao](#0-98-tencent-yuanbao) | [ai-chatbot](#2-ai-chatbot) | [<img src="assets/tencent-yuanbao.png" width="50">](#0-98-tencent-yuanbao) | [元宝-体验DeepSeek全新版-高效AI助手](https://yuanbao.tencent.com/)<br><br>来元宝，感受「DeepSeek+」智能新体验！联网搜索公众号、视频号等优质腾讯生态信源，搜得更准、答得更全；智能识图、拍题答疑等丰富能力，让工作学习生活更轻松高效 |
-> | 99 | [tiddlywiki](#0-99-tiddlywiki) | [note-taking](#19-note-taking) | [<img src="assets/tiddly-wiki.png" width="50">](#0-99-tiddlywiki) | [TiddlyWiki  v5.3.8](https://tiddlywiki.com/)<br><br>a non-linear personal web notebook |
-> | 100 | [tieba](#0-100-tieba) | [forum](#13-forum) | [<img src="assets/baidu-tieba.png" width="50">](#0-100-tieba) | [百度贴吧——全球领先的中文社区](https://tieba.baidu.com/)<br><br>百度贴吧——全球领先的中文社区。贴吧的使命是让志同道合的人相聚。不论是大众话题还是小众话题，都能精准地聚集大批同好网友，展示自我风采，结交知音，搭建别具特色的“兴趣主题“互动平台。贴吧目录涵盖游戏、地区、文学、动漫、娱乐明星、生活、体育、电脑数码等方方面面，是全球领先的中文交流平台，它为人们提供一个表达和交流思想的自由网络空间，并以此汇集志同道合的网友。 |
-> | 101 | [tor-browser](#0-101-tor-browser) | [browser](#6-browser) | [<img src="assets/tor-browser.png" width="50">](#0-101-tor-browser) | [Tor Project \| Download](https://www.torproject.la/en/download/)<br><br>Download | Defend yourself against tracking and surveillance. Circumvent censorship. |
-> | 102 | [trae](#0-102-trae) | [editor](#10-editor) | [<img src="assets/trae.png" width="50">](#0-102-trae) | [TRAE - The Real AI Engineer \| TRAE - The Real AI Engineer](https://www.trae.cn/)<br><br>TRAE AI IDE | 国内首款 AI 原生集成开发环境，深度集成 Doubao-1.5-pro 与 DeepSeek 模型，支持中文自然语言一键生成完整代码框架，实时预览前端效果并智能修复 BUG。首创 Builder 模式实现需求到代码的自动化开发，兼容 Windows/macOS 系统，官网下载即用。 |
-> | 103 | [twitter](#0-103-twitter) | [microblogging](#18-microblogging) | [<img src="assets/x-com.png" width="50">](#0-103-twitter) | [About X \| Our company and priorities](https://about.x.com/en)<br><br>We serve the public conversation. Learn more about X the company, and how we ensure people have a free and safe place to talk. |
-> | 104 | [typora](#0-104-typora) | [editor](#10-editor) | [<img src="assets/typora.png" width="50">](#0-104-typora) | [Typora — simple yet powerful Markdown reader.](https://typora.io/)<br><br>Typora is a cross-platform minimal markdown editor, providing seamless experience for both markdown readers and writers. |
-> | 105 | [uc-browser](#0-105-uc-browser) | [browser](#6-browser) | [<img src="assets/uc-browser.png" width="50">](#0-105-uc-browser) | [UC Browser](https://www.ucweb.com/index.shtml)<br><br>Download UC Browser today and enjoy a faster, safer, and more private online experience. With built-in VPN protection and advanced ad blocking, we set a new standard for secure browsing. |
-> | 106 | [vim](#0-106-vim) | [editor](#10-editor) | [<img src="assets/vim.png" width="50">](#0-106-vim) | [welcome home : vim online](https://www.vim.org/)<br><br>Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient. It is included as "vi" with most UNIX systems and with Apple OS X. |
-> | 107 | [visual-studio](#0-107-visual-studio) | [editor](#10-editor) | [<img src="assets/visual-studio.png" width="50">](#0-107-visual-studio) | [Visual Studio: IDE and Code Editor for Software Development](https://visualstudio.microsoft.com/)<br><br>Visual Studio dev tools & services make app development easy for any developer, on any platform & language. Develop with our code editor or IDE anywhere for free. |
-> | 108 | [visual-studio-code](#0-108-visual-studio-code) | [editor](#10-editor) | [<img src="assets/vscode.png" width="50">](#0-108-visual-studio-code) | [Visual Studio Code - The open source AI code editor](https://code.visualstudio.com/)<br><br>Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows. |
-> | 109 | [webstorm](#0-109-webstorm) | [editor](#10-editor) | [<img src="assets/webstorm.png" width="50">](#0-109-webstorm) | [WebStorm: The JavaScript and TypeScript IDE, by JetBrains](https://www.jetbrains.com/webstorm/)<br><br>Make development more productive and enjoyable with WebStorm, the IDE for JavaScript and related technologies. |
-> | 110 | [wikihow](#0-110-wikihow) | [encyclopedia](#12-encyclopedia) | [<img src="assets/wikihow.png" width="50">](#0-110-wikihow) | [wikiHow: How-to instructions you can trust.](https://www.wikihow.com/Main-Page)<br><br>Learn how to do anything with wikiHow, the world's most popular how-to website. Easy, well-researched, and trustworthy instructions for everything you want to know. |
-> | 111 | [wikipedia](#0-111-wikipedia) | [encyclopedia](#12-encyclopedia) | [<img src="assets/wikipedia.png" width="50">](#0-111-wikipedia) | [Wikipedia](https://www.wikipedia.org/)<br><br>Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation. |
-> | 112 | [windows-os](#0-112-windows-os) | [operating-system](#20-operating-system) | [<img src="assets/windows-os.png" width="50">](#0-112-windows-os) | [Experience the Power of AI with Windows 11 OS, Computers, & Apps \| Microsoft Windows](https://www.microsoft.com/en-us/windows/)<br><br>Experience the latest Microsoft Windows 11 features. Learn how our latest Windows OS gives you more ways to work, play, and create. |
-> | 113 | [yandex-search](#0-113-yandex-search) | [search-engine](#24-search-engine) | [<img src="assets/yandex-search.png" width="50">](#0-113-yandex-search) | [Yandex — fast Internet search](https://yandex.com)<br><br>Yandex is a technology company that builds intelligent products and services powered by machine learning. |
-> | 114 | [youtube](#0-114-youtube) | [video-streaming](#26-video-streaming) | [<img src="assets/youtube.png" width="50">](#0-114-youtube) | [YouTube](https://www.youtube.com/)<br><br>Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube. |
-> | 115 | [zhihu](#0-115-zhihu) | [qa-system](#22-qa-system) | [<img src="assets/zhihu.png" width="50">](#0-115-zhihu) | [知乎 - 有问题，就会有答案](https://www.zhihu.com/)<br><br>知乎，中文互联网高质量的问答社区和创作者聚集的原创内容平台，于 2011 年 1 月正式上线，以「让人们更好的分享知识、经验和见解，找到自己的解答」为品牌使命。知乎凭借认真、专业、友善的社区氛围、独特的产品机制以及结构化和易获得的优质内容，聚集了中文互联网科技、商业、影视、时尚、文化等领域最具创造力的人群，已成为综合性、全品类、在诸多领域具有关键影响力的知识分享社区和创作者聚集的原创内容平台，建立起了以社区驱动的内容变现商业模式。 |
+> | 39 | [huawei-browser](#0-39-huawei-browser) | [browser](#6-browser) | [<img src="assets/huawei-browser.png" width="50">](#0-39-huawei-browser) | [华为浏览器 - 华为官网](https://consumer.huawei.com/cn/mobileservices/browser/)<br><br>华为浏览器为用户提供集搜索、智能资讯推荐、导航、快应用服务于一体的优质服务体验：通过汇聚众多媒体伙伴，带来可信专业的资讯，同时会根据用户偏好，个性化地呈现更多元丰富的内容；强大的安全隐私保护，为用户提供安全无忧的浏览体验；同时支持用户自行组合、使用快应用功能，获得定制化服务体验。 |
+> | 40 | [huorong-app-store](#0-40-huorong-app-store) | [appstore](#3-appstore) | [<img src="assets/huorong-app-store.png" width="50">](#0-40-huorong-app-store) | [应用商店-火绒安全](https://www.huorong.cn/app_store.html)<br><br>火绒应用商店是一款由火绒安全团队推出的一站式应用软件管理平台，秉持 “安全下载，绿色体验” 的理念，为用户提供干净、安全、可靠的应用下载管理服务。 |
+> | 41 | [intellij-idea](#0-41-intellij-idea) | [editor](#10-editor) | [<img src="assets/intellij-idea.png" width="50">](#0-41-intellij-idea) | [The Leading IDE for Professional Java and Kotlin Development](https://www.jetbrains.com/idea/)<br><br>IntelliJ IDEA is the JetBrains IDE for pro development in Java and Kotlin. Built for your comfort, it unlocks productivity, ensures quality code, supports cutting-edge tech, and protects your privacy. |
+> | 42 | [ios](#0-42-ios) | [operating-system](#20-operating-system) | [<img src="assets/ios.png" width="50">](#0-42-ios) | [OS - iOS 26 - Apple](https://www.apple.com/os/ios/)<br><br>iOS 26 for iPhone with a new design, more helpful Apple Intelligence, polls and backgrounds in Messages, and features that make every day effortless. |
+> | 43 | [iwara](#0-43-iwara) | [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) | [<img src="assets/iwara.png" width="50">](#0-43-iwara) | [Iwara.tv will return](https://iwara.tv/)<br><br>Iwara.tv is niche website for MMD (MikuMikuDance) and R18 models. |
+> | 44 | [jiong-ci-yuan](#0-44-jiong-ci-yuan) | [acg](#1-acg), [video-streaming](#26-video-streaming) | [<img src="assets/jcyapp-org.png" width="50">](#0-44-jiong-ci-yuan) | [囧次元](https://jcyapp.org/)<br><br>Jiongciyuan (囧次元) is an Android video streaming app focused on Japanese animation, allowing for real-time comments and interaction.  You can avoid frequent ads by watching free advertisements to earn temporary membership. |
+> | 45 | [jmcomic](#0-45-jmcomic) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) | [<img src="assets/jmcomic.png" width="50">](#0-45-jmcomic) | [免費A漫 - 禁漫天堂](https://18comic.vip/)<br><br>免費A漫 - 免費成人H漫線上看 |
+> | 46 | [keepass](#0-46-keepass) | [password-manager](#21-password-manager) | [<img src="assets/keepass.png" width="50">](#0-46-keepass) | [KeePass Password Safe](https://keepass.info/)<br><br>KeePass is a free open source password manager. Passwords can be stored in an encrypted database, which can be unlocked with one master key. |
+> | 47 | [kimi](#0-47-kimi) | [ai-chatbot](#2-ai-chatbot) | [<img src="assets/kimi.png" width="50">](#0-47-kimi) | [Kimi - K2长思考上线](https://www.kimi.com/)<br><br>Kimi K2长思考模式来了！支持多轮工具调用与思考，擅长数理逻辑难题，让搜索更广更准，帮你把想法化为清晰、富于创意、可用性高的文字与代码 |
+> | 48 | [kuaishou](#0-48-kuaishou) | [video-streaming](#26-video-streaming) | [<img src="assets/kuaishou.png" width="50">](#0-48-kuaishou) | [快手](https://www.kuaishou.com/new-reco)<br><br>快手是一款国民级短视频App，了解真实世界，认识有趣的人，记录真实而有趣的自己，拥抱每一种生活。 |
+> | 49 | [kuaiwan](#0-49-kuaiwan) | [gamestore](#15-gamestore) | [<img src="assets/kuaiwan.png" width="50">](#0-49-kuaiwan) | [kuaiwan-快玩-快玩游戏-快玩网页游戏-最齐全的网页游戏大全-我电脑里的全能网页游戏机]](https://www.kuaiwan.com/)<br><br>快玩网页游戏是最齐全的网页游戏大全，这里有最好玩的网页游戏，以及最新网页游戏开服信息，凡人修真2，神曲，王者召唤，神魔仙界，武林叁，醉西游，大侠传，神仙道，龙将，热血海贼王，斗破苍穹2，侠武英雄传，英雄远征，英雄王座，梦幻飞仙，百炼成仙，梦幻修仙， |
+> | 50 | [lanraragi](#0-50-lanraragi) | [acg](#1-acg), [reader](#23-reader) | [<img src="assets/lanraragi.png" width="50">](#0-50-lanraragi) | [Difegue/LANraragi: Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.](https://github.com/Difegue/LANraragi)<br><br>application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.<br><br>`{"link":"lrr.tvc-16.science","Topics": "docker server perl management manga comics reader mojolicious opds doujinshi nas hacktoberfest sadpanda"}` |
+> | 51 | [linux](#0-51-linux) | [operating-system](#20-operating-system) | [<img src="assets/linux-os.png" width="50">](#0-51-linux) | [Download Linux \| Linux.org](https://www.linux.org/pages/download/)<br><br>Links to popular distribution download pages |
+> | 52 | [logseq](#0-52-logseq) | [note-taking](#19-note-taking) | [<img src="assets/logseq.png" width="50">](#0-52-logseq) | [Logseq: A privacy-first, open-source knowledge base](https://logseq.com/)<br><br>A privacy-first, open-source platform for knowledge management and collaboration. |
+> | 53 | [macos](#0-53-macos) | [operating-system](#20-operating-system) | [<img src="assets/macos.png" width="50">](#0-53-macos) | [OS - macOS Tahoe - Apple](https://www.apple.com/os/macos/)<br><br>macOS Tahoe with a new design, more ways to work seamlessly across devices, and new features to turbocharge productivity every day. |
+> | 54 | [mail-ru](#0-54-mail-ru) | [email](#11-email) | [<img src="assets/mail-ru.png" width="50">](#0-54-mail-ru) | [Mail: Почта, Облако, Календарь, Заметки, Покупки — сервисы для работы и жизни](https://mail.ru/)<br><br>Mail — безопасные сервисы для жизни и работы: бесплатная Почта, память для всего в Облаке, лёгкое планирование в Календаре и быстрые записи в Заметках. Мобильная версия и приложение — используйте, как удобно |
+> | 55 | [manhuaren](#0-55-manhuaren) | [acg](#1-acg), [gallery](#14-gallery) | [<img src="assets/manhuaren.png" width="50">](#0-55-manhuaren) | [漫画人 - 为爱漫画的人而生](https://www.manhuaren.com/)<br><br>漫画人：给你最好的掌上漫画应用体验，速度最快、最专业的漫画应用。<br><br>`{"author":"漫画人:为爱漫画的人而生、manhuaren.com","keywords":"漫画人：最好的掌上漫画应用"}` |
+> | 56 | [mbalib-wiki](#0-56-mbalib-wiki) | [encyclopedia](#12-encyclopedia) | [<img src="assets/mbalib-wiki.png" width="50">](#0-56-mbalib-wiki) | [MBA智库百科，全球专业中文经管百科](https://wiki.mbalib.com/wiki/%E9%A6%96%E9%A1%B5)<br><br>MBA智库百科，专注于经济管理领域知识的创建与分享。包括企业管理、市场营销、管理咨询、人力资源、战略管理、MBA案例、财务会计、广告、品牌、经济、金融、法律、博弈论、证券、股票以及公司企业、商学院、经管人物等介绍。<br><br>`{"keywords":"首页,2023年诺贝尔经济学奖,2024年《福布斯》全球亿万富豪排行榜,5W2H分析法,GTD,INFJ,Warren Buffett,东方甄选“小作文”事件,乔尔·莫基尔,价值共创,传统能源,MBA,MBA智库,管理,营销,经济,金融,人力资源,管理咨询,广告,财务,会计,品牌,证券,股票,物流,贸易,商学院,法律,人物"}` |
+> | 57 | [microsoft-authenticator](#0-57-microsoft-authenticator) | [authenticator](#5-authenticator) | [<img src="assets/microsoft-authenticator.png" width="50">](#0-57-microsoft-authenticator) | [Microsoft Authenticator - Apps on Google Play](https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=en_US)<br><br>Safety starts with understanding how developers collect and share your data. Data privacy and security practices may vary based on your use, region, and age. The developer provided this information and may update it over time. |
+> | 58 | [microsoft-copilot](#0-58-microsoft-copilot) | [ai-chatbot](#2-ai-chatbot) | [<img src="assets/microsoft-copilot.png" width="50">](#0-58-microsoft-copilot) | [Microsoft Copilot: Your AI companion](https://copilot.microsoft.com/)<br><br>Microsoft Copilot is your companion to inform, entertain and inspire. Get advice, feedback and straightforward answers. Try Copilot now. |
+> | 59 | [microsoft-edge](#0-59-microsoft-edge) | [browser](#6-browser) | [<img src="assets/microsoft-edge.png" width="50">](#0-59-microsoft-edge) | [Download Microsoft Edge: Windows, macOS, iOS & Android](https://www.microsoft.com/en-us/edge/download?form=MA13FJ)<br><br>Download Microsoft Edge for your computer or smartphone. Experience the cutting-edge AI Edge browser on your Windows, macOS, iOS, and Android device. |
+> | 60 | [microsoft-store](#0-60-microsoft-store) | [appstore](#3-appstore) | [<img src="assets/microsoft-store.png" width="50">](#0-60-microsoft-store) | [Microsoft Store - Download apps, games & more for your Windows PC](https://apps.microsoft.com/home?hl=en-US&gl=US)<br><br>Explore the Microsoft Store for apps and games on Windows. Enjoy exclusive deals, new releases, and your favorite content all in one place. |
+> | 61 | [mihon](#0-61-mihon) | [acg](#1-acg), [reader](#23-reader) | [<img src="assets/mihon.png" width="50">](#0-61-mihon) | [Home \| Mihon](https://mihon.app/)<br><br>Discover and read manga, webtoons, comics, and more – easier than ever on your Android device. |
+> | 62 | [misskey](#0-62-misskey) | [microblogging](#18-microblogging) | [<img src="assets/misskey.png" width="50">](#0-62-misskey) | [Misskey Hub – Official website of the Misskey Project](https://misskey-hub.net/en/)<br><br>This is the official site for Misskey, a decentralized social networking software. Find out how to get started, a list of servers, and lots more information about Misskey! |
+> | 63 | [moegirl](#0-63-moegirl) | [encyclopedia](#12-encyclopedia), [acg](#1-acg) | [<img src="assets/moegirl-encyclopedia.png" width="50">](#0-63-moegirl) | [萌娘百科 万物皆可萌的百科全书 - zh.moegirl.org.cn](https://mzh.moegirl.org.cn/Mainpage#/topics)<br><br>`{"keywords":"萌娘,百科,wiki,梗,娘化,萝莉,动画,漫画,动漫,游戏,音乐,宅腐,ACG,anime,comic,game,GalGame"}` |
+> | 64 | [mozilla-firefox](#0-64-mozilla-firefox) | [browser](#6-browser) | [<img src="assets/mozilla-firefox.png" width="50">](#0-64-mozilla-firefox) | [Get Firefox for desktop — Firefox (US)](https://www.firefox.com/en-US/)<br><br>Mozilla Firefox, or simply Firefox, is a free and open source[12] web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation. |
+> | 65 | [myanimelist](#0-65-myanimelist) | [acg](#1-acg), [database](#9-database) | [<img src="assets/myanimelist.png" width="50">](#0-65-myanimelist) | [MyAnimeList.net - Anime and Manga Database and Community](https://myanimelist.net/)<br><br>Welcome to MyAnimeList, the world's most active online anime and manga community and database. Join the online community, create your anime and manga list, read reviews, explore the forums, follow news, and so much more! <br><br>`{"keywords":"anime, myanimelist, anime news, manga"}` |
+> | 66 | [nekogram](#0-66-nekogram) | [instant-messaging](#17-instant-messaging) | [<img src="assets/nekogram.png" width="50">](#0-66-nekogram) | [Nekogram \| Open-source third-party Telegram client with few but useful mods](https://nekogram.app/)<br><br>Open-source third-party Telegram client with few but useful mods |
+> | 67 | [netease-mail](#0-67-netease-mail) | [email](#11-email) | [<img src="assets/netease-mail.png" width="50">](#0-67-netease-mail) | [网易免费邮箱 - 你的专业电子邮局](https://email.163.com/)<br><br>网易免费邮箱，你的专业电子邮局，提供以 @163.com、@126.com和@yeah.net 为后缀的免费邮箱。超过20年邮箱运营经验，系统快速稳定安全，支持超大附件和网盘服务。网易邮箱官方App“邮箱大师”帮您高效处理邮件，支持所有邮箱，并可在手机、Windows和Mac上多端协同使用。 |
+> | 68 | [nhentai](#0-68-nhentai) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) | [<img src="assets/nhentai.png" width="50">](#0-68-nhentai) | [nhentai: hentai doujinshi and manga](https://nhentai.net/)<br><br>nhentai is a free hentai manga and doujinshi reader with over 575,000 galleries to read and download.  |
+> | 69 | [nijimiss](#0-69-nijimiss) | [microblogging](#18-microblogging) | [<img src="assets/nijimiss.png" width="50">](#0-69-nijimiss) | [にじみす.moe](https://nijimiss.moe/)<br><br>💞あらゆる好きが交差する💞<br> 好きを語れるオープンコミュニティ<br><br>好きなことを堂々と胸を張って好きといえる空間を作りたい。<br>そういった思いから生まれたSNSです。 |
+> | 70 | [noteapps-info](#0-70-noteapps-info) | [encyclopedia](#12-encyclopedia) | [<img src="assets/noteapps-info.png" width="50">](#0-70-noteapps-info) | [NoteApps.info: 41 best note taking apps analyzed over 343 features](https://noteapps.info/)<br><br>Encyclopedia of note taking apps: Screenshots, feature lists, and pricing for popular note taking apps. |
+> | 71 | [notion](#0-71-notion) | [note-taking](#19-note-taking) | [<img src="assets/notion.png" width="50">](#0-71-notion) | [The AI workspace that works for you. \| Notion](https://www.notion.com/product)<br><br>Build custom agents, search across all your apps, and automate busywork. The AI workspace where teams get more done, faster. |
+> | 72 | [obsidian](#0-72-obsidian) | [note-taking](#19-note-taking) | [<img src="assets/obsidian.png" width="50">](#0-72-obsidian) | [Obsidian - Sharpen your thinking](https://obsidian.md/)<br><br>The free and flexible app for your private thoughts. |
+> | 73 | [onedrive](#0-73-onedrive) | [cloud-disk](#7-cloud-disk) | [<img src="assets/onedrive.png" width="50">](#0-73-onedrive) | [Home - OneDrive](https://onedrive.live.com/)<br><br>Microsoft OneDrive is a file-hosting service operated by Microsoft. First released as SkyDrive in August 2007, it allows registered users to store, share, back-up and synchronize their files. OneDrive also works as the storage backend of the web version of Microsoft 365. OneDrive offers 5 gigabytes of storage space free of charge, with 100 GB, 1 TB, and 6 TB storage options available, either separately or with Microsoft 365 subscriptions. |
+> | 74 | [outlook-com](#0-74-outlook-com) | [email](#11-email) | [<img src="assets/outlook-com.png" width="50">](#0-74-outlook-com) | [What is Outlook? - Microsoft Support](https://support.microsoft.com/en-us/office/what-is-outlook-10f1fa35-f33a-4cb7-838c-a7f3e6228b20)<br><br>With Outlook on your PC, Mac or mobile device, you can:<ul><li>Organize email to let you focus on the messages that matter most.</li><li>Manage and share your calendar to schedule meetings with ease.</li><li>Share files from the cloud so recipients always have the latest version.</li><li>Stay connected and productive wherever you are.</li></ul> |
+> | 75 | [picaacg](#0-75-picaacg) | [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) | [<img src="assets/picaacg.png" width="50">](#0-75-picaacg) | [嗶咔漫畫](https://www.picacomic.com/)<br><br>嗶咔漫畫讓你可以輕鬆看到不同的本子，介面美觀易用，分類齊全，每天更新，紳士必備！ |
+> | 76 | [pixiv](#0-76-pixiv) | [acg](#1-acg), [community](#8-community) | [<img src="assets/pixiv.png" width="50">](#0-76-pixiv) | [插畫、漫畫、小說作品交流服務 [pixiv]](https://www.pixiv.net/)<br><br>Pixiv[a] (Japanese: ピクシブ, Hepburn: Pikushibu) is a Japanese online community for artists. |
+> | 77 | [potato](#0-77-potato) | [instant-messaging](#17-instant-messaging) | [<img src="assets/potato.png" width="50">](#0-77-potato) | [Potato](https://www.potato.im/)<br><br>Potato is an instant messenger focused on security. It is faster, more secure, more open and completely free. Available on IOS, Android, Windows , MacOS and Linux. You can create super groups with 200,000 members, super channels, support voice and video calls, send photos, send videos, stickers and Gifs, and there is no file size limit, etc. It provides you with full privacy settings and the most secure and stable chat environment. Moreover, Potato is an expert in protecting your digital currency. |
+> | 78 | [pycharm](#0-78-pycharm) | [editor](#10-editor) | [<img src="assets/pycharm.png" width="50">](#0-78-pycharm) | [PyCharm: The only Python IDE you need](https://www.jetbrains.com/pycharm/)<br><br>Built for web, data, and AI/ML professionals. Supercharged with an AI-enhanced IDE experience. |
+> | 79 | [qianwen](#0-79-qianwen) | [ai-chatbot](#2-ai-chatbot) | [<img src="assets/qianwen.png" width="50">](#0-79-qianwen) | [千问-Qwen最新模型体验-通义千问](https://www.qianwen.com/)<br><br>千问是阿里通义千问大模型打造的AI对话助手，通义千问支持问答、写作、代码、翻译、录音、PPT创作、文档处理、音视频速读。 |
+> | 80 | [qq-browser](#0-80-qq-browser) | [browser](#6-browser) | [<img src="assets/qq-browser.png" width="50">](#0-80-qq-browser) | [QQ浏览器官网_QQ浏览器手机版_QQ浏览器Windows版_QQ浏览器MAC版](https://browser.qq.com/)<br><br>QQ浏览器是腾讯公司开发的一款极速浏览器，现已全面升级为AI浏览器。新版本以极简框架为基础，带来极致流畅的使用体验。“AI + 小窗” 整合常用AI功能，让信息获取更高效；工作台、分屏、智能标签、万能格式打开，助力办公学习提速；更有多个智能 Agent，一句话就能搞定下载、订阅、报考、更新追踪等复杂任务。<br><br>`{"keywords":"QQ浏览器,AI浏览器,浏览器,电脑浏览器,PC浏览器,windows浏览器,腾讯AI浏览器，高速浏览器,qq浏览器下载,双核浏览器,chrome,ie,网页兼容模式,下载助理,更新助理,AI高考通,Agent,AI视频,AI办公,实时字幕,网页分屏浏览,视频小窗,老板键,电脑截图,截长图,网页标签分组"}` |
+> | 81 | [qq-mail](#0-81-qq-mail) | [email](#11-email) | [<img src="assets/qq-mail.png" width="50">](#0-81-qq-mail) | [登录QQ邮箱](https://wx.mail.qq.com/)<br><br>QQ邮箱，提供qq.com、foxmail.com后缀的安全、稳定、快速、便捷的免费电子邮箱。强大的反垃圾邮件过滤，10G超大附件发送，便捷记事和日历功能，轻松管理所有电子发票，尽在QQ邮箱。 |
+> | 82 | [qqgame](#0-82-qqgame) | [gamestore](#15-gamestore) | [<img src="assets/qqgame.png" width="50">](#0-82-qqgame) | [QQ游戏_QQ游戏大全_游戏下载_QQ游戏官网](https://qqgame.qq.com/)<br><br>QQ游戏大厅官网，下载QQ游戏大厅，玩QQ游戏全游戏； |
+> | 83 | [quark-browser](#0-83-quark-browser) | [browser](#6-browser), [ai-chatbot](#2-ai-chatbot) | [<img src="assets/quark-browser.png" width="50">](#0-83-quark-browser) | [夸克_阿里AI旗舰应用官网](https://www.quark.cn/)<br><br>夸克pc/app为你带来极速、智能、安全、高效的搜索体验,找答案,找资料,找工具,办公,学习,工作必备应用。夸克提供浏览器搜索引擎、网盘、AI扫描王工具及小说阅读等高效功能，为你提供稳定,安全,流畅的浏览环境和优质的产品服务体验 |
+> | 84 | [quora](#0-84-quora) | [qa-system](#22-qa-system) | [<img src="assets/quora.png" width="50">](#0-84-quora) | [Quora](https://www.quora.com/)<br><br>Quora is an American social question-and-answer website and online knowledge market headquartered in Mountain View, California. It was founded on June 25, 2009, and made available to the public on June 21, 2010. Users can post questions, answer questions, and comment on answers that have been submitted by other users. As of 2020, the website was visited by 300 million users a month. |
+> | 85 | [reddit](#0-85-reddit) | [forum](#13-forum) | [<img src="assets/reddit.png" width="50">](#0-85-reddit) | [Reddit - The heart of the internet](https://www.reddit.com/)<br><br>Reddit is where millions of people gather for conversations about the things they care about, in over 100,000 subreddit communities. |
+> | 86 | [saucenao-search](#0-86-saucenao-search) | [search-engine](#24-search-engine) | [<img src="assets/saurcenao-search.png" width="50">](#0-86-saucenao-search) | [About SauceNAO](https://saucenao.com/about.html)<br><br>SauceNAO is a reverse image search engine. The name 'SauceNAO' is derived from a slang form of "Need to know the source of this Now!" which has found common usage on image boards and other similar sites. |
+> | 87 | [session](#0-87-session) | [instant-messaging](#17-instant-messaging) | [<img src="assets/session.png" width="50">](#0-87-session) | [Session \| Send Messages, Not Metadata. \| Private Messenger](https://getsession.org/)<br><br>Session is a private messenger that aims to remove any chance of metadata collection by routing all messages through an onion routing network. |
+> | 88 | [simplex](#0-88-simplex) | [instant-messaging](#17-instant-messaging) | [<img src="assets/simplex.png" width="50">](#0-88-simplex) | [SimpleX Chat: private and secure messenger without any user IDs (not even random)](https://simplex.chat/)<br><br>SimpleX Chat - a private and encrypted messenger without any user IDs (not even random ones)! Make a private connection via link / QR code to send messages and make calls. |
+> | 89 | [siyuan](#0-89-siyuan) | [note-taking](#19-note-taking) | [<img src="assets/siyuan-note.png" width="50">](#0-89-siyuan) | [SiYuan - Privacy-first personal knowledge management system that supports Markdown, block-level ref, and bidirectional links](https://b3log.org/siyuan/en/)<br><br>SiYuan - Privacy-first personal knowledge management system that supports Markdown, block-level ref, and bidirectional links |
+> | 90 | [slack](#0-90-slack) | [instant-messaging](#17-instant-messaging) | [<img src="assets/slack.png" width="50">](#0-90-slack) | [Slack \| AI Work Platform & Productivity Tools](https://slack.com/)<br><br>Boost productivity and save time with Slack‌ — ‌the AI work platform for managing projects, automating workflows, and connecting teams securely. Start working smarter today. |
+> | 91 | [soutubot-search](#0-91-soutubot-search) | [search-engine](#24-search-engine) | [<img src="assets/soutubot-moe.png" width="50">](#0-91-soutubot-search) | [搜图Bot酱](https://soutubot.moe/)<br><br>大家好（ﾉ>ω<)ﾉ这里是搜图bot酱网页版~ 可局部搜图NH内的本子，欢迎大家来测试~<br><br>如果大家觉得好用的话就请麻烦宣传和赞助一下吧~ |
+> | 92 | [steam](#0-92-steam) | [gamestore](#15-gamestore) | [<img src="assets/steam.png" width="50">](#0-92-steam) | [Welcome to Steam](https://store.steampowered.com/)<br><br>Steam is the ultimate destination for playing, discussing, and creating games. |
+> | 93 | [tamtam](#0-93-tamtam) | [instant-messaging](#17-instant-messaging) | [<img src="assets/tamtam.png" width="50">](#0-93-tamtam) | [About messenger \| TamTam](https://about.tamtam.chat/en/)<br><br>General info about TamTam messenger |
+> | 94 | [taptap](#0-94-taptap) | [gamestore](#15-gamestore) | [<img src="assets/taptap.png" width="50">](#0-94-taptap) | [TapTap - 发现好游戏](https://www.taptap.cn/)<br><br>TapTap 专为中国手游玩家打造的推荐高品质手游的分享社区。我们拥有超过 2 万款可玩游戏，超过 1 亿玩家在我们平台上完成了 30 亿次游戏下载，发布了超过 3500 万条真实客观的游戏评价，并为玩家提供了 50 万篇优质内容。目前已有超过 10 万个游戏开发者入驻了 TapTap 玩家社区。立即下载 TapTap，与我们一起体验最顶级的手游乐趣吧！ |
+> | 95 | [telegram](#0-95-telegram) | [instant-messaging](#17-instant-messaging) | [<img src="assets/telegram.png" width="50">](#0-95-telegram) | [Telegram Messenger](https://telegram.org/)<br><br>Fast. Secure. Powerful. |
+> | 96 | [tencent-appstore](#0-96-tencent-appstore) | [appstore](#3-appstore) | [<img src="assets/tencent-appstore.png" width="50">](#0-96-tencent-appstore) | [应用宝官网-全网最新最热手机应用游戏下载](https://sj.qq.com/)<br><br>应用宝是腾讯旗下官方手机app应用商店，致力于为您提供海量、优质、安全、最新的安卓应用游戏下载！ |
+> | 97 | [tencent-meeting](#0-97-tencent-meeting) | [instant-messaging](#17-instant-messaging) | [<img src="assets/tencent-meeting.png" width="50">](#0-97-tencent-meeting) | [腾讯会议官方——腾讯会议 会开会](https://meeting.tencent.com/)<br><br>基于腾讯20多年音视频通讯经验，腾讯会议提供一站式音视频会议解决方案，让您能随时随地体验高清流畅的会议以及会议协作。 |
+> | 98 | [tencent-qq](#0-98-tencent-qq) | [instant-messaging](#17-instant-messaging) | [<img src="assets/tencent-qq.png" width="50">](#0-98-tencent-qq) | [QQ-轻松做自己](https://im.qq.com/index/)<br><br>腾讯QQ，全新版本QQ9上线了！ QQ9，不仅是轻松聊天，更是兴趣社区的聚集地。欢迎下载体验最新版本QQ，体验最新功能！欢迎访问QQ官网，下载新版QQ，了解QQ最新功能就在im.qq.com。 |
+> | 99 | [tencent-wechat](#0-99-tencent-wechat) | [instant-messaging](#17-instant-messaging) | [<img src="assets/tencent-wechat.png" width="50">](#0-99-tencent-wechat) | [WeChat - Free messaging and calling app](https://www.wechat.com/)<br><br>Available for all kinds of platforms; enjoy group chat; support voice, photo, video and text messages. |
+> | 100 | [tencent-yuanbao](#0-100-tencent-yuanbao) | [ai-chatbot](#2-ai-chatbot) | [<img src="assets/tencent-yuanbao.png" width="50">](#0-100-tencent-yuanbao) | [元宝-体验DeepSeek全新版-高效AI助手](https://yuanbao.tencent.com/)<br><br>来元宝，感受「DeepSeek+」智能新体验！联网搜索公众号、视频号等优质腾讯生态信源，搜得更准、答得更全；智能识图、拍题答疑等丰富能力，让工作学习生活更轻松高效 |
+> | 101 | [tiddlywiki](#0-101-tiddlywiki) | [note-taking](#19-note-taking) | [<img src="assets/tiddly-wiki.png" width="50">](#0-101-tiddlywiki) | [TiddlyWiki  v5.3.8](https://tiddlywiki.com/)<br><br>a non-linear personal web notebook |
+> | 102 | [tieba](#0-102-tieba) | [forum](#13-forum) | [<img src="assets/baidu-tieba.png" width="50">](#0-102-tieba) | [百度贴吧——全球领先的中文社区](https://tieba.baidu.com/)<br><br>百度贴吧——全球领先的中文社区。贴吧的使命是让志同道合的人相聚。不论是大众话题还是小众话题，都能精准地聚集大批同好网友，展示自我风采，结交知音，搭建别具特色的“兴趣主题“互动平台。贴吧目录涵盖游戏、地区、文学、动漫、娱乐明星、生活、体育、电脑数码等方方面面，是全球领先的中文交流平台，它为人们提供一个表达和交流思想的自由网络空间，并以此汇集志同道合的网友。 |
+> | 103 | [tor-browser](#0-103-tor-browser) | [browser](#6-browser) | [<img src="assets/tor-browser.png" width="50">](#0-103-tor-browser) | [Tor Project \| Download](https://www.torproject.la/en/download/)<br><br>Download | Defend yourself against tracking and surveillance. Circumvent censorship. |
+> | 104 | [trae](#0-104-trae) | [editor](#10-editor) | [<img src="assets/trae.png" width="50">](#0-104-trae) | [TRAE - The Real AI Engineer \| TRAE - The Real AI Engineer](https://www.trae.cn/)<br><br>TRAE AI IDE | 国内首款 AI 原生集成开发环境，深度集成 Doubao-1.5-pro 与 DeepSeek 模型，支持中文自然语言一键生成完整代码框架，实时预览前端效果并智能修复 BUG。首创 Builder 模式实现需求到代码的自动化开发，兼容 Windows/macOS 系统，官网下载即用。 |
+> | 105 | [twitter](#0-105-twitter) | [microblogging](#18-microblogging) | [<img src="assets/x-com.png" width="50">](#0-105-twitter) | [About X \| Our company and priorities](https://about.x.com/en)<br><br>We serve the public conversation. Learn more about X the company, and how we ensure people have a free and safe place to talk. |
+> | 106 | [typora](#0-106-typora) | [editor](#10-editor) | [<img src="assets/typora.png" width="50">](#0-106-typora) | [Typora — simple yet powerful Markdown reader.](https://typora.io/)<br><br>Typora is a cross-platform minimal markdown editor, providing seamless experience for both markdown readers and writers. |
+> | 107 | [uc-browser](#0-107-uc-browser) | [browser](#6-browser) | [<img src="assets/uc-browser.png" width="50">](#0-107-uc-browser) | [UC Browser](https://www.ucweb.com/index.shtml)<br><br>Download UC Browser today and enjoy a faster, safer, and more private online experience. With built-in VPN protection and advanced ad blocking, we set a new standard for secure browsing. |
+> | 108 | [via-browser](#0-108-via-browser) | [browser](#6-browser) | [<img src="assets/via-browser.png" width="50">](#0-108-via-browser) | [Via浏览器官网 - 崇尚速度与简约的手机浏览器，Via官方网站](https://viayoo.com/zh-cn/)<br><br>Via浏览器，让你享用简洁清爽、快速高效的手机浏览器。充分发挥广告拦截、脚本等先进技术，达到”简单””好用”的设计初衷。 |
+> | 109 | [vim](#0-109-vim) | [editor](#10-editor) | [<img src="assets/vim.png" width="50">](#0-109-vim) | [welcome home : vim online](https://www.vim.org/)<br><br>Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient. It is included as "vi" with most UNIX systems and with Apple OS X. |
+> | 110 | [visual-studio](#0-110-visual-studio) | [editor](#10-editor) | [<img src="assets/visual-studio.png" width="50">](#0-110-visual-studio) | [Visual Studio: IDE and Code Editor for Software Development](https://visualstudio.microsoft.com/)<br><br>Visual Studio dev tools & services make app development easy for any developer, on any platform & language. Develop with our code editor or IDE anywhere for free. |
+> | 111 | [visual-studio-code](#0-111-visual-studio-code) | [editor](#10-editor) | [<img src="assets/vscode.png" width="50">](#0-111-visual-studio-code) | [Visual Studio Code - The open source AI code editor](https://code.visualstudio.com/)<br><br>Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows. |
+> | 112 | [webstorm](#0-112-webstorm) | [editor](#10-editor) | [<img src="assets/webstorm.png" width="50">](#0-112-webstorm) | [WebStorm: The JavaScript and TypeScript IDE, by JetBrains](https://www.jetbrains.com/webstorm/)<br><br>Make development more productive and enjoyable with WebStorm, the IDE for JavaScript and related technologies. |
+> | 113 | [wikihow](#0-113-wikihow) | [encyclopedia](#12-encyclopedia) | [<img src="assets/wikihow.png" width="50">](#0-113-wikihow) | [wikiHow: How-to instructions you can trust.](https://www.wikihow.com/Main-Page)<br><br>Learn how to do anything with wikiHow, the world's most popular how-to website. Easy, well-researched, and trustworthy instructions for everything you want to know. |
+> | 114 | [wikipedia](#0-114-wikipedia) | [encyclopedia](#12-encyclopedia) | [<img src="assets/wikipedia.png" width="50">](#0-114-wikipedia) | [Wikipedia](https://www.wikipedia.org/)<br><br>Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation. |
+> | 115 | [windows-os](#0-115-windows-os) | [operating-system](#20-operating-system) | [<img src="assets/windows-os.png" width="50">](#0-115-windows-os) | [Experience the Power of AI with Windows 11 OS, Computers, & Apps \| Microsoft Windows](https://www.microsoft.com/en-us/windows/)<br><br>Experience the latest Microsoft Windows 11 features. Learn how our latest Windows OS gives you more ways to work, play, and create. |
+> | 116 | [x-browser](#0-116-x-browser) | [browser](#6-browser) | [<img src="assets/x-browser.png" width="50">](#0-116-x-browser) | [X浏览器 \| 内建支持油猴，按需扩展功能](https://www.xbext.com/)<br><br>一款极简快速的手机浏览器，内建支持油猴脚本，按需增强功能 |
+> | 117 | [yandex-search](#0-117-yandex-search) | [search-engine](#24-search-engine) | [<img src="assets/yandex-search.png" width="50">](#0-117-yandex-search) | [Yandex — fast Internet search](https://yandex.com)<br><br>Yandex is a technology company that builds intelligent products and services powered by machine learning. |
+> | 118 | [youtube](#0-118-youtube) | [video-streaming](#26-video-streaming) | [<img src="assets/youtube.png" width="50">](#0-118-youtube) | [YouTube](https://www.youtube.com/)<br><br>Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube. |
+> | 119 | [zhihu](#0-119-zhihu) | [qa-system](#22-qa-system) | [<img src="assets/zhihu.png" width="50">](#0-119-zhihu) | [知乎 - 有问题，就会有答案](https://www.zhihu.com/)<br><br>知乎，中文互联网高质量的问答社区和创作者聚集的原创内容平台，于 2011 年 1 月正式上线，以「让人们更好的分享知识、经验和见解，找到自己的解答」为品牌使命。知乎凭借认真、专业、友善的社区氛围、独特的产品机制以及结构化和易获得的优质内容，聚集了中文互联网科技、商业、影视、时尚、文化等领域最具创造力的人群，已成为综合性、全品类、在诸多领域具有关键影响力的知识分享社区和创作者聚集的原创内容平台，建立起了以社区驱动的内容变现商业模式。 |
 
 
 
@@ -3263,7 +3331,22 @@ H萌娘是一个关于H萌的wiki。 <br>H萌娘的收录的条目要满足两�
 > | [Category](#category) |  [encyclopedia](#12-encyclopedia), [acg](#1-acg) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-39-huorong-app-store
+### 0-39-huawei-browser
+
+> see: [华为浏览器 - 华为官网](https://consumer.huawei.com/cn/mobileservices/browser/)
+
+华为浏览器为用户提供集搜索、智能资讯推荐、导航、快应用服务于一体的优质服务体验：通过汇聚众多媒体伙伴，带来可信专业的资讯，同时会根据用户偏好，个性化地呈现更多元丰富的内容；强大的安全隐私保护，为用户提供安全无忧的浏览体验；同时支持用户自行组合、使用快应用功能，获得定制化服务体验。
+
+<img src="assets/huawei-browser.png" width="200">
+
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [browser](#6-browser) |
+> | [Type](#type) | [site-items](#site-items) |
+
+### 0-40-huorong-app-store
 
 > see: [应用商店-火绒安全](https://www.huorong.cn/app_store.html)
 
@@ -3278,7 +3361,7 @@ H萌娘是一个关于H萌的wiki。 <br>H萌娘的收录的条目要满足两�
 > | [Category](#category) |  [appstore](#3-appstore) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-40-intellij-idea
+### 0-41-intellij-idea
 
 > see: [The Leading IDE for Professional Java and Kotlin Development](https://www.jetbrains.com/idea/)
 
@@ -3293,7 +3376,7 @@ IntelliJ IDEA is the JetBrains IDE for pro development in Java and Kotlin. Built
 > | [Category](#category) |  [editor](#10-editor) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-41-ios
+### 0-42-ios
 
 > see: [OS - iOS 26 - Apple](https://www.apple.com/os/ios/)
 
@@ -3308,7 +3391,7 @@ iOS 26 for iPhone with a new design, more helpful Apple Intelligence, polls and 
 > | [Category](#category) |  [operating-system](#20-operating-system) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-42-iwara
+### 0-43-iwara
 
 > see: [Iwara.tv will return](https://iwara.tv/)
 
@@ -3323,7 +3406,7 @@ Iwara.tv is niche website for MMD (MikuMikuDance) and R18 models.
 > | [Category](#category) |  [video-streaming](#26-video-streaming), [acg](#1-acg), [hentai](#16-hentai) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-43-jiong-ci-yuan
+### 0-44-jiong-ci-yuan
 
 > see: [囧次元](https://jcyapp.org/)
 
@@ -3338,7 +3421,7 @@ Jiongciyuan (囧次元) is an Android video streaming app focused on Japanese an
 > | [Category](#category) |  [acg](#1-acg), [video-streaming](#26-video-streaming) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-44-jmcomic
+### 0-45-jmcomic
 
 > see: [免費A漫 - 禁漫天堂](https://18comic.vip/)
 
@@ -3353,7 +3436,7 @@ Jiongciyuan (囧次元) is an Android video streaming app focused on Japanese an
 > | [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-45-keepass
+### 0-46-keepass
 
 > see: [KeePass Password Safe](https://keepass.info/)
 
@@ -3368,7 +3451,7 @@ KeePass is a free open source password manager. Passwords can be stored in an en
 > | [Category](#category) |  [password-manager](#21-password-manager) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-46-kimi
+### 0-47-kimi
 
 > see: [Kimi - K2长思考上线](https://www.kimi.com/)
 
@@ -3383,7 +3466,7 @@ Kimi K2长思考模式来了！支持多轮工具调用与思考，擅长数理�
 > | [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-47-kuaishou
+### 0-48-kuaishou
 
 > see: [快手](https://www.kuaishou.com/new-reco)
 
@@ -3398,7 +3481,7 @@ Kimi K2长思考模式来了！支持多轮工具调用与思考，擅长数理�
 > | [Category](#category) |  [video-streaming](#26-video-streaming) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-48-kuaiwan
+### 0-49-kuaiwan
 
 > see: [kuaiwan-快玩-快玩游戏-快玩网页游戏-最齐全的网页游戏大全-我电脑里的全能网页游戏机]](https://www.kuaiwan.com/)
 
@@ -3413,7 +3496,7 @@ Kimi K2长思考模式来了！支持多轮工具调用与思考，擅长数理�
 > | [Category](#category) |  [gamestore](#15-gamestore) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-49-lanraragi
+### 0-50-lanraragi
 
 > see: [Difegue/LANraragi: Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.](https://github.com/Difegue/LANraragi)
 
@@ -3428,7 +3511,7 @@ application for archival and reading of manga/doujinshi. Lightweight and Docker-
 > | [Category](#category) |  [acg](#1-acg), [reader](#23-reader) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-50-linux
+### 0-51-linux
 
 > see: [Download Linux | Linux.org](https://www.linux.org/pages/download/)
 
@@ -3443,7 +3526,7 @@ Links to popular distribution download pages
 > | [Category](#category) |  [operating-system](#20-operating-system) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-51-logseq
+### 0-52-logseq
 
 > see: [Logseq: A privacy-first, open-source knowledge base](https://logseq.com/)
 
@@ -3458,7 +3541,7 @@ A privacy-first, open-source platform for knowledge management and collaboration
 > | [Category](#category) |  [note-taking](#19-note-taking) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-52-macos
+### 0-53-macos
 
 > see: [OS - macOS Tahoe - Apple](https://www.apple.com/os/macos/)
 
@@ -3473,7 +3556,7 @@ macOS Tahoe with a new design, more ways to work seamlessly across devices, and 
 > | [Category](#category) |  [operating-system](#20-operating-system) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-53-mail-ru
+### 0-54-mail-ru
 
 > see: [Mail: Почта, Облако, Календарь, Заметки, Покупки — сервисы для работы и жизни](https://mail.ru/)
 
@@ -3488,7 +3571,7 @@ Mail — безопасные сервисы для жизни и работы: 
 > | [Category](#category) |  [email](#11-email) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-54-manhuaren
+### 0-55-manhuaren
 
 > see: [漫画人 - 为爱漫画的人而生](https://www.manhuaren.com/)
 
@@ -3503,7 +3586,7 @@ Mail — безопасные сервисы для жизни и работы: 
 > | [Category](#category) |  [acg](#1-acg), [gallery](#14-gallery) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-55-mbalib-wiki
+### 0-56-mbalib-wiki
 
 > see: [MBA智库百科，全球专业中文经管百科](https://wiki.mbalib.com/wiki/%E9%A6%96%E9%A1%B5)
 
@@ -3518,7 +3601,7 @@ MBA智库百科，专注于经济管理领域知识的创建与分享。包括�
 > | [Category](#category) |  [encyclopedia](#12-encyclopedia) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-56-microsoft-authenticator
+### 0-57-microsoft-authenticator
 
 > see: [Microsoft Authenticator - Apps on Google Play](https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=en_US)
 
@@ -3533,7 +3616,7 @@ Safety starts with understanding how developers collect and share your data. Dat
 > | [Category](#category) |  [authenticator](#5-authenticator) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-57-microsoft-copilot
+### 0-58-microsoft-copilot
 
 > see: [Microsoft Copilot: Your AI companion](https://copilot.microsoft.com/)
 
@@ -3548,7 +3631,7 @@ Microsoft Copilot is your companion to inform, entertain and inspire. Get advice
 > | [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-58-microsoft-edge
+### 0-59-microsoft-edge
 
 > see: [Download Microsoft Edge: Windows, macOS, iOS & Android](https://www.microsoft.com/en-us/edge/download?form=MA13FJ)
 
@@ -3563,7 +3646,7 @@ Download Microsoft Edge for your computer or smartphone. Experience the cutting-
 > | [Category](#category) |  [browser](#6-browser) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-59-microsoft-store
+### 0-60-microsoft-store
 
 > see: [Microsoft Store - Download apps, games & more for your Windows PC](https://apps.microsoft.com/home?hl=en-US&gl=US)
 
@@ -3578,7 +3661,7 @@ Explore the Microsoft Store for apps and games on Windows. Enjoy exclusive deals
 > | [Category](#category) |  [appstore](#3-appstore) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-60-mihon
+### 0-61-mihon
 
 > see: [Home | Mihon](https://mihon.app/)
 
@@ -3593,7 +3676,7 @@ Discover and read manga, webtoons, comics, and more – easier than ever on your
 > | [Category](#category) |  [acg](#1-acg), [reader](#23-reader) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-61-misskey
+### 0-62-misskey
 
 > see: [Misskey Hub – Official website of the Misskey Project](https://misskey-hub.net/en/)
 
@@ -3608,7 +3691,7 @@ This is the official site for Misskey, a decentralized social networking softwar
 > | [Category](#category) |  [microblogging](#18-microblogging) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-62-moegirl
+### 0-63-moegirl
 
 > see: [萌娘百科 万物皆可萌的百科全书 - zh.moegirl.org.cn](https://mzh.moegirl.org.cn/Mainpage#/topics)
 
@@ -3623,7 +3706,7 @@ This is the official site for Misskey, a decentralized social networking softwar
 > | [Category](#category) |  [encyclopedia](#12-encyclopedia), [acg](#1-acg) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-63-mozilla-firefox
+### 0-64-mozilla-firefox
 
 > see: [Get Firefox for desktop — Firefox (US)](https://www.firefox.com/en-US/)
 
@@ -3638,7 +3721,7 @@ Mozilla Firefox, or simply Firefox, is a free and open source[12] web browser de
 > | [Category](#category) |  [browser](#6-browser) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-64-myanimelist
+### 0-65-myanimelist
 
 > see: [MyAnimeList.net - Anime and Manga Database and Community](https://myanimelist.net/)
 
@@ -3653,7 +3736,7 @@ Welcome to MyAnimeList, the world's most active online anime and manga community
 > | [Category](#category) |  [acg](#1-acg), [database](#9-database) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-65-nekogram
+### 0-66-nekogram
 
 > see: [Nekogram | Open-source third-party Telegram client with few but useful mods](https://nekogram.app/)
 
@@ -3668,7 +3751,7 @@ Open-source third-party Telegram client with few but useful mods
 > | [Category](#category) |  [instant-messaging](#17-instant-messaging) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-66-netease-mail
+### 0-67-netease-mail
 
 > see: [网易免费邮箱 - 你的专业电子邮局](https://email.163.com/)
 
@@ -3683,7 +3766,7 @@ Open-source third-party Telegram client with few but useful mods
 > | [Category](#category) |  [email](#11-email) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-67-nhentai
+### 0-68-nhentai
 
 > see: [nhentai: hentai doujinshi and manga](https://nhentai.net/)
 
@@ -3698,7 +3781,7 @@ nhentai is a free hentai manga and doujinshi reader with over 575,000 galleries 
 > | [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-68-nijimiss
+### 0-69-nijimiss
 
 > see: [にじみす.moe](https://nijimiss.moe/)
 
@@ -3713,7 +3796,7 @@ nhentai is a free hentai manga and doujinshi reader with over 575,000 galleries 
 > | [Category](#category) |  [microblogging](#18-microblogging) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-69-noteapps-info
+### 0-70-noteapps-info
 
 > see: [NoteApps.info: 41 best note taking apps analyzed over 343 features](https://noteapps.info/)
 
@@ -3728,7 +3811,7 @@ Encyclopedia of note taking apps: Screenshots, feature lists, and pricing for po
 > | [Category](#category) |  [encyclopedia](#12-encyclopedia) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-70-notion
+### 0-71-notion
 
 > see: [The AI workspace that works for you. | Notion](https://www.notion.com/product)
 
@@ -3743,7 +3826,7 @@ Build custom agents, search across all your apps, and automate busywork. The AI 
 > | [Category](#category) |  [note-taking](#19-note-taking) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-71-obsidian
+### 0-72-obsidian
 
 > see: [Obsidian - Sharpen your thinking](https://obsidian.md/)
 
@@ -3758,7 +3841,7 @@ The free and flexible app for your private thoughts.
 > | [Category](#category) |  [note-taking](#19-note-taking) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-72-onedrive
+### 0-73-onedrive
 
 > see: [Home - OneDrive](https://onedrive.live.com/)
 
@@ -3773,7 +3856,7 @@ Microsoft OneDrive is a file-hosting service operated by Microsoft. First releas
 > | [Category](#category) |  [cloud-disk](#7-cloud-disk) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-73-outlook-com
+### 0-74-outlook-com
 
 > see: [What is Outlook? - Microsoft Support](https://support.microsoft.com/en-us/office/what-is-outlook-10f1fa35-f33a-4cb7-838c-a7f3e6228b20)
 
@@ -3788,7 +3871,7 @@ With Outlook on your PC, Mac or mobile device, you can:<ul><li>Organize email to
 > | [Category](#category) |  [email](#11-email) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-74-picaacg
+### 0-75-picaacg
 
 > see: [嗶咔漫畫](https://www.picacomic.com/)
 
@@ -3803,7 +3886,7 @@ With Outlook on your PC, Mac or mobile device, you can:<ul><li>Organize email to
 > | [Category](#category) |  [acg](#1-acg), [archive](#4-archive), [gallery](#14-gallery), [hentai](#16-hentai) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-75-pixiv
+### 0-76-pixiv
 
 > see: [插畫、漫畫、小說作品交流服務 [pixiv]](https://www.pixiv.net/)
 
@@ -3818,7 +3901,7 @@ Pixiv[a] (Japanese: ピクシブ, Hepburn: Pikushibu) is a Japanese online commu
 > | [Category](#category) |  [acg](#1-acg), [community](#8-community) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-76-potato
+### 0-77-potato
 
 > see: [Potato](https://www.potato.im/)
 
@@ -3833,7 +3916,7 @@ Potato is an instant messenger focused on security. It is faster, more secure, m
 > | [Category](#category) |  [instant-messaging](#17-instant-messaging) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-77-pycharm
+### 0-78-pycharm
 
 > see: [PyCharm: The only Python IDE you need](https://www.jetbrains.com/pycharm/)
 
@@ -3848,7 +3931,7 @@ Built for web, data, and AI/ML professionals. Supercharged with an AI-enhanced I
 > | [Category](#category) |  [editor](#10-editor) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-78-qianwen
+### 0-79-qianwen
 
 > see: [千问-Qwen最新模型体验-通义千问](https://www.qianwen.com/)
 
@@ -3863,7 +3946,22 @@ Built for web, data, and AI/ML professionals. Supercharged with an AI-enhanced I
 > | [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-79-qq-mail
+### 0-80-qq-browser
+
+> see: [QQ浏览器官网_QQ浏览器手机版_QQ浏览器Windows版_QQ浏览器MAC版](https://browser.qq.com/)
+
+QQ浏览器是腾讯公司开发的一款极速浏览器，现已全面升级为AI浏览器。新版本以极简框架为基础，带来极致流畅的使用体验。“AI + 小窗” 整合常用AI功能，让信息获取更高效；工作台、分屏、智能标签、万能格式打开，助力办公学习提速；更有多个智能 Agent，一句话就能搞定下载、订阅、报考、更新追踪等复杂任务。<br><br>`{"keywords":"QQ浏览器,AI浏览器,浏览器,电脑浏览器,PC浏览器,windows浏览器,腾讯AI浏览器，高速浏览器,qq浏览器下载,双核浏览器,chrome,ie,网页兼容模式,下载助理,更新助理,AI高考通,Agent,AI视频,AI办公,实时字幕,网页分屏浏览,视频小窗,老板键,电脑截图,截长图,网页标签分组"}`
+
+<img src="assets/qq-browser.png" width="200">
+
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [browser](#6-browser) |
+> | [Type](#type) | [site-items](#site-items) |
+
+### 0-81-qq-mail
 
 > see: [登录QQ邮箱](https://wx.mail.qq.com/)
 
@@ -3878,7 +3976,7 @@ QQ邮箱，提供qq.com、foxmail.com后缀的安全、稳定、快速、便捷�
 > | [Category](#category) |  [email](#11-email) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-80-qqgame
+### 0-82-qqgame
 
 > see: [QQ游戏_QQ游戏大全_游戏下载_QQ游戏官网](https://qqgame.qq.com/)
 
@@ -3893,7 +3991,7 @@ QQ游戏大厅官网，下载QQ游戏大厅，玩QQ游戏全游戏；
 > | [Category](#category) |  [gamestore](#15-gamestore) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-81-quark-browser
+### 0-83-quark-browser
 
 > see: [夸克_阿里AI旗舰应用官网](https://www.quark.cn/)
 
@@ -3908,7 +4006,7 @@ QQ游戏大厅官网，下载QQ游戏大厅，玩QQ游戏全游戏；
 > | [Category](#category) |  [browser](#6-browser), [ai-chatbot](#2-ai-chatbot) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-82-quora
+### 0-84-quora
 
 > see: [Quora](https://www.quora.com/)
 
@@ -3923,7 +4021,7 @@ Quora is an American social question-and-answer website and online knowledge mar
 > | [Category](#category) |  [qa-system](#22-qa-system) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-83-reddit
+### 0-85-reddit
 
 > see: [Reddit - The heart of the internet](https://www.reddit.com/)
 
@@ -3938,7 +4036,7 @@ Reddit is where millions of people gather for conversations about the things the
 > | [Category](#category) |  [forum](#13-forum) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-84-saucenao-search
+### 0-86-saucenao-search
 
 > see: [About SauceNAO](https://saucenao.com/about.html)
 
@@ -3953,7 +4051,7 @@ SauceNAO is a reverse image search engine. The name 'SauceNAO' is derived from a
 > | [Category](#category) |  [search-engine](#24-search-engine) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-85-session
+### 0-87-session
 
 > see: [Session | Send Messages, Not Metadata. | Private Messenger](https://getsession.org/)
 
@@ -3968,7 +4066,7 @@ Session is a private messenger that aims to remove any chance of metadata collec
 > | [Category](#category) |  [instant-messaging](#17-instant-messaging) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-86-simplex
+### 0-88-simplex
 
 > see: [SimpleX Chat: private and secure messenger without any user IDs (not even random)](https://simplex.chat/)
 
@@ -3983,7 +4081,7 @@ SimpleX Chat - a private and encrypted messenger without any user IDs (not even 
 > | [Category](#category) |  [instant-messaging](#17-instant-messaging) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-87-siyuan
+### 0-89-siyuan
 
 > see: [SiYuan - Privacy-first personal knowledge management system that supports Markdown, block-level ref, and bidirectional links](https://b3log.org/siyuan/en/)
 
@@ -3998,7 +4096,7 @@ SiYuan - Privacy-first personal knowledge management system that supports Markdo
 > | [Category](#category) |  [note-taking](#19-note-taking) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-88-slack
+### 0-90-slack
 
 > see: [Slack | AI Work Platform & Productivity Tools](https://slack.com/)
 
@@ -4013,7 +4111,7 @@ Boost productivity and save time with Slack‌ — ‌the AI work platform for m
 > | [Category](#category) |  [instant-messaging](#17-instant-messaging) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-89-soutubot-search
+### 0-91-soutubot-search
 
 > see: [搜图Bot酱](https://soutubot.moe/)
 
@@ -4028,7 +4126,7 @@ Boost productivity and save time with Slack‌ — ‌the AI work platform for m
 > | [Category](#category) |  [search-engine](#24-search-engine) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-90-steam
+### 0-92-steam
 
 > see: [Welcome to Steam](https://store.steampowered.com/)
 
@@ -4043,7 +4141,7 @@ Steam is the ultimate destination for playing, discussing, and creating games.
 > | [Category](#category) |  [gamestore](#15-gamestore) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-91-tamtam
+### 0-93-tamtam
 
 > see: [About messenger | TamTam](https://about.tamtam.chat/en/)
 
@@ -4058,7 +4156,7 @@ General info about TamTam messenger
 > | [Category](#category) |  [instant-messaging](#17-instant-messaging) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-92-taptap
+### 0-94-taptap
 
 > see: [TapTap - 发现好游戏](https://www.taptap.cn/)
 
@@ -4073,7 +4171,7 @@ TapTap 专为中国手游玩家打造的推荐高品质手游的分享社区。�
 > | [Category](#category) |  [gamestore](#15-gamestore) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-93-telegram
+### 0-95-telegram
 
 > see: [Telegram Messenger](https://telegram.org/)
 
@@ -4088,7 +4186,7 @@ Fast. Secure. Powerful.
 > | [Category](#category) |  [instant-messaging](#17-instant-messaging) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-94-tencent-appstore
+### 0-96-tencent-appstore
 
 > see: [应用宝官网-全网最新最热手机应用游戏下载](https://sj.qq.com/)
 
@@ -4103,7 +4201,7 @@ Fast. Secure. Powerful.
 > | [Category](#category) |  [appstore](#3-appstore) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-95-tencent-meeting
+### 0-97-tencent-meeting
 
 > see: [腾讯会议官方——腾讯会议 会开会](https://meeting.tencent.com/)
 
@@ -4118,7 +4216,7 @@ Fast. Secure. Powerful.
 > | [Category](#category) |  [instant-messaging](#17-instant-messaging) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-96-tencent-qq
+### 0-98-tencent-qq
 
 > see: [QQ-轻松做自己](https://im.qq.com/index/)
 
@@ -4133,7 +4231,7 @@ Fast. Secure. Powerful.
 > | [Category](#category) |  [instant-messaging](#17-instant-messaging) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-97-tencent-wechat
+### 0-99-tencent-wechat
 
 > see: [WeChat - Free messaging and calling app](https://www.wechat.com/)
 
@@ -4148,7 +4246,7 @@ Available for all kinds of platforms; enjoy group chat; support voice, photo, vi
 > | [Category](#category) |  [instant-messaging](#17-instant-messaging) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-98-tencent-yuanbao
+### 0-100-tencent-yuanbao
 
 > see: [元宝-体验DeepSeek全新版-高效AI助手](https://yuanbao.tencent.com/)
 
@@ -4163,7 +4261,7 @@ Available for all kinds of platforms; enjoy group chat; support voice, photo, vi
 > | [Category](#category) |  [ai-chatbot](#2-ai-chatbot) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-99-tiddlywiki
+### 0-101-tiddlywiki
 
 > see: [TiddlyWiki  v5.3.8](https://tiddlywiki.com/)
 
@@ -4178,7 +4276,7 @@ a non-linear personal web notebook
 > | [Category](#category) |  [note-taking](#19-note-taking) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-100-tieba
+### 0-102-tieba
 
 > see: [百度贴吧——全球领先的中文社区](https://tieba.baidu.com/)
 
@@ -4193,7 +4291,7 @@ a non-linear personal web notebook
 > | [Category](#category) |  [forum](#13-forum) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-101-tor-browser
+### 0-103-tor-browser
 
 > see: [Tor Project | Download](https://www.torproject.la/en/download/)
 
@@ -4208,7 +4306,7 @@ Download | Defend yourself against tracking and surveillance. Circumvent censors
 > | [Category](#category) |  [browser](#6-browser) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-102-trae
+### 0-104-trae
 
 > see: [TRAE - The Real AI Engineer | TRAE - The Real AI Engineer](https://www.trae.cn/)
 
@@ -4223,7 +4321,7 @@ TRAE AI IDE | 国内首款 AI 原生集成开发环境，深度集成 Doubao-1.5
 > | [Category](#category) |  [editor](#10-editor) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-103-twitter
+### 0-105-twitter
 
 > see: [About X | Our company and priorities](https://about.x.com/en)
 
@@ -4238,7 +4336,7 @@ We serve the public conversation. Learn more about X the company, and how we ens
 > | [Category](#category) |  [microblogging](#18-microblogging) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-104-typora
+### 0-106-typora
 
 > see: [Typora — simple yet powerful Markdown reader.](https://typora.io/)
 
@@ -4253,7 +4351,7 @@ Typora is a cross-platform minimal markdown editor, providing seamless experienc
 > | [Category](#category) |  [editor](#10-editor) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-105-uc-browser
+### 0-107-uc-browser
 
 > see: [UC Browser](https://www.ucweb.com/index.shtml)
 
@@ -4268,7 +4366,22 @@ Download UC Browser today and enjoy a faster, safer, and more private online exp
 > | [Category](#category) |  [browser](#6-browser) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-106-vim
+### 0-108-via-browser
+
+> see: [Via浏览器官网 - 崇尚速度与简约的手机浏览器，Via官方网站](https://viayoo.com/zh-cn/)
+
+Via浏览器，让你享用简洁清爽、快速高效的手机浏览器。充分发挥广告拦截、脚本等先进技术，达到”简单””好用”的设计初衷。
+
+<img src="assets/via-browser.png" width="200">
+
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [browser](#6-browser) |
+> | [Type](#type) | [site-items](#site-items) |
+
+### 0-109-vim
 
 > see: [welcome home : vim online](https://www.vim.org/)
 
@@ -4283,7 +4396,7 @@ Vim is a highly configurable text editor built to make creating and changing any
 > | [Category](#category) |  [editor](#10-editor) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-107-visual-studio
+### 0-110-visual-studio
 
 > see: [Visual Studio: IDE and Code Editor for Software Development](https://visualstudio.microsoft.com/)
 
@@ -4298,7 +4411,7 @@ Visual Studio dev tools & services make app development easy for any developer, 
 > | [Category](#category) |  [editor](#10-editor) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-108-visual-studio-code
+### 0-111-visual-studio-code
 
 > see: [Visual Studio Code - The open source AI code editor](https://code.visualstudio.com/)
 
@@ -4313,7 +4426,7 @@ Visual Studio Code redefines AI-powered coding with GitHub Copilot for building 
 > | [Category](#category) |  [editor](#10-editor) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-109-webstorm
+### 0-112-webstorm
 
 > see: [WebStorm: The JavaScript and TypeScript IDE, by JetBrains](https://www.jetbrains.com/webstorm/)
 
@@ -4328,7 +4441,7 @@ Make development more productive and enjoyable with WebStorm, the IDE for JavaSc
 > | [Category](#category) |  [editor](#10-editor) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-110-wikihow
+### 0-113-wikihow
 
 > see: [wikiHow: How-to instructions you can trust.](https://www.wikihow.com/Main-Page)
 
@@ -4343,7 +4456,7 @@ Learn how to do anything with wikiHow, the world's most popular how-to website. 
 > | [Category](#category) |  [encyclopedia](#12-encyclopedia) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-111-wikipedia
+### 0-114-wikipedia
 
 > see: [Wikipedia](https://www.wikipedia.org/)
 
@@ -4358,7 +4471,7 @@ Wikipedia is a free online encyclopedia, created and edited by volunteers around
 > | [Category](#category) |  [encyclopedia](#12-encyclopedia) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-112-windows-os
+### 0-115-windows-os
 
 > see: [Experience the Power of AI with Windows 11 OS, Computers, & Apps | Microsoft Windows](https://www.microsoft.com/en-us/windows/)
 
@@ -4373,7 +4486,22 @@ Experience the latest Microsoft Windows 11 features. Learn how our latest Window
 > | [Category](#category) |  [operating-system](#20-operating-system) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-113-yandex-search
+### 0-116-x-browser
+
+> see: [X浏览器 | 内建支持油猴，按需扩展功能](https://www.xbext.com/)
+
+一款极简快速的手机浏览器，内建支持油猴脚本，按需增强功能
+
+<img src="assets/x-browser.png" width="200">
+
+> [!Note]
+> 
+> | | |
+> | --- | --- |
+> | [Category](#category) |  [browser](#6-browser) |
+> | [Type](#type) | [site-items](#site-items) |
+
+### 0-117-yandex-search
 
 > see: [Yandex — fast Internet search](https://yandex.com)
 
@@ -4388,7 +4516,7 @@ Yandex is a technology company that builds intelligent products and services pow
 > | [Category](#category) |  [search-engine](#24-search-engine) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-114-youtube
+### 0-118-youtube
 
 > see: [YouTube](https://www.youtube.com/)
 
@@ -4403,7 +4531,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 > | [Category](#category) |  [video-streaming](#26-video-streaming) |
 > | [Type](#type) | [site-items](#site-items) |
 
-### 0-115-zhihu
+### 0-119-zhihu
 
 > see: [知乎 - 有问题，就会有答案](https://www.zhihu.com/)
 

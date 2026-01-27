@@ -30,9 +30,15 @@ down:
   - "[[site-category-web-hosting|web-hosting]]"
 ctime: 2026-01-09T21:38:39+08:00
 mtime: 2026-01-09T21:38:39+08:00
+related:
+  - "[[site-schema|site-schema]]"
 ---
 
 # collection-site-category
+
+- [[site-schema|site-schema]]
+
+## down
 
 - [[site-category-database|database]]
 - [[site-category-cloud-disk|cloud-disk]]
