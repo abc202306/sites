@@ -162,6 +162,8 @@ down:
   - "[[site-item-json|json]]"
   - "[[site-item-yaml|yaml]]"
   - "[[site-item-ini|ini]]"
+  - "[[site-item-csv|csv]]"
+  - "[[site-item-css|css]]"
 ctime: 2026-01-09T21:38:41+08:00
 mtime: 2026-01-09T21:38:41+08:00
 related:
@@ -334,3 +336,5 @@ related:
 - [[site-item-json|json]]
 - [[site-item-yaml|yaml]]
 - [[site-item-ini|ini]]
+- [[site-item-csv|csv]]
+- [[site-item-css|css]]
