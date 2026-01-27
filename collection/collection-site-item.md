@@ -115,6 +115,8 @@ down:
   - "[[site-item-tencent-appstore|tencent-appstore]]"
   - "[[site-item-360-appstore|360-appstore]]"
   - "[[site-item-github|github]]"
+  - "[[site-item-git|git]]"
+  - "[[site-item-svn|svn]]"
   - "[[site-item-x-browser|x-browser]]"
   - "[[site-item-via-browser|via-browser]]"
   - "[[site-item-huawei-browser|huawei-browser]]"
@@ -289,6 +291,8 @@ related:
 - [[site-item-tencent-appstore|tencent-appstore]]
 - [[site-item-360-appstore|360-appstore]]
 - [[site-item-github|github]]
+- [[site-item-git|git]]
+- [[site-item-svn|svn]]
 - [[site-item-x-browser|x-browser]]
 - [[site-item-via-browser|via-browser]]
 - [[site-item-huawei-browser|huawei-browser]]
