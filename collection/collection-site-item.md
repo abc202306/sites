@@ -148,6 +148,9 @@ down:
   - "[[site-item-cmd|cmd]]"
   - "[[site-item-powershell|powershell]]"
   - "[[site-item-bash|bash]]"
+  - "[[site-item-english-language|english-language]]"
+  - "[[site-item-chinese-language|chinese-language]]"
+  - "[[site-item-japanese-language|japanese-language]]"
 ctime: 2026-01-09T21:38:41+08:00
 mtime: 2026-01-09T21:38:41+08:00
 related:
@@ -306,3 +309,6 @@ related:
 - [[site-item-cmd|cmd]]
 - [[site-item-powershell|powershell]]
 - [[site-item-bash|bash]]
+- [[site-item-english-language|english-language]]
+- [[site-item-chinese-language|chinese-language]]
+- [[site-item-japanese-language|japanese-language]]
