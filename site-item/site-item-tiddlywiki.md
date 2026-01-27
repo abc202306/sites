@@ -4,7 +4,7 @@ up:
 title: TiddlyWiki  v5.3.8
 title-slugified: tiddlywiki
 url: https://tiddlywiki.com/
-icon: "[[tiddly-wiki.png]]"
+icon: "[[site-item-tiddly-wiki.png]]"
 description: a non-linear personal web notebook
 categories:
   - "[[site-category-note-taking|note-taking]]"
@@ -20,4 +20,4 @@ mtime: 2026-01-09T22:49:25+08:00
 
 a non-linear personal web notebook
 
-<img src="../assets/tiddly-wiki.png" width=200>
+<img src="../assets/site-item-tiddly-wiki.png" width=200>

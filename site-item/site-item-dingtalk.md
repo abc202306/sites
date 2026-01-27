@@ -4,7 +4,7 @@ up:
 title: DingTalk, Make It Happen
 title-slugified:
 url: https://www.dingtalk.com/en
-icon: "[[dingtalk.png]]"
+icon: "[[site-item-dingtalk.png]]"
 description: DingTalk — The AI Workplace Platform for Teams; DingTalk is an AI-powered collaboration platform trusted by over 700 million users and 26 million organizations worldwide.
 categories:
   - "[[site-category-instant-messaging|instant-messaging]]"
@@ -20,4 +20,4 @@ mtime: 2026-01-10T22:19:22+08:00
 
 DingTalk — The AI Workplace Platform for Teams; DingTalk is an AI-powered collaboration platform trusted by over 700 million users and 26 million organizations worldwide.
 
-<img src="../assets/dingtalk.png" width=200>
+<img src="../assets/site-item-dingtalk.png" width=200>

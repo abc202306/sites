@@ -4,7 +4,7 @@ up:
 title: QQ游戏_QQ游戏大全_游戏下载_QQ游戏官网
 title-slugified: qqgame
 url: https://qqgame.qq.com/
-icon: "[[qqgame.png]]"
+icon: "[[site-item-qqgame.png]]"
 description: QQ游戏大厅官网，下载QQ游戏大厅，玩QQ游戏全游戏；
 categories:
   - "[[site-category-gamestore|gamestore]]"
@@ -20,4 +20,4 @@ mtime: 2026-01-10T23:04:44+08:00
 
 QQ游戏大厅官网，下载QQ游戏大厅，玩QQ游戏全游戏；
 
-<img src="../assets/qqgame.png" width=200>
+<img src="../assets/site-item-qqgame.png" width=200>

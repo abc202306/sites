@@ -4,7 +4,7 @@ up:
 title: Download Android Studio & App Tools - Android Developers
 title-slugified: android-studio
 url: https://developer.android.com/studio
-icon: "[[android-studio.png]]"
+icon: "[[site-item-android-studio.png]]"
 description: Android Studio provides app builders with an integrated development environment (IDE) optimized for Android apps. Download Android Studio today.
 categories:
   - "[[site-category-editor|editor]]"
@@ -20,4 +20,4 @@ mtime: 2026-01-10T21:22:43+08:00
 
 Android Studio provides app builders with an integrated development environment (IDE) optimized for Android apps. Download Android Studio today.
 
-<img src="../assets/android-studio.png" width=200>
+<img src="../assets/site-item-android-studio.png" width=200>

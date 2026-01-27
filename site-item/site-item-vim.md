@@ -4,7 +4,7 @@ up:
 title: "welcome home : vim online"
 title-slugified: vim
 url: https://www.vim.org/
-icon: "[[vim.png]]"
+icon: "[[site-item-vim.png]]"
 description: Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient. It is included as "vi" with most UNIX systems and with Apple OS X.
 categories:
   - "[[site-category-editor|editor]]"
@@ -20,4 +20,4 @@ mtime: 2026-01-10T21:11:35+08:00
 
 Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient. It is included as "vi" with most UNIX systems and with Apple OS X.
 
-<img src="../assets/vim.png" width=200>
+<img src="../assets/site-item-vim.png" width=200>

@@ -4,7 +4,7 @@ up:
 title: Telegram Messenger
 title-slugified: telegram
 url: https://telegram.org/
-icon: "[[telegram.png]]"
+icon: "[[site-item-telegram.png]]"
 description: Fast. Secure. Powerful.
 categories:
   - "[[site-category-instant-messaging|instant-messaging]]"
@@ -20,4 +20,4 @@ Fast. Secure. Powerful.
 
 > see: [Telegram Messenger](https://telegram.org/)
 
-<img src="../assets/telegram.png" width=200>
+<img src="../assets/site-item-telegram.png" width=200>

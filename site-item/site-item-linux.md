@@ -4,7 +4,7 @@ up:
 title: Download Linux | Linux.org
 title-slugified: linux
 url: https://www.linux.org/pages/download/
-icon: "[[linux-os.png]]"
+icon: "[[site-item-linux-os.png]]"
 description: Links to popular distribution download pages
 categories:
   - "[[site-category-operating-system|operating-system]]"
@@ -20,4 +20,4 @@ mtime: 2026-01-10T22:33:32+08:00
 
 Links to popular distribution download pages
 
-<img src="../assets/linux-os.png" width=200>
+<img src="../assets/site-item-linux-os.png" width=200>

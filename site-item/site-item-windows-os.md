@@ -4,7 +4,7 @@ up:
 title: Experience the Power of AI with Windows 11 OS, Computers, & Apps | Microsoft Windows
 title-slugified: windows-os
 url: https://www.microsoft.com/en-us/windows/
-icon: "[[windows-os.png]]"
+icon: "[[site-item-windows-os.png]]"
 description: Experience the latest Microsoft Windows 11 features. Learn how our latest Windows OS gives you more ways to work, play, and create.
 categories:
   - "[[site-category-operating-system|operating-system]]"
@@ -20,4 +20,4 @@ mtime: 2026-01-10T22:28:50+08:00
 
 Experience the latest Microsoft Windows 11 features. Learn how our latest Windows OS gives you more ways to work, play, and create.
 
-<img src="../assets/windows-os.png" width=200>
+<img src="../assets/site-item-windows-os.png" width=200>

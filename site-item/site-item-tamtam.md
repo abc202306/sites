@@ -4,7 +4,7 @@ up:
 title: About messenger | TamTam
 title-slugified: tamtam
 url: https://about.tamtam.chat/en/
-icon: "[[tamtam.png]]"
+icon: "[[site-item-tamtam.png]]"
 description: General info about TamTam messenger
 categories:
   - "[[site-category-instant-messaging|instant-messaging]]"
@@ -20,4 +20,4 @@ mtime: 2026-01-10T22:08:48+08:00
 
 General info about TamTam messenger
 
-<img src="../assets/tamtam.png" width=200>
+<img src="../assets/site-item-tamtam.png" width=200>

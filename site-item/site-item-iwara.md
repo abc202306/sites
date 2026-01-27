@@ -4,7 +4,7 @@ up:
 title: Iwara.tv will return
 title-slugified: iwara
 url: https://iwara.tv/
-icon: "[[iwara.png]]"
+icon: "[[site-item-iwara.png]]"
 description: Iwara.tv is niche website for MMD (MikuMikuDance) and R18 models.
 categories:
   - "[[site-category-video-streaming|video-streaming]]"
@@ -22,4 +22,4 @@ mtime: 2026-01-10T22:46:46+08:00
 
 Iwara.tv is niche website for MMD (MikuMikuDance) and R18 models.
 
-<img src="../assets/iwara.png" width=200>
+<img src="../assets/site-item-iwara.png" width=200>

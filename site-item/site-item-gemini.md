@@ -4,7 +4,7 @@ up:
 title: Google Gemini
 title-slugified: gemini
 url: https://gemini.google.com/app
-icon: "[[gemini.png]]"
+icon: "[[site-item-gemini.png]]"
 description: Meet Gemini, Google’s AI assistant. Get help with writing, planning, brainstorming, and more. Experience the power of generative AI.
 categories:
   - "[[site-category-ai-chatbot|ai-chatbot]]"
@@ -20,4 +20,4 @@ mtime: 2026-01-10T20:18:06+08:00
 
 Meet Gemini, Google’s AI assistant. Get help with writing, planning, brainstorming, and more. Experience the power of generative AI.
 
-<img src="../assets/gemini.png" width=200>
+<img src="../assets/site-item-gemini.png" width=200>

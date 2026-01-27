@@ -4,7 +4,7 @@ up:
 title: "APKPure: Download APK on Android with Free APK Downloader"
 title-slugified: apkpure
 url: https://apkpure.com/
-icon: "[[apkpure.png]]"
+icon: "[[site-item-apkpure.png]]"
 description: APKPure is a free APK downloader for Android. It is safe, reliable, and virus-free. Use APKPure to easily download trending apps and games, and install APK/XAPK files to your Android device.
 categories:
   - "[[site-category-appstore|appstore]]"
@@ -20,4 +20,4 @@ mtime: 2026-01-10T23:15:45+08:00
 
 APKPure is a free APK downloader for Android. It is safe, reliable, and virus-free. Use APKPure to easily download trending apps and games, and install APK/XAPK files to your Android device.
 
-<img src="../assets/apkpure.png" width=200>
+<img src="../assets/site-item-apkpure.png" width=200>

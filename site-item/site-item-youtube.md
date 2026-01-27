@@ -4,7 +4,7 @@ up:
 title: YouTube
 title-slugified: youtube
 url: https://www.youtube.com/
-icon: "[[youtube.png]]"
+icon: "[[site-item-youtube.png]]"
 description: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 categories:
   - "[[site-category-video-streaming|video-streaming]]"
@@ -20,4 +20,4 @@ mtime: 2026-01-10T14:29:56+08:00
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-<img src="../assets/youtube.png" width=200>
+<img src="../assets/site-item-youtube.png" width=200>

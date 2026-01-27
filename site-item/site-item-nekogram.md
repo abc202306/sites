@@ -4,7 +4,7 @@ up:
 title: Nekogram | Open-source third-party Telegram client with few but useful mods
 title-slugified: nekogram
 url: https://nekogram.app/
-icon: "[[nekogram.png]]"
+icon: "[[site-item-nekogram.png]]"
 description: Open-source third-party Telegram client with few but useful mods
 categories:
   - "[[site-category-instant-messaging|instant-messaging]]"
@@ -18,4 +18,4 @@ mtime: 2026-01-10T22:26:02+08:00
 
 Open-source third-party Telegram client with few but useful mods
 
-<img src="../assets/nekogram.png" width=200>
+<img src="../assets/site-item-nekogram.png" width=200>

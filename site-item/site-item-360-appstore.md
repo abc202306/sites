@@ -4,7 +4,7 @@ up:
 title: 360手机助手
 title-slugified: 360-appstore
 url: https://sj.360.cn/index.html
-icon: "[[360-appstore.png]]"
+icon: "[[site-item-360-appstore.png]]"
 description: 360手机助手，8亿用户使用的安卓应用分发平台，年轻人都爱玩的手机助手。
 categories:
   - "[[site-category-appstore|appstore]]"
@@ -20,4 +20,4 @@ mtime: 2026-01-10T23:29:10+08:00
 
 360手机助手，8亿用户使用的安卓应用分发平台，年轻人都爱玩的手机助手。
 
-<img src="../assets/360-appstore.png" width=200>
+<img src="../assets/site-item-360-appstore.png" width=200>

@@ -4,7 +4,7 @@ up:
 title: HBuilderX - a superpowered IDE for Vue
 title-slugified: hbuilder
 url: https://www.dcloud.io/hbuilderx.html
-icon: "[[hbuilder.png]]"
+icon: "[[site-item-hbuilder.png]]"
 description: HBuilderX is the fastest HTML development tool. Powerful code assistant helps you complete development quickly. The complete syntax library and browser compatibility function will improve your development efficiency.
 categories:
   - "[[site-category-editor|editor]]"
@@ -20,4 +20,4 @@ mtime: 2026-01-10T21:27:27+08:00
 
 HBuilderX is the fastest HTML development tool. Powerful code assistant helps you complete development quickly. The complete syntax library and browser compatibility function will improve your development efficiency.
 
-<img src="../assets/hbuilder.png" width=200>
+<img src="../assets/site-item-hbuilder.png" width=200>

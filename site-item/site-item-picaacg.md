@@ -4,7 +4,7 @@ up:
 title: 嗶咔漫畫
 title-slugified: picaacg
 url: https://www.picacomic.com/
-icon: "[[picaacg.png]]"
+icon: "[[site-item-picaacg.png]]"
 description: 嗶咔漫畫讓你可以輕鬆看到不同的本子，介面美觀易用，分類齊全，每天更新，紳士必備！
 categories:
   - "[[site-category-acg|acg]]"
@@ -24,4 +24,4 @@ mtime: 2026-01-09T22:06:44+08:00
 
 嗶咔漫畫讓你可以輕鬆看到不同的本子，介面美觀易用，分類齊全，每天更新，紳士必備！
 
-<img src="../assets/picaacg.png" width=200>
+<img src="../assets/site-item-picaacg.png" width=200>

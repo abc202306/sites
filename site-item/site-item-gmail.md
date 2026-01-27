@@ -4,7 +4,7 @@ up:
 title: "Gmail: Private and secure email at no cost | Google Workspace"
 title-slugified: gmail
 url: https://workspace.google.com/gmail/
-icon: "[[gmail.png]]"
+icon: "[[site-item-gmail.png]]"
 description: Discover how Gmail keeps your account & emails encrypted, private and under your control with the largest secure email service in the world.
 categories:
   - "[[site-category-email|email]]"
@@ -20,4 +20,4 @@ mtime: 2026-01-10T14:06:52+08:00
 
 Discover how Gmail keeps your account & emails encrypted, private and under your control with the largest secure email service in the world.
 
-<img src="../assets/gmail.png" width=200>
+<img src="../assets/site-item-gmail.png" width=200>

@@ -4,7 +4,7 @@ up:
 title: にじみす.moe
 title-slugified: nijimiss
 url: https://nijimiss.moe/
-icon: "[[nijimiss.png]]"
+icon: "[[site-item-nijimiss.png]]"
 description: 💞あらゆる好きが交差する💞<br> 好きを語れるオープンコミュニティ<br><br>好きなことを堂々と胸を張って好きといえる空間を作りたい。<br>そういった思いから生まれたSNSです。
 categories:
   - "[[site-category-microblogging|microblogging]]"
@@ -20,4 +20,4 @@ mtime: 2026-01-10T14:04:08+08:00
 
 💞あらゆる好きが交差する💞<br> 好きを語れるオープンコミュニティ<br><br>好きなことを堂々と胸を張って好きといえる空間を作りたい。<br>そういった思いから生まれたSNSです。
 
-<img src="../assets/nijimiss.png" width=200>
+<img src="../assets/site-item-nijimiss.png" width=200>

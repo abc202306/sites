@@ -4,7 +4,7 @@ up:
 title: GNU Emacs - GNU Project
 title-slugified: emacs
 url: https://www.gnu.org/software/emacs/
-icon: "[[emacs.png]]"
+icon: "[[site-item-emacs.png]]"
 description: An extensible, customizable, free/libre text editor — and more. At its core is an interpreter for Emacs Lisp, a dialect of the Lisp programming language with extensions to support text editing.
 categories:
   - "[[site-category-editor|editor]]"
@@ -20,4 +20,4 @@ mtime: 2026-01-11T16:12:56+08:00
 
 An extensible, customizable, free/libre text editor — and more. At its core is an interpreter for Emacs Lisp, a dialect of the Lisp programming language with extensions to support text editing.
 
-<img src="../assets/emacs.png" width=200>
+<img src="../assets/site-item-emacs.png" width=200>

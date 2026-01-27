@@ -4,7 +4,7 @@ up:
 title: X浏览器 | 内建支持油猴，按需扩展功能
 title-slugified: x-browser
 url: https://www.xbext.com/
-icon: "[[x-browser.png]]"
+icon: "[[site-item-x-browser.png]]"
 description: 一款极简快速的手机浏览器，内建支持油猴脚本，按需增强功能
 categories:
   - "[[site-category-browser|browser]]"
@@ -20,4 +20,4 @@ mtime: 2026-01-19T05:51:11+08:00
 
 一款极简快速的手机浏览器，内建支持油猴脚本，按需增强功能
 
-<img src="../assets/x-browser.png" width=200>
+<img src="../assets/site-item-x-browser.png" width=200>

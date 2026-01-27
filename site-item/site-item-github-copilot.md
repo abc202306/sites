@@ -4,7 +4,7 @@ up:
 title: GitHub Copilot · Your AI pair programmer
 title-slugified: github-copilot
 url: https://github.com/features/copilot
-icon: "[[github-copilot-icon.svg]]"
+icon: "[[site-item-github-copilot-icon.svg]]"
 description: GitHub Copilot works alongside you directly in your editor, suggesting whole lines or entire functions for you.
 categories:
   - "[[site-category-ai-chatbot|ai-chatbot]]"
@@ -20,4 +20,4 @@ mtime: 2026-01-10T20:30:46+08:00
 
 GitHub Copilot works alongside you directly in your editor, suggesting whole lines or entire functions for you.
 
-<img src="../assets/github-copilot-icon.svg" width=200>
+<img src="../assets/site-item-github-copilot-icon.svg" width=200>

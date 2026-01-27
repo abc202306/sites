@@ -4,7 +4,7 @@ up:
 title: 囧次元
 title-slugified: jiong-ci-yuan
 url: https://jcyapp.org/
-icon: "[[jcyapp-org.png]]"
+icon: "[[site-item-jcyapp-org.png]]"
 description: Jiongciyuan (囧次元) is an Android video streaming app focused on Japanese animation, allowing for real-time comments and interaction.  You can avoid frequent ads by watching free advertisements to earn temporary membership.
 categories:
   - "[[site-category-acg|acg]]"
@@ -21,5 +21,5 @@ mtime: 2026-01-09T21:24:35+08:00
 
 Jiongciyuan (囧次元) is an Android video streaming app focused on Japanese animation, allowing for real-time comments and interaction.  You can avoid frequent ads by watching free advertisements to earn temporary membership.
 
-<img src="../assets/jcyapp-org.png" width=200>
+<img src="../assets/site-item-jcyapp-org.png" width=200>
 

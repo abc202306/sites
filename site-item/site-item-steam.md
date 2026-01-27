@@ -4,7 +4,7 @@ up:
 title: Welcome to Steam
 title-slugified: steam
 url: https://store.steampowered.com/
-icon: "[[steam.png]]"
+icon: "[[site-item-steam.png]]"
 description: Steam is the ultimate destination for playing, discussing, and creating games.
 categories:
   - "[[site-category-gamestore|gamestore]]"
@@ -20,4 +20,4 @@ mtime: 2026-01-10T23:02:31+08:00
 
 Steam is the ultimate destination for playing, discussing, and creating games.
 
-<img src="../assets/steam.png" width=200>
+<img src="../assets/site-item-steam.png" width=200>

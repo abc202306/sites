@@ -4,7 +4,7 @@ up:
 title: "nhentai: hentai doujinshi and manga"
 title-slugified: nhentai
 url: https://nhentai.net/
-icon: "[[nhentai.png]]"
+icon: "[[site-item-nhentai.png]]"
 description: "nhentai is a free hentai manga and doujinshi reader with over 575,000 galleries to read and download. "
 categories:
   - "[[site-category-acg|acg]]"
@@ -23,4 +23,4 @@ mtime: 2026-01-09T21:55:33+08:00
 
 nhentai is a free hentai manga and doujinshi reader with over 575,000 galleries to read and download. 
 
-<img src="../assets/nhentai.png" width=200> 
+<img src="../assets/site-item-nhentai.png" width=200> 

@@ -4,7 +4,7 @@ up:
 title: Obsidian - Sharpen your thinking
 title-slugified: obsidian
 url: https://obsidian.md/
-icon: "[[obsidian.png]]"
+icon: "[[site-item-obsidian.png]]"
 description: The free and flexible app for your private thoughts.
 categories:
   - "[[site-category-note-taking|note-taking]]"
@@ -20,4 +20,4 @@ mtime: 2026-01-09T22:43:34+08:00
 
 The free and flexible app for your private thoughts.
 
-<img src="../assets/obsidian.png" width=200>
+<img src="../assets/site-item-obsidian.png" width=200>

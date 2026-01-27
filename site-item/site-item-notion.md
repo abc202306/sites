@@ -4,7 +4,7 @@ up:
 title: The AI workspace that works for you. | Notion
 title-slugified: notion
 url: https://www.notion.com/product
-icon: "[[notion.png]]"
+icon: "[[site-item-notion.png]]"
 description: Build custom agents, search across all your apps, and automate busywork. The AI workspace where teams get more done, faster.
 categories:
   - "[[site-category-note-taking|note-taking]]"
@@ -21,4 +21,4 @@ mtime: 2026-01-09T22:55:08+08:00
 Build custom agents, search across all your apps, and automate busywork. The AI workspace where teams get 
 more done, faster.
 
-<img src="../assets/notion.png" width=200>
+<img src="../assets/site-item-notion.png" width=200>

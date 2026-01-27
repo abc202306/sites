@@ -4,7 +4,7 @@ up:
 title: Yandex — fast Internet search
 title-slugified: yandex-search
 url: https://yandex.com
-icon: "[[yandex-search.png]]"
+icon: "[[site-item-yandex-search.png]]"
 description: Yandex is a technology company that builds intelligent products and services powered by machine learning.
 categories:
   - "[[site-category-search-engine|search-engine]]"
@@ -20,4 +20,4 @@ mtime: 2026-01-09T23:06:38+08:00
 
 Yandex is a technology company that builds intelligent products and services powered by machine learning.
 
-<img src="../assets/yandex-search.png" width=200>
+<img src="../assets/site-item-yandex-search.png" width=200>

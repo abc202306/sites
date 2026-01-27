@@ -4,7 +4,7 @@ up:
 title: ChatGPT
 title-slugified: chatgpt
 url: https://chatgpt.com/
-icon: "[[chatgpt.png]]"
+icon: "[[site-item-chatgpt.png]]"
 description: ChatGPT helps you get answers, find inspiration, and be more productive.
 categories:
   - "[[site-category-ai-chatbot|ai-chatbot]]"
@@ -20,4 +20,4 @@ mtime: 2026-01-10T20:11:49+08:00
 
 ChatGPT helps you get answers, find inspiration, and be more productive.
 
-<img src="../assets/chatgpt.png" width=200>
+<img src="../assets/site-item-chatgpt.png" width=200>

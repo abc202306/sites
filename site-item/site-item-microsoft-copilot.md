@@ -4,7 +4,7 @@ up:
 title: "Microsoft Copilot: Your AI companion"
 title-slugified: microsoft-copilot
 url: https://copilot.microsoft.com/
-icon: "[[microsoft-copilot.png]]"
+icon: "[[site-item-microsoft-copilot.png]]"
 description: Microsoft Copilot is your companion to inform, entertain and inspire. Get advice, feedback and straightforward answers. Try Copilot now.
 categories:
   - "[[site-category-ai-chatbot|ai-chatbot]]"
@@ -20,4 +20,4 @@ mtime: 2026-01-10T20:01:47+08:00
 
 Microsoft Copilot is your companion to inform, entertain and inspire. Get advice, feedback and straightforward answers. Try Copilot now.
 
-<img src="../assets/microsoft-copilot.png" width=200>
+<img src="../assets/site-item-microsoft-copilot.png" width=200>

@@ -4,7 +4,7 @@ up:
 title: Typora — simple yet powerful Markdown reader.
 title-slugified: typora
 url: https://typora.io/
-icon: "[[typora.png]]"
+icon: "[[site-item-typora.png]]"
 description: Typora is a cross-platform minimal markdown editor, providing seamless experience for both markdown readers and writers.
 categories:
   - "[[site-category-editor|editor]]"
@@ -20,4 +20,4 @@ mtime: 2026-01-10T19:51:32+08:00
 
 Typora is a cross-platform minimal markdown editor, providing seamless experience for both markdown readers and writers.
 
-<img src="../assets/typora.png" width=200>
+<img src="../assets/site-item-typora.png" width=200>

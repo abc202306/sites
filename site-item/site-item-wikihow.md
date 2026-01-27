@@ -4,7 +4,7 @@ up:
 title: "wikiHow: How-to instructions you can trust."
 title-slugified: wikihow
 url: https://www.wikihow.com/Main-Page
-icon: "[[wikihow.png]]"
+icon: "[[site-item-wikihow.png]]"
 description: Learn how to do anything with wikiHow, the world's most popular how-to website. Easy, well-researched, and trustworthy instructions for everything you want to know.
 categories:
   - "[[site-category-encyclopedia|encyclopedia]]"
@@ -20,4 +20,4 @@ mtime: 2026-01-09T22:34:15+08:00
 
 Learn how to do anything with wikiHow, the world's most popular how-to website. Easy, well-researched, and trustworthy instructions for everything you want to know.
 
-<img src="../assets/wikihow.png" width=200>
+<img src="../assets/site-item-wikihow.png" width=200>

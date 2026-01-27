@@ -4,7 +4,7 @@ up:
 title: 元宝-体验DeepSeek全新版-高效AI助手
 title-slugified: tencent-yuanbao
 url: https://yuanbao.tencent.com/
-icon: "[[tencent-yuanbao.png]]"
+icon: "[[site-item-tencent-yuanbao.png]]"
 description: 来元宝，感受「DeepSeek+」智能新体验！联网搜索公众号、视频号等优质腾讯生态信源，搜得更准、答得更全；智能识图、拍题答疑等丰富能力，让工作学习生活更轻松高效
 categories:
   - "[[site-category-ai-chatbot|ai-chatbot]]"
@@ -20,4 +20,4 @@ mtime: 2026-01-10T20:42:43+08:00
 
 来元宝，感受「DeepSeek+」智能新体验！联网搜索公众号、视频号等优质腾讯生态信源，搜得更准、答得更全；智能识图、拍题答疑等丰富能力，让工作学习生活更轻松高效
 
-<img src="../assets/tencent-yuanbao.png" width=200>
+<img src="../assets/site-item-tencent-yuanbao.png" width=200>

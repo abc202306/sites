@@ -4,7 +4,7 @@ up:
 title: H萌娘:关于 - H萌娘
 title-slugified: hmoegirl
 url: https://hmoegirl.cyou/zh-hans/H%E8%90%8C%E5%A8%98:%E5%85%B3%E4%BA%8E
-icon: "[[hmoegirl-encyclopedia.png]]"
+icon: "[[site-item-hmoegirl-encyclopedia.png]]"
 description: H萌娘是一个关于H萌的wiki。 <br>H萌娘的收录的条目要满足两点：既属于**H**（hentai/エロ）又属于**萌**（二次元）。 <br>目前主要由 User:BakeWater 为H萌娘提供服务器方面的支持。
 categories:
   - "[[site-category-encyclopedia|encyclopedia]]"
@@ -21,4 +21,4 @@ mtime: 2026-01-09T22:32:42+08:00
 
 H萌娘是一个关于H萌的wiki。 <br>H萌娘的收录的条目要满足两点：既属于**H**（hentai/エロ）又属于**萌**（二次元）。 <br>目前主要由 User:BakeWater 为H萌娘提供服务器方面的支持。
 
-<img src="../assets/hmoegirl-encyclopedia.png" width=200>
+<img src="../assets/site-item-hmoegirl-encyclopedia.png" width=200>

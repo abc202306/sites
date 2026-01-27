@@ -4,7 +4,7 @@ up:
 title: Tor Project | Download
 title-slugified: tor-browser
 url: https://www.torproject.la/en/download/
-icon: "[[tor-browser.png]]"
+icon: "[[site-item-tor-browser.png]]"
 description: Download | Defend yourself against tracking and surveillance. Circumvent censorship.
 categories:
   - "[[site-category-browser|browser]]"
@@ -20,4 +20,4 @@ mtime: 2026-01-09T23:33:54+08:00
 
 Download | Defend yourself against tracking and surveillance. Circumvent censorship.
 
-<img src="../assets/tor-browser.png" width=200>
+<img src="../assets/site-item-tor-browser.png" width=200>

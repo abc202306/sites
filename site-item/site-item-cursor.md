@@ -4,7 +4,7 @@ up:
 title: Cursor
 title-slugified: cursor
 url: https://cursor.com/
-icon: "[[cursor-ai.png]]"
+icon: "[[site-item-cursor-ai.png]]"
 description: Built to make you extraordinarily productive, Cursor is the best way to code with AI.
 categories:
   - "[[site-category-editor|editor]]"
@@ -20,4 +20,4 @@ mtime: 2026-01-10T21:33:11+08:00
 
 Built to make you extraordinarily productive, Cursor is the best way to code with AI.
 
-<img src="../assets/cursor-ai.png" width=200>
+<img src="../assets/site-item-cursor-ai.png" width=200>

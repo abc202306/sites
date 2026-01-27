@@ -4,7 +4,7 @@ up:
 title: OS - iOS 26 - Apple
 title-slugified: ios
 url: https://www.apple.com/os/ios/
-icon: "[[ios.png]]"
+icon: "[[site-item-ios.png]]"
 description: iOS 26 for iPhone with a new design, more helpful Apple Intelligence, polls and backgrounds in Messages, and features that make every day effortless.
 categories:
   - "[[site-category-operating-system|operating-system]]"
@@ -20,4 +20,4 @@ mtime: 2026-01-10T22:36:06+08:00
 
 iOS 26 for iPhone with a new design, more helpful Apple Intelligence, polls and backgrounds in Messages, and features that make every day effortless.
 
-<img src="../assets/ios.png" width=200>
+<img src="../assets/site-item-ios.png" width=200>

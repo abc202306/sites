@@ -4,7 +4,7 @@ up:
 title: Kimi - K2长思考上线
 title-slugified: kimi
 url: https://www.kimi.com/
-icon: "[[kimi.png]]"
+icon: "[[site-item-kimi.png]]"
 description: Kimi K2长思考模式来了！支持多轮工具调用与思考，擅长数理逻辑难题，让搜索更广更准，帮你把想法化为清晰、富于创意、可用性高的文字与代码
 categories:
   - "[[site-category-ai-chatbot|ai-chatbot]]"
@@ -20,4 +20,4 @@ mtime: 2026-01-10T20:58:37+08:00
 
 Kimi K2长思考模式来了！支持多轮工具调用与思考，擅长数理逻辑难题，让搜索更广更准，帮你把想法化为清晰、富于创意、可用性高的文字与代码
 
-<img src="../assets/kimi.png" width=200>
+<img src="../assets/site-item-kimi.png" width=200>

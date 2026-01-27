@@ -4,7 +4,7 @@ up:
 title: 免費A漫 - 禁漫天堂
 title-slugified: jmcomic
 url: https://18comic.vip/
-icon: "[[jmcomic.png]]"
+icon: "[[site-item-jmcomic.png]]"
 description: 免費A漫 - 免費成人H漫線上看
 categories:
   - "[[site-category-acg|acg]]"
@@ -23,4 +23,4 @@ mtime: 2026-01-09T22:00:52+08:00
 
 免費A漫 - 免費成人H漫線上看
 
-<img src="../assets/jmcomic.png" width=200>
+<img src="../assets/site-item-jmcomic.png" width=200>

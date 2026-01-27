@@ -4,7 +4,7 @@ up:
 title: GitHub · Change is constant. GitHub keeps you ahead.
 title-slugified: github
 url: https://github.com/home
-icon: "[[github.png]]"
+icon: "[[site-item-github.png]]"
 description: Join the world's most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.
 categories:
   - "[[site-category-web-hosting|web-hosting]]"
@@ -21,4 +21,4 @@ mtime: 2026-01-11T16:30:33+08:00
 
 Join the world's most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.
 
-<img src="../assets/github.png" width=200>
+<img src="../assets/site-item-github.png" width=200>

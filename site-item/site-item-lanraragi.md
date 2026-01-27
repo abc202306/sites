@@ -4,7 +4,7 @@ up:
 title: "Difegue/LANraragi: Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers."
 title-slugified: lanraragi
 url: https://github.com/Difegue/LANraragi
-icon: "[[lanraragi.png]]"
+icon: "[[site-item-lanraragi.png]]"
 description: 'application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.<br><br>`{"link":"lrr.tvc-16.science","Topics": "docker server perl management manga comics reader mojolicious opds doujinshi nas hacktoberfest sadpanda"}`'
 categories:
   - "[[site-category-acg|acg]]"
@@ -21,4 +21,4 @@ mtime: 2026-01-09T22:19:24+08:00
 
 application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.<br><br>`{"link":"lrr.tvc-16.science","Topics": "docker server perl management manga comics reader mojolicious opds doujinshi nas hacktoberfest sadpanda"}`
 
-<img src="../assets/lanraragi.png" width=200>
+<img src="../assets/site-item-lanraragi.png" width=200>

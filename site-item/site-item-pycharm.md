@@ -4,7 +4,7 @@ up:
 title: "PyCharm: The only Python IDE you need"
 title-slugified: pycharm
 url: https://www.jetbrains.com/pycharm/
-icon: "[[pycharm.png]]"
+icon: "[[site-item-pycharm.png]]"
 description: Built for web, data, and AI/ML professionals. Supercharged with an AI-enhanced IDE experience.
 categories:
   - "[[site-category-editor|editor]]"
@@ -20,4 +20,4 @@ mtime: 2026-01-10T21:17:42+08:00
 
 Built for web, data, and AI/ML professionals. Supercharged with an AI-enhanced IDE experience.
 
-<img src="../assets/pycharm.png" width=200>
+<img src="../assets/site-item-pycharm.png" width=200>

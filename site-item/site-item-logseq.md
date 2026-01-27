@@ -4,7 +4,7 @@ up:
 title: "Logseq: A privacy-first, open-source knowledge base"
 title-slugified: logseq
 url: https://logseq.com/
-icon: "[[logseq.png]]"
+icon: "[[site-item-logseq.png]]"
 description: A privacy-first, open-source platform for knowledge management and collaboration.
 categories:
   - "[[site-category-note-taking|note-taking]]"
@@ -20,4 +20,4 @@ mtime: 2026-01-09T22:47:14+08:00
 
 A privacy-first, open-source platform for knowledge management and collaboration.
 
-<img src="../assets/logseq.png" width=200>
+<img src="../assets/site-item-logseq.png" width=200>

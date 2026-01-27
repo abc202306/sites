@@ -4,7 +4,7 @@ up:
 title: WeChat - Free messaging and calling app
 title-slugified: tencent-wechat
 url: https://www.wechat.com/
-icon: "[[tencent-wechat.png]]"
+icon: "[[site-item-tencent-wechat.png]]"
 description: Available for all kinds of platforms; enjoy group chat; support voice, photo, video and text messages.
 categories:
   - "[[site-category-instant-messaging|instant-messaging]]"
@@ -20,4 +20,4 @@ mtime: 2026-01-10T14:52:01+08:00
 
 Available for all kinds of platforms; enjoy group chat; support voice, photo, video and text messages.
 
-<img src="../assets/tencent-wechat.png" width=200>
+<img src="../assets/site-item-tencent-wechat.png" width=200>

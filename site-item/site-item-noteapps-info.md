@@ -4,7 +4,7 @@ up:
 title: "NoteApps.info: 41 best note taking apps analyzed over 343 features"
 title-slugified: noteapps-info
 url: https://noteapps.info/
-icon: "[[noteapps-info.png]]"
+icon: "[[site-item-noteapps-info.png]]"
 description: "Encyclopedia of note taking apps: Screenshots, feature lists, and pricing for popular note taking apps."
 categories:
   - "[[site-category-encyclopedia|encyclopedia]]"
@@ -20,4 +20,4 @@ mtime: 2026-01-09T22:38:00+08:00
 
 Encyclopedia of note taking apps: Screenshots, feature lists, and pricing for popular note taking apps.
 
-<img src="../assets/noteapps-info.png" width=200>
+<img src="../assets/site-item-noteapps-info.png" width=200>

@@ -4,7 +4,7 @@ up:
 title: "WebStorm: The JavaScript and TypeScript IDE, by JetBrains"
 title-slugified: webstorm
 url: https://www.jetbrains.com/webstorm/
-icon: "[[webstorm.png]]"
+icon: "[[site-item-webstorm.png]]"
 description: Make development more productive and enjoyable with WebStorm, the IDE for JavaScript and related technologies.
 categories:
   - "[[site-category-editor|editor]]"
@@ -20,4 +20,4 @@ mtime: 2026-01-10T21:19:59+08:00
 
 Make development more productive and enjoyable with WebStorm, the IDE for JavaScript and related technologies.
 
-<img src="../assets/webstorm.png" width=200>
+<img src="../assets/site-item-webstorm.png" width=200>

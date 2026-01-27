@@ -4,7 +4,7 @@ up:
 title: Claude
 title-slugified: claude
 url: https://claude.ai/onboarding
-icon: "[[claude.png]]"
+icon: "[[site-item-claude.png]]"
 description: Talk with Claude, an AI assistant from Anthropic
 categories:
   - "[[site-category-ai-chatbot|ai-chatbot]]"
@@ -20,4 +20,4 @@ mtime: 2026-01-10T20:26:52+08:00
 
 Talk with Claude, an AI assistant from Anthropic
 
-<img src="../assets/claude.png" width=200>
+<img src="../assets/site-item-claude.png" width=200>

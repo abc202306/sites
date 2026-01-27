@@ -4,7 +4,7 @@ up:
 title: F-Droid - Free and Open Source Android App Repository
 title-slugified: f-driod
 url: https://f-droid.org/
-icon: "[[f-droid.png]]"
+icon: "[[site-item-f-droid.png]]"
 description: F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
 categories:
   - "[[site-category-appstore|appstore]]"
@@ -20,4 +20,4 @@ mtime: 2026-01-10T23:23:50+08:00
 
 F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
 
-<img src="../assets/f-droid.png" width=200>
+<img src="../assets/site-item-f-droid.png" width=200>

@@ -4,7 +4,7 @@ up:
 title: AniDB
 title-slugified: anidb
 url: https://anidb.net/
-icon: "[[anidb.png]]"
+icon: "[[site-item-anidb.png]]"
 description: Looking for information about Anime? AniDB is the right place for you. AniDB is a not-for-profit anime database providing you with all information reg...
 categories:
   - "[[site-category-acg|acg]]"
@@ -21,4 +21,4 @@ mtime: 2026-01-09T21:34:12+08:00
 
 Looking for information about Anime? AniDB is the right place for you. AniDB is a not-for-profit anime database providing you with all information reg...
 
-<img src="../assets/anidb.png" width=200>
+<img src="../assets/site-item-anidb.png" width=200>

@@ -4,7 +4,7 @@ up:
 title: 插畫、漫畫、小說作品交流服務 [pixiv]
 title-slugified: pixiv
 url: https://www.pixiv.net/
-icon: "[[pixiv.png]]"
+icon: "[[site-item-pixiv.png]]"
 description: "Pixiv[a] (Japanese: ピクシブ, Hepburn: Pikushibu) is a Japanese online community for artists."
 categories:
   - "[[site-category-acg|acg]]"
@@ -21,4 +21,4 @@ mtime: 2026-01-10T14:26:53+08:00
 
 Pixiv[a] (Japanese: ピクシブ, Hepburn: Pikushibu) is a Japanese online community for artists.
 
-<img src="../assets/pixiv.png" width=200>
+<img src="../assets/site-item-pixiv.png" width=200>
