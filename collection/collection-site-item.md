@@ -128,6 +128,7 @@ down:
   - "[[site-item-go|go]]"
   - "[[site-item-rust|rust]]"
   - "[[site-item-kotlin|kotlin]]"
+  - "[[site-item-fortran|fortran]]"
   - "[[site-item-python|python]]"
   - "[[site-item-javascript|javascript]]"
   - "[[site-item-typescript|typescript]]"
@@ -144,7 +145,9 @@ down:
   - "[[site-item-prolog|prolog]]"
   - "[[site-item-lean|lean]]"
   - "[[site-item-haskell]]"
-  - "[[site-item-fortran|fortran]]"
+  - "[[site-item-cmd|cmd]]"
+  - "[[site-item-powershell|powershell]]"
+  - "[[site-item-bash|bash]]"
 ctime: 2026-01-09T21:38:41+08:00
 mtime: 2026-01-09T21:38:41+08:00
 related:
@@ -283,6 +286,7 @@ related:
 - [[site-item-go|go]]
 - [[site-item-rust|rust]]
 - [[site-item-kotlin|kotlin]]
+- [[site-item-fortran|fortran]]
 - [[site-item-python|python]]
 - [[site-item-javascript|javascript]]
 - [[site-item-typescript|typescript]]
@@ -299,4 +303,6 @@ related:
 - [[site-item-prolog|prolog]]
 - [[site-item-lean|lean]]
 - [[site-item-haskell]]
-- [[site-item-fortran|fortran]]
+- [[site-item-cmd|cmd]]
+- [[site-item-powershell|powershell]]
+- [[site-item-bash|bash]]

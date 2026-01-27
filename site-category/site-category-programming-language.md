@@ -11,6 +11,7 @@ subpages:
   - "[[site-item-go|go]]"
   - "[[site-item-rust|rust]]"
   - "[[site-item-kotlin|kotlin]]"
+  - "[[site-item-fortran|fortran]]"
   - "[[site-item-python|python]]"
   - "[[site-item-javascript|javascript]]"
   - "[[site-item-typescript|typescript]]"
@@ -27,7 +28,6 @@ subpages:
   - "[[site-item-prolog|prolog]]"
   - "[[site-item-lean|lean]]"
   - "[[site-item-haskell]]"
-  - "[[site-item-fortran|fortran]]"
 aliases:
   - programming-language
 ctime: 2026-01-27T18:50:09+08:00
@@ -45,6 +45,7 @@ mtime: 2026-01-27T18:50:09+08:00
 - [[site-item-go|go]]
 - [[site-item-rust|rust]]
 - [[site-item-kotlin|kotlin]]
+- [[site-item-fortran|fortran]]
 - [[site-item-python|python]]
 - [[site-item-javascript|javascript]]
 - [[site-item-typescript|typescript]]
@@ -60,5 +61,33 @@ mtime: 2026-01-27T18:50:09+08:00
 - [[site-item-lisp|lisp]]
 - [[site-item-prolog|prolog]]
 - [[site-item-lean|lean]]
-- [[site-item-haskell]]
-- [[site-item-fortran|fortran]]
+- [[site-item-haskell|haskell]]
+
+
+
+- machine-code
+- assembly-language
+- c-language
+- cpp
+- c-sharp
+- java
+- go
+- rust
+- kotlin
+- fortran
+- python
+- javascript
+- typescript
+- ruby
+- php
+- lua
+- sql
+- matlab
+- r-project
+- wolfram-language
+- sas
+- visual-basic
+- lisp
+- prolog
+- lean
+- haskell

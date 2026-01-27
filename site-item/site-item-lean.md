@@ -4,7 +4,7 @@ up:
 title: Lean Programming Language
 title-slugified: lean
 url: https://lean-lang.org/
-icon: "[[site-item-lean.png]"
+icon: "[[site-item-lean.png]]"
 description: Lean is an open-source programming language and proof assistant that enables correct, maintainable, and formally verified code
 categories:
   - "[[site-category-programming-language|programming-language]]"
