@@ -18,6 +18,9 @@
 	- `aliases`
 	- `ctime`
 	- `mtime`
+- note-properties
+	- `author`
+	- `link`
 - type
 	- `string`
 		- `title`
@@ -35,7 +38,7 @@
 		- `ctime`
 		- `mtime`
 - ref
-	- `up` [[collection]]
+	- `up` [[site-doc-collection]]
 	- `categories` [[collection-site-category]]
 	- `icon` [[collection-image-file]]
 - default
@@ -77,7 +80,7 @@
 		- `ctime`
 		- `mtime`
 - ref
-	- `up` [[collection]]
+	- `up` [[site-doc-collection]]
 	- `subpages` [[collection-site-item]]
 - default
 	- `up`  `[ "[[collection-site-category]]" ]`
@@ -93,7 +96,7 @@
 		- `ctime`
 		- `mtime`
 
-## property of [[collection]]
+## property of [[site-doc-collection]]
 
 - properties
 	- `up`

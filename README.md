@@ -126,7 +126,7 @@ Welcome to MyAnimeList, the world's most active online anime and manga community
 > | --- | --- |
 > | [category](#category) |  [**acg**](#1-acg), [database](#11-database) |
 > | [type](#type) | [site-items](#site-items) |
-| [tag](#tag) | myanimelist, anime_news, anime, manga |
+| [tag](#tag) | anime, myanimelist, anime_news, manga |
 
 #### 1-4-e-hentai
 
@@ -233,7 +233,7 @@ application for archival and reading of manga/doujinshi. Lightweight and Docker-
 > | --- | --- |
 > | [category](#category) |  [**acg**](#1-acg), [reader](#28-reader) |
 > | [type](#type) | [site-items](#site-items) |
-| [tag](#tag) | hacktoberfest, mojolicious, management, doujinshi, sadpanda, docker, server, comics, reader, manga, perl, opds, nas |
+| [tag](#tag) | docker, server, perl, management, manga, comics, reader, mojolicious, opds, doujinshi, nas, hacktoberfest, sadpanda |
 
 #### 1-11-moegirl
 
@@ -249,7 +249,7 @@ application for archival and reading of manga/doujinshi. Lightweight and Docker-
 > | --- | --- |
 > | [category](#category) |  [encyclopedia](#14-encyclopedia), [**acg**](#1-acg) |
 > | [type](#type) | [site-items](#site-items) |
-| [tag](#tag) | GalGame, anime, comic, wiki, game, ACG, 萌娘, 百科, 娘化, 萝莉, 动画, 漫画, 动漫, 游戏, 音乐, 宅腐, 梗 |
+| [tag](#tag) | 萌娘, 百科, wiki, 梗, 娘化, 萝莉, 动画, 漫画, 动漫, 游戏, 音乐, 宅腐, ACG, anime, comic, game, GalGame |
 
 #### 1-12-hmoegirl
 
@@ -931,7 +931,7 @@ QQ浏览器是腾讯公司开发的一款极速浏览器，现已全面升级为
 > | --- | --- |
 > | [category](#category) |  [**browser**](#6-browser) |
 > | [type](#type) | [site-items](#site-items) |
-| [tag](#tag) | 腾讯AI浏览器，高速浏览器, windows浏览器, qq浏览器下载, chrome, 网页兼容模式, 网页分屏浏览, 网页标签分组, QQ浏览器, AI浏览器, 电脑浏览器, PC浏览器, 双核浏览器, AI高考通, Agent, 下载助理, 更新助理, AI视频, AI办公, 实时字幕, 视频小窗, 电脑截图, 浏览器, 老板键, 截长图, ie |
+| [tag](#tag) | QQ浏览器, AI浏览器, 浏览器, 电脑浏览器, PC浏览器, windows浏览器, 腾讯AI浏览器，高速浏览器, qq浏览器下载, 双核浏览器, chrome, ie, 网页兼容模式, 下载助理, 更新助理, AI高考通, Agent, AI视频, AI办公, 实时字幕, 网页分屏浏览, 视频小窗, 老板键, 电脑截图, 截长图, 网页标签分组 |
 
 ### 7-cloud-disk
 
@@ -1153,7 +1153,7 @@ Welcome to MyAnimeList, the world's most active online anime and manga community
 > | --- | --- |
 > | [category](#category) |  [acg](#1-acg), [**database**](#11-database) |
 > | [type](#type) | [site-items](#site-items) |
-| [tag](#tag) | myanimelist, anime_news, anime, manga |
+| [tag](#tag) | anime, myanimelist, anime_news, manga |
 
 ### 12-editor
 
@@ -1490,7 +1490,7 @@ Wikipedia is a free online encyclopedia, created and edited by volunteers around
 > | --- | --- |
 > | [category](#category) |  [**encyclopedia**](#14-encyclopedia) |
 > | [type](#type) | [site-items](#site-items) |
-| [tag](#tag) | 百度百科, 中文百科, 百科全书, 百科 |
+| [tag](#tag) | 百科, 百度百科, 中文百科, 百科全书 |
 
 #### 14-3-moegirl
 
@@ -1506,7 +1506,7 @@ Wikipedia is a free online encyclopedia, created and edited by volunteers around
 > | --- | --- |
 > | [category](#category) |  [**encyclopedia**](#14-encyclopedia), [acg](#1-acg) |
 > | [type](#type) | [site-items](#site-items) |
-| [tag](#tag) | GalGame, anime, comic, wiki, game, ACG, 萌娘, 百科, 娘化, 萝莉, 动画, 漫画, 动漫, 游戏, 音乐, 宅腐, 梗 |
+| [tag](#tag) | 萌娘, 百科, wiki, 梗, 娘化, 萝莉, 动画, 漫画, 动漫, 游戏, 音乐, 宅腐, ACG, anime, comic, game, GalGame |
 
 #### 14-4-hmoegirl
 
@@ -1552,7 +1552,7 @@ MBA智库百科，专注于经济管理领域知识的创建与分享。包括�
 > | --- | --- |
 > | [category](#category) |  [**encyclopedia**](#14-encyclopedia) |
 > | [type](#type) | [site-items](#site-items) |
-| [tag](#tag) | 2024年《福布斯》全球亿万富豪排行榜, Warren_Buffett, 2023年诺贝尔经济学奖, 东方甄选_小作文_事件, 5W2H分析法, 乔尔·莫基尔, MBA智库, INFJ, 价值共创, 传统能源, 人力资源, 管理咨询, GTD, MBA, 商学院, 首页, 管理, 营销, 经济, 金融, 广告, 财务, 会计, 品牌, 证券, 股票, 物流, 贸易, 法律, 人物 |
+| [tag](#tag) | 首页, 2023年诺贝尔经济学奖, 2024年《福布斯》全球亿万富豪排行榜, 5W2H分析法, GTD, INFJ, Warren_Buffett, 东方甄选_小作文_事件, 乔尔·莫基尔, 价值共创, 传统能源, MBA, MBA智库, 管理, 营销, 经济, 金融, 人力资源, 管理咨询, 广告, 财务, 会计, 品牌, 证券, 股票, 物流, 贸易, 商学院, 法律, 人物 |
 
 #### 14-7-noteapps-info
 
@@ -3092,7 +3092,7 @@ application for archival and reading of manga/doujinshi. Lightweight and Docker-
 > | --- | --- |
 > | [category](#category) |  [acg](#1-acg), [**reader**](#28-reader) |
 > | [type](#type) | [site-items](#site-items) |
-| [tag](#tag) | hacktoberfest, mojolicious, management, doujinshi, sadpanda, docker, server, comics, reader, manga, perl, opds, nas |
+| [tag](#tag) | docker, server, perl, management, manga, comics, reader, mojolicious, opds, doujinshi, nas, hacktoberfest, sadpanda |
 
 ### 29-search-engine
 
@@ -3810,7 +3810,7 @@ In computing, assembly language (alternatively assembler language or symbolic ma
 > | --- | --- |
 > | [category](#category) |  [encyclopedia](#14-encyclopedia) |
 > | [type](#type) | [site-items](#site-items) |
-| [tag](#tag) | 百度百科, 中文百科, 百科全书, 百科 |
+| [tag](#tag) | 百科, 百度百科, 中文百科, 百科全书 |
 
 ### 0-12-baidu-netdisk
 
@@ -4730,7 +4730,7 @@ application for archival and reading of manga/doujinshi. Lightweight and Docker-
 > | --- | --- |
 > | [category](#category) |  [acg](#1-acg), [reader](#28-reader) |
 > | [type](#type) | [site-items](#site-items) |
-| [tag](#tag) | hacktoberfest, mojolicious, management, doujinshi, sadpanda, docker, server, comics, reader, manga, perl, opds, nas |
+| [tag](#tag) | docker, server, perl, management, manga, comics, reader, mojolicious, opds, doujinshi, nas, hacktoberfest, sadpanda |
 
 ### 0-73-latex
 
@@ -4928,7 +4928,7 @@ MBA智库百科，专注于经济管理领域知识的创建与分享。包括�
 > | --- | --- |
 > | [category](#category) |  [encyclopedia](#14-encyclopedia) |
 > | [type](#type) | [site-items](#site-items) |
-| [tag](#tag) | 2024年《福布斯》全球亿万富豪排行榜, Warren_Buffett, 2023年诺贝尔经济学奖, 东方甄选_小作文_事件, 5W2H分析法, 乔尔·莫基尔, MBA智库, INFJ, 价值共创, 传统能源, 人力资源, 管理咨询, GTD, MBA, 商学院, 首页, 管理, 营销, 经济, 金融, 广告, 财务, 会计, 品牌, 证券, 股票, 物流, 贸易, 法律, 人物 |
+| [tag](#tag) | 首页, 2023年诺贝尔经济学奖, 2024年《福布斯》全球亿万富豪排行榜, 5W2H分析法, GTD, INFJ, Warren_Buffett, 东方甄选_小作文_事件, 乔尔·莫基尔, 价值共创, 传统能源, MBA, MBA智库, 管理, 营销, 经济, 金融, 人力资源, 管理咨询, 广告, 财务, 会计, 品牌, 证券, 股票, 物流, 贸易, 商学院, 法律, 人物 |
 
 ### 0-86-microsoft-authenticator
 
@@ -5034,7 +5034,7 @@ This is the official site for Misskey, a decentralized social networking softwar
 > | --- | --- |
 > | [category](#category) |  [encyclopedia](#14-encyclopedia), [acg](#1-acg) |
 > | [type](#type) | [site-items](#site-items) |
-| [tag](#tag) | GalGame, anime, comic, wiki, game, ACG, 萌娘, 百科, 娘化, 萝莉, 动画, 漫画, 动漫, 游戏, 音乐, 宅腐, 梗 |
+| [tag](#tag) | 萌娘, 百科, wiki, 梗, 娘化, 萝莉, 动画, 漫画, 动漫, 游戏, 音乐, 宅腐, ACG, anime, comic, game, GalGame |
 
 ### 0-93-mozilla-firefox
 
@@ -5065,7 +5065,7 @@ Welcome to MyAnimeList, the world's most active online anime and manga community
 > | --- | --- |
 > | [category](#category) |  [acg](#1-acg), [database](#11-database) |
 > | [type](#type) | [site-items](#site-items) |
-| [tag](#tag) | myanimelist, anime_news, anime, manga |
+| [tag](#tag) | anime, myanimelist, anime_news, manga |
 
 ### 0-95-nekogram
 
@@ -5381,7 +5381,7 @@ QQ浏览器是腾讯公司开发的一款极速浏览器，现已全面升级为
 > | --- | --- |
 > | [category](#category) |  [browser](#6-browser) |
 > | [type](#type) | [site-items](#site-items) |
-| [tag](#tag) | 腾讯AI浏览器，高速浏览器, windows浏览器, qq浏览器下载, chrome, 网页兼容模式, 网页分屏浏览, 网页标签分组, QQ浏览器, AI浏览器, 电脑浏览器, PC浏览器, 双核浏览器, AI高考通, Agent, 下载助理, 更新助理, AI视频, AI办公, 实时字幕, 视频小窗, 电脑截图, 浏览器, 老板键, 截长图, ie |
+| [tag](#tag) | QQ浏览器, AI浏览器, 浏览器, 电脑浏览器, PC浏览器, windows浏览器, 腾讯AI浏览器，高速浏览器, qq浏览器下载, 双核浏览器, chrome, ie, 网页兼容模式, 下载助理, 更新助理, AI高考通, Agent, AI视频, AI办公, 实时字幕, 网页分屏浏览, 视频小窗, 老板键, 电脑截图, 截长图, 网页标签分组 |
 
 ### 0-116-qq-mail
 

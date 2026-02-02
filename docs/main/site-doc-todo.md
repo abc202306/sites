@@ -1,0 +1,33 @@
+
+- [ ] Database Software
+	- mysql
+	- mssql
+	- sqlite
+	- mongodb
+	- ms access
+- [ ] Virtual Machine & Container
+	- vmware workstation
+	- virtualbox
+	- docker
+	- k8s
+- [ ] Art Composing Tool
+	- photoshop
+	- adobe illustrator
+	- blender
+- [ ] Frontend framework
+	- react
+	- vue
+	- bootstrap
+	- Svelte
+- [ ] Backend framework
+	- Spring
+	- Django
+	- Node.js
+- [ ] Cloud Service Provider
+	- Azure Cloud
+	- AWS Cloud
+	- Google Cloud Platform
+	- ALI Cloud
+	- Tencent Cloud
+- [ ] CDN Service Provider
+	- Cloudflare
