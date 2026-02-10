@@ -12,3 +12,7 @@ mtime: 2026-01-11T16:29:47+08:00
 # site-category-web-hosting
 
 - [[site-item-github|github]]
+
+## base
+
+![[base-site-item.base#cardsmini/categories]]

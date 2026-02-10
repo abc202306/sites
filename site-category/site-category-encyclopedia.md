@@ -24,3 +24,7 @@ mtime: 2026-01-09T22:22:48+08:00
 - [[site-item-wikihow|wikihow]]
 - [[site-item-mbalib-wiki|mbalib-wiki]]
 - [[site-item-noteapps-info|noteapps-info]]
+
+## base
+
+![[base-site-item.base#cardsmini/categories]]

@@ -1,6 +1,10 @@
 filters:
   and:
     - file.inFolder("site-item")
+    - file.ext == "md"
+    - or:
+        - this.file.ext == "base"
+        - file.hasLink(this.file)
 formulas:
   iconembed: image(icon)
 views:
@@ -30,3 +34,12 @@ views:
       formula.iconembed: 47
       note.title: 98
       note.url: 250
+  - type: cards
+    name: cardsmini/categories
+    groupBy:
+      property: categories
+      direction: ASC
+    order: []
+    sort: []
+    image: note.icon
+    cardSize: 80

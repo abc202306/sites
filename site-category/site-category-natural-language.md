@@ -16,3 +16,7 @@ mtime: 2026-01-28T01:18:26+08:00
 - [[site-item-english-language|english-language]]
 - [[site-item-chinese-language|chinese-language]]
 - [[site-item-japanese-language|japanese-language]]
+
+## base
+
+![[base-site-item.base#cardsmini/categories]]

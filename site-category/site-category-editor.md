@@ -34,3 +34,7 @@ mtime: 2026-01-10T19:47:53+08:00
 - [[site-item-vim|vim]]
 - [[site-item-emacs|emacs]]
 - [[site-item-typora|typora]]
+
+## base
+
+![[base-site-item.base#cardsmini/categories]]

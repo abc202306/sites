@@ -14,3 +14,7 @@ mtime: 2026-01-09T22:15:40+08:00
 
 - [[site-item-mihon|mihon]]
 - [[site-item-lanraragi|lanraragi]]
+
+## base
+
+![[base-site-item.base#cardsmini/categories]]

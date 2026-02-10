@@ -34,3 +34,7 @@ mtime: 2026-01-10T13:53:07+08:00
 - [[site-item-dingtalk|dingtalk]]
 - [[site-item-tencent-meeting|tencent-meeting]]
 - [[site-item-nekogram|nekogram]]
+
+## base
+
+![[base-site-item.base#cardsmini/categories]]

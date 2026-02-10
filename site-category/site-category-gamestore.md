@@ -18,3 +18,7 @@ mtime: 2026-01-10T23:01:29+08:00
 - [[site-item-steam|steam]]
 - [[site-item-qqgame|qqgame]]
 - [[site-item-kuaiwan|kuaiwan]]
+
+## base
+
+![[base-site-item.base#cardsmini/categories]]

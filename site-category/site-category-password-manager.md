@@ -16,3 +16,7 @@ mtime: 2026-01-09T23:16:40+08:00
 - [[site-item-keepass|keepass]]
 - [[site-item-1password|1password]]
 - [[site-item-bitwardon|bitwardon]]
+
+## base
+
+![[base-site-item.base#cardsmini/categories]]

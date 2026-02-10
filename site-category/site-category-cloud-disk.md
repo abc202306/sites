@@ -14,3 +14,7 @@ mtime: 2026-01-10T14:33:05+08:00
 
 - [[site-item-onedrive|onedrive]]
 - [[site-item-baidu-netdisk|baidu-netdisk]]
+
+## base
+
+![[base-site-item.base#cardsmini/categories]]

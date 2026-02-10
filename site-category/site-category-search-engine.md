@@ -24,3 +24,7 @@ mtime: 2026-01-09T23:01:09+08:00
 - [[site-item-chongbuluo-search|chongbuluo-search]]
 - [[site-item-saucenao-search|saucenao-search]]
 - [[site-item-soutubot-search|soutubot-search]]
+
+## base
+
+![[base-site-item.base#cardsmini/categories]]

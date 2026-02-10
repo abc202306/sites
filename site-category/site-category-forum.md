@@ -14,3 +14,7 @@ mtime: 2026-01-10T14:21:28+08:00
 
 - [[site-item-reddit|reddit]]
 - [[site-item-tieba|tieba]]
+
+## base
+
+![[base-site-item.base#cardsmini/categories]]

@@ -20,3 +20,7 @@ mtime: 2026-01-10T14:06:26+08:00
 - [[site-item-mail-ru|mail-ru]]
 - [[site-item-qq-mail|qq-mail]]
 - [[site-item-netease-mail|netease-mail]]
+
+## base
+
+![[base-site-item.base#cardsmini/categories]]

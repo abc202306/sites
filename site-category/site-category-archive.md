@@ -18,3 +18,7 @@ mtime: 2026-01-09T21:52:03+08:00
 - [[site-item-nhentai|nhentai]]
 - [[site-item-jmcomic|jmcomic]]
 - [[site-item-picaacg|picaacg]]
+
+## base
+
+![[base-site-item.base#cardsmini/categories]]

@@ -26,3 +26,7 @@ mtime: 2026-01-28T01:53:55+08:00
 - [[site-item-xml|xml]]
 - [[site-item-html|html]]
 - [[site-item-opml|opml]]
+## base
+
+![[base-site-item.base#cardsmini/categories]]
+

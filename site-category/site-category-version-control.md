@@ -16,3 +16,7 @@ mtime: 2026-01-11T16:30:13+08:00
 - [[site-item-github|github]]
 - [[site-item-git|git]]
 - [[site-item-svn|svn]]
+
+## base
+
+![[base-site-item.base#cardsmini/categories]]

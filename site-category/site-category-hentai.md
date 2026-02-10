@@ -22,3 +22,7 @@ mtime: 2026-01-09T21:51:00+08:00
 - [[site-item-picaacg|picaacg]]
 - [[site-item-iwara|iwara]]
 - [[site-item-hanime|hanime]]
+
+## base
+
+![[base-site-item.base#cardsmini/categories]]

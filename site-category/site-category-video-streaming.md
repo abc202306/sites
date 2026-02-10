@@ -24,3 +24,7 @@ mtime: 2026-01-09T21:27:20+08:00
 - [[site-item-hanime|hanime]]
 - [[site-item-douyin|douyin]]
 - [[site-item-kuaishou|kuaishou]]
+
+## base
+
+![[base-site-item.base#cardsmini/categories]]

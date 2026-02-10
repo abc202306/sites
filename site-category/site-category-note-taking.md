@@ -22,3 +22,7 @@ mtime: 2026-01-09T22:45:32+08:00
 - [[site-item-siyuan|siyuan]]
 - [[site-item-anytype|anytype]]
 - [[site-item-notion|notion]]
+
+## base
+
+![[base-site-item.base#cardsmini/categories]]

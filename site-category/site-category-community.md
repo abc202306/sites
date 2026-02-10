@@ -12,3 +12,7 @@ mtime: 2026-01-10T14:26:32+08:00
 # site-category-community
 
 - [[site-item-pixiv|pixiv]]
+
+## base
+
+![[base-site-item.base#cardsmini/categories]]

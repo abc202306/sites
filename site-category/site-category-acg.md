@@ -40,3 +40,7 @@ mtime: 2026-01-09T21:30:33+08:00
 - [[site-item-pixiv|pixiv]]
 - [[site-item-iwara|iwara]]
 - [[site-item-hanime|hanime]]
+
+## base
+
+![[base-site-item.base#cardsmini/categories]]

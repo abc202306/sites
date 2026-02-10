@@ -16,3 +16,7 @@ mtime: 2026-01-10T14:00:50+08:00
 - [[site-item-twitter|twitter]]
 - [[site-item-misskey|misskey]]
 - [[site-item-nijimiss|nijimiss]]
+
+## base
+
+![[base-site-item.base#cardsmini/categories]]

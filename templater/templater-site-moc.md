@@ -1,2 +1,2 @@
 
-<% tp.user.get_site_moc() %>
+<% app.plugins.plugins['sample-plugin'].getVideoMOC(["site-item/"]) %>i

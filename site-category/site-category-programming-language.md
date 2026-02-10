@@ -63,31 +63,6 @@ mtime: 2026-01-27T18:50:09+08:00
 - [[site-item-lean|lean]]
 - [[site-item-haskell|haskell]]
 
+## base
 
-
-- machine-code
-- assembly-language
-- c-language
-- cpp
-- c-sharp
-- java
-- go
-- rust
-- kotlin
-- fortran
-- python
-- javascript
-- typescript
-- ruby
-- php
-- lua
-- sql
-- matlab
-- r-project
-- wolfram-language
-- sas
-- visual-basic
-- lisp
-- prolog
-- lean
-- haskell
+![[base-site-item.base#cardsmini/categories]]

@@ -15,3 +15,6 @@ mtime: 2026-01-09T21:32:14+08:00
 - [[site-item-anidb|anidb]]
 - [[site-item-myanimelist|myanimelist]]
  
+## base
+
+![[base-site-item.base#cardsmini/categories]]

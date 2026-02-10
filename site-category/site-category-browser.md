@@ -30,3 +30,7 @@ mtime: 2026-01-09T23:27:43+08:00
 - [[site-item-via-browser|via-browser]]
 - [[site-item-huawei-browser|huawei-browser]]
 - [[site-item-qq-browser|qq-browser]]
+
+## base
+
+![[base-site-item.base#cardsmini/categories]]

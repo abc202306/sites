@@ -14,3 +14,7 @@ mtime: 2026-01-10T14:18:11+08:00
 
 - [[site-item-quora|quora]]
 - [[site-item-zhihu|zhihu]]
+
+## base
+
+![[base-site-item.base#cardsmini/categories]]

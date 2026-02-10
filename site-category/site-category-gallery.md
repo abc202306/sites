@@ -20,3 +20,7 @@ mtime: 2026-01-09T21:51:27+08:00
 - [[site-item-jmcomic|jmcomic]]
 - [[site-item-picaacg|picaacg]]
 - [[site-item-manhuaren|manhuaren]]
+
+## base
+
+![[base-site-item.base#cardsmini/categories]]
