@@ -27,7 +27,7 @@ subpages:
   - "[[site-item-lisp|lisp]]"
   - "[[site-item-prolog|prolog]]"
   - "[[site-item-lean|lean]]"
-  - "[[site-item-haskell]]"
+  - "[[site-item-haskell|haskell]]"
 aliases:
   - programming-language
 ctime: 2026-01-27T18:50:09+08:00
