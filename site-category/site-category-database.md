@@ -8,6 +8,7 @@ aliases:
   - database
 ctime: 2026-01-09T21:32:14+08:00
 mtime: 2026-01-09T21:32:14+08:00
+title: database
 ---
 
 # site-category-database

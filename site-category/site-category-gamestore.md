@@ -10,6 +10,7 @@ aliases:
   - gamestore
 ctime: 2026-01-10T23:01:29+08:00
 mtime: 2026-01-10T23:01:29+08:00
+title: gamestore
 ---
 
 # site-category-gamestore

@@ -13,6 +13,7 @@ aliases:
   - encyclopedia
 ctime: 2026-01-09T22:22:48+08:00
 mtime: 2026-01-09T22:22:48+08:00
+title: encyclopedia
 ---
 
 # site-category-encyclopedia

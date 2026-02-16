@@ -18,6 +18,7 @@ aliases:
   - editor
 ctime: 2026-01-10T19:47:53+08:00
 mtime: 2026-01-10T19:47:53+08:00
+title: editor
 ---
 
 # site-category-editor

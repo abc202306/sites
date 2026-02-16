@@ -12,6 +12,7 @@ aliases:
   - hentai
 ctime: 2026-01-09T21:51:00+08:00
 mtime: 2026-01-09T21:51:00+08:00
+title: hentai
 ---
 
 # site-category-hentai

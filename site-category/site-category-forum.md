@@ -8,6 +8,7 @@ aliases:
   - forum
 ctime: 2026-01-10T14:21:28+08:00
 mtime: 2026-01-10T14:21:28+08:00
+title: forum
 ---
 
 # site-category-forum

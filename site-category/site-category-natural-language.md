@@ -9,6 +9,7 @@ aliases:
   - natural-language
 ctime: 2026-01-28T01:18:26+08:00
 mtime: 2026-01-28T01:18:26+08:00
+title: natural-language
 ---
 
 # site-category-natural-language

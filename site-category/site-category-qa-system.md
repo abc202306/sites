@@ -8,6 +8,7 @@ aliases:
   - qa-system
 ctime: 2026-01-10T14:18:11+08:00
 mtime: 2026-01-10T14:18:11+08:00
+title: qa-system
 ---
 
 # site-category-qa-system

@@ -9,6 +9,7 @@ aliases:
   - config-file-format
 ctime: 2026-01-28T02:32:46+08:00
 mtime: 2026-01-28T02:32:46+08:00
+title: config-file-format
 ---
 
 # site-category-config-file-format

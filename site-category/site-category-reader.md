@@ -8,6 +8,7 @@ aliases:
   - reader
 ctime: 2026-01-09T22:15:40+08:00
 mtime: 2026-01-09T22:15:40+08:00
+title: reader
 ---
 
 # site-category-reader

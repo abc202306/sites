@@ -9,6 +9,7 @@ aliases:
   - command-line-shell
 ctime: 2026-01-27T23:35:56+08:00
 mtime: 2026-01-27T23:35:56+08:00
+title: command-line-shell
 ---
 
 # site-category-command-line-shell

@@ -18,6 +18,7 @@ aliases:
   - ai-chatbot
 ctime: 2026-01-10T19:47:09+08:00
 mtime: 2026-01-10T19:47:09+08:00
+title: ai-chatbot
 ---
 
 # site-category-ai-chatbot

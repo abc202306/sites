@@ -11,6 +11,7 @@ aliases:
   - email
 ctime: 2026-01-10T14:06:26+08:00
 mtime: 2026-01-10T14:06:26+08:00
+title: email
 ---
 
 # site-category-email

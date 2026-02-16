@@ -11,6 +11,7 @@ aliases:
   - operating-system
 ctime: 2026-01-10T22:28:33+08:00
 mtime: 2026-01-10T22:28:33+08:00
+title: operating-system
 ---
 
 # site-category-operating-system

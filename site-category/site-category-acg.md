@@ -21,6 +21,7 @@ aliases:
   - acg
 ctime: 2026-01-09T21:30:33+08:00
 mtime: 2026-01-09T21:30:33+08:00
+title: acg
 ---
 
 # site-category-acg

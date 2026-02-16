@@ -10,6 +10,7 @@ aliases:
   - archive
 ctime: 2026-01-09T21:52:03+08:00
 mtime: 2026-01-09T21:52:03+08:00
+title: archive
 ---
 
 # site-category-archive

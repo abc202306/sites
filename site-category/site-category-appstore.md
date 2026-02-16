@@ -14,6 +14,7 @@ aliases:
   - appstore
 ctime: 2026-01-10T23:09:49+08:00
 mtime: 2026-01-10T23:09:49+08:00
+title: appstore
 ---
 
 # site-category-appstore

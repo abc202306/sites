@@ -12,6 +12,7 @@ aliases:
   - note-taking
 ctime: 2026-01-09T22:45:32+08:00
 mtime: 2026-01-09T22:45:32+08:00
+title: note-taking
 ---
 
 # site-category-note-taking

@@ -32,6 +32,7 @@ aliases:
   - programming-language
 ctime: 2026-01-27T18:50:09+08:00
 mtime: 2026-01-27T18:50:09+08:00
+title: programming-language
 ---
 
 # site-category-programming-language

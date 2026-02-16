@@ -8,6 +8,7 @@ aliases:
   - authenticator
 ctime: 2026-01-09T23:22:50+08:00
 mtime: 2026-01-09T23:22:50+08:00
+title: authenticator
 ---
 
 # site-category-authenticator

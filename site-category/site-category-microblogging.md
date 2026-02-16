@@ -9,6 +9,7 @@ aliases:
   - microblogging
 ctime: 2026-01-10T14:00:50+08:00
 mtime: 2026-01-10T14:00:50+08:00
+title: microblogging
 ---
 
 # site-category-microblogging

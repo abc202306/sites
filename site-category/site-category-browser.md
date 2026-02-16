@@ -16,6 +16,7 @@ aliases:
   - browser
 ctime: 2026-01-09T23:27:43+08:00
 mtime: 2026-01-09T23:27:43+08:00
+title: browser
 ---
 
 # site-category-browser

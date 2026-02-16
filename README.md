@@ -3671,44 +3671,44 @@ Created at: 2026-01-09T21:24:35+08:00
 
 ## site-category
 
-1. [site\-category\-style\-sheet\-language](<#site-category-style-sheet-language>) | [📄](<site-category/site-category-style-sheet-language.md>) | [🔗](<undefined>)
-2. [site\-category\-table\-data\-file\-format](<#site-category-table-data-file-format>) | [📄](<site-category/site-category-table-data-file-format.md>) | [🔗](<undefined>)
-3. [site\-category\-config\-file\-format](<#site-category-config-file-format>) | [📄](<site-category/site-category-config-file-format.md>) | [🔗](<undefined>)
-4. [site\-category\-markup\-language](<#site-category-markup-language>) | [📄](<site-category/site-category-markup-language.md>) | [🔗](<undefined>)
-5. [site\-category\-natural\-language](<#site-category-natural-language>) | [📄](<site-category/site-category-natural-language.md>) | [🔗](<undefined>)
-6. [site\-category\-command\-line\-shell](<#site-category-command-line-shell>) | [📄](<site-category/site-category-command-line-shell.md>) | [🔗](<undefined>)
-7. [site\-category\-programming\-language](<#site-category-programming-language>) | [📄](<site-category/site-category-programming-language.md>) | [🔗](<undefined>)
-8. [site\-category\-version\-control](<#site-category-version-control>) | [📄](<site-category/site-category-version-control.md>) | [🔗](<undefined>)
-9. [site\-category\-web\-hosting](<#site-category-web-hosting>) | [📄](<site-category/site-category-web-hosting.md>) | [🔗](<undefined>)
-10. [site\-category\-appstore](<#site-category-appstore>) | [📄](<site-category/site-category-appstore.md>) | [🔗](<undefined>)
-11. [site\-category\-gamestore](<#site-category-gamestore>) | [📄](<site-category/site-category-gamestore.md>) | [🔗](<undefined>)
-12. [site\-category\-operating\-system](<#site-category-operating-system>) | [📄](<site-category/site-category-operating-system.md>) | [🔗](<undefined>)
-13. [site\-category\-editor](<#site-category-editor>) | [📄](<site-category/site-category-editor.md>) | [🔗](<undefined>)
-14. [site\-category\-ai\-chatbot](<#site-category-ai-chatbot>) | [📄](<site-category/site-category-ai-chatbot.md>) | [🔗](<undefined>)
-15. [site\-category\-cloud\-disk](<#site-category-cloud-disk>) | [📄](<site-category/site-category-cloud-disk.md>) | [🔗](<undefined>)
-16. [site\-category\-community](<#site-category-community>) | [📄](<site-category/site-category-community.md>) | [🔗](<undefined>)
-17. [site\-category\-forum](<#site-category-forum>) | [📄](<site-category/site-category-forum.md>) | [🔗](<undefined>)
-18. [site\-category\-qa\-system](<#site-category-qa-system>) | [📄](<site-category/site-category-qa-system.md>) | [🔗](<undefined>)
-19. [site\-category\-email](<#site-category-email>) | [📄](<site-category/site-category-email.md>) | [🔗](<undefined>)
-20. [site\-category\-microblogging](<#site-category-microblogging>) | [📄](<site-category/site-category-microblogging.md>) | [🔗](<undefined>)
-21. [site\-category\-instant\-messaging](<#site-category-instant-messaging>) | [📄](<site-category/site-category-instant-messaging.md>) | [🔗](<undefined>)
-22. [site\-category\-browser](<#site-category-browser>) | [📄](<site-category/site-category-browser.md>) | [🔗](<undefined>)
-23. [site\-category\-authenticator](<#site-category-authenticator>) | [📄](<site-category/site-category-authenticator.md>) | [🔗](<undefined>)
-24. [site\-category\-password\-manager](<#site-category-password-manager>) | [📄](<site-category/site-category-password-manager.md>) | [🔗](<undefined>)
-25. [site\-category\-search\-engine](<#site-category-search-engine>) | [📄](<site-category/site-category-search-engine.md>) | [🔗](<undefined>)
-26. [site\-category\-note\-taking](<#site-category-note-taking>) | [📄](<site-category/site-category-note-taking.md>) | [🔗](<undefined>)
-27. [site\-category\-encyclopedia](<#site-category-encyclopedia>) | [📄](<site-category/site-category-encyclopedia.md>) | [🔗](<undefined>)
-28. [site\-category\-reader](<#site-category-reader>) | [📄](<site-category/site-category-reader.md>) | [🔗](<undefined>)
-29. [site\-category\-archive](<#site-category-archive>) | [📄](<site-category/site-category-archive.md>) | [🔗](<undefined>)
-30. [site\-category\-gallery](<#site-category-gallery>) | [📄](<site-category/site-category-gallery.md>) | [🔗](<undefined>)
-31. [site\-category\-hentai](<#site-category-hentai>) | [📄](<site-category/site-category-hentai.md>) | [🔗](<undefined>)
-32. [site\-category\-database](<#site-category-database>) | [📄](<site-category/site-category-database.md>) | [🔗](<undefined>)
-33. [site\-category\-acg](<#site-category-acg>) | [📄](<site-category/site-category-acg.md>) | [🔗](<undefined>)
-34. [site\-category\-video\-streaming](<#site-category-video-streaming>) | [📄](<site-category/site-category-video-streaming.md>) | [🔗](<undefined>)
+1. [style\-sheet\-language](<#site-category-style-sheet-language>) | [📄](<site-category/site-category-style-sheet-language.md>) | [🔗](<undefined>)
+2. [table\-data\-file\-format](<#site-category-table-data-file-format>) | [📄](<site-category/site-category-table-data-file-format.md>) | [🔗](<undefined>)
+3. [config\-file\-format](<#site-category-config-file-format>) | [📄](<site-category/site-category-config-file-format.md>) | [🔗](<undefined>)
+4. [markup\-language](<#site-category-markup-language>) | [📄](<site-category/site-category-markup-language.md>) | [🔗](<undefined>)
+5. [natural\-language](<#site-category-natural-language>) | [📄](<site-category/site-category-natural-language.md>) | [🔗](<undefined>)
+6. [command\-line\-shell](<#site-category-command-line-shell>) | [📄](<site-category/site-category-command-line-shell.md>) | [🔗](<undefined>)
+7. [programming\-language](<#site-category-programming-language>) | [📄](<site-category/site-category-programming-language.md>) | [🔗](<undefined>)
+8. [version\-control](<#site-category-version-control>) | [📄](<site-category/site-category-version-control.md>) | [🔗](<undefined>)
+9. [web\-hosting](<#site-category-web-hosting>) | [📄](<site-category/site-category-web-hosting.md>) | [🔗](<undefined>)
+10. [appstore](<#site-category-appstore>) | [📄](<site-category/site-category-appstore.md>) | [🔗](<undefined>)
+11. [gamestore](<#site-category-gamestore>) | [📄](<site-category/site-category-gamestore.md>) | [🔗](<undefined>)
+12. [operating\-system](<#site-category-operating-system>) | [📄](<site-category/site-category-operating-system.md>) | [🔗](<undefined>)
+13. [editor](<#site-category-editor>) | [📄](<site-category/site-category-editor.md>) | [🔗](<undefined>)
+14. [ai\-chatbot](<#site-category-ai-chatbot>) | [📄](<site-category/site-category-ai-chatbot.md>) | [🔗](<undefined>)
+15. [cloud\-disk](<#site-category-cloud-disk>) | [📄](<site-category/site-category-cloud-disk.md>) | [🔗](<undefined>)
+16. [community](<#site-category-community>) | [📄](<site-category/site-category-community.md>) | [🔗](<undefined>)
+17. [forum](<#site-category-forum>) | [📄](<site-category/site-category-forum.md>) | [🔗](<undefined>)
+18. [qa\-system](<#site-category-qa-system>) | [📄](<site-category/site-category-qa-system.md>) | [🔗](<undefined>)
+19. [email](<#site-category-email>) | [📄](<site-category/site-category-email.md>) | [🔗](<undefined>)
+20. [microblogging](<#site-category-microblogging>) | [📄](<site-category/site-category-microblogging.md>) | [🔗](<undefined>)
+21. [instant\-messaging](<#site-category-instant-messaging>) | [📄](<site-category/site-category-instant-messaging.md>) | [🔗](<undefined>)
+22. [browser](<#site-category-browser>) | [📄](<site-category/site-category-browser.md>) | [🔗](<undefined>)
+23. [authenticator](<#site-category-authenticator>) | [📄](<site-category/site-category-authenticator.md>) | [🔗](<undefined>)
+24. [password\-manager](<#site-category-password-manager>) | [📄](<site-category/site-category-password-manager.md>) | [🔗](<undefined>)
+25. [search\-engine](<#site-category-search-engine>) | [📄](<site-category/site-category-search-engine.md>) | [🔗](<undefined>)
+26. [note\-taking](<#site-category-note-taking>) | [📄](<site-category/site-category-note-taking.md>) | [🔗](<undefined>)
+27. [encyclopedia](<#site-category-encyclopedia>) | [📄](<site-category/site-category-encyclopedia.md>) | [🔗](<undefined>)
+28. [reader](<#site-category-reader>) | [📄](<site-category/site-category-reader.md>) | [🔗](<undefined>)
+29. [archive](<#site-category-archive>) | [📄](<site-category/site-category-archive.md>) | [🔗](<undefined>)
+30. [gallery](<#site-category-gallery>) | [📄](<site-category/site-category-gallery.md>) | [🔗](<undefined>)
+31. [hentai](<#site-category-hentai>) | [📄](<site-category/site-category-hentai.md>) | [🔗](<undefined>)
+32. [database](<#site-category-database>) | [📄](<site-category/site-category-database.md>) | [🔗](<undefined>)
+33. [acg](<#site-category-acg>) | [📄](<site-category/site-category-acg.md>) | [🔗](<undefined>)
+34. [video\-streaming](<#site-category-video-streaming>) | [📄](<site-category/site-category-video-streaming.md>) | [🔗](<undefined>)
 
 ### site-category-style-sheet-language
 
-[site\-category\-style\-sheet\-language](<#site-category-style-sheet-language>) | [📄](<site-category/site-category-style-sheet-language.md>) | [🔗](<undefined>)
+[style\-sheet\-language](<#site-category-style-sheet-language>) | [📄](<site-category/site-category-style-sheet-language.md>) | [🔗](<undefined>)
 
 No description
 
@@ -3729,7 +3729,7 @@ Created at: 2026-01-28T02:56:17+08:00
 
 ### site-category-table-data-file-format
 
-[site\-category\-table\-data\-file\-format](<#site-category-table-data-file-format>) | [📄](<site-category/site-category-table-data-file-format.md>) | [🔗](<undefined>)
+[table\-data\-file\-format](<#site-category-table-data-file-format>) | [📄](<site-category/site-category-table-data-file-format.md>) | [🔗](<undefined>)
 
 No description
 
@@ -3750,7 +3750,7 @@ Created at: 2026-01-28T02:54:32+08:00
 
 ### site-category-config-file-format
 
-[site\-category\-config\-file\-format](<#site-category-config-file-format>) | [📄](<site-category/site-category-config-file-format.md>) | [🔗](<undefined>)
+[config\-file\-format](<#site-category-config-file-format>) | [📄](<site-category/site-category-config-file-format.md>) | [🔗](<undefined>)
 
 No description
 
@@ -3771,7 +3771,7 @@ Created at: 2026-01-28T02:32:46+08:00
 
 ### site-category-markup-language
 
-[site\-category\-markup\-language](<#site-category-markup-language>) | [📄](<site-category/site-category-markup-language.md>) | [🔗](<undefined>)
+[markup\-language](<#site-category-markup-language>) | [📄](<site-category/site-category-markup-language.md>) | [🔗](<undefined>)
 
 No description
 
@@ -3792,7 +3792,7 @@ Created at: 2026-01-28T01:53:55+08:00
 
 ### site-category-natural-language
 
-[site\-category\-natural\-language](<#site-category-natural-language>) | [📄](<site-category/site-category-natural-language.md>) | [🔗](<undefined>)
+[natural\-language](<#site-category-natural-language>) | [📄](<site-category/site-category-natural-language.md>) | [🔗](<undefined>)
 
 No description
 
@@ -3813,7 +3813,7 @@ Created at: 2026-01-28T01:18:26+08:00
 
 ### site-category-command-line-shell
 
-[site\-category\-command\-line\-shell](<#site-category-command-line-shell>) | [📄](<site-category/site-category-command-line-shell.md>) | [🔗](<undefined>)
+[command\-line\-shell](<#site-category-command-line-shell>) | [📄](<site-category/site-category-command-line-shell.md>) | [🔗](<undefined>)
 
 No description
 
@@ -3834,7 +3834,7 @@ Created at: 2026-01-27T23:35:56+08:00
 
 ### site-category-programming-language
 
-[site\-category\-programming\-language](<#site-category-programming-language>) | [📄](<site-category/site-category-programming-language.md>) | [🔗](<undefined>)
+[programming\-language](<#site-category-programming-language>) | [📄](<site-category/site-category-programming-language.md>) | [🔗](<undefined>)
 
 No description
 
@@ -3849,13 +3849,13 @@ Created at: 2026-01-27T18:50:09+08:00
 |  |  |
 | --- | --- |
 | up | [collection\-site\-category](<collection/collection-site-category.md>) |
-| subpages | [machine\-code](<site-item/site-item-machine-code.md>)<br>[assembly\-language](<site-item/site-item-assembly-language.md>)<br>[c\-language](<site-item/site-item-c-language.md>)<br>[cpp](<site-item/site-item-cpp.md>)<br>[c\-sharp](<site-item/site-item-c-sharp.md>)<br>[java](<site-item/site-item-java.md>)<br>[go](<site-item/site-item-go.md>)<br>[rust](<site-item/site-item-rust.md>)<br>[kotlin](<site-item/site-item-kotlin.md>)<br>[fortran](<site-item/site-item-fortran.md>)<br>[python](<site-item/site-item-python.md>)<br>[javascript](<site-item/site-item-javascript.md>)<br>[typescript](<site-item/site-item-typescript.md>)<br>[ruby](<site-item/site-item-ruby.md>)<br>[php](<site-item/site-item-php.md>)<br>[lua](<site-item/site-item-lua.md>)<br>[sql](<site-item/site-item-sql.md>)<br>[matlab](<site-item/site-item-matlab.md>)<br>[r\-project](<site-item/site-item-r-project.md>)<br>[wolfram\-language](<site-item/site-item-wolfram-language.md>)<br>[sas](<site-item/site-item-sas.md>)<br>[visual\-basic](<site-item/site-item-visual-basic.md>)<br>[lisp](<site-item/site-item-lisp.md>)<br>[prolog](<site-item/site-item-prolog.md>)<br>[lean](<site-item/site-item-lean.md>)<br>[site\-item/site\-item\-haskell\.md](<site-item/site-item-haskell.md>) |
+| subpages | [machine\-code](<site-item/site-item-machine-code.md>)<br>[assembly\-language](<site-item/site-item-assembly-language.md>)<br>[c\-language](<site-item/site-item-c-language.md>)<br>[cpp](<site-item/site-item-cpp.md>)<br>[c\-sharp](<site-item/site-item-c-sharp.md>)<br>[java](<site-item/site-item-java.md>)<br>[go](<site-item/site-item-go.md>)<br>[rust](<site-item/site-item-rust.md>)<br>[kotlin](<site-item/site-item-kotlin.md>)<br>[fortran](<site-item/site-item-fortran.md>)<br>[python](<site-item/site-item-python.md>)<br>[javascript](<site-item/site-item-javascript.md>)<br>[typescript](<site-item/site-item-typescript.md>)<br>[ruby](<site-item/site-item-ruby.md>)<br>[php](<site-item/site-item-php.md>)<br>[lua](<site-item/site-item-lua.md>)<br>[sql](<site-item/site-item-sql.md>)<br>[matlab](<site-item/site-item-matlab.md>)<br>[r\-project](<site-item/site-item-r-project.md>)<br>[wolfram\-language](<site-item/site-item-wolfram-language.md>)<br>[sas](<site-item/site-item-sas.md>)<br>[visual\-basic](<site-item/site-item-visual-basic.md>)<br>[lisp](<site-item/site-item-lisp.md>)<br>[prolog](<site-item/site-item-prolog.md>)<br>[lean](<site-item/site-item-lean.md>)<br>[haskell](<site-item/site-item-haskell.md>) |
 | aliases | programming\-language |
 | mtime | 2026-01-27T18:50:09+08:00 |
 
 ### site-category-version-control
 
-[site\-category\-version\-control](<#site-category-version-control>) | [📄](<site-category/site-category-version-control.md>) | [🔗](<undefined>)
+[version\-control](<#site-category-version-control>) | [📄](<site-category/site-category-version-control.md>) | [🔗](<undefined>)
 
 No description
 
@@ -3876,7 +3876,7 @@ Created at: 2026-01-11T16:30:13+08:00
 
 ### site-category-web-hosting
 
-[site\-category\-web\-hosting](<#site-category-web-hosting>) | [📄](<site-category/site-category-web-hosting.md>) | [🔗](<undefined>)
+[web\-hosting](<#site-category-web-hosting>) | [📄](<site-category/site-category-web-hosting.md>) | [🔗](<undefined>)
 
 No description
 
@@ -3897,7 +3897,7 @@ Created at: 2026-01-11T16:29:47+08:00
 
 ### site-category-appstore
 
-[site\-category\-appstore](<#site-category-appstore>) | [📄](<site-category/site-category-appstore.md>) | [🔗](<undefined>)
+[appstore](<#site-category-appstore>) | [📄](<site-category/site-category-appstore.md>) | [🔗](<undefined>)
 
 No description
 
@@ -3918,7 +3918,7 @@ Created at: 2026-01-10T23:09:49+08:00
 
 ### site-category-gamestore
 
-[site\-category\-gamestore](<#site-category-gamestore>) | [📄](<site-category/site-category-gamestore.md>) | [🔗](<undefined>)
+[gamestore](<#site-category-gamestore>) | [📄](<site-category/site-category-gamestore.md>) | [🔗](<undefined>)
 
 No description
 
@@ -3939,7 +3939,7 @@ Created at: 2026-01-10T23:01:29+08:00
 
 ### site-category-operating-system
 
-[site\-category\-operating\-system](<#site-category-operating-system>) | [📄](<site-category/site-category-operating-system.md>) | [🔗](<undefined>)
+[operating\-system](<#site-category-operating-system>) | [📄](<site-category/site-category-operating-system.md>) | [🔗](<undefined>)
 
 No description
 
@@ -3960,7 +3960,7 @@ Created at: 2026-01-10T22:28:33+08:00
 
 ### site-category-editor
 
-[site\-category\-editor](<#site-category-editor>) | [📄](<site-category/site-category-editor.md>) | [🔗](<undefined>)
+[editor](<#site-category-editor>) | [📄](<site-category/site-category-editor.md>) | [🔗](<undefined>)
 
 No description
 
@@ -3981,7 +3981,7 @@ Created at: 2026-01-10T19:47:53+08:00
 
 ### site-category-ai-chatbot
 
-[site\-category\-ai\-chatbot](<#site-category-ai-chatbot>) | [📄](<site-category/site-category-ai-chatbot.md>) | [🔗](<undefined>)
+[ai\-chatbot](<#site-category-ai-chatbot>) | [📄](<site-category/site-category-ai-chatbot.md>) | [🔗](<undefined>)
 
 No description
 
@@ -4002,7 +4002,7 @@ Created at: 2026-01-10T19:47:09+08:00
 
 ### site-category-cloud-disk
 
-[site\-category\-cloud\-disk](<#site-category-cloud-disk>) | [📄](<site-category/site-category-cloud-disk.md>) | [🔗](<undefined>)
+[cloud\-disk](<#site-category-cloud-disk>) | [📄](<site-category/site-category-cloud-disk.md>) | [🔗](<undefined>)
 
 No description
 
@@ -4023,7 +4023,7 @@ Created at: 2026-01-10T14:33:05+08:00
 
 ### site-category-community
 
-[site\-category\-community](<#site-category-community>) | [📄](<site-category/site-category-community.md>) | [🔗](<undefined>)
+[community](<#site-category-community>) | [📄](<site-category/site-category-community.md>) | [🔗](<undefined>)
 
 No description
 
@@ -4044,7 +4044,7 @@ Created at: 2026-01-10T14:26:32+08:00
 
 ### site-category-forum
 
-[site\-category\-forum](<#site-category-forum>) | [📄](<site-category/site-category-forum.md>) | [🔗](<undefined>)
+[forum](<#site-category-forum>) | [📄](<site-category/site-category-forum.md>) | [🔗](<undefined>)
 
 No description
 
@@ -4065,7 +4065,7 @@ Created at: 2026-01-10T14:21:28+08:00
 
 ### site-category-qa-system
 
-[site\-category\-qa\-system](<#site-category-qa-system>) | [📄](<site-category/site-category-qa-system.md>) | [🔗](<undefined>)
+[qa\-system](<#site-category-qa-system>) | [📄](<site-category/site-category-qa-system.md>) | [🔗](<undefined>)
 
 No description
 
@@ -4086,7 +4086,7 @@ Created at: 2026-01-10T14:18:11+08:00
 
 ### site-category-email
 
-[site\-category\-email](<#site-category-email>) | [📄](<site-category/site-category-email.md>) | [🔗](<undefined>)
+[email](<#site-category-email>) | [📄](<site-category/site-category-email.md>) | [🔗](<undefined>)
 
 No description
 
@@ -4107,7 +4107,7 @@ Created at: 2026-01-10T14:06:26+08:00
 
 ### site-category-microblogging
 
-[site\-category\-microblogging](<#site-category-microblogging>) | [📄](<site-category/site-category-microblogging.md>) | [🔗](<undefined>)
+[microblogging](<#site-category-microblogging>) | [📄](<site-category/site-category-microblogging.md>) | [🔗](<undefined>)
 
 No description
 
@@ -4128,7 +4128,7 @@ Created at: 2026-01-10T14:00:50+08:00
 
 ### site-category-instant-messaging
 
-[site\-category\-instant\-messaging](<#site-category-instant-messaging>) | [📄](<site-category/site-category-instant-messaging.md>) | [🔗](<undefined>)
+[instant\-messaging](<#site-category-instant-messaging>) | [📄](<site-category/site-category-instant-messaging.md>) | [🔗](<undefined>)
 
 No description
 
@@ -4149,7 +4149,7 @@ Created at: 2026-01-10T13:53:07+08:00
 
 ### site-category-browser
 
-[site\-category\-browser](<#site-category-browser>) | [📄](<site-category/site-category-browser.md>) | [🔗](<undefined>)
+[browser](<#site-category-browser>) | [📄](<site-category/site-category-browser.md>) | [🔗](<undefined>)
 
 No description
 
@@ -4170,7 +4170,7 @@ Created at: 2026-01-09T23:27:43+08:00
 
 ### site-category-authenticator
 
-[site\-category\-authenticator](<#site-category-authenticator>) | [📄](<site-category/site-category-authenticator.md>) | [🔗](<undefined>)
+[authenticator](<#site-category-authenticator>) | [📄](<site-category/site-category-authenticator.md>) | [🔗](<undefined>)
 
 No description
 
@@ -4191,7 +4191,7 @@ Created at: 2026-01-09T23:22:50+08:00
 
 ### site-category-password-manager
 
-[site\-category\-password\-manager](<#site-category-password-manager>) | [📄](<site-category/site-category-password-manager.md>) | [🔗](<undefined>)
+[password\-manager](<#site-category-password-manager>) | [📄](<site-category/site-category-password-manager.md>) | [🔗](<undefined>)
 
 No description
 
@@ -4212,7 +4212,7 @@ Created at: 2026-01-09T23:16:40+08:00
 
 ### site-category-search-engine
 
-[site\-category\-search\-engine](<#site-category-search-engine>) | [📄](<site-category/site-category-search-engine.md>) | [🔗](<undefined>)
+[search\-engine](<#site-category-search-engine>) | [📄](<site-category/site-category-search-engine.md>) | [🔗](<undefined>)
 
 No description
 
@@ -4233,7 +4233,7 @@ Created at: 2026-01-09T23:01:09+08:00
 
 ### site-category-note-taking
 
-[site\-category\-note\-taking](<#site-category-note-taking>) | [📄](<site-category/site-category-note-taking.md>) | [🔗](<undefined>)
+[note\-taking](<#site-category-note-taking>) | [📄](<site-category/site-category-note-taking.md>) | [🔗](<undefined>)
 
 No description
 
@@ -4254,7 +4254,7 @@ Created at: 2026-01-09T22:45:32+08:00
 
 ### site-category-encyclopedia
 
-[site\-category\-encyclopedia](<#site-category-encyclopedia>) | [📄](<site-category/site-category-encyclopedia.md>) | [🔗](<undefined>)
+[encyclopedia](<#site-category-encyclopedia>) | [📄](<site-category/site-category-encyclopedia.md>) | [🔗](<undefined>)
 
 No description
 
@@ -4275,7 +4275,7 @@ Created at: 2026-01-09T22:22:48+08:00
 
 ### site-category-reader
 
-[site\-category\-reader](<#site-category-reader>) | [📄](<site-category/site-category-reader.md>) | [🔗](<undefined>)
+[reader](<#site-category-reader>) | [📄](<site-category/site-category-reader.md>) | [🔗](<undefined>)
 
 No description
 
@@ -4296,7 +4296,7 @@ Created at: 2026-01-09T22:15:40+08:00
 
 ### site-category-archive
 
-[site\-category\-archive](<#site-category-archive>) | [📄](<site-category/site-category-archive.md>) | [🔗](<undefined>)
+[archive](<#site-category-archive>) | [📄](<site-category/site-category-archive.md>) | [🔗](<undefined>)
 
 No description
 
@@ -4317,7 +4317,7 @@ Created at: 2026-01-09T21:52:03+08:00
 
 ### site-category-gallery
 
-[site\-category\-gallery](<#site-category-gallery>) | [📄](<site-category/site-category-gallery.md>) | [🔗](<undefined>)
+[gallery](<#site-category-gallery>) | [📄](<site-category/site-category-gallery.md>) | [🔗](<undefined>)
 
 No description
 
@@ -4338,7 +4338,7 @@ Created at: 2026-01-09T21:51:27+08:00
 
 ### site-category-hentai
 
-[site\-category\-hentai](<#site-category-hentai>) | [📄](<site-category/site-category-hentai.md>) | [🔗](<undefined>)
+[hentai](<#site-category-hentai>) | [📄](<site-category/site-category-hentai.md>) | [🔗](<undefined>)
 
 No description
 
@@ -4359,7 +4359,7 @@ Created at: 2026-01-09T21:51:00+08:00
 
 ### site-category-database
 
-[site\-category\-database](<#site-category-database>) | [📄](<site-category/site-category-database.md>) | [🔗](<undefined>)
+[database](<#site-category-database>) | [📄](<site-category/site-category-database.md>) | [🔗](<undefined>)
 
 No description
 
@@ -4380,7 +4380,7 @@ Created at: 2026-01-09T21:32:14+08:00
 
 ### site-category-acg
 
-[site\-category\-acg](<#site-category-acg>) | [📄](<site-category/site-category-acg.md>) | [🔗](<undefined>)
+[acg](<#site-category-acg>) | [📄](<site-category/site-category-acg.md>) | [🔗](<undefined>)
 
 No description
 
@@ -4401,7 +4401,7 @@ Created at: 2026-01-09T21:30:33+08:00
 
 ### site-category-video-streaming
 
-[site\-category\-video\-streaming](<#site-category-video-streaming>) | [📄](<site-category/site-category-video-streaming.md>) | [🔗](<undefined>)
+[video\-streaming](<#site-category-video-streaming>) | [📄](<site-category/site-category-video-streaming.md>) | [🔗](<undefined>)
 
 No description
 
